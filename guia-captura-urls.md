@@ -76,6 +76,77 @@ ffprobe -v quiet -print_format json -show_streams "URL_DO_STREAM"
 
 ---
 
+## Captura de URLs no iOS (iPhone/iPad)
+
+### Metodo 1: App Stream Detector (Recomendado)
+1. Baixar **Web Inspector** ou **Achilles** na App Store
+2. Ativar o proxy local do app
+3. Ir em **Ajustes > Wi-Fi > (sua rede) > Configurar Proxy > Manual**
+4. Colocar IP `127.0.0.1` e a porta do app (ex: `8888`)
+5. Abrir o site de streaming no Safari
+6. Reproduzir o video
+7. Voltar ao app e filtrar por `.m3u8` ou `.mpd`
+8. Copiar a URL capturada
+
+### Metodo 2: Safari Web Inspector (com Mac)
+1. No iPhone: **Ajustes > Safari > Avancado > Web Inspector** (ativar)
+2. Conectar o iPhone ao Mac via cabo USB
+3. No Mac: abrir **Safari > Desenvolvedor > (nome do iPhone)**
+4. Selecionar a aba do site com o video
+5. Ir na aba **Rede (Network)**
+6. Filtrar por `.m3u8` / `.mpd` / `video`
+7. Reproduzir o video no iPhone
+8. As URLs aparecerao no Safari do Mac
+
+### Metodo 3: Apps de Proxy/Sniffer para iOS
+| App | Descricao | Preco |
+|-----|-----------|-------|
+| **Stream Detector** | Detecta streams HLS automaticamente | Gratis |
+| **Achilles** | Proxy HTTP/HTTPS com inspector | Gratis |
+| **Thor HTTP Sniffer** | Sniffer completo de rede | Pago |
+| **Proxyman** | Proxy com interface moderna | Freemium |
+| **Charles Proxy** (iOS) | Versao mobile do Charles | Pago |
+| **HTTP Catcher** | Captura requisicoes HTTP/HTTPS | Pago |
+
+### Metodo 4: Atalhos do iOS (Shortcuts)
+1. Criar um **Atalho** que use a acao "Obter conteudo da URL"
+2. Combinar com "Obter URLs do Texto" para extrair links de stream
+3. Exemplo de fluxo:
+   - Entrada: URL da pagina
+   - Acao: Obter conteudo da pagina
+   - Acao: Corresponder texto (regex: `https?://[^\s"']+\.m3u8[^\s"']*`)
+   - Acao: Copiar para area de transferencia
+
+### Metodo 5: a]Shortcut (app Atalhos) + yt-dlp via iSH/a-Shell
+1. Instalar **iSH** (emulador Linux) ou **a-Shell** na App Store
+2. No terminal do iSH:
+   ```bash
+   apk add python3 py3-pip
+   pip install yt-dlp
+   yt-dlp -g "URL_DO_VIDEO"
+   ```
+3. No a-Shell:
+   ```bash
+   pip install yt-dlp
+   yt-dlp -g "URL_DO_VIDEO"
+   ```
+4. A URL direta do stream sera exibida no terminal
+
+### Metodo 6: VLC para iOS
+1. Baixar **VLC** na App Store
+2. Abrir VLC > **Fluxo de Rede**
+3. Colar a URL da pagina do video
+4. Se o VLC reproduzir, o stream e compativel com IPTV
+5. Para capturar a URL real: usar o metodo do Safari Web Inspector enquanto o VLC reproduz
+
+### Dicas especificas para iOS:
+- **Certificado SSL:** Apps de proxy precisam instalar um certificado em Ajustes > Geral > Perfis para interceptar HTTPS
+- **VPN conflito:** Desativar VPN ao usar apps de proxy (usam a mesma funcionalidade)
+- **Rede local:** Funciona melhor em Wi-Fi (nao em dados moveis)
+- **Apps de streaming:** Muitos apps usam DRM (Widevine/FairPlay) - essas URLs nao funcionarao em players IPTV
+
+---
+
 ## Formatos de Stream Comuns
 
 | Formato | Extensao | Descricao |
