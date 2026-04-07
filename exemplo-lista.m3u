@@ -1,0 +1,36 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+
+# ========== ANIME - ACAO ==========
+#EXTINF:-1 tvg-id="anime.action.1" tvg-name="Naruto Shippuden" tvg-logo="https://cdn.myanimelist.net/images/anime/1565/111305.jpg" group-title="Anime - Acao",Naruto Shippuden
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+URL_DO_STREAM_AQUI
+
+#EXTINF:-1 tvg-id="anime.action.2" tvg-name="Dragon Ball Super" tvg-logo="https://cdn.myanimelist.net/images/anime/7/74606.jpg" group-title="Anime - Acao",Dragon Ball Super
+URL_DO_STREAM_AQUI
+
+#EXTINF:-1 tvg-id="anime.action.3" tvg-name="One Piece" tvg-logo="https://cdn.myanimelist.net/images/anime/6/73245.jpg" group-title="Anime - Acao",One Piece
+URL_DO_STREAM_AQUI
+
+# ========== ANIME - AVENTURA ==========
+#EXTINF:-1 tvg-id="anime.aventura.1" tvg-name="Hunter x Hunter" tvg-logo="https://cdn.myanimelist.net/images/anime/1337/99013.jpg" group-title="Anime - Aventura",Hunter x Hunter
+URL_DO_STREAM_AQUI
+
+#EXTINF:-1 tvg-id="anime.aventura.2" tvg-name="Jujutsu Kaisen" tvg-logo="https://cdn.myanimelist.net/images/anime/1171/109222.jpg" group-title="Anime - Aventura",Jujutsu Kaisen
+URL_DO_STREAM_AQUI
+
+# ========== ANIME - COMEDIA ==========
+#EXTINF:-1 tvg-id="anime.comedia.1" tvg-name="Spy x Family" tvg-logo="https://cdn.myanimelist.net/images/anime/1441/122795.jpg" group-title="Anime - Comedia",Spy x Family
+URL_DO_STREAM_AQUI
+
+#EXTINF:-1 tvg-id="anime.comedia.2" tvg-name="Konosuba" tvg-logo="https://cdn.myanimelist.net/images/anime/8/77831.jpg" group-title="Anime - Comedia",Konosuba
+URL_DO_STREAM_AQUI
+
+# ========== ANIME - CLASSICOS ==========
+#EXTINF:-1 tvg-id="anime.classico.1" tvg-name="Dragon Ball Z" tvg-logo="https://cdn.myanimelist.net/images/anime/1607/117271.jpg" group-title="Anime - Classicos",Dragon Ball Z
+URL_DO_STREAM_AQUI
+
+#EXTINF:-1 tvg-id="anime.classico.2" tvg-name="Cavaleiros do Zodiaco" tvg-logo="https://cdn.myanimelist.net/images/anime/1527/94032.jpg" group-title="Anime - Classicos",Cavaleiros do Zodiaco
+URL_DO_STREAM_AQUI
+
+#EXTINF:-1 tvg-id="anime.classico.3" tvg-name="Yu Yu Hakusho" tvg-logo="https://cdn.myanimelist.net/images/anime/1381/121265.jpg" group-title="Anime - Classicos",Yu Yu Hakusho
+URL_DO_STREAM_AQUI
