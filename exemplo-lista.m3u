@@ -1,446 +1,100 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# ==================================================
+# Lista IPTV de Anime - URLs Reais de Repositorios Publicos
+# Atualizada: 2026-04-07
+# Fontes: barbosa-a/IPTV, d32k18/iptv, iptv-org, Pluto TV
+# ==================================================
 
 # =============================================
-#          ANIME - ACAO / ACTION
+#     CANAIS 24H - ANIME AO VIVO (Pluto TV)
 # =============================================
-#EXTINF:-1 tvg-id="anime.acao.1" tvg-name="Naruto Shippuden" tvg-logo="https://cdn.myanimelist.net/images/anime/1565/111305.jpg" group-title="Acao",Naruto Shippuden
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-URL_DO_STREAM_AQUI
 
-#EXTINF:-1 tvg-id="anime.acao.2" tvg-name="Dragon Ball Super" tvg-logo="https://cdn.myanimelist.net/images/anime/7/74606.jpg" group-title="Acao",Dragon Ball Super
-URL_DO_STREAM_AQUI
+#EXTINF:-1 tvg-id="pluto.anime" tvg-name="Pluto TV Anime 24h" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG-1599153408949.png" group-title="Canais 24H - Anime",Pluto TV Anime 24h
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="anime.acao.3" tvg-name="One Piece" tvg-logo="https://cdn.myanimelist.net/images/anime/6/73245.jpg" group-title="Acao",One Piece
-URL_DO_STREAM_AQUI
+#EXTINF:-1 tvg-id="pluto.onepiece" tvg-name="One Piece 24h" tvg-logo="https://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="Canais 24H - Anime",One Piece 24h
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="anime.acao.4" tvg-name="Bleach: Thousand-Year Blood War" tvg-logo="https://cdn.myanimelist.net/images/anime/1908/135431.jpg" group-title="Acao",Bleach: Thousand-Year Blood War
-URL_DO_STREAM_AQUI
+#EXTINF:-1 tvg-id="pluto.naruto" tvg-name="Naruto 24h" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="Canais 24H - Anime",Naruto 24h
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="anime.acao.5" tvg-name="Demon Slayer (Kimetsu no Yaiba)" tvg-logo="https://cdn.myanimelist.net/images/anime/1286/99889.jpg" group-title="Acao",Demon Slayer
-URL_DO_STREAM_AQUI
+#EXTINF:-1 tvg-id="pluto.naruto.shippuden" tvg-name="Naruto Shippuden 24h" tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" group-title="Canais 24H - Anime",Naruto Shippuden 24h
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c92f965580090008084968/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="anime.acao.6" tvg-name="Jujutsu Kaisen" tvg-logo="https://cdn.myanimelist.net/images/anime/1171/109222.jpg" group-title="Acao",Jujutsu Kaisen
-URL_DO_STREAM_AQUI
+#EXTINF:-1 tvg-id="pluto.deathnote" tvg-name="Death Note 24h" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/solidLogoPNG.png" group-title="Canais 24H - Anime",Death Note 24h
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="anime.acao.7" tvg-name="My Hero Academia (Boku no Hero)" tvg-logo="https://cdn.myanimelist.net/images/anime/10/78745.jpg" group-title="Acao",My Hero Academia
-URL_DO_STREAM_AQUI
+#EXTINF:-1 tvg-id="pluto.tsubasa" tvg-name="Captain Tsubasa 24h" tvg-logo="https://images.pluto.tv/channels/646663b01593940008990a57/colorLogoPNG.png" group-title="Canais 24H - Anime",Captain Tsubasa 24h
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a57/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="anime.acao.8" tvg-name="Attack on Titan (Shingeki no Kyojin)" tvg-logo="https://cdn.myanimelist.net/images/anime/10/47347.jpg" group-title="Acao",Attack on Titan
-URL_DO_STREAM_AQUI
+#EXTINF:-1 tvg-id="pluto.beyblade" tvg-name="Beyblade 24h" tvg-logo="https://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="Canais 24H - Anime",Beyblade 24h
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="anime.acao.9" tvg-name="Black Clover" tvg-logo="https://cdn.myanimelist.net/images/anime/2/88336.jpg" group-title="Acao",Black Clover
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.acao.10" tvg-name="Fire Force (Enen no Shouboutai)" tvg-logo="https://cdn.myanimelist.net/images/anime/1286/104138.jpg" group-title="Acao",Fire Force
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.acao.11" tvg-name="Chainsaw Man" tvg-logo="https://cdn.myanimelist.net/images/anime/1806/126216.jpg" group-title="Acao",Chainsaw Man
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.acao.12" tvg-name="Mob Psycho 100" tvg-logo="https://cdn.myanimelist.net/images/anime/8/80356.jpg" group-title="Acao",Mob Psycho 100
-URL_DO_STREAM_AQUI
+#EXTINF:-1 tvg-id="pluto.tokusatsu" tvg-name="Tokusatsu 24h" tvg-logo="https://imgur.com/Athwean.png" group-title="Canais 24H - Anime",Tokusatsu 24h
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d46f0-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8619d5a-ac5a-4804-8d5e-84812ad7686b&userId=&serverSideAds=true
 
 # =============================================
-#          ANIME - AVENTURA / ADVENTURE
+#     CANAIS ANIME - STREAMS INDEPENDENTES
 # =============================================
-#EXTINF:-1 tvg-id="anime.aventura.1" tvg-name="Hunter x Hunter (2011)" tvg-logo="https://cdn.myanimelist.net/images/anime/1337/99013.jpg" group-title="Aventura",Hunter x Hunter (2011)
-URL_DO_STREAM_AQUI
 
-#EXTINF:-1 tvg-id="anime.aventura.2" tvg-name="Fullmetal Alchemist: Brotherhood" tvg-logo="https://cdn.myanimelist.net/images/anime/1223/96541.jpg" group-title="Aventura",Fullmetal Alchemist: Brotherhood
-URL_DO_STREAM_AQUI
+#EXTINF:-1 tvg-id="otaku.sign" tvg-name="Otaku Sign TV" tvg-logo="https://i0.wp.com/otakudvd.com/wp-content/uploads/2021/02/otakulogo-e1625667755127.png" group-title="Canais Anime - Live",Otaku Sign TV
+https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
 
-#EXTINF:-1 tvg-id="anime.aventura.3" tvg-name="Made in Abyss" tvg-logo="https://cdn.myanimelist.net/images/anime/6/86733.jpg" group-title="Aventura",Made in Abyss
-URL_DO_STREAM_AQUI
+#EXTINF:-1 tvg-id="animes.tv" tvg-name="Animes TV" tvg-logo="https://imgur.com/K4IrU99.png" group-title="Canais Anime - Live",Animes TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="anime.aventura.4" tvg-name="Mushoku Tensei" tvg-logo="https://cdn.myanimelist.net/images/anime/1530/117776.jpg" group-title="Aventura",Mushoku Tensei
-URL_DO_STREAM_AQUI
+#EXTINF:-1 tvg-id="hallo.anime" tvg-name="Hallo Anime HD" tvg-logo="https://i.imgur.com/2HaiovZ.png" group-title="Canais Anime - Live",Hallo Anime HD
+https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
 
-#EXTINF:-1 tvg-id="anime.aventura.5" tvg-name="Dr. Stone" tvg-logo="https://cdn.myanimelist.net/images/anime/1613/102179.jpg" group-title="Aventura",Dr. Stone
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.aventura.6" tvg-name="Frieren: Beyond Journey's End" tvg-logo="https://cdn.myanimelist.net/images/anime/1015/138006.jpg" group-title="Aventura",Frieren
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.aventura.7" tvg-name="Vinland Saga" tvg-logo="https://cdn.myanimelist.net/images/anime/1500/103005.jpg" group-title="Aventura",Vinland Saga
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.aventura.8" tvg-name="The Rising of the Shield Hero" tvg-logo="https://cdn.myanimelist.net/images/anime/1490/101365.jpg" group-title="Aventura",Shield Hero
-URL_DO_STREAM_AQUI
+#EXTINF:-1 tvg-id="animax" tvg-name="Animax" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais Anime - Live",Animax
+https://stream.ichibantv.com:3547/hybrid/play.m3u8
 
 # =============================================
-#          ANIME - COMEDIA / COMEDY
+#     CANAIS INFANTIS (Cartoon / Anime)
 # =============================================
-#EXTINF:-1 tvg-id="anime.comedia.1" tvg-name="Spy x Family" tvg-logo="https://cdn.myanimelist.net/images/anime/1441/122795.jpg" group-title="Comedia",Spy x Family
-URL_DO_STREAM_AQUI
 
-#EXTINF:-1 tvg-id="anime.comedia.2" tvg-name="Konosuba" tvg-logo="https://cdn.myanimelist.net/images/anime/8/77831.jpg" group-title="Comedia",Konosuba
-URL_DO_STREAM_AQUI
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network FHD" tvg-logo="http://images.gbound.lat/logos/eDR5nSJt_o.png" group-title="Infantil / Cartoon",Cartoon Network FHD
+http://labxs.xyz:80/527510458/313500411/2474574.m3u8
 
-#EXTINF:-1 tvg-id="anime.comedia.3" tvg-name="One Punch Man" tvg-logo="https://cdn.myanimelist.net/images/anime/12/76049.jpg" group-title="Comedia",One Punch Man
-URL_DO_STREAM_AQUI
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://images.gbound.lat/logos/eDR5nSJt_o.png" group-title="Infantil / Cartoon",Cartoon Network HD
+http://labxs.xyz:80/527510458/313500411/2474556.m3u8
 
-#EXTINF:-1 tvg-id="anime.comedia.4" tvg-name="Gintama" tvg-logo="https://cdn.myanimelist.net/images/anime/10/73274.jpg" group-title="Comedia",Gintama
-URL_DO_STREAM_AQUI
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network SD" tvg-logo="http://images.gbound.lat/logos/eDR5nSJt_o.png" group-title="Infantil / Cartoon",Cartoon Network SD
+http://labxs.xyz:80/527510458/313500411/2474557.m3u8
 
-#EXTINF:-1 tvg-id="anime.comedia.5" tvg-name="Kaguya-sama: Love is War" tvg-logo="https://cdn.myanimelist.net/images/anime/1295/106551.jpg" group-title="Comedia",Kaguya-sama: Love is War
-URL_DO_STREAM_AQUI
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito FHD" tvg-logo="http://images.gbound.lat/logos/M5t2la1T_o.png" group-title="Infantil / Cartoon",Cartoonito FHD
+http://labxs.xyz:80/527510458/313500411/2474575.m3u8
 
-#EXTINF:-1 tvg-id="anime.comedia.6" tvg-name="Grand Blue Dreaming" tvg-logo="https://cdn.myanimelist.net/images/anime/1300/93586.jpg" group-title="Comedia",Grand Blue
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.comedia.7" tvg-name="Saiki Kusuo no Psi-nan" tvg-logo="https://cdn.myanimelist.net/images/anime/1804/93852.jpg" group-title="Comedia",Saiki K
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.comedia.8" tvg-name="Nichijou" tvg-logo="https://cdn.myanimelist.net/images/anime/3/75617.jpg" group-title="Comedia",Nichijou
-URL_DO_STREAM_AQUI
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito HD" tvg-logo="http://images.gbound.lat/logos/M5t2la1T_o.png" group-title="Infantil / Cartoon",Cartoonito HD
+http://labxs.xyz:80/527510458/313500411/2474558.m3u8
 
 # =============================================
-#          ANIME - ROMANCE
+#     PLUTO TV - NARUTO / ANIME (BR)
 # =============================================
-#EXTINF:-1 tvg-id="anime.romance.1" tvg-name="Your Name (Kimi no Na wa)" tvg-logo="https://cdn.myanimelist.net/images/anime/5/87048.jpg" group-title="Romance",Your Name
-URL_DO_STREAM_AQUI
 
-#EXTINF:-1 tvg-id="anime.romance.2" tvg-name="Toradora!" tvg-logo="https://cdn.myanimelist.net/images/anime/5/22894.jpg" group-title="Romance",Toradora!
-URL_DO_STREAM_AQUI
+#EXTINF:-1 tvg-id="pluto.naruto.br" tvg-name="Pluto TV Naruto BR" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="Pluto TV - Anime BR",Pluto TV Naruto BR
+http://labxs.xyz:80/527510458/313500411/3787722.m3u8
 
-#EXTINF:-1 tvg-id="anime.romance.3" tvg-name="Horimiya" tvg-logo="https://cdn.myanimelist.net/images/anime/1695/111486.jpg" group-title="Romance",Horimiya
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.romance.4" tvg-name="Clannad: After Story" tvg-logo="https://cdn.myanimelist.net/images/anime/1299/110774.jpg" group-title="Romance",Clannad: After Story
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.romance.5" tvg-name="My Dress-Up Darling (Sono Bisque Doll)" tvg-logo="https://cdn.myanimelist.net/images/anime/1413/120663.jpg" group-title="Romance",My Dress-Up Darling
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.romance.6" tvg-name="Fruits Basket (2019)" tvg-logo="https://cdn.myanimelist.net/images/anime/1447/99827.jpg" group-title="Romance",Fruits Basket
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.romance.7" tvg-name="Rent-a-Girlfriend (Kanojo Okarishimasu)" tvg-logo="https://cdn.myanimelist.net/images/anime/1485/107693.jpg" group-title="Romance",Rent-a-Girlfriend
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.romance.8" tvg-name="Bunny Girl Senpai" tvg-logo="https://cdn.myanimelist.net/images/anime/1301/93586.jpg" group-title="Romance",Bunny Girl Senpai
-URL_DO_STREAM_AQUI
+#EXTINF:-1 tvg-id="pluto.anime.br" tvg-name="Pluto TV Anime BR" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="Pluto TV - Anime BR",Pluto TV Anime BR
+http://labxs.xyz:80/527510458/313500411/3787723.m3u8
 
 # =============================================
-#          ANIME - TERROR / HORROR
+#     FONTES EXTERNAS (Listas Publicas GitHub)
+#     Use estas URLs direto no IPTV Smarters
+#     como playlists adicionais
 # =============================================
-#EXTINF:-1 tvg-id="anime.terror.1" tvg-name="Tokyo Ghoul" tvg-logo="https://cdn.myanimelist.net/images/anime/5/64449.jpg" group-title="Terror",Tokyo Ghoul
-URL_DO_STREAM_AQUI
 
-#EXTINF:-1 tvg-id="anime.terror.2" tvg-name="Parasyte (Kiseijuu)" tvg-logo="https://cdn.myanimelist.net/images/anime/3/73178.jpg" group-title="Terror",Parasyte
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.terror.3" tvg-name="Another" tvg-logo="https://cdn.myanimelist.net/images/anime/4/75509.jpg" group-title="Terror",Another
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.terror.4" tvg-name="Junji Ito Collection" tvg-logo="https://cdn.myanimelist.net/images/anime/1140/93588.jpg" group-title="Terror",Junji Ito Collection
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.terror.5" tvg-name="Higurashi no Naku Koro ni" tvg-logo="https://cdn.myanimelist.net/images/anime/1034/101693.jpg" group-title="Terror",Higurashi
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.terror.6" tvg-name="Shiki" tvg-logo="https://cdn.myanimelist.net/images/anime/5/25879.jpg" group-title="Terror",Shiki
-URL_DO_STREAM_AQUI
-
-# =============================================
-#          ANIME - SUSPENSE / THRILLER
-# =============================================
-#EXTINF:-1 tvg-id="anime.suspense.1" tvg-name="Death Note" tvg-logo="https://cdn.myanimelist.net/images/anime/9/9453.jpg" group-title="Suspense",Death Note
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.suspense.2" tvg-name="Steins;Gate" tvg-logo="https://cdn.myanimelist.net/images/anime/5/73199.jpg" group-title="Suspense",Steins;Gate
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.suspense.3" tvg-name="Psycho-Pass" tvg-logo="https://cdn.myanimelist.net/images/anime/5/43399.jpg" group-title="Suspense",Psycho-Pass
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.suspense.4" tvg-name="Monster" tvg-logo="https://cdn.myanimelist.net/images/anime/10/18793.jpg" group-title="Suspense",Monster
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.suspense.5" tvg-name="The Promised Neverland" tvg-logo="https://cdn.myanimelist.net/images/anime/1830/118780.jpg" group-title="Suspense",The Promised Neverland
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.suspense.6" tvg-name="Erased (Boku dake ga Inai Machi)" tvg-logo="https://cdn.myanimelist.net/images/anime/10/77957.jpg" group-title="Suspense",Erased
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.suspense.7" tvg-name="Code Geass" tvg-logo="https://cdn.myanimelist.net/images/anime/5/50331.jpg" group-title="Suspense",Code Geass
-URL_DO_STREAM_AQUI
-
-# =============================================
-#          ANIME - FICCAO CIENTIFICA / SCI-FI
-# =============================================
-#EXTINF:-1 tvg-id="anime.scifi.1" tvg-name="Neon Genesis Evangelion" tvg-logo="https://cdn.myanimelist.net/images/anime/1314/108941.jpg" group-title="Ficcao Cientifica",Neon Genesis Evangelion
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.scifi.2" tvg-name="Cowboy Bebop" tvg-logo="https://cdn.myanimelist.net/images/anime/4/19644.jpg" group-title="Ficcao Cientifica",Cowboy Bebop
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.scifi.3" tvg-name="Ghost in the Shell: SAC" tvg-logo="https://cdn.myanimelist.net/images/anime/6/30804.jpg" group-title="Ficcao Cientifica",Ghost in the Shell: SAC
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.scifi.4" tvg-name="Cyberpunk: Edgerunners" tvg-logo="https://cdn.myanimelist.net/images/anime/1818/126435.jpg" group-title="Ficcao Cientifica",Cyberpunk: Edgerunners
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.scifi.5" tvg-name="Trigun Stampede" tvg-logo="https://cdn.myanimelist.net/images/anime/1685/133715.jpg" group-title="Ficcao Cientifica",Trigun Stampede
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.scifi.6" tvg-name="Darling in the FranXX" tvg-logo="https://cdn.myanimelist.net/images/anime/1614/90408.jpg" group-title="Ficcao Cientifica",Darling in the FranXX
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.scifi.7" tvg-name="86 EIGHTY-SIX" tvg-logo="https://cdn.myanimelist.net/images/anime/1987/117507.jpg" group-title="Ficcao Cientifica",86 EIGHTY-SIX
-URL_DO_STREAM_AQUI
-
-# =============================================
-#          ANIME - FANTASIA / FANTASY
-# =============================================
-#EXTINF:-1 tvg-id="anime.fantasia.1" tvg-name="Sword Art Online" tvg-logo="https://cdn.myanimelist.net/images/anime/11/39717.jpg" group-title="Fantasia",Sword Art Online
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.fantasia.2" tvg-name="Re:Zero" tvg-logo="https://cdn.myanimelist.net/images/anime/1522/128039.jpg" group-title="Fantasia",Re:Zero
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.fantasia.3" tvg-name="That Time I Got Reincarnated as a Slime" tvg-logo="https://cdn.myanimelist.net/images/anime/1694/93337.jpg" group-title="Fantasia",Tensura (Slime)
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.fantasia.4" tvg-name="Overlord" tvg-logo="https://cdn.myanimelist.net/images/anime/7/88019.jpg" group-title="Fantasia",Overlord
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.fantasia.5" tvg-name="No Game No Life" tvg-logo="https://cdn.myanimelist.net/images/anime/1074/111944.jpg" group-title="Fantasia",No Game No Life
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.fantasia.6" tvg-name="Fairy Tail" tvg-logo="https://cdn.myanimelist.net/images/anime/5/18179.jpg" group-title="Fantasia",Fairy Tail
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.fantasia.7" tvg-name="The Seven Deadly Sins" tvg-logo="https://cdn.myanimelist.net/images/anime/8/65409.jpg" group-title="Fantasia",The Seven Deadly Sins
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.fantasia.8" tvg-name="Danmachi" tvg-logo="https://cdn.myanimelist.net/images/anime/1441/93563.jpg" group-title="Fantasia",Danmachi
-URL_DO_STREAM_AQUI
-
-# =============================================
-#          ANIME - ESPORTE / SPORTS
-# =============================================
-#EXTINF:-1 tvg-id="anime.esporte.1" tvg-name="Haikyuu!!" tvg-logo="https://cdn.myanimelist.net/images/anime/7/76014.jpg" group-title="Esporte",Haikyuu!!
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.esporte.2" tvg-name="Kuroko no Basket" tvg-logo="https://cdn.myanimelist.net/images/anime/11/50453.jpg" group-title="Esporte",Kuroko no Basket
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.esporte.3" tvg-name="Blue Lock" tvg-logo="https://cdn.myanimelist.net/images/anime/1258/126929.jpg" group-title="Esporte",Blue Lock
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.esporte.4" tvg-name="Slam Dunk" tvg-logo="https://cdn.myanimelist.net/images/anime/7/21453.jpg" group-title="Esporte",Slam Dunk
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.esporte.5" tvg-name="Captain Tsubasa" tvg-logo="https://cdn.myanimelist.net/images/anime/1596/93408.jpg" group-title="Esporte",Captain Tsubasa
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.esporte.6" tvg-name="Hajime no Ippo" tvg-logo="https://cdn.myanimelist.net/images/anime/10/75353.jpg" group-title="Esporte",Hajime no Ippo
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.esporte.7" tvg-name="Yuri on Ice" tvg-logo="https://cdn.myanimelist.net/images/anime/5/82432.jpg" group-title="Esporte",Yuri on Ice
-URL_DO_STREAM_AQUI
-
-# =============================================
-#          ANIME - SLICE OF LIFE
-# =============================================
-#EXTINF:-1 tvg-id="anime.slice.1" tvg-name="Bocchi the Rock!" tvg-logo="https://cdn.myanimelist.net/images/anime/1448/127956.jpg" group-title="Slice of Life",Bocchi the Rock!
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.slice.2" tvg-name="Violet Evergarden" tvg-logo="https://cdn.myanimelist.net/images/anime/1795/95088.jpg" group-title="Slice of Life",Violet Evergarden
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.slice.3" tvg-name="March Comes in Like a Lion" tvg-logo="https://cdn.myanimelist.net/images/anime/6/82898.jpg" group-title="Slice of Life",March Comes in Like a Lion
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.slice.4" tvg-name="Barakamon" tvg-logo="https://cdn.myanimelist.net/images/anime/12/63399.jpg" group-title="Slice of Life",Barakamon
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.slice.5" tvg-name="K-On!" tvg-logo="https://cdn.myanimelist.net/images/anime/10/76120.jpg" group-title="Slice of Life",K-On!
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.slice.6" tvg-name="A Place Further Than the Universe" tvg-logo="https://cdn.myanimelist.net/images/anime/6/89879.jpg" group-title="Slice of Life",Sora Yori mo Tooi Basho
-URL_DO_STREAM_AQUI
-
-# =============================================
-#          ANIME - MECHA
-# =============================================
-#EXTINF:-1 tvg-id="anime.mecha.1" tvg-name="Gurren Lagann" tvg-logo="https://cdn.myanimelist.net/images/anime/4/5123.jpg" group-title="Mecha",Gurren Lagann
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.mecha.2" tvg-name="Mobile Suit Gundam: The Witch from Mercury" tvg-logo="https://cdn.myanimelist.net/images/anime/1250/128095.jpg" group-title="Mecha",Gundam: Witch from Mercury
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.mecha.3" tvg-name="Eureka Seven" tvg-logo="https://cdn.myanimelist.net/images/anime/5/55131.jpg" group-title="Mecha",Eureka Seven
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.mecha.4" tvg-name="Code Geass" tvg-logo="https://cdn.myanimelist.net/images/anime/5/50331.jpg" group-title="Mecha",Code Geass
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.mecha.5" tvg-name="Aldnoah.Zero" tvg-logo="https://cdn.myanimelist.net/images/anime/11/61239.jpg" group-title="Mecha",Aldnoah.Zero
-URL_DO_STREAM_AQUI
-
-# =============================================
-#          ANIME - SOBRENATURAL / SUPERNATURAL
-# =============================================
-#EXTINF:-1 tvg-id="anime.sobrenatural.1" tvg-name="Noragami" tvg-logo="https://cdn.myanimelist.net/images/anime/9/67015.jpg" group-title="Sobrenatural",Noragami
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.sobrenatural.2" tvg-name="Mob Psycho 100" tvg-logo="https://cdn.myanimelist.net/images/anime/8/80356.jpg" group-title="Sobrenatural",Mob Psycho 100
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.sobrenatural.3" tvg-name="Blue Exorcist (Ao no Exorcist)" tvg-logo="https://cdn.myanimelist.net/images/anime/10/75195.jpg" group-title="Sobrenatural",Blue Exorcist
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.sobrenatural.4" tvg-name="Bungo Stray Dogs" tvg-logo="https://cdn.myanimelist.net/images/anime/1079/133529.jpg" group-title="Sobrenatural",Bungo Stray Dogs
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.sobrenatural.5" tvg-name="Natsume Yuujinchou" tvg-logo="https://cdn.myanimelist.net/images/anime/5/84697.jpg" group-title="Sobrenatural",Natsume Yuujinchou
-URL_DO_STREAM_AQUI
-
-# =============================================
-#          ANIME - ISEKAI
-# =============================================
-#EXTINF:-1 tvg-id="anime.isekai.1" tvg-name="Re:Zero" tvg-logo="https://cdn.myanimelist.net/images/anime/1522/128039.jpg" group-title="Isekai",Re:Zero
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.isekai.2" tvg-name="Mushoku Tensei" tvg-logo="https://cdn.myanimelist.net/images/anime/1530/117776.jpg" group-title="Isekai",Mushoku Tensei
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.isekai.3" tvg-name="Overlord" tvg-logo="https://cdn.myanimelist.net/images/anime/7/88019.jpg" group-title="Isekai",Overlord
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.isekai.4" tvg-name="That Time I Got Reincarnated as a Slime" tvg-logo="https://cdn.myanimelist.net/images/anime/1694/93337.jpg" group-title="Isekai",Tensura (Slime)
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.isekai.5" tvg-name="The Rising of the Shield Hero" tvg-logo="https://cdn.myanimelist.net/images/anime/1490/101365.jpg" group-title="Isekai",Shield Hero
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.isekai.6" tvg-name="Log Horizon" tvg-logo="https://cdn.myanimelist.net/images/anime/5/84004.jpg" group-title="Isekai",Log Horizon
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.isekai.7" tvg-name="Konosuba" tvg-logo="https://cdn.myanimelist.net/images/anime/8/77831.jpg" group-title="Isekai",Konosuba
-URL_DO_STREAM_AQUI
-
-# =============================================
-#          ANIME - SEINEN (ADULTO)
-# =============================================
-#EXTINF:-1 tvg-id="anime.seinen.1" tvg-name="Berserk (1997)" tvg-logo="https://cdn.myanimelist.net/images/anime/1384/119889.jpg" group-title="Seinen",Berserk
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.seinen.2" tvg-name="Vinland Saga" tvg-logo="https://cdn.myanimelist.net/images/anime/1500/103005.jpg" group-title="Seinen",Vinland Saga
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.seinen.3" tvg-name="Monster" tvg-logo="https://cdn.myanimelist.net/images/anime/10/18793.jpg" group-title="Seinen",Monster
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.seinen.4" tvg-name="Vagabond (Manga - sem anime)" tvg-logo="https://cdn.myanimelist.net/images/anime/1384/119889.jpg" group-title="Seinen",Vagabond
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.seinen.5" tvg-name="Hellsing Ultimate" tvg-logo="https://cdn.myanimelist.net/images/anime/6/7296.jpg" group-title="Seinen",Hellsing Ultimate
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.seinen.6" tvg-name="Kingdom" tvg-logo="https://cdn.myanimelist.net/images/anime/1935/127426.jpg" group-title="Seinen",Kingdom
-URL_DO_STREAM_AQUI
-
-# =============================================
-#          ANIME - SHOUJO
-# =============================================
-#EXTINF:-1 tvg-id="anime.shoujo.1" tvg-name="Sailor Moon Crystal" tvg-logo="https://cdn.myanimelist.net/images/anime/9/57667.jpg" group-title="Shoujo",Sailor Moon Crystal
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.shoujo.2" tvg-name="Cardcaptor Sakura" tvg-logo="https://cdn.myanimelist.net/images/anime/9/19766.jpg" group-title="Shoujo",Cardcaptor Sakura
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.shoujo.3" tvg-name="Fruits Basket (2019)" tvg-logo="https://cdn.myanimelist.net/images/anime/1447/99827.jpg" group-title="Shoujo",Fruits Basket
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.shoujo.4" tvg-name="Ouran High School Host Club" tvg-logo="https://cdn.myanimelist.net/images/anime/1531/117645.jpg" group-title="Shoujo",Ouran Host Club
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.shoujo.5" tvg-name="Nana" tvg-logo="https://cdn.myanimelist.net/images/anime/1697/119697.jpg" group-title="Shoujo",Nana
-URL_DO_STREAM_AQUI
-
-# =============================================
-#          ANIME - CLASSICOS / CLASSICS
-# =============================================
-#EXTINF:-1 tvg-id="anime.classico.1" tvg-name="Dragon Ball Z" tvg-logo="https://cdn.myanimelist.net/images/anime/1607/117271.jpg" group-title="Classicos",Dragon Ball Z
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.classico.2" tvg-name="Cavaleiros do Zodiaco (Saint Seiya)" tvg-logo="https://cdn.myanimelist.net/images/anime/1527/94032.jpg" group-title="Classicos",Cavaleiros do Zodiaco
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.classico.3" tvg-name="Yu Yu Hakusho" tvg-logo="https://cdn.myanimelist.net/images/anime/1381/121265.jpg" group-title="Classicos",Yu Yu Hakusho
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.classico.4" tvg-name="Rurouni Kenshin (Samurai X)" tvg-logo="https://cdn.myanimelist.net/images/anime/1126/135075.jpg" group-title="Classicos",Samurai X
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.classico.5" tvg-name="Inuyasha" tvg-logo="https://cdn.myanimelist.net/images/anime/1565/111305.jpg" group-title="Classicos",Inuyasha
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.classico.6" tvg-name="Naruto (Classico)" tvg-logo="https://cdn.myanimelist.net/images/anime/13/17405.jpg" group-title="Classicos",Naruto Classico
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.classico.7" tvg-name="Cowboy Bebop" tvg-logo="https://cdn.myanimelist.net/images/anime/4/19644.jpg" group-title="Classicos",Cowboy Bebop
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.classico.8" tvg-name="Neon Genesis Evangelion" tvg-logo="https://cdn.myanimelist.net/images/anime/1314/108941.jpg" group-title="Classicos",Neon Genesis Evangelion
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.classico.9" tvg-name="Akira" tvg-logo="https://cdn.myanimelist.net/images/anime/1148/93740.jpg" group-title="Classicos",Akira
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.classico.10" tvg-name="Digimon Adventure" tvg-logo="https://cdn.myanimelist.net/images/anime/12/17498.jpg" group-title="Classicos",Digimon Adventure
-URL_DO_STREAM_AQUI
-
-# =============================================
-#          ANIME - MUSICAL
-# =============================================
-#EXTINF:-1 tvg-id="anime.musical.1" tvg-name="K-On!" tvg-logo="https://cdn.myanimelist.net/images/anime/10/76120.jpg" group-title="Musical",K-On!
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.musical.2" tvg-name="Bocchi the Rock!" tvg-logo="https://cdn.myanimelist.net/images/anime/1448/127956.jpg" group-title="Musical",Bocchi the Rock!
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.musical.3" tvg-name="Your Lie in April (Shigatsu)" tvg-logo="https://cdn.myanimelist.net/images/anime/3/67177.jpg" group-title="Musical",Your Lie in April
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.musical.4" tvg-name="Given" tvg-logo="https://cdn.myanimelist.net/images/anime/1234/100323.jpg" group-title="Musical",Given
-URL_DO_STREAM_AQUI
-
-# =============================================
-#          ANIME - MILITAR / HISTORICO
-# =============================================
-#EXTINF:-1 tvg-id="anime.militar.1" tvg-name="Vinland Saga" tvg-logo="https://cdn.myanimelist.net/images/anime/1500/103005.jpg" group-title="Militar / Historico",Vinland Saga
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.militar.2" tvg-name="Kingdom" tvg-logo="https://cdn.myanimelist.net/images/anime/1935/127426.jpg" group-title="Militar / Historico",Kingdom
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.militar.3" tvg-name="Golden Kamuy" tvg-logo="https://cdn.myanimelist.net/images/anime/1520/100457.jpg" group-title="Militar / Historico",Golden Kamuy
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.militar.4" tvg-name="Saga of Tanya the Evil" tvg-logo="https://cdn.myanimelist.net/images/anime/5/83384.jpg" group-title="Militar / Historico",Saga of Tanya the Evil
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.militar.5" tvg-name="Legend of the Galactic Heroes" tvg-logo="https://cdn.myanimelist.net/images/anime/13/13225.jpg" group-title="Militar / Historico",Legend of the Galactic Heroes
-URL_DO_STREAM_AQUI
-
-# =============================================
-#          ANIME - MISTERIO / MYSTERY
-# =============================================
-#EXTINF:-1 tvg-id="anime.misterio.1" tvg-name="Detective Conan" tvg-logo="https://cdn.myanimelist.net/images/anime/7/75199.jpg" group-title="Misterio",Detective Conan
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.misterio.2" tvg-name="Odd Taxi" tvg-logo="https://cdn.myanimelist.net/images/anime/1981/113348.jpg" group-title="Misterio",Odd Taxi
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.misterio.3" tvg-name="Hyouka" tvg-logo="https://cdn.myanimelist.net/images/anime/13/50521.jpg" group-title="Misterio",Hyouka
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.misterio.4" tvg-name="Gosick" tvg-logo="https://cdn.myanimelist.net/images/anime/1768/95766.jpg" group-title="Misterio",Gosick
-URL_DO_STREAM_AQUI
-
-#EXTINF:-1 tvg-id="anime.misterio.5" tvg-name="ID: Invaded" tvg-logo="https://cdn.myanimelist.net/images/anime/1880/104553.jpg" group-title="Misterio",ID: Invaded
-URL_DO_STREAM_AQUI
+# barbosa-a/IPTV - Lista BR com anime:
+# https://raw.githubusercontent.com/barbosa-a/IPTV/main/anime.m3u8
+#
+# iptv-org - Categoria Animacao (mundial):
+# https://iptv-org.github.io/iptv/categories/animation.m3u
+#
+# iptv-org - Canais do Japao:
+# https://iptv-org.github.io/iptv/languages/jpn.m3u
+#
+# iptv-org - Canais do Brasil:
+# https://iptv-org.github.io/iptv/languages/por.m3u
+#
+# iptv-org - Lista completa (10000+ canais):
+# https://iptv-org.github.io/iptv/index.m3u
