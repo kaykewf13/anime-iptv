@@ -1,0 +1,100 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# ==================================================
+# Lista IPTV de Anime - URLs Reais de Repositorios Publicos
+# Atualizada: 2026-04-07
+# Fontes: barbosa-a/IPTV, d32k18/iptv, iptv-org, Pluto TV
+# ==================================================
+
+# =============================================
+#     CANAIS 24H - ANIME AO VIVO (Pluto TV)
+# =============================================
+
+#EXTINF:-1 tvg-id="pluto.anime" tvg-name="Pluto TV Anime 24h" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG-1599153408949.png" group-title="Canais 24H - Anime",Pluto TV Anime 24h
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="pluto.onepiece" tvg-name="One Piece 24h" tvg-logo="https://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="Canais 24H - Anime",One Piece 24h
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="pluto.naruto" tvg-name="Naruto 24h" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="Canais 24H - Anime",Naruto 24h
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="pluto.naruto.shippuden" tvg-name="Naruto Shippuden 24h" tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" group-title="Canais 24H - Anime",Naruto Shippuden 24h
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c92f965580090008084968/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="pluto.deathnote" tvg-name="Death Note 24h" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/solidLogoPNG.png" group-title="Canais 24H - Anime",Death Note 24h
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="pluto.tsubasa" tvg-name="Captain Tsubasa 24h" tvg-logo="https://images.pluto.tv/channels/646663b01593940008990a57/colorLogoPNG.png" group-title="Canais 24H - Anime",Captain Tsubasa 24h
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a57/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="pluto.beyblade" tvg-name="Beyblade 24h" tvg-logo="https://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="Canais 24H - Anime",Beyblade 24h
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="pluto.tokusatsu" tvg-name="Tokusatsu 24h" tvg-logo="https://imgur.com/Athwean.png" group-title="Canais 24H - Anime",Tokusatsu 24h
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d46f0-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8619d5a-ac5a-4804-8d5e-84812ad7686b&userId=&serverSideAds=true
+
+# =============================================
+#     CANAIS ANIME - STREAMS INDEPENDENTES
+# =============================================
+
+#EXTINF:-1 tvg-id="otaku.sign" tvg-name="Otaku Sign TV" tvg-logo="https://i0.wp.com/otakudvd.com/wp-content/uploads/2021/02/otakulogo-e1625667755127.png" group-title="Canais Anime - Live",Otaku Sign TV
+https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
+
+#EXTINF:-1 tvg-id="animes.tv" tvg-name="Animes TV" tvg-logo="https://imgur.com/K4IrU99.png" group-title="Canais Anime - Live",Animes TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hallo.anime" tvg-name="Hallo Anime HD" tvg-logo="https://i.imgur.com/2HaiovZ.png" group-title="Canais Anime - Live",Hallo Anime HD
+https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
+
+#EXTINF:-1 tvg-id="animax" tvg-name="Animax" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais Anime - Live",Animax
+https://stream.ichibantv.com:3547/hybrid/play.m3u8
+
+# =============================================
+#     CANAIS INFANTIS (Cartoon / Anime)
+# =============================================
+
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network FHD" tvg-logo="http://images.gbound.lat/logos/eDR5nSJt_o.png" group-title="Infantil / Cartoon",Cartoon Network FHD
+http://labxs.xyz:80/527510458/313500411/2474574.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://images.gbound.lat/logos/eDR5nSJt_o.png" group-title="Infantil / Cartoon",Cartoon Network HD
+http://labxs.xyz:80/527510458/313500411/2474556.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network SD" tvg-logo="http://images.gbound.lat/logos/eDR5nSJt_o.png" group-title="Infantil / Cartoon",Cartoon Network SD
+http://labxs.xyz:80/527510458/313500411/2474557.m3u8
+
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito FHD" tvg-logo="http://images.gbound.lat/logos/M5t2la1T_o.png" group-title="Infantil / Cartoon",Cartoonito FHD
+http://labxs.xyz:80/527510458/313500411/2474575.m3u8
+
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito HD" tvg-logo="http://images.gbound.lat/logos/M5t2la1T_o.png" group-title="Infantil / Cartoon",Cartoonito HD
+http://labxs.xyz:80/527510458/313500411/2474558.m3u8
+
+# =============================================
+#     PLUTO TV - NARUTO / ANIME (BR)
+# =============================================
+
+#EXTINF:-1 tvg-id="pluto.naruto.br" tvg-name="Pluto TV Naruto BR" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="Pluto TV - Anime BR",Pluto TV Naruto BR
+http://labxs.xyz:80/527510458/313500411/3787722.m3u8
+
+#EXTINF:-1 tvg-id="pluto.anime.br" tvg-name="Pluto TV Anime BR" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="Pluto TV - Anime BR",Pluto TV Anime BR
+http://labxs.xyz:80/527510458/313500411/3787723.m3u8
+
+# =============================================
+#     FONTES EXTERNAS (Listas Publicas GitHub)
+#     Use estas URLs direto no IPTV Smarters
+#     como playlists adicionais
+# =============================================
+
+# barbosa-a/IPTV - Lista BR com anime:
+# https://raw.githubusercontent.com/barbosa-a/IPTV/main/anime.m3u8
+#
+# iptv-org - Categoria Animacao (mundial):
+# https://iptv-org.github.io/iptv/categories/animation.m3u
+#
+# iptv-org - Canais do Japao:
+# https://iptv-org.github.io/iptv/languages/jpn.m3u
+#
+# iptv-org - Canais do Brasil:
+# https://iptv-org.github.io/iptv/languages/por.m3u
+#
+# iptv-org - Lista completa (10000+ canais):
+# https://iptv-org.github.io/iptv/index.m3u
