@@ -1,0 +1,21 @@
+# Update Anime Workflow
+
+name: Update Anime
+
+on:
+  schedule:
+    # Schedule the workflow to run everyday at 15:31 UTC
+    - cron: '31 15 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v2
+
+    - name: Update Anime
+      run: |
+        echo "Updating anime..."
+        # Add your update commands here
