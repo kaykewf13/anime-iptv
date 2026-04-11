@@ -40,11 +40,14 @@ jobs:
       - name: Create data directory
         run: mkdir -p data
 
+      - name: Create data directory
+        run: mkdir -p data
+
       - name: Download anime database
         run: |
           curl -fL \
-            https://github.com/manami-project/anime-offline-database/releases/latest/download/anime-offline-database.json \
-            -o data/anime-offline-database.json
+            https://sourceforge.net/projects/anime-offline-database.mirror/files/2026-11/anime-offline-database-minified.json/download \
+            -o data/anime-offline-database-minified.json
 
       - name: Verify downloaded file
         run: |
@@ -53,7 +56,7 @@ jobs:
           from pathlib import Path
           import json
 
-          p = Path("data/anime-offline-database.json")
+          p = Path("data/anime-offline-database-minified.json")
           print("Existe?", p.exists())
           print("Tamanho:", p.stat().st_size if p.exists() else 0)
 
