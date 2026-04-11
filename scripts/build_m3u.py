@@ -1,13 +1,10 @@
 from pathlib import Path
 
-# Diretório de saída
 OUTPUT_DIR = Path("output")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-# Arquivo de saída
 OUTPUT_FILE = OUTPUT_DIR / "anime_channels.m3u"
 
-# Lista de canais públicos e legais
 channels = [
     {
         "name": "Pluto TV Anime",
@@ -23,12 +20,10 @@ channels = [
     }
 ]
 
-# Cabeçalho da playlist
 lines = [
     '#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"'
 ]
 
-# Construção da playlist
 for ch in channels:
     extinf = (
         f'#EXTINF:-1 '
@@ -40,11 +35,9 @@ for ch in channels:
     lines.append(extinf)
     lines.append(ch["url"])
 
-# Escrita do arquivo
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     f.write("\n".join(lines) + "\n")
 
-# Logs informativos
-print("✅ Playlist M3U gerada com sucesso!")
+print("✅ Playlist M3U de animes gerada com sucesso!")
 print(f"📄 Arquivo: {OUTPUT_FILE.resolve()}")
 print(f"📺 Total de canais: {len(channels)}")
