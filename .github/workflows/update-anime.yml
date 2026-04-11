@@ -24,6 +24,15 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Show repository structure
+        run: |
+          pwd
+          ls -lah
+          echo "----- scripts -----"
+          ls -lah scripts || true
+          echo "----- docs -----"
+          ls -lah docs || true
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
@@ -43,16 +52,41 @@ jobs:
           ls -lah data
           python - <<'PY'
           from pathlib import Path
+          import json
+
           p = Path("data/anime-offline-database.json")
           print("Existe?", p.exists())
           print("Tamanho:", p.stat().st_size if p.exists() else 0)
+
+          if p.exists():
+              with open(p, "r", encoding="utf-8") as f:
+                  raw = json.load(f)
+              print("Chaves do JSON:", list(raw.keys())[:10])
+              print("Qtd em data:", len(raw.get("data", [])))
           PY
 
-      - name: Build catalog, playlist and pages
+      - name: Run build_catalog.py
+        run: python scripts/build_catalog.py
+
+      - name: Check output after catalog
         run: |
-          python scripts/build_catalog.py
-          python scripts/build_m3u.py
-          python scripts/build_pages.py
+          echo "----- output -----"
+          ls -lah output || true
+          echo "----- output/categories -----"
+          ls -lah output/categories || true
+
+      - name: Run build_m3u.py
+        run: python scripts/build_m3u.py
+
+      - name: Run build_pages.py
+        run: python scripts/build_pages.py
+
+      - name: Check final files
+        run: |
+          echo "----- output -----"
+          ls -lah output || true
+          echo "----- docs -----"
+          ls -lah docs || true
 
       - name: Commit and push generated files
         run: |
