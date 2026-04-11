@@ -1,13 +1,41 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Categoria</title>
-  <link rel="stylesheet" href="assets/style.css">
+  <link rel="stylesheet" href="assets/style.css" />
 </head>
 <body>
-  <h1 id="title"></h1>
-  <ul id="anime-list"></ul>
+  <header class="hero hero--small">
+    <div class="hero__content">
+      <a class="back-link" href="./">← Voltar</a>
+      <p class="eyebrow">Categoria</p>
+      <h1 id="categoryTitle">Carregando...</h1>
+      <p id="categoryMeta" class="hero__text"></p>
+      <div class="hero__actions">
+        <a id="categoryJsonLink" class="button" href="#" target="_blank" rel="noopener noreferrer">📂 Abrir JSON</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="panel">
+      <div class="panel__header">
+        <h2>Títulos</h2>
+        <div class="filters">
+          <input type="search" id="animeSearch" placeholder="Buscar anime..." />
+          <select id="typeFilter">
+            <option value="">Todos os tipos</option>
+          </select>
+          <select id="yearFilter">
+            <option value="">Todos os anos</option>
+          </select>
+        </div>
+      </div>
+      <div id="animeGrid" class="grid"></div>
+    </section>
+  </main>
 
   <script src="assets/app.js"></script>
 </body>
