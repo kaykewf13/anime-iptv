@@ -20,16 +20,39 @@ for file in sorted(categories_path.glob("*.json")):
     with open(file, "r", encoding="utf-8") as f:
         items = json.load(f)
 
+    top_items = items[:12]
+
     categories.append({
+        "slug": file.stem,
         "name": file.stem.replace("_", " ").title(),
         "count": len(items),
-        "file": f"../output/categories/{file.name}"
+        "file": f"https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/categories/{file.name}",
+        "page": f"category.html?slug={file.stem}",
+        "sample": top_items
     })
+
+recent = sorted(
+    [item for item in catalog if item.get("year")],
+    key=lambda x: x.get("year", 0),
+    reverse=True
+)[:24]
+
+types_count = {}
+for item in catalog:
+    anime_type = item.get("type") or "Unknown"
+    types_count[anime_type] = types_count.get(anime_type, 0) + 1
 
 manifest = {
     "total_animes": len(catalog),
     "total_categories": len(categories),
-    "categories": categories
+    "categories": categories,
+    "recent": recent,
+    "types": types_count,
+    "links": {
+        "anime_m3u": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/anime_channels.m3u",
+        "series_m3u": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/series_channels.m3u",
+        "catalog_json": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/anime_catalog.json"
+    }
 }
 
 manifest_path.parent.mkdir(parents=True, exist_ok=True)
