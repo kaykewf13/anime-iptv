@@ -1,32 +1,89 @@
-- name: Create data directory
-  run: mkdir -p data
+name: Update Anime
 
-- name: Download anime database
-  run: |
-    curl -fL \
-      https://github.com/manami-project/anime-offline-database/releases/download/2026-05/anime-offline-database.json \
-      -o data/anime-offline-database.json
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 */12 * * *"
 
-- name: Verify downloaded file
-  run: |
-    ls -lah data
-    python - <<'PY'
-    from pathlib import Path
-    import json
+permissions:
+  contents: write
 
-    p = Path("data/anime-offline-database.json")
-    print("Existe?", p.exists())
-    print("Tamanho:", p.stat().st_size if p.exists() else 0)
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-    if not p.exists():
-        raise FileNotFoundError("Arquivo não foi baixado")
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    if p.stat().st_size < 1000:
-        raise ValueError("Arquivo baixado é pequeno demais e provavelmente inválido")
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
-    with open(p, "r", encoding="utf-8") as f:
-        raw = json.load(f)
+      - name: Show repository structure
+        run: |
+          pwd
+          ls -lah
+          echo "----- scripts -----"
+          ls -lah scripts || true
+          echo "----- docs -----"
+          ls -lah docs || true
 
-    print("Chaves do JSON:", list(raw.keys())[:10])
-    print("Qtd em data:", len(raw.get("data", [])))
-    PY
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Create data directory
+        run: mkdir -p data
+
+      - name: Download anime database
+        run: |
+          curl -fL \
+            https://github.com/manami-project/anime-offline-database/releases/download/2026-05/anime-offline-database.json \
+            -o data/anime-offline-database.json
+
+      - name: Verify downloaded file
+        run: |
+          ls -lah data
+          python - <<'PY'
+          from pathlib import Path
+          import json
+
+          p = Path("data/anime-offline-database.json")
+          print("Existe?", p.exists())
+          print("Tamanho:", p.stat().st_size if p.exists() else 0)
+
+          if not p.exists():
+              raise FileNotFoundError("Arquivo não foi baixado")
+
+          if p.stat().st_size < 1000:
+              raise ValueError("Arquivo baixado é pequeno demais e provavelmente inválido")
+
+          with open(p, "r", encoding="utf-8") as f:
+              raw = json.load(f)
+
+          print("Chaves do JSON:", list(raw.keys())[:10])
+          print("Qtd em data:", len(raw.get("data", [])))
+          PY
+
+      - name: Run build_catalog.py
+        run: python scripts/build_catalog.py
+
+      - name: Run build_m3u.py
+        run: python scripts/build_m3u.py
+
+      - name: Run build_pages.py
+        run: python scripts/build_pages.py
+
+      - name: Commit and push generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data output docs
+          git diff --cached --quiet || git commit -m "chore: update anime catalog"
+          git push
