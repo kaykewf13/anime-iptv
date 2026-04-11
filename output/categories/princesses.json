@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Go! Princess Precure",
+    "episodes": 50,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "action",
+      "amnesia",
+      "boarding school",
+      "cgi",
+      "coastal",
+      "comedy",
+      "coming of age",
+      "drama",
+      "episodic",
+      "fairy",
+      "family friendly",
+      "fantasy",
+      "female protagonist",
+      "henshin",
+      "japanese production",
+      "kids",
+      "magic",
+      "magical girl",
+      "mahou shoujo",
+      "monster-of-the-week",
+      "ojou-sama",
+      "primarily child cast",
+      "primarily female cast",
+      "princesses",
+      "school",
+      "school life",
+      "sentai",
+      "shoujo",
+      "slice of life",
+      "superhero",
+      "superheroes",
+      "tokusatsu",
+      "urban fantasy"
+    ],
+    "year": 2015,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/88625.jpg"
+  },
+  {
+    "title": "Go! Princess Pretty Cure the Movie Go! Go!! Gorgeous Triple Feature!!!",
+    "episodes": 1,
+    "type": "MOVIE",
+    "status": "FINISHED",
+    "tags": [
+      "magical girl",
+      "princesses"
+    ],
+    "year": 2015,
+    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A17361-2707348779.1437327582.jpg"
+  }
+]
