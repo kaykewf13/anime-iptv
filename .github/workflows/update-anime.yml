@@ -37,14 +37,13 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-
       - name: Create data directory
         run: mkdir -p data
 
       - name: Download anime database
         run: |
           curl -fL \
-            https://github.com/manami-project/anime-offline-database/releases/download/2026-05/anime-offline-database.json \
+            https://github.com/manami-project/anime-offline-database/releases/latest/download/anime-offline-database.json \
             -o data/anime-offline-database.json
 
       - name: Verify downloaded file
