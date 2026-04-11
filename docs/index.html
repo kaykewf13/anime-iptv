@@ -1,14 +1,47 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Anime IPTV</title>
+  <link rel="stylesheet" href="assets/style.css" />
 </head>
-<body style="font-family: Arial; background:#0d1117; color:white; text-align:center;">
-  <h1>🎎 Anime IPTV</h1>
-  <p>Seu catálogo de animes está online.</p>
-  <a href="https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/anime_channels.m3u">
-    📺 Baixar Playlist IPTV
-  </a>
+<body>
+  <header class="hero">
+    <div class="hero__content">
+      <p class="eyebrow">Catálogo + IPTV + GitHub Pages</p>
+      <h1>🎎 Anime IPTV</h1>
+      <p class="hero__text">
+        Explore categorias de anime, acesse a playlist M3U de animes e a visão separada de séries.
+      </p>
+
+      <div class="hero__actions">
+        <a id="animeM3uLink" class="button" href="#" target="_blank" rel="noopener noreferrer">📺 Playlist Anime</a>
+        <a id="seriesM3uLink" class="button button--ghost" href="#" target="_blank" rel="noopener noreferrer">🎬 Playlist Séries</a>
+        <a id="catalogLink" class="button button--ghost" href="#" target="_blank" rel="noopener noreferrer">📊 Catálogo JSON</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="stats" id="stats"></section>
+
+    <section class="panel">
+      <div class="panel__header">
+        <h2>Categorias</h2>
+        <input type="search" id="categorySearch" placeholder="Buscar categoria..." />
+      </div>
+      <div id="categoriesGrid" class="grid"></div>
+    </section>
+
+    <section class="panel">
+      <div class="panel__header">
+        <h2>Animes recentes</h2>
+      </div>
+      <div id="recentGrid" class="grid grid--small"></div>
+    </section>
+  </main>
+
+  <script src="assets/app.js"></script>
 </body>
 </html>
