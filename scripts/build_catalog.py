@@ -2,7 +2,7 @@ import json
 from collections import defaultdict
 from pathlib import Path
 
-INPUT = Path("data/anime.json")
+INPUT = Path("data/anime-offline-database.json")
 OUTPUT = Path("output")
 CATEGORIES_DIR = OUTPUT / "categories"
 
