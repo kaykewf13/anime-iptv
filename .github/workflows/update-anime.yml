@@ -42,11 +42,10 @@ jobs:
         run: mkdir -p data
 
       - name: Download anime database
-        run: |
-          curl -L \
-            https://github.com/manami-project/anime-offline-database/releases/latest/download/anime-offline-database.json \
-            -o data/anime-offline-database.json
-
+  run: |
+    curl -fL \
+      https://github.com/manami-project/anime-offline-database/releases/download/2026-05/anime-offline-database.json \
+      -o data/anime-offline-database.json
       - name: Verify downloaded file
         run: |
           ls -lah data
