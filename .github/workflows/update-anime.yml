@@ -1,4 +1,31 @@
+name: Update Anime
+
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 */12 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests pandas pyyaml
+
+      - name: Run scripts
+        run: |
+          python scripts/build_catalog.py
+          python scripts/build_m3u.py
+          python scripts/build_pages.py
