@@ -50,14 +50,11 @@ manifest = {
     "recent": recent,
     "types": types_count,
     "links": {
-        "anime_m3u": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/anime_channels.m3u",
-        "series_m3u": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/series_channels.m3u",
-        "catalog_json": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/anime_catalog.json",
-        "categories_base": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/categories/",
-        "categories_m3u_base": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/m3u/"
-    }
+    "anime_m3u": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/anime_channels.m3u",
+    "series_m3u": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/series_channels.m3u",
+    "master_m3u": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/master_playlist.m3u",
+    "catalog_json": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/anime_catalog.json"
 }
-
 manifest_path.parent.mkdir(parents=True, exist_ok=True)
 
 with open(manifest_path, "w", encoding="utf-8") as f:
