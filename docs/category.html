@@ -7,35 +7,57 @@
   <link rel="stylesheet" href="assets/style.css" />
 </head>
 <body>
-  <header class="hero hero--small">
-    <div class="hero__content">
+  <header class="hero hero--category">
+    <div class="hero__overlay"></div>
+    <div class="hero__content container">
       <a class="back-link" href="./">← Voltar</a>
       <p class="eyebrow">Categoria</p>
       <h1 id="categoryTitle">Carregando...</h1>
       <p id="categoryMeta" class="hero__text"></p>
 
       <div class="hero__actions">
-        <a id="categoryJsonLink" class="button button--ghost" href="#" target="_blank">
+        <a id="categoryJsonLink" class="button button--ghost" href="#" target="_blank" rel="noopener noreferrer">
           📂 Abrir JSON
         </a>
-
-        <a id="categoryIptvLink" class="button" href="#" target="_blank">
-          📺 Assistir via IPTV
+        <a id="categoryIptvLink" class="button" href="#" target="_blank" rel="noopener noreferrer">
+          ▶ Assistir via IPTV
         </a>
-
-        <a id="masterM3uLink" class="button button--ghost" href="#" target="_blank">
-          📡 Playlist Mestra IPTV
+        <a id="masterM3uLink" class="button button--ghost" href="#" target="_blank" rel="noopener noreferrer">
+          📡 Playlist Mestra
         </a>
       </div>
     </div>
   </header>
 
-  <main class="container">
-    <section class="panel">
+  <main class="container page-spacing">
+    <section class="panel player-panel hidden" id="playerPanel">
       <div class="panel__header">
-        <h2>Títulos</h2>
-        <div class="filters">
-          <input type="search" id="animeSearch" placeholder="Buscar anime..." />
+        <div>
+          <p class="section-kicker">Player</p>
+          <h2>Reprodução</h2>
+        </div>
+        <button id="closePlayerBtn" class="button button--ghost button--small" type="button">
+          Fechar
+        </button>
+      </div>
+
+      <div id="playerInfo" class="player-info"></div>
+
+      <div class="player-wrap">
+        <video id="videoPlayer" class="video-player hidden" controls playsinline></video>
+        <iframe id="iframePlayer" class="iframe-player hidden" allowfullscreen></iframe>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="panel__header panel__header--stack">
+        <div>
+          <p class="section-kicker">Biblioteca</p>
+          <h2>Títulos da categoria</h2>
+        </div>
+
+        <div class="filters filters--search">
+          <input type="search" id="animeSearch" placeholder="Buscar anime por nome..." />
           <select id="typeFilter">
             <option value="">Todos os tipos</option>
           </select>
@@ -44,6 +66,11 @@
           </select>
         </div>
       </div>
+
+      <div class="results-bar">
+        <span id="resultsCount">0 resultados</span>
+      </div>
+
       <div id="animeGrid" class="grid"></div>
     </section>
   </main>
