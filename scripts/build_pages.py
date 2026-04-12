@@ -20,15 +20,16 @@ for file in sorted(categories_path.glob("*.json")):
     with open(file, "r", encoding="utf-8") as f:
         items = json.load(f)
 
-    top_items = items[:12]
+    slug = file.stem
 
     categories.append({
-        "slug": file.stem,
-        "name": file.stem.replace("_", " ").title(),
+        "slug": slug,
+        "name": slug.replace("_", " ").title(),
         "count": len(items),
         "file": f"https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/categories/{file.name}",
-        "page": f"category.html?slug={file.stem}",
-        "sample": top_items
+        "page": f"category.html?slug={slug}",
+        "iptv": f"https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/m3u/{slug}.m3u",
+        "sample": items[:12]
     })
 
 recent = sorted(
