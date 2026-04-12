@@ -22,8 +22,8 @@ function createCategoryCard(category) {
       <div class="card__meta">${category.count} animes</div>
       <div class="card__actions">
         <a class="card__link" href="${category.page}">Abrir categoria</a>
-        <a class="card__link" href="${category.file}" target="_blank" rel="noopener noreferrer">JSON</a>
-        <a class="card__link" href="${category.iptv}" target="_blank" rel="noopener noreferrer">Assistir via IPTV</a>
+        <a class="card__link" href="${category.file}" target="_blank">JSON</a>
+        <a class="card__link" href="${category.iptv}" target="_blank">IPTV</a>
       </div>
     </article>
   `;
@@ -55,33 +55,19 @@ async function loadHome() {
 
   document.getElementById("animeM3uLink").href = manifest.links.anime_m3u;
   document.getElementById("seriesM3uLink").href = manifest.links.series_m3u;
+  document.getElementById("masterM3uLink").href = manifest.links.master_m3u;
   document.getElementById("catalogLink").href = manifest.links.catalog_json;
 
   document.getElementById("stats").innerHTML = `
     ${createStatCard("Total de animes", manifest.total_animes)}
     ${createStatCard("Total de categorias", manifest.total_categories)}
-    ${createStatCard("Playlist anime", "M3U pronta")}
-    ${createStatCard("Playlist séries", "M3U pronta")}
   `;
 
-  const categoriesGrid = document.getElementById("categoriesGrid");
-  const recentGrid = document.getElementById("recentGrid");
-  const search = document.getElementById("categorySearch");
+  document.getElementById("categoriesGrid").innerHTML =
+    manifest.categories.map(createCategoryCard).join("");
 
-  const renderCategories = (list) => {
-    categoriesGrid.innerHTML = list.map(createCategoryCard).join("");
-  };
-
-  renderCategories(manifest.categories);
-  recentGrid.innerHTML = manifest.recent.map(createAnimeCard).join("");
-
-  search.addEventListener("input", () => {
-    const term = search.value.trim().toLowerCase();
-    const filtered = manifest.categories.filter(category =>
-      category.name.toLowerCase().includes(term)
-    );
-    renderCategories(filtered);
-  });
+  document.getElementById("recentGrid").innerHTML =
+    manifest.recent.map(createAnimeCard).join("");
 }
 
 async function loadCategoryPage() {
@@ -89,57 +75,25 @@ async function loadCategoryPage() {
   if (!slug) return;
 
   const manifest = await fetchJson("./site_manifest.json");
-  const category = manifest.categories.find(item => item.slug === slug);
-
-  if (!category) {
-    document.getElementById("categoryTitle").textContent = "Categoria não encontrada";
-    return;
-  }
+  const category = manifest.categories.find(c => c.slug === slug);
 
   document.getElementById("categoryTitle").textContent = category.name;
-  document.getElementById("categoryMeta").textContent = `${category.count} animes nesta categoria`;
+  document.getElementById("categoryMeta").textContent =
+    `${category.count} animes nesta categoria`;
+
   document.getElementById("categoryJsonLink").href = category.file;
   document.getElementById("categoryIptvLink").href = category.iptv;
+  document.getElementById("masterM3uLink").href = manifest.links.master_m3u;
 
   const items = await fetchJson(category.file);
-
-  const animeGrid = document.getElementById("animeGrid");
-  const animeSearch = document.getElementById("animeSearch");
-  const typeFilter = document.getElementById("typeFilter");
-  const yearFilter = document.getElementById("yearFilter");
-
-  const types = [...new Set(items.map(item => item.type).filter(Boolean))].sort();
-  const years = [...new Set(items.map(item => item.year).filter(Boolean))].sort((a, b) => b - a);
-
-  typeFilter.innerHTML += types.map(type => `<option value="${type}">${type}</option>`).join("");
-  yearFilter.innerHTML += years.map(year => `<option value="${year}">${year}</option>`).join("");
-
-  function render() {
-    const term = animeSearch.value.trim().toLowerCase();
-    const typeValue = typeFilter.value;
-    const yearValue = yearFilter.value;
-
-    const filtered = items.filter(item => {
-      const okTitle = !term || (item.title || "").toLowerCase().includes(term);
-      const okType = !typeValue || item.type === typeValue;
-      const okYear = !yearValue || String(item.year) === yearValue;
-      return okTitle && okType && okYear;
-    });
-
-    animeGrid.innerHTML = filtered.map(createAnimeCard).join("");
-  }
-
-  animeSearch.addEventListener("input", render);
-  typeFilter.addEventListener("change", render);
-  yearFilter.addEventListener("change", render);
-
-  render();
+  document.getElementById("animeGrid").innerHTML =
+    items.map(createAnimeCard).join("");
 }
 
 if (document.getElementById("categoriesGrid")) {
-  loadHome().catch(console.error);
+  loadHome();
 }
 
 if (document.getElementById("animeGrid")) {
-  loadCategoryPage().catch(console.error);
+  loadCategoryPage();
 }
