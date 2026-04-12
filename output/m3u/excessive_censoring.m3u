@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Excessive Censoring
+# Total de animes na categoria: 58
 # Exemplos: Air Gear, Ange Vierge, Asobi ni Iku yo!, Asobi ni Iku yo!: Asobi ni Oide, Astarotte no Omocha!, Big Order (TV), Blood-C, Bokusatsu Tenshi Dokuro-chan, Bokusatsu Tenshi Dokuro-chan 2, Chocotto Sister
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Excessive Censoring",Pluto TV Anime | Excessive Censoring
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

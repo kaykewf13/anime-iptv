@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Saudi Arabian-Japanese Co-Production
+# Total de animes na categoria: 2
 # Exemplos: Asatir: Mirai no Mukashi Banashi, Journey: Taiko Arabia Hantou de no Kiseki to Tatakai no Monogatari
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Saudi Arabian-Japanese Co-Production",Pluto TV Anime | Saudi Arabian-Japanese Co-Production
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

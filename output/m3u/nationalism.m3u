@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Nationalism
+# Total de animes na categoria: 18
 # Exemplos: 86, 86 Part 2, Bakumatsu Kikansetsu Irohanihoheto, Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha, Code Geass: Hangyaku no Lelouch, Eureka Seven AO, Gekijouban Soushuuhen Code Geass: Hangyaku no Lelouch, Helck, Hidamari no Ki, Hortensia Saga
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Nationalism",Pluto TV Anime | Nationalism
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

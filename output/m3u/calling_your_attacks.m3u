@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Calling Your Attacks
+# Total de animes na categoria: 767
 # Exemplos: .hack//Tasogare no Udewa Densetsu, 11eyes, 84 Taekwon V, A-Ko The Versus, A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu., Abenobashi Mahou☆Shoutengai, Accel World, Accel World EX, Ai Tenshi Densetsu Wedding Peach, Air Gear: Kuro no Hane to Nemuri no Mori - Break on the Sky
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Calling Your Attacks",Pluto TV Anime | Calling Your Attacks
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

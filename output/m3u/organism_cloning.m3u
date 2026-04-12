@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Organism Cloning
+# Total de animes na categoria: 16
 # Exemplos: A.I.C.O. Incarnation, Blood+, GANTZ, Gilgamesh, Kanata no Astra, Mahou Senshi Louie, Mirai Robo Daltanias, One Punch Man, Rick and Morty: The Anime, Shinseiki Evangelion
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Organism Cloning",Pluto TV Anime | Organism Cloning
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

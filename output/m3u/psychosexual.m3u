@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Psychosexual
+# Total de animes na categoria: 62
 # Exemplos: Aku no Hana, Aoi Bungaku Series, Bakemonogatari, Beastars, Beastars 2nd Season, Beastars Final Season, Chainsaw Man, Chainsaw Man Movie: Reze-hen, Citrus, Darling in the FranXX
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Psychosexual",Pluto TV Anime | Psychosexual
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

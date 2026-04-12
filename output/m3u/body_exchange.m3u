@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Body Exchange
+# Total de animes na categoria: 51
 # Exemplos: Ai Tenshi Densetsu Wedding Peach DX, Amagami-san Chi no Enmusubi, Amagi Brilliant Park, Beyblade X, Bungou Stray Dogs Wan!, Cardcaptor Sakura, Chou Mashin Eiyuuden Wataru, Cop Craft, Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou, DD Hokuto no Ken 2 Ichigo Aji+
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Body Exchange",Pluto TV Anime | Body Exchange
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Economics
+# Total de animes na categoria: 115
 # Exemplos: 0-saiji Start Dash Monogatari, ACCA: 13-ku Kansatsu-ka, Aggressive Retsuko (ONA) 3rd Season, Akatsuki no Yona, Amagi Brilliant Park, Amagi Brilliant Park: Nonbirishiteiru Hima ga Nai!, Amagi Brilliant Park: Wakuwaku Mini Theater - Rakugaki Backstage, Around 40 Otoko no Isekai Tsuuhan, Arte, Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Economics",Pluto TV Anime | Economics
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

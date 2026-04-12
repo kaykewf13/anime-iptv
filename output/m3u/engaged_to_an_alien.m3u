@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Engaged To An Alien
+# Total de animes na categoria: 13
 # Exemplos: Kemeko Deluxe!, Kyouran Kazoku Nikki, Motto To LOVE-Ru, Onegai☆Teacher, To LOVE-Ru, To LOVE-Ru Darkness, To LOVE-Ru Darkness 2nd, To LOVE-Ru OVA, To Love-Ru: Trouble - Darkness OAD, UFO Princess Valkyrie
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Engaged To An Alien",Pluto TV Anime | Engaged To An Alien
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

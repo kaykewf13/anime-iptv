@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Vampire
+# Total de animes na categoria: 393
 # Exemplos: 29-sai Dokushin Chuuken Boukensha no Nichijou, Adventure Time Season 1, Adventure Time Season 2, Adventure Time Season 3, Adventure Time Season 4, Adventure Time Season 5, Adventure Time Season 6, Adventure Time Season 7, Adventure Time Season 8, Adventure Time Season 9
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Vampire",Pluto TV Anime | Vampire
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

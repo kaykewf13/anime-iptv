@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: London
+# Total de animes na categoria: 63
 # Exemplos: Black Jack 21, Burn the Witch, Burn the Witch #0.8, Carol, Code:Realize - Sousei no Himegimi, D.Gray-man, Dantalian no Shoka, Darker than Black: Kuro no Keiyakusha, Doolie Baenang-Yeohaeng, Eikoku Ikka, Nihon wo Taberu: English Ikka, Shougatsu wo Taberu
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 London",Pluto TV Anime | London
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

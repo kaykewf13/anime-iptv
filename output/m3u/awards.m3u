@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Awards
+# Total de animes na categoria: 196
 # Exemplos: 3-gatsu no Lion 2nd Season, 663114, Ajin, Aldnoah.Zero, Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie, Aru Machi Kado no Monogatari, Azusa, Otetsudai Shimasu!, Bakemono no Ko, Banana Fish, Blood: The Last Vampire
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Awards",Pluto TV Anime | Awards
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

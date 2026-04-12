@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Greek Mythology
+# Total de animes na categoria: 138
 # Exemplos: Aesop's World, Alexander Senki, Aoi Bungaku Series, Appleseed, Appleseed (Movie), Appleseed Alpha, Appleseed Saga Ex Machina, Aquarion Evol, Aries: Shinwa no Seizakyuu, Arion
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Greek Mythology",Pluto TV Anime | Greek Mythology
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

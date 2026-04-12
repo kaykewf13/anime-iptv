@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Social Psychology
+# Total de animes na categoria: 14
 # Exemplos: Frieren: Beyond Journey's End, Isekai Nonbiri Nouka, Jingai Kyoushitsu no Ningengirai Kyoushi, Journal with Witch, Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru, My Teen Romantic Comedy SNAFU, Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai, Sousou no Frieren, Violet Evergarden, Violet Evergarden
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Social Psychology",Pluto TV Anime | Social Psychology
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

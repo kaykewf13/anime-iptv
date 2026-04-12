@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Butler
+# Total de animes na categoria: 109
 # Exemplos: Animegataris, Bakuon!!, Batman: Gotham Knight, Battle Spirits: Shounen Gekiha Dan, Butlers: Chitose Momotose Monogatari, Can Ci Pin: Fangzhu Xingkong, Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha., Chichibu de Buchichi, Dandy Hitsuji Shitsuji, Delico's Nursery
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Butler",Pluto TV Anime | Butler
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

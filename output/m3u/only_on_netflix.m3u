@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Only On Netflix
+# Total de animes na categoria: 125
 # Exemplos: 7 Seeds, A.I.C.O. Incarnation, Aggressive Retsuko (ONA), Aggressive Retsuko (ONA) 2nd Season, Aggressive Retsuko (ONA) 3rd Season, Aggressive Retsuko (ONA) 4th Season, Aggressive Retsuko (ONA) 5th Season, Aggressive Retsuko: We Wish You a Metal Christmas, Ajin, Ajin Part 2
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Only On Netflix",Pluto TV Anime | Only On Netflix
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

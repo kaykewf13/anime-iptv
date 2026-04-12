@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Undead
+# Total de animes na categoria: 510
 # Exemplos: 100-man-nen Chikyuu no Tabi: Bander Book, A Piece of Phantasmagoria, A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu., Akazukin Chacha, Alexander Senki, Amaenaide yo!!, Amaenaide yo!! Katsu!!, Amefuri Kozou, Angel Heart, Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Undead",Pluto TV Anime | Undead
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

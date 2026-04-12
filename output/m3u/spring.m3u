@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Spring
+# Total de animes na categoria: 196
 # Exemplos: 22/7, Aa! Megami-sama!: Chichaitte Koto wa Benri da ne, Absolute Duo, Acchi Kocchi, Adachi to Shimamura, Aishang Ta de Liyou, Akatsuki no Yona OVA, Akebi-chan no Sailor-fuku, Akiba Meido Sensou, Aku no Hana
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Spring",Pluto TV Anime | Spring
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

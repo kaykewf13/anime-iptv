@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Mutants
+# Total de animes na categoria: 16
 # Exemplos: Ao no 6-gou, Cybersix, Elfen Lied, Elfen Lied, Frankenstein Family, Karneval (TV), Killing Bites, Kyoushoku Soukou Guyver (2005), Mutant Turtles: Choujin Densetsu-hen, Pokemon Movie 01: Mewtwo no Gyakushuu
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Mutants",Pluto TV Anime | Mutants
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Doll
+# Total de animes na categoria: 33
 # Exemplos: 07-Ghost, Amaenaide yo!!, Boukyaku no Senritsu, Darker than Black: Kuro no Keiyakusha, Ghost Hunt, Glass no Usagi, Hengen Taima Yakou Karura Mau! Sendai Kokeshi Enka, Jigoku Sensei Nube, Jinrui wa Suitai Shimashita, Karakuri Zoushi Ayatsuri Sakon
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Doll",Pluto TV Anime | Doll
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

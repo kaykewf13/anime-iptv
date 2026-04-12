@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Skeletons
+# Total de animes na categoria: 17
 # Exemplos: Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu, Gaikotsu Shotenin Honda-san, Gaikotsu Shotenin Honda-san OVA, Hitojichi Koukan feat. Hatsune Miku, Nozomanu Fushi no Boukensha, Overlord, Overlord II, Overlord III, Overlord IV, Overlord Movie 1: Fushisha no Ou
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Skeletons",Pluto TV Anime | Skeletons
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Demon King
+# Total de animes na categoria: 35
 # Exemplos: Cang Lan Jue, Cang Lan Jue 2, Cang Lan Jue Part 2, Hataraku Maou-sama!, Hataraku Maou-sama!!, Hataraku Maou-sama!! 2nd Season, Hataraku Maou-sama!! Recap, Ichiban Ushiro no Daimaou, Isekai Maou to Shoukan Shoujo no Dorei Majutsu, Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Demon King",Pluto TV Anime | Demon King
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

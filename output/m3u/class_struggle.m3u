@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Class Struggle
+# Total de animes na categoria: 123
 # Exemplos: 86, 86 Part 2, Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen, Another World, Ao no Miburo, Ashita no Joe, Ashita no Joe 2, Ashita no Nadja, Attack on Titan: The Final Season - Final Chapters Part 2, Battle Spirits: Brave
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Class Struggle",Pluto TV Anime | Class Struggle
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

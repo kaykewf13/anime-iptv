@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Pirates
+# Total de animes na categoria: 219
 # Exemplos: A Horny Money World: Densetsu no Yoru, A-ra-shi: Reborn, Ahoy!! Warera Houshou Kaizokudan☆, Aikatsu on Parade!, Aikatsu Stars! Hoshi no Tsubasa, Akagami no Shirayuki-hime 2nd Season, Akatsuki no Yona, Amada Anime Series: Super Mario Brothers, Amagi Brilliant Park, Anime One Piece Original Episode / Luffy, Law
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Pirates",Pluto TV Anime | Pirates
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

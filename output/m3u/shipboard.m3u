@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Shipboard
+# Total de animes na categoria: 395
 # Exemplos: 100-man-nen Chikyuu no Tabi: Bander Book, 1000-nen Joou: Queen Millennia, 11-nin Iru!, A-Ko The Versus, A.F, A.LI.CE, Aa! Megami-sama!: Chichaitte Koto wa Benri da ne, Abenobashi Mahou☆Shoutengai, AKB0048, AKB0048: Next Stage
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Shipboard",Pluto TV Anime | Shipboard
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

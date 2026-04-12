@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Based On A Song
+# Total de animes na categoria: 21
 # Exemplos: Ai Zai Xiyuan Qian, Ai Zai Xiyuan Qian 2nd Season, Black★Rock Shooter (OVA), Black★Rock Shooter (TV), Black★★Rock Shooter: Dawn Fall, Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto, Hyper Positive Yogoremon, Kagerou Daze: In a Day's, Kaze no Naka no Shoujo: Kinpatsu no Jeanie, Kinpatsu no Jeanie
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Based On A Song",Pluto TV Anime | Based On A Song
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

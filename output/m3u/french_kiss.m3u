@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: French Kiss
+# Total de animes na categoria: 52
 # Exemplos: AD Police, Akai Hayate, Aki-Sora, B-gata H-kei, Campione! Matsurowanu Kamigami to Kamigoroshi no Maou, Citrus, Devils Line, Dokushin Apartment Dokudami-sou, Fate/kaleid liner Prisma☆Illya, Fate/kaleid liner Prisma☆Illya 2wei Herz!
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 French Kiss",Pluto TV Anime | French Kiss
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

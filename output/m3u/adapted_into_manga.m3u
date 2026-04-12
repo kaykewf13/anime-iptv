@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Adapted Into Manga
+# Total de animes na categoria: 13
 # Exemplos: B Rappers Street, Blood: The Last Vampire, Buta no Liver wa Kanetsu Shiro, Girls & Panzer, Hatara Kids Mai Ham Gumi, Hirune Hime: Shiranai Watashi no Monogatari, Kusuriya no Hitorigoto, Meitou "Isekai no Yu" Kaitakuki: Around 40 Onsen Mania no Tensei Saki wa, Nonbiri Onsen Tengoku deshita, Psycho-Pass, Shinseiki Evangelion
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Adapted Into Manga",Pluto TV Anime | Adapted Into Manga
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

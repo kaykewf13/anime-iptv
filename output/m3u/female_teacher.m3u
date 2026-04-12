@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Female Teacher
+# Total de animes na categoria: 53
 # Exemplos: After... The Animation, Asa made Jugyou Chu!, Battle Programmer Shirase, Bokutachi wa Benkyou ga Dekinai!, Bokutachi wa Benkyou ga Dekinai! Chapel no Kane wa [X] wo Shukufuku Suru, Bokutachi wa Benkyou ga Dekinai: Nagisa ni Usemono Arite Senjin wa Enzen to [X] Suru, Canvas: Sepia-iro no Motif, Colorful, DearS, Domestic na Kanojo
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Female Teacher",Pluto TV Anime | Female Teacher
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

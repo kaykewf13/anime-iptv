@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Dark-Skinned Girl
+# Total de animes na categoria: 158
 # Exemplos: .hack//Sign, 6 Angels, Aa! Megami-sama! Sorezore no Tsubasa, Aa! Megami-sama! Tatakau Tsubasa, Ai Yori Aoshi, Ai Yori Aoshi: Enishi, Air Gear, Aozora Shoujo-tai, Aria the Animation, Asura Cryin'
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Dark-Skinned Girl",Pluto TV Anime | Dark-Skinned Girl
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

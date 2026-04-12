@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Delinquents
+# Total de animes na categoria: 306
 # Exemplos: "Eiji", 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii, A3! Season Autumn & Winter, A3! Season Spring & Summer, Aachi wa Ssipak, Ace wo Nerae!, Ahiru no Sora, Aho Girl, Air Gear, Air Gear Special
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Delinquents",Pluto TV Anime | Delinquents
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

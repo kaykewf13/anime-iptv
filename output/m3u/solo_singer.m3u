@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Solo Singer
+# Total de animes na categoria: 29
 # Exemplos: 8-gatsu no Symphony: Shibuya 2002-2003, Aikatsu on Parade!, Aoyama Goushou Tanpenshuu, Argonavis from BanG Dream!, Dare!?, Date A Live II, Gekijou Tanpen Macross Frontier: Toki no Meikyuu, Guilty Crown, Hakumei to Mikochi, Hoshikuzu Paradise
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Solo Singer",Pluto TV Anime | Solo Singer
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Family Friendly
+# Total de animes na categoria: 4241
 # Exemplos: "Aesop" no Ohanashi yori: Ushi to Kaeru, Yokubatta Inu, "Pokemon Shirt Sizing" Concept Movie, 1-nen 1-kumi, 1-nensei Daikatsuyaku DVD: Mirai no Shougakkou Tanken, 1-ri Botchi no Ookami to 7-hiki no Ko Yagi, 10-piki no Kaeru, 100% Pascal-sensei, 100% Pascal-sensei (TV), 11-gatsu Umare no Otokonoko no Tame ni., 12 Shengxiao Guanjiafu: Wangluo Shijie Lixian
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Family Friendly",Pluto TV Anime | Family Friendly
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

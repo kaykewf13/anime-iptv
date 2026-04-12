@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Child Soldier
+# Total de animes na categoria: 90
 # Exemplos: 86, 86 Part 2, Akatsuki no Yona OVA, Ano Hi, Bokura wa Senjou de: Shounenhei no Kokuhaku, Ao no Miburo, Aoi Blink, Aquarion Evol, Arknights: Rise from Ember, Battle Athletess Daiundoukai, Black Bullet
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Child Soldier",Pluto TV Anime | Child Soldier
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

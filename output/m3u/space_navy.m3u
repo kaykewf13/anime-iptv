@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Space Navy
+# Total de animes na categoria: 25
 # Exemplos: Farewell to Space Battleship Yamato, Gunbuster vs Diebuster Aim for the Top! The GATTAI!! Movie, Kidou Senshi Gundam 0083: Stardust Memory, Kidou Senshi Gundam F91, Kidou Senshi Gundam: Gyakushuu no Char, Kidou Senshi Zeta Gundam, Macross, Mobile Suit Gundam - The Movie Trilogy, Seikai no Monshou, Seikai no Senki
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Space Navy",Pluto TV Anime | Space Navy
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

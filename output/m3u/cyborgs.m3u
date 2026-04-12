@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Cyborgs
+# Total de animes na categoria: 294
 # Exemplos: 009 Re:Cyborg, 009-1, 009-1: R&B, 11-nin Iru!, A.D. Police (TV), Aachi wa Ssipak, Abashiri Ikka, AD Police, Afro Samurai: Resurrection, AI no Idenshi
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Cyborgs",Pluto TV Anime | Cyborgs
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

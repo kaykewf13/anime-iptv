@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Middle School
+# Total de animes na categoria: 308
 # Exemplos: .hack//The Movie: Sekai no Mukou ni, 100-man no Inochi no Ue ni Ore wa Tatteiru, 100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season, 12-sai., 12-sai. Kiss, Kirai, Suki, 3-gatsu no Lion 2nd Season, 4-nin wa Sorezore Uso wo Tsuku, A-Channel, Accel World, Ai Tenshi Densetsu Wedding Peach
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Middle School",Pluto TV Anime | Middle School
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Urban
+# Total de animes na categoria: 1227
 # Exemplos: 15 Step, 16bit Sensation: Another Layer, 2.43: Seiin Koukou Danshi Volley-bu, 3-gatsu no Lion, 3-gatsu no Lion 2nd Season, 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii, 4-nin wa Sorezore Uso wo Tsuku, 5-toubun no Hanayome Movie, 6HP (Six Hearts Princess), 8-gatsu no Symphony: Shibuya 2002-2003
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Urban",Pluto TV Anime | Urban
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

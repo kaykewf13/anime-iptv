@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Boy Meets Girl
+# Total de animes na categoria: 293
 # Exemplos: "Bungaku Shoujo" Memoire, "Bungaku Shoujo" Movie, 3-byougo, Yajuu. Goukon de Sumi ni Ita Kare wa Nikushoku deshita, 3D Kanojo: Real Girl, A Kite, A-Girl, Aa! Megami-sama!, Aa! Megami-sama! (TV), Accel World, Aggressive Retsuko (ONA) 2nd Season
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Boy Meets Girl",Pluto TV Anime | Boy Meets Girl
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

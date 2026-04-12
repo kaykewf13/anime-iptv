@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Politician
+# Total de animes na categoria: 22
 # Exemplos: Generation of Chaos III: Toki no Fuuin, High Card, High Card Season 2, High Card: The Flowers Bloom, Ibuseki Yoruni, Kage no Jitsuryokusha ni Naritakute!, Kage no Jitsuryokusha ni Naritakute! 2nd Season, Kidou Senshi Gundam: GQuuuuuuX, Kusuriya no Hitorigoto, Kusuriya no Hitorigoto 2nd Season
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Politician",Pluto TV Anime | Politician
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

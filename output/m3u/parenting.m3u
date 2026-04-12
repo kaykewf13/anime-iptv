@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Parenting
+# Total de animes na categoria: 111
 # Exemplos: 29-sai Dokushin Chuuken Boukensha no Nichijou, [Oshi no Ko], After... The Animation, Aishiteruze Baby★★, Akachan to Boku, Alice to Zouroku, Alma-chan wa Kazoku ni Naritai, Amaama to Inazuma, Ansatsu Kyoushitsu 2nd Season, Barakamon
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Parenting",Pluto TV Anime | Parenting
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

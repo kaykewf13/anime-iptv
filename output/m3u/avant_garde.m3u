@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Avant Garde
+# Total de animes na categoria: 1112
 # Exemplos: "Parade" de Satie, "Tokyo", #1, (A Long Day of) Mr. Calpaccio, (OO), 00:08, 1001 Nights, 1985, 2005, 2005-nen Uchuu no Tabi
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Avant Garde",Pluto TV Anime | Avant Garde
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

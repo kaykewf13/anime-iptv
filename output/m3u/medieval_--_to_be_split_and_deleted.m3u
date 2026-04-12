@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Medieval -- To Be Split And Deleted
+# Total de animes na categoria: 41
 # Exemplos: Angelique, Baraou no Souretsu, Berserk, Berserk 2nd Season, Berserk: Ougon Jidai Hen, Chain Chronicle (2016), Claymore, Dragon Age: Blood Mage no Seisen, Genjitsu Shugi Yuusha no Oukoku Saikenki, Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Medieval -- To Be Split And Deleted",Pluto TV Anime | Medieval -- To Be Split And Deleted
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Documentary
+# Total de animes na categoria: 9
 # Exemplos: Bokura Mangaka: Tokiwasou Monogatari, Document Taiyou no Kiba Dougram, Eikoku Ikka, Nihon wo Taberu, Kore ga UFO da! Soratobu Enban, Miyamoto Musashi: Souken ni Haseru Yume, Natsufuku no Shoujo-tachi, Nintama Rantarou no Uchuu Daibouken with Cosmic Front☆Next, Otaku no Video, Tatsumi
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Documentary",Pluto TV Anime | Documentary
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

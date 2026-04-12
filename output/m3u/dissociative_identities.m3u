@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Dissociative Identities
+# Total de animes na categoria: 261
 # Exemplos: .hack//Sign, 3x3 Eyes, 3x3 Eyes: Seima Densetsu, Ai Tenshi Densetsu Wedding Peach, Air Gear, Air Gear: Kuro no Hane to Nemuri no Mori - Break on the Sky, Babylon, Back Arrow, Bakemonogatari, Bakugan Battle Brawlers
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Dissociative Identities",Pluto TV Anime | Dissociative Identities
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

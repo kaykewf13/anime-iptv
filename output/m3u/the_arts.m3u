@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: The Arts
+# Total de animes na categoria: 1413
 # Exemplos: "Bungaku Shoujo" Kyou no Oyatsu: Hatsukoi, "Bungaku Shoujo" Memoire, "Bungaku Shoujo" Movie, "hitman" bang: I=Fantasy, 009-1, 10p.m., 12-sai. Kiss, Kirai, Suki, 16bit Sensation: Another Layer, 22/7, 3-nen D-gumi Glass no Kamen
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 The Arts",Pluto TV Anime | The Arts
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Taking Care Of A Child
+# Total de animes na categoria: 6
 # Exemplos: Aishiteruze Baby★★, Beelzebub, Bunny Drop, Gakuen Babysitters, Listen to Me, Girls. I Am Your Father!, Salaryman Kintarou
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Taking Care Of A Child",Pluto TV Anime | Taking Care Of A Child
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

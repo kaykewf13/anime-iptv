@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Journey To The Center Of The Mind
+# Total de animes na categoria: 27
 # Exemplos: Abenobashi Mahou☆Shoutengai, Boku wa Tomodachi ga Sukunai: Yaminabe wa Bishoujo ga Zannen na Nioi, Bye Bye, Earth, Chibi☆Devi!, Digimon Adventure 02, Ginga Tetsudou no Yoru, Hirune Hime: Shiranai Watashi no Monogatari, Jigoku Sensei Nube, Kemono no Souja Erin, Kidou Keisatsu Patlabor: New OVA
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Journey To The Center Of The Mind",Pluto TV Anime | Journey To The Center Of The Mind
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

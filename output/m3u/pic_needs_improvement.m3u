@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Pic Needs Improvement
+# Total de animes na categoria: 42
 # Exemplos: 21-seiki Manga Hajimete Monogatari, 3-tsu no Hanashi, 91 Days, ?/Sankaku no Rhythm/Trump no Arasoi, Ai no Gakkou Cuore Monogatari, Ashita no Eleven-tachi, Awajishima no Shichifukujin, Awake, Captain, Cherry no Manma
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Pic Needs Improvement",Pluto TV Anime | Pic Needs Improvement
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

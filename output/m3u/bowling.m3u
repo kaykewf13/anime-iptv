@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Bowling
+# Total de animes na categoria: 24
 # Exemplos: Ai Zokusei, Bungou to Alchemist: Shinpan no Haguruma, Catman, Chuukan Kanriroku Tonegawa, Cinderella Girls Gekijou: Climax Season, Death Parade, Dokidoki! Precure, Gamers!, gdgd Fairies Movie: tte Iu Eiga wa Dou kana...?, Hajimete no Gal
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Bowling",Pluto TV Anime | Bowling
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

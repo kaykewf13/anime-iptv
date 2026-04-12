@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Season
+# Total de animes na categoria: 598
 # Exemplos: .hack//Quantum, 1+2=Paradise, 22/7, 5-toubun no Hanayome, 5-toubun no Hanayome ∬, _Summer, A-Channel, Aa! Megami-sama! Sorezore no Tsubasa, Aa! Megami-sama!: Chichaitte Koto wa Benri da ne, Absolute Duo
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Season",Pluto TV Anime | Season
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

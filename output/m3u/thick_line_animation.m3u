@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Thick Line Animation
+# Total de animes na categoria: 45
 # Exemplos: Aggressive Retsuko, Aggressive Retsuko (ONA), Aggressive Retsuko (ONA) 2nd Season, Aggressive Retsuko (ONA) 3rd Season, Aggressive Retsuko: We Wish You a Metal Christmas, Anime Kapibara-san, Ashita no Joe, Ashita no Joe (Movie), Attack on Titan OAD, Baja no Studio: Baja no Mita Umi
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Thick Line Animation",Pluto TV Anime | Thick Line Animation
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Gyaru
+# Total de animes na categoria: 122
 # Exemplos: 2.5-jigen no Ririsa, Aggressive Retsuko (ONA) 3rd Season, Aharen-san wa Hakarenai, Aharen-san wa Hakarenai Season 2, Aho Girl, Air Master, Akiba Meido Sensou, Area 88 (TV), Asobi Asobase, AWAKE
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Gyaru",Pluto TV Anime | Gyaru
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

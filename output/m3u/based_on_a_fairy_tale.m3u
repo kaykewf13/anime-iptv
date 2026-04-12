@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Based On A Fairy Tale
+# Total de animes na categoria: 107
 # Exemplos: 1-ri Botchi no Ookami to 7-hiki no Ko Yagi, Aesop Douwa, Ahiru no Ko, Akazukin Chacha, Ali Baba to 40-hiki no Touzoku, Andersen Douwa: Ningyohime, Andersen Monogatari, Anime Art Video Collection: Douwa, Appare! Momotarou no Koutsuu Anzen, Arabian Night: Sindbad no Bouken
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Based On A Fairy Tale",Pluto TV Anime | Based On A Fairy Tale
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

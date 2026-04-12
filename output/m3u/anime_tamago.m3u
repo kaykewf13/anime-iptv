@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Anime Tamago
+# Total de animes na categoria: 59
 # Exemplos: Aki no Kanade, Arve Rezzle: Kikaijikake no Yousei-tachi, Bannou Yasai Ninninman, Bridge: My Little Friends, Buta, Captain Bal, Charanpo Land no Bouken, Chuck Shimezou, Colorful Ninja Iromaki, Death Billiards
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Anime Tamago",Pluto TV Anime | Anime Tamago
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

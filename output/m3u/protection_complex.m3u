@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Protection Complex
+# Total de animes na categoria: 67
 # Exemplos: .hack//Tasogare no Udewa Densetsu, 11eyes, Ao no Exorcist, Ao no Exorcist Movie, Aquarion Evol, Bannou Bunka Neko-Musume, Betterman, Black★Rock Shooter (TV), Bleach, Blood+
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Protection Complex",Pluto TV Anime | Protection Complex
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

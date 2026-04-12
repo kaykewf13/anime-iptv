@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Based On A Religious Text
+# Total de animes na categoria: 9
 # Exemplos: Anime Oyako Gekijou, Butten Monogatari, David gwa Goliath, Kumo ni Noru, My Last Day, Omedetou Jesus-sama, Personal Computer Travel Tanteidan, Tezuka Osamu no Kyuuyaku Seisho Monogatari: In the Beginning, Tondera House no Daibouken
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Based On A Religious Text",Pluto TV Anime | Based On A Religious Text
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

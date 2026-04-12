@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Parkour
+# Total de animes na categoria: 17
 # Exemplos: Air Gear, Bubble, Ensemble Stars!! Road to Show!!, Hirogaru Sky! Precure, Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai, Kamisama no Idenshi, Kekkai Sensen, Kekkai Sensen & Beyond, Ku Pao Yingxiong, Lazarus
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Parkour",Pluto TV Anime | Parkour
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

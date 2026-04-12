@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Body Takeover
+# Total de animes na categoria: 132
 # Exemplos: Akai Hayate, Alien 9, Ankoku Shindenshou Takegami, Ao no Exorcist, Arad Senki: Slap Up Party, Ayashi no Ceres, Bakemonogatari, Barom One, Bastard!! Ankoku no Hakaishin, BASTARD!!: Ankoku no Hakaishin (ONA)
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Body Takeover",Pluto TV Anime | Body Takeover
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

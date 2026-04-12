@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Hulu Original
+# Total de animes na categoria: 15
 # Exemplos: Black★★Rock Shooter: Dawn Fall, Hi no Tori: Eden no Sora, Ishura, Murai no Koi, Sand Land: The Series, Sentai Daishikkaku, Summertime Render, Synduality: Noir, Synduality: Noir Part 2, Tengoku Daimakyou
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Hulu Original",Pluto TV Anime | Hulu Original
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

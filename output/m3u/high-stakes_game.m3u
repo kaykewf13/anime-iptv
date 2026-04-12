@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: High-Stakes Game
+# Total de animes na categoria: 38
 # Exemplos: Btooom!, Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen, Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen, Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen, Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation, Darwin's Game, Deadman Wonderland, Death Billiards, Death Parade, Deatte 5-byou de Battle
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 High-Stakes Game",Pluto TV Anime | High-Stakes Game
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

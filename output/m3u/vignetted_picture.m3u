@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Vignetted Picture
+# Total de animes na categoria: 11
 # Exemplos: Boogiepop wa Warawanai, Dragon Knight 4, Haibane Renmei, Hatsukoi Limited., Ishuzoku Reviewers, Kakuriyo no Yadomeshi, Kimetsu no Yaiba, Kino no Tabi: The Beautiful World, One: Kagayaku Kisetsu e, Versailles no Bara
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Vignetted Picture",Pluto TV Anime | Vignetted Picture
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

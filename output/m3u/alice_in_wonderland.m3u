@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Alice In Wonderland
+# Total de animes na categoria: 25
 # Exemplos: Adventures in Beauty Wonderland, Alice in Dreamland, Alice in Voodooland, Alice in Wonderland, Alice no Kisetsu, Alice SOS, Alice to Zouroku, CLAMP in Wonderland, CLAMP in Wonderland 2, Code Geass: Hangyaku no Lelouch - Nunnally in Wonderland
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Alice In Wonderland",Pluto TV Anime | Alice In Wonderland
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

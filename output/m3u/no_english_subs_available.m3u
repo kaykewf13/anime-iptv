@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: No English Subs Available
+# Total de animes na categoria: 9
 # Exemplos: Aos, Dragon Ball Z: The Real 4-D at Super Tenkaichi Budokai, Dragon Ball Z: Zenbu Misemasu Toshi Wasure Dragon Ball Z!, Dragon Ball: Nihon Ijin Taishou - Saikyou no Ijin wa Dare?, Kyuutai Panic Adventure!, Puchimas!: Petit iDOLM@STER (OVA), Tanoshii Muumin Ikka Bouken Nikki, The Kabocha Wine, The Kabocha Wine: Nita no Aijou Monogatari
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 No English Subs Available",Pluto TV Anime | No English Subs Available
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

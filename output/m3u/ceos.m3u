@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Ceos
+# Total de animes na categoria: 5
 # Exemplos: Eternity: Shinya no Nurekoi Channel ♡, Guomin Laogong Dai Huijia, Kui Cheng Shoufu Cong Youxi Kaishi, Okane ga Nai, Tsuri Baka Nisshi
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Ceos",Pluto TV Anime | Ceos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

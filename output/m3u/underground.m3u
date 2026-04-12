@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Underground
+# Total de animes na categoria: 40
 # Exemplos: A Kite, Aria the Natural, Arifureta Shokugyou de Sekai Saikyou, Arifureta Shokugyou de Sekai Saikyou 2nd Season, Cocolors, Doraemon (1979), Doraemon Movie 08: Nobita to Ryuu no Kishi, Gekijouban Soushuuhen Made in Abyss, Goblin Slayer, Goman-hiki
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Underground",Pluto TV Anime | Underground
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

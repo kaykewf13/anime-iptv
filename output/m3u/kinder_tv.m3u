@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Kinder Tv
+# Total de animes na categoria: 19
 # Exemplos: Anime Kapibara-san, Awajishima no Shichifukujin, ColoColo Animal ABC@Kin Tele, Daifuku-kun@Kin Tele, Daifuku-kun@Kin Tele 2nd Season, Kimoshiba, Konu to Tanoshii Otomodachi, Lalalacoco, Lalalacoco II, Micchiri Wanko! Animation
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Kinder Tv",Pluto TV Anime | Kinder Tv
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

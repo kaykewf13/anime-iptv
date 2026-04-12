@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Early Modern Age
+# Total de animes na categoria: 39
 # Exemplos: Anime Sanjuushi, Anime Sanjuushi: Aramis no Bouken, Arte, Avignon no Hashi de, Boukensha: The Man Was from Spain, Code:Realize - Sousei no Himegimi, Code:Realize - Sousei no Himegimi - Set a Thief to Catch a Thief, Doraemon Movie 19: Nobita no Nankai Daibouken, Ikoku Meiro no Croisée The Animation, Ikoku Meiro no Croisée The Animation: Ongakkai "Récital"
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Early Modern Age",Pluto TV Anime | Early Modern Age
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

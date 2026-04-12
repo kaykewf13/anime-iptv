@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Pacific Ocean
+# Total de animes na categoria: 12
 # Exemplos: Code Geass: Hangyaku no Lelouch R2, Coo: Tooi Umi kara Kita Coo, Gasshin Sentai Mechander Robo, Geobreeders: File-X Chibi Neko Dakkan, Kaitei Choutokkyuu: Marine Express, Koi-ken!: Watashitachi Anime ni Nacchatta!, Little Busters!, Masou Gakuen HxH, Sora yori mo Tooi Basho, Soratobu Yuureisen
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Pacific Ocean",Pluto TV Anime | Pacific Ocean
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

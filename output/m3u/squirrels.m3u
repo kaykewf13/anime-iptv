@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Squirrels
+# Total de animes na categoria: 35
 # Exemplos: au x Rope, Bonobono (TV 2016), Bonobono (TV), Caribadix, Caribadix "Renai Revolution 21" Cover MV, Caribadix 2nd Season, Dalam-iwa Goseumdochi, Grick no Bouken, Inemuri Buu-chan, i☆Ris the Movie: Full Energy!!
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Squirrels",Pluto TV Anime | Squirrels
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

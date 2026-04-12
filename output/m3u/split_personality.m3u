@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Split Personality
+# Total de animes na categoria: 19
 # Exemplos: Ayashi no Ceres, D.N.Angel, Elfen Lied, Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer, Hyakka Ryouran: Samurai Bride, Hyakka Ryouran: Samurai Girls, Kannagi, Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen), Kono Minikuku mo Utsukushii Sekai, Mahoraba: Heartful Days
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Split Personality",Pluto TV Anime | Split Personality
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

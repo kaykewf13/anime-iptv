@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Rural
+# Total de animes na categoria: 564
 # Exemplos: 1/100 Rice Planting, 29-sai Dokushin Chuuken Boukensha no Nichijou, Agukaru, Ai Shoujo Pollyanna Story, Aikatsu! 4, Air, Aitsu to Lullaby: Suiyobi no Cinderella, Akage no Anne, Akebi-chan no Sailor-fuku, Aki no Kanade
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Rural",Pluto TV Anime | Rural
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

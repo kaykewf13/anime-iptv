@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Halloween
+# Total de animes na categoria: 23
 # Exemplos: Blood: The Last Vampire, Brawl Stars: Brawl-O-Ween 2020 Event PV, Cowboy Bebop: Tengoku no Tobira, Disney: Twisted-Wonderland - Scary Monsters! Endless Halloween Night 2021 Event PVs, Disney: Twisted-Wonderland - Scary Monsters! Screaming Halloween Show 2020 Event PV, Entotsu Machi no Poupelle, Go! Princess Precure Movie: Go! Go!! Gouka 3-bondate!!!, Granblue Fantasy The Animation: Kabocha no Lantern, Halloween Pajama, Hetalia: The World Twinkle Extra Disc
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Halloween",Pluto TV Anime | Halloween
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

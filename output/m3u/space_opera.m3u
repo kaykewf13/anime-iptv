@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Space Opera
+# Total de animes na categoria: 254
 # Exemplos: "Uchuu Senkan Yamato" to Iu Jidai: Seireki 2202-nen no Sentaku, 1000-nen Joou: Queen Millennia, 11-nin Iru!, A-Ko The Versus, Advancer Tina, AKB0048, Akuu Daisakusen Srungle, Aldnoah.Zero, Aldnoah.Zero Part 2, Aldnoah.Zero: Ame no Danshou - The Penultimate Truth
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Space Opera",Pluto TV Anime | Space Opera
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

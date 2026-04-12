@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Taiwanese Production
+# Total de animes na categoria: 13
 # Exemplos: Bloody Bunny, Hong Haier: Juezhan Huoyanshan, Hudie Meng: Liang Shan Bo yu Zhu Ying Tai, Jianzhen da Heshang, Jinyu, Kao An, Kyoufu Shinbun (2014), Maji Meow, Mofa Ya Ma, Out of Sight
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Taiwanese Production",Pluto TV Anime | Taiwanese Production
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

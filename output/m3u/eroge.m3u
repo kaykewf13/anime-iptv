@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Eroge
+# Total de animes na categoria: 15
 # Exemplos: Aisai Nikki, Ane Jiru The Animation: Shirakawa Sanshimai ni Omakase, Bust to Bust: Chichi wa Chichi ni, Discipline Zero, Futari no Aniyome, Koe de Oshigoto! The Animation, Magical Canan, Mama Puri!?, Megachu!, Oppai Life
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Eroge",Pluto TV Anime | Eroge
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

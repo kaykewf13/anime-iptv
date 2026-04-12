@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Rome
+# Total de animes na categoria: 9
 # Exemplos: 009-1, Campione! Matsurowanu Kamigami to Kamigoroshi no Maou, JoJo no Kimyou na Bouken (TV), JoJo no Kimyou na Bouken Part 5: Ougon no Kaze, Maria-sama ga Miteru 3rd, Ristorante Paradiso, Strike Witches 2, Thermae Romae, Vassalord.
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Rome",Pluto TV Anime | Rome
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

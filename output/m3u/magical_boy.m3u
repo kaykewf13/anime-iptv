@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Magical Boy
+# Total de animes na categoria: 38
 # Exemplos: Baby Felix, Binan Koukou Chikyuu Bouei-bu Eternal Love!, Binan Koukou Chikyuu Bouei-bu Haikara!, Binan Koukou Chikyuu Bouei-bu Happy Kiss!, Binan Koukou Chikyuu Bouei-bu Love!, Binan Koukou Chikyuu Bouei-bu Love! Love!, Binan Koukou Chikyuu Bouei-bu Love! Love! Love!, Binan Kōkō Chikyū Bōei-bu Haikara!, Chuunen Punk, Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Magical Boy",Pluto TV Anime | Magical Boy
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

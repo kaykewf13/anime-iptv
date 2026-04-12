@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Egypt
+# Total de animes na categoria: 9
 # Exemplos: Cleopatra, JoJo no Kimyou na Bouken, JoJo no Kimyou na Bouken Part 3: Stardust Crusaders, JoJo no Kimyou na Bouken Part 3: Stardust Crusaders - Egypt-hen, Kamigami no Ki, Lupin III: Part II, Miira no Kaikata, Toutotsu ni Egypt Shin, Toutotsu ni Egypt Shin 2
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Egypt",Pluto TV Anime | Egypt
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

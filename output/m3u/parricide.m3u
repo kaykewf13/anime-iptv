@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Parricide
+# Total de animes na categoria: 93
 # Exemplos: 100-man-nen Chikyuu no Tabi: Bander Book, 91 Days, A Kite, Akai Hayate, Akatsuki no Yona, Another, Avenger, Benriya Saitou-san, Isekai ni Iku, Blood+, Boku dake ga Inai Machi
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Parricide",Pluto TV Anime | Parricide
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

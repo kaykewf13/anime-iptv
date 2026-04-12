@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Exorcism
+# Total de animes na categoria: 156
 # Exemplos: 07-Ghost, Amaenaide yo!!, Amaenaide yo!! Katsu!!, Ao no Exorcist, Ao no Exorcist Movie, Ao no Exorcist: Kuro no Iede, Ao no Exorcist: Kyoto Fujouou-hen, Ao no Exorcist: Kyoto Fujouou-hen OVA, Ao no Exorcist: Shimane Illuminati-hen, Ao no Exorcist: Ura Ex
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Exorcism",Pluto TV Anime | Exorcism
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

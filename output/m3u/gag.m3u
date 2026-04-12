@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Gag
+# Total de animes na categoria: 314
 # Exemplos: 3-nen Z-gumi Ginpachi-sensei, 3-nen Z-gumi Ginpachi-sensei Announcement Special, 40-shuunen da yo!! CoroCoro All-Star Shougakkou, Aharen-san wa Hakarenai, Aharen-san wa Hakarenai Season 2, Aho Girl, Animegatari x Koukaku Kidoutai Collab Eizou, Ao Oni The Animation, Arakawa Under the Bridge, Arakawa Under the Bridge x Bridge
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Gag",Pluto TV Anime | Gag
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

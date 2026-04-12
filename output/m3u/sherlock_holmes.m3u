@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Sherlock Holmes
+# Total de animes na categoria: 40
 # Exemplos: Da Zhentan Fuermosi: Tao Yu Da Zhuibu, Doraemon Movie 33: Nobita no Himitsu Dougu Museum, Futari wa Milky Holmes, Hidan no Aria, Hidan no Aria AA, Hyouka, Kabukichou Sherlock, Kabukichou Sherlock OVA, Kyoto Teramachi Sanjou no Holmes, Lupin III vs. Meitantei Conan
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Sherlock Holmes",Pluto TV Anime | Sherlock Holmes
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Dream World
+# Total de animes na categoria: 29
 # Exemplos: 1001 Nights, 18if, Aoi Chou, Crayon Shin-chan Movie 24: Bakusui! Yumemi World Dai Totsugeki, Doby Disy: Meimeng Jingling, Doby Disy: Meimeng Nian Nian, Dream, Dream Hunter Rem, Genshin Impact: Character Teaser - Yumemizuki Mizuki: Dining on a Dish of Dreams, Hirune Hime: Shiranai Watashi no Monogatari
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Dream World",Pluto TV Anime | Dream World
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

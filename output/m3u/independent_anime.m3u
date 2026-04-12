@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Independent Anime
+# Total de animes na categoria: 750
 # Exemplos: 11:08, 12-gatsu no Uta, 27th, 3-tsu no Kumo, A Couple of Times, A Horny Money World: Densetsu no Yoru, A Smart Experiment, A.F, a_caFe, About the Girl
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Independent Anime",Pluto TV Anime | Independent Anime
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

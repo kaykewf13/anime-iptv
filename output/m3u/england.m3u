@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: England
+# Total de animes na categoria: 63
 # Exemplos: Agatha Christie no Meitantei Poirot to Marple, Anime Himitsu no Hanazono, Ashita no Nadja, Baraou no Souretsu, Baraou no Souretsu Recap, Burn the Witch, Burn the Witch #0.8, Christmas Carol, Dantalian no Shoka, Eikoku Koi Monogatari Emma
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 England",Pluto TV Anime | England
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

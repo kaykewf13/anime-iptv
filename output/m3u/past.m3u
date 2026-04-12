@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Past
+# Total de animes na categoria: 1048
 # Exemplos: 100-man-nen Chikyuu no Tabi: Bander Book, 1001 Nights, 16bit Sensation: Another Layer, 91 Days, Aa! Megami-sama! Movie, Abarenbou Rikishi!! Matsutarou, Afro Samurai, Afro Samurai Movie, Afro Samurai: Resurrection, Agatha Christie no Meitantei Poirot to Marple
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Past",Pluto TV Anime | Past
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

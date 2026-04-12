@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Weekly Shounen Sunday
+# Total de animes na categoria: 20
 # Exemplos: Dagashi Kashi, Hayate no Gotoku!!: Atsu ga Natsuize - Mizugi-hen!, InuYasha, Keijo!!!!!!!!, Kenyuu Densetsu Yaiba, Kyoukai no Rinne, Kyoukai no Rinne 3rd Season, Magic Kaito, Magic Kaito 1412, Major 2nd
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Weekly Shounen Sunday",Pluto TV Anime | Weekly Shounen Sunday
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

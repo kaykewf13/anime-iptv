@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Rolling Boulder Trap
+# Total de animes na categoria: 11
 # Exemplos: Aoki Ryuusei SPT Layzner, Chibi☆Devi!, Dash! Yonkurou, Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi, Fullmetal Alchemist, Little Busters! Refrain, Love Get Chu, Puchimas!: Petit iDOLM@STER - Takatsuki Gold Densetsu Special!! Haruka-san Matsuri, Quiz Magic Academy: The Original Animation 2, Strange+
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Rolling Boulder Trap",Pluto TV Anime | Rolling Boulder Trap
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

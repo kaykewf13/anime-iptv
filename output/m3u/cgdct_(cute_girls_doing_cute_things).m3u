@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Cgdct (Cute Girls Doing Cute Things)
+# Total de animes na categoria: 8
 # Exemplos: Food Court de, Mata Ashita., Food for the Soul, Harmony of Mille-Feuille, Mono, Ruri no Houseki, Shuumatsu Train Doko e Iku?, Sorairo Utility (TV), Zatsu Tabi: That's Journey
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Cgdct (Cute Girls Doing Cute Things)",Pluto TV Anime | Cgdct (Cute Girls Doing Cute Things)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

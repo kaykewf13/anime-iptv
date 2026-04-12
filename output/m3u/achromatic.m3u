@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Achromatic
+# Total de animes na categoria: 291
 # Exemplos: "Eiji", 0-sen Hayato, 00:08, 27th, 3-tsu no Hanashi, 7 falls, 8 comebacks, 7 sports, ?/Sankaku no Rhythm/Trump no Arasoi, AEON, Aftermath, Ahiru no Ko
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Achromatic",Pluto TV Anime | Achromatic
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

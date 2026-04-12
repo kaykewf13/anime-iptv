@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Rpg
+# Total de animes na categoria: 220
 # Exemplos: .hack//G.U. Trilogy, .hack//The Movie: Sekai no Mukou ni, Aquarian Age: Saga II - Don't Forget Me..., Ar Tonelico: Sekai no Owari de Utai Tsuzukeru Shoujo, Arad Senki: Slap Up Party, Arc the Lad, Blade & Soul, Blue Dragon, Blue Dragon: Tenkai no Shichi Ryuu, Blue Reflection Ray
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Rpg",Pluto TV Anime | Rpg
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

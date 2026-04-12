@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Slow When It Comes To Love
+# Total de animes na categoria: 388
 # Exemplos: .hack//The Movie: Sekai no Mukou ni, 1+2=Paradise, 100-man no Inochi no Ue ni Ore wa Tatteiru, 100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season, Aa! Megami-sama!, Aa! Megami-sama! (TV), Aa! Megami-sama! Sorezore no Tsubasa, Aa! Megami-sama! Tatakau Tsubasa, Aishiteruze Baby★★, Ajimu: Kaigan Monogatari
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Slow When It Comes To Love",Pluto TV Anime | Slow When It Comes To Love
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

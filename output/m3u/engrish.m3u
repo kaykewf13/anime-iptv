@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Engrish
+# Total de animes na categoria: 351
 # Exemplos: 100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season, 30-sai no Hoken Taiiku, 5-toubun no Hanayome, 6 Angels, A3! Season Spring & Summer, Absolute Duo, Acchi Kocchi, Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari, Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari 2nd, Akkun to Kanojo
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Engrish",Pluto TV Anime | Engrish
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

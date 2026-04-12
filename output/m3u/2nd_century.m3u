@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: 2Nd Century
+# Total de animes na categoria: 8
 # Exemplos: Huo Feng Liao Yuan, Huo Feng Liao Yuan Er, Juuza Engi: Engetsu Sangokuden - Gaiden Youzhou Genya, Sangokushi: Dai Ichi Bu - Eiyuu-tachi no Yoake, Souten Kouro, Thermae Romae, Thermae Romae Novae, Thermae Romae Specials
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 2Nd Century",Pluto TV Anime | 2Nd Century
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

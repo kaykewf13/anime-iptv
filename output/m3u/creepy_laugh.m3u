@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Creepy Laugh
+# Total de animes na categoria: 34
 # Exemplos: Bakuretsu Hunters OVA, Bannou Bunka Neko-Musume (1998), Bastard!! Ankoku no Hakaishin, BASTARD!!: Ankoku no Hakaishin (ONA), Densetsu no Yuusha no Densetsu, Dual! Parallel Lun-Lun Monogatari, Getsumen to Heiki Mina, Happy☆Lesson Advance, Heat Guy J, Hyakka Ryouran: Samurai Girls
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Creepy Laugh",Pluto TV Anime | Creepy Laugh
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

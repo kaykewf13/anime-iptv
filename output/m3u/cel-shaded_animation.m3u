@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Cel-Shaded Animation
+# Total de animes na categoria: 17
 # Exemplos: 009 Re:Cyborg, Aoki Hagane no Arpeggio: Ars Nova, Aoki Hagane no Arpeggio: Ars Nova Movie 2 - Cadenza, Asylum Session, D4DJ First Mix, Find Your One Way, Freedom, Godzilla 1: Kaijuu Wakusei, Gokujou!! Mecha Mote Iinchou, Koi☆Sento
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Cel-Shaded Animation",Pluto TV Anime | Cel-Shaded Animation
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

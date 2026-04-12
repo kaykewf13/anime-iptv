@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Lonely
+# Total de animes na categoria: 24
 # Exemplos: Aoi Bungaku Series, Aoi Hana, Busou Shinki Moon Angel, Chibi☆Devi!, Chirin no Suzu, Clannad: After Story, Haibane Renmei, Hoshi no Umi no Amuri, Je T'aime, Kaze wo Mita Shounen
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Lonely",Pluto TV Anime | Lonely
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Post-Apocalyptic
+# Total de animes na categoria: 667
 # Exemplos: 10-pun de Oitsukeru: Attack on Titan, 1000-nen Joou: Queen Millennia, 15-pun de Oitsukeru: Attack on Titan, 20-pun de Oitsukeru: Attack on Titan, 6 Angels, 6HP (Six Hearts Princess), 7 Seeds, 7 Seeds 2nd Season, 86, A.I.C.O. Incarnation
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Post-Apocalyptic",Pluto TV Anime | Post-Apocalyptic
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

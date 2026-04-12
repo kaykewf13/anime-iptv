@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Surreal Comedy
+# Total de animes na categoria: 713
 # Exemplos: "Parade" de Satie, 100% Pascal-sensei (TV), 15 Step, 3-nen Z-gumi Ginpachi-sensei, 4-nin wa Sorezore Uso wo Tsuku, 5-Okunen Button, Acchi wa Kocchi, Aharen-san wa Hakarenai, Aharen-san wa Hakarenai Season 2, Ai
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Surreal Comedy",Pluto TV Anime | Surreal Comedy
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

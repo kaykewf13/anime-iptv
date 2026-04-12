@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Creature Taming
+# Total de animes na categoria: 90
 # Exemplos: Chiyu Mahou no Machigatta Tsukaikata, Dark Gathering, Digimon Adventure, Doraemon Movie 01: Nobita no Kyouryuu, Doraemon Movie 26: Nobita no Kyouryuu 2006, Doraemon Movie 40: Nobita no Shin Kyouryuu, Dragon Quest: Dai no Daibouken (2020), Hataage! Kemono Michi, Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite, Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Creature Taming",Pluto TV Anime | Creature Taming
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

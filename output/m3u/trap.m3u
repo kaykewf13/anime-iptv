@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Trap
+# Total de animes na categoria: 181
 # Exemplos: 30-sai no Hoken Taiiku, Aishen Qiaokeli-ing..., Akatsuki no Yona, Aki-Sora, Aki-Sora: Yume no Naka, Ansatsu Kyoushitsu, Ansatsu Kyoushitsu 2nd Season, Asa made Jugyou Chu!, Asura Cryin', Baka to Test to Shoukanjuu
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Trap",Pluto TV Anime | Trap
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

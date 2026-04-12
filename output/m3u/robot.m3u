@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Robot
+# Total de animes na categoria: 1157
 # Exemplos: 009-1, 07-Ghost, 30th Gundam Perfect Mission, 6 Angels, 84 Taekwon V, 86, 86 Part 2, A-Ko The Versus, A.D. Police (TV), A.F
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Robot",Pluto TV Anime | Robot
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Violence
+# Total de animes na categoria: 2691
 # Exemplos: .hack//Gift, .hack//Roots, .hack//Sign, 009 Re:Cyborg, 009-1, 100-man no Inochi no Ue ni Ore wa Tatteiru, 100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season, 100-man-nen Chikyuu no Tabi: Bander Book, 1001 Nights, 11-nin Iru!
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Violence",Pluto TV Anime | Violence
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

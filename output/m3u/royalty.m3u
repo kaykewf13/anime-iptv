@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Royalty
+# Total de animes na categoria: 217
 # Exemplos: 1001 Nights, ACCA: 13-ku Kansatsu-ka, Akagami no Shirayuki-hime, Akagami no Shirayuki-hime 2nd Season, Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page, Akatsuki no Yona, Akuyaku Reijou nanode Last Boss wo Kattemimashita, Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru, Alexander Senki, Alexandros no Ketsudan
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Royalty",Pluto TV Anime | Royalty
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

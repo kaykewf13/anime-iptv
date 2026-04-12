@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Underwater Diving
+# Total de animes na categoria: 19
 # Exemplos: Amanchu!, Amanchu! Advance, Azur Lane: Bisoku Zenshin!, B.B. Fish, Cat's♥Eye, Cat's♥Eye 2nd Season, Cobra The Animation, Grand Blue, Josee to Tora to Sakana-tachi, Kimagure Orange☆Road: Shounen Jump Special
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Underwater Diving",Pluto TV Anime | Underwater Diving
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

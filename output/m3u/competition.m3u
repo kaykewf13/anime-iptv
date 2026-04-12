@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Competition
+# Total de animes na categoria: 328
 # Exemplos: 3-gatsu no Lion, 3-gatsu no Lion 2nd Season, 48x61, Aa! Megami-sama!, Aa! Megami-sama! (2011), Accel World, Akatsuki no Yona, Alice Gear Aegis: Doki! Actress Darake no Mermaid Grand Prix♥, Ao no Kanata no Four Rhythm, Aoharu x Kikanjuu
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Competition",Pluto TV Anime | Competition
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

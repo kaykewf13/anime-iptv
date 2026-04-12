@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Konbini
+# Total de animes na categoria: 18
 # Exemplos: Aggressive Retsuko (ONA) 4th Season, Chio-chan no Tsuugakuro, Hige wo Soru. Soshite Joshikousei wo Hirou., Konbini Kareshi, Kyuujitsu no Warumono-san, Miss Monochrome The Animation, Miss Monochrome The Animation 2, NegaPosi Angler, Net-juu no Susume, Platonic Chain
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Konbini",Pluto TV Anime | Konbini
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

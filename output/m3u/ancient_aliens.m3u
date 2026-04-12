@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Ancient Aliens
+# Total de animes na categoria: 69
 # Exemplos: Aoki Ryuusei SPT Layzner, Aoki Ryuusei SPT Layzner OVA, Aquarion Evol, Aquarion Logos, Barom One, Basquash!, Battle Athletess Daiundoukai (TV), Chougattai Majutsu Robot Ginguiser, Cop Craft, Daikuu Maryuu Gaiking
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Ancient Aliens",Pluto TV Anime | Ancient Aliens
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

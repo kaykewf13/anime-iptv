@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Margaret Video Series
+# Total de animes na categoria: 8
 # Exemplos: A-Girl, Bronze: Kouji Nanjo Cathexis, Kiss wa Hitomi ni Shite, Oedo wa Nemurenai!, Oshare Kozou wa Hanamaru, Pops, Singles, Zetsuai 1989
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Margaret Video Series",Pluto TV Anime | Margaret Video Series
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

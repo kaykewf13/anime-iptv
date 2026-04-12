@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Pantyjob
+# Total de animes na categoria: 6
 # Exemplos: A Kite, Ai Shimai 2: Futari no Kajitsu, Ai Shimai: Futari no Kajitsu, Futari Ecchi, Kage (OVA), Okusama ga Seitokaichou!
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Pantyjob",Pluto TV Anime | Pantyjob
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

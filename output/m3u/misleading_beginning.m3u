@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Misleading Beginning
+# Total de animes na categoria: 38
 # Exemplos: [Oshi no Ko], Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen, Asobi Asobase, Boku no Kokoro no Yabai Yatsu, Bungou to Alchemist: Shinpan no Haguruma, Cheating Craft, Chiyu Mahou no Machigatta Tsukaikata, Conception, Coyote Ragtime Show, C³
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Misleading Beginning",Pluto TV Anime | Misleading Beginning
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

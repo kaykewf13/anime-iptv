@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Slice Of Life Drama
+# Total de animes na categoria: 447
 # Exemplos: "Bungaku Shoujo" Memoire, 100-nichikan Ikita Wani, 22/7: 8+3=?, a_caFe, ACCA: 13-ku Kansatsu-ka Specials, Ahiru no Otegara, Ahiru no Pekkle no Ahiru no Drakestail, Ahiru no Pekkle no Minikui Ahiru no Ko, Ai no Kiseki: Doctor Norman Monogatari, Ai no Wakakusa Monogatari
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Slice Of Life Drama",Pluto TV Anime | Slice Of Life Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Ojou-Sama Laugh
+# Total de animes na categoria: 53
 # Exemplos: A-Ko The Versus, Aa! Megami-sama!, Aa! Megami-sama! Sorezore no Tsubasa, Aozora Shoujo-tai, Bakuen Campus Guardress, Ben-To, Bishoujo Senshi Sailor Moon S: Kaguya-hime no Koibito, Bishoujo Yuugekitai Battle Skipper, Cardcaptor Sakura Movie 2: Fuuin Sareta Card, Chicchana Yukitsukai Sugar
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Ojou-Sama Laugh",Pluto TV Anime | Ojou-Sama Laugh
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Child Abuse
+# Total de animes na categoria: 112
 # Exemplos: .hack//Sign, 86, A Kite, Aishiteruze Baby★★, Akatsuki no Yona, Akatsuki no Yona OVA, Alien 9, Ameku Takao no Suiri Karte, Avenger, Bakemonogatari
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Child Abuse",Pluto TV Anime | Child Abuse
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

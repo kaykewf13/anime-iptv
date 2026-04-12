@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Lap Pillow
+# Total de animes na categoria: 18
 # Exemplos: 11eyes, Aa! Megami-sama! (TV), Binbou Shimai Monogatari, Blue Seed, Chibi☆Devi!, Chivas 1-2-3, Hidamari Sketch, Kobayashi ga Kawai sugite Tsurai!!, Mai-HiME, Memories Off
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Lap Pillow",Pluto TV Anime | Lap Pillow
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

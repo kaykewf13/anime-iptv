@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: All-Boys School
+# Total de animes na categoria: 39
 # Exemplos: Binan Koukou Chikyuu Bouei-bu Eternal Love!, Binan Koukou Chikyuu Bouei-bu Haikara!, Binan Koukou Chikyuu Bouei-bu Love!, Binan Koukou Chikyuu Bouei-bu Love! Love!, Cluster Edge, Danshi Koukousei no Nichijou, Doukyuusei, Gakuen Handsome, Gakuen Handsome Special, Gakuen Handsome The Animation
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 All-Boys School",Pluto TV Anime | All-Boys School
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

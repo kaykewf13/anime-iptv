@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Wafuku -- To Be Split And Deleted
+# Total de animes na categoria: 15
 # Exemplos: Bakumatsu no Spasibo, Fuse: Teppou Musume no Torimonochou, Gongitsune, Hyakka Ryouran: Samurai Bride, Hyakka Ryouran: Samurai Girls, Hyouge Mono, Kage (OVA), Kashou no Tsuki: Aki Kyougen, Otogizoushi, Saraiya Goyou
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Wafuku -- To Be Split And Deleted",Pluto TV Anime | Wafuku -- To Be Split And Deleted
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

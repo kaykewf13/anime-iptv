@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Breaking The Fourth Wall
+# Total de animes na categoria: 92
 # Exemplos: 3-nen Z-gumi Ginpachi-sensei, 3-nen Z-gumi Ginpachi-sensei Announcement Special, Asobi Asobase, Aware! Meisaku-kun: DVD Hatsubai Kettei!, Binbougami ga!, CB Chara Go Nagai World, Conception, Danshi Koukousei no Nichijou, Dia Horizon, Doolie Baenang-Yeohaeng
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Breaking The Fourth Wall",Pluto TV Anime | Breaking The Fourth Wall
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Sentimental Drama
+# Total de animes na categoria: 147
 # Exemplos: 5-fun de Wakaru: Violet Evergarden, 8-gatsu no Symphony: Shibuya 2002-2003, [Oshi no Ko], Adachi-ga Hara, Ai no Kusabi, Air, Air Recap, Akame ga Kill!, Angel Beats!, Ano Ko ni 1000%
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Sentimental Drama",Pluto TV Anime | Sentimental Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Tiny People
+# Total de animes na categoria: 13
 # Exemplos: Binchou-tan, Hakumei to Mikochi, Hakumei to Mikochi: Neji to Bed to Irori to Bakuchi, Jishu Seisaku Movie Binchou-tan, Karigurashi no Arrietty, Mori no Youki na Kobito-tachi: Belfy to Lillibit, Nils no Fushigi na Tabi, Nils no Fushigi na Tabi (Movie), Oyayubi Hime Monogatari, Ringo no Mori no Koneko-tachi
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Tiny People",Pluto TV Anime | Tiny People
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

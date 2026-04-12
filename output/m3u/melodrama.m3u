@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Melodrama
+# Total de animes na categoria: 155
 # Exemplos: 100-man no Inochi no Ue ni Ore wa Tatteiru, 3-gatsu no Lion 2nd Season, Air, Akai Koudan Zillion: Utahime Yakyoku, Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai., Aoi Sekai no Chuushin de, Aquarion Evol, Ayashi no Ceres, Baby☆Love, Baka to Test to Shoukanjuu Ni!
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Melodrama",Pluto TV Anime | Melodrama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

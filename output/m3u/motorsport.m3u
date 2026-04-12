@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Motorsport
+# Total de animes na categoria: 194
 # Exemplos: 15 no Yoru, Aa! Megami-sama!, Aa! Megami-sama! (TV), Aa! Megami-sama! Movie, Aa! Megami-sama! Sorezore no Tsubasa, Air Gear Special, Aitsu to Lullaby: Suiyobi no Cinderella, Akai Kiba: Blue Sonnet, Akira, Anime Oyako Gekijou
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Motorsport",Pluto TV Anime | Motorsport
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

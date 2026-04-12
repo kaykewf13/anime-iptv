@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Pirate
+# Total de animes na categoria: 167
 # Exemplos: 100-man-nen Chikyuu no Tabi: Bander Book, A-ra-shi: Reborn, Ahoy!! Warera Houshou Kaizokudan☆, Akatsuki no Yona, Black Lagoon, Blood Royale, Buta, Byeolnala Samchongsa, Captain Harlock and the Queen of a Thousand Years, Captain Herlock
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Pirate",Pluto TV Anime | Pirate
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

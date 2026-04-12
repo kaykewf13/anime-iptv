@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: College
+# Total de animes na categoria: 166
 # Exemplos: 4-ju Aein, Aa! Megami-sama!, Aa! Megami-sama! (2011), Aa! Megami-sama! (TV), Aa! Megami-sama! (TV) Specials, Aa! Megami-sama! Movie, Aa! Megami-sama! Sorezore no Tsubasa, Ai Yori Aoshi, Aishang Ta de Liyou, Akage no Anne
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 College",Pluto TV Anime | College
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

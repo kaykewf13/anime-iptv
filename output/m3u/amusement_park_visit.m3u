@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Amusement Park Visit
+# Total de animes na categoria: 32
 # Exemplos: Baby☆Love, Bakuretsu Tenshi, Bamboo Blade, Blue Seed, Carnival Phantasm, Crayon Shin-chan Movie 09: Arashi wo Yobu Mouretsu! Otona Teikoku no Gyakushuu, D.C.III: Da Capo III, Dai Mahou Touge, Date A Live, Elf-ban Kakyuusei: Anata dake wo Mitsumete...
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Amusement Park Visit",Pluto TV Anime | Amusement Park Visit
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

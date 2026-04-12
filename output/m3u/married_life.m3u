@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Married Life
+# Total de animes na categoria: 29
 # Exemplos: Class no Daikirai na Joshi to Kekkon suru Koto ni Natta., Danna ga Nani wo Itteiru ka Wakaranai Ken, Danna ga Nani wo Itteiru ka Wakaranai Ken 2 Sure-me, Futari Ecchi, Fuufu Koukan: Modorenai Yoru, Gokushufudou, Gokushufudou Part 2, Gokushufudou Season 2, In This Corner (and Other Corners) of the World, Jiisan Baasan Wakagaeru
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Married Life",Pluto TV Anime | Married Life
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

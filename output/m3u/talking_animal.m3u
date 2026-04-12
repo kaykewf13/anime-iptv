@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Talking Animal
+# Total de animes na categoria: 82
 # Exemplos: Babel Nisei (2001), Backkom Meogeujan Yeohaeng, Bai Bian Zhu Zhu Xia, Basquash!, Blood Lad: Wagahai wa Neko de wa Nai, Bloody Bunny, Chengyu Donghua Lang, Cool Cool Bye, Crayon Shin-chan Movie 03: Unkokusai no Yabou, Cuticle Tantei Inaba
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Talking Animal",Pluto TV Anime | Talking Animal
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Based On A Movie
+# Total de animes na categoria: 34
 # Exemplos: "Kinako" Movie x Mameshiba, "R100" x Mameshiba Original Manners, Anime-ban Little★Nicky: Henachoko Akuma Nicky no NY Taikenki, Blade Runner: Black Lotus, Blade Runner: Black Out 2022, Bright: Samurai Soul, Bumblebee Hajimete no Chikyuu Seikatsu, Changjiang 7 Hao Ai Diqiu, Fuusen no Doratarou, Godzilla 1: Kaijuu Wakusei
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Based On A Movie",Pluto TV Anime | Based On A Movie
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

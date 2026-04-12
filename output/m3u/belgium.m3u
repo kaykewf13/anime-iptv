@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Belgium
+# Total de animes na categoria: 5
 # Exemplos: Flanders no Inu, Flanders no Inu (Movie), Flanders no Inu Specials, Flanders no Inu, Boku no Patrasche, Flanders no Inu: Shiawase no Carbonara
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Belgium",Pluto TV Anime | Belgium
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

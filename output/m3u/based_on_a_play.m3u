@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Based On A Play
+# Total de animes na categoria: 10
 # Exemplos: Ayakashi: Japanese Classic Horror, Delico's Nursery, Delico's Nursery: Ikuji Nisshi, Mars Red, Romeo x Juliet, Sabiiro no Armor: Reimei, Sirius no Densetsu, Touken Ranbu Kai: Douden Chikashi Haberau Monora, Touken Ranbu Kai: Kyoden Moyuru Honnouji, Zhao Shi Gu Er
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Based On A Play",Pluto TV Anime | Based On A Play
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Non-Human Protagonists
+# Total de animes na categoria: 3541
 # Exemplos: "Inochi Sketch" Movie Jabow x Mameshiba Collab CM, (Mi) Liu, 0 Hao Sushe, 1,2,3,4,, 1-ri Botchi no Ookami to 7-hiki no Ko Yagi, 10-piki no Kaeru, 100-nichikan Ikita Wani, 11-piki no Neko, 11-piki no Neko to Ahoudori, 12 Shengxiao Guanjiafu: Wangluo Shijie Lixian
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Non-Human Protagonists",Pluto TV Anime | Non-Human Protagonists
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

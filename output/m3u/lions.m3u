@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Lions
+# Total de animes na categoria: 19
 # Exemplos: Africa no Salaryman, Africa no Salaryman (TV), Anime 80-nichikan Sekai Isshuu, Grami's Circus Show, Grami's Circus Show 2nd Season, Happy Zoo, Ji Li Yu Gulu, Jungle Taitei, Jungle Taitei (1989), Jungle Taitei (2000)
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Lions",Pluto TV Anime | Lions
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

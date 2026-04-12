@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Body Image
+# Total de animes na categoria: 29
 # Exemplos: "Omae Gotoki ga Maou ni Kateru to Omouna" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai, Akage no Anne, Akebi-chan no Sailor-fuku, Anne Shirley, Ashita no Joe, Ashita no Joe 2, Binan Koukou Chikyuu Bouei-bu Happy Kiss!, Busamen Gachi Fighter, Busu ni Hanataba wo., Cider no You ni Kotoba ga Wakiagaru
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Body Image",Pluto TV Anime | Body Image
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

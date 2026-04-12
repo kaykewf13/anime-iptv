@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Time Machine
+# Total de animes na categoria: 26
 # Exemplos: 16bit Sensation: Another Layer, Doraemon Movie 08: Nobita to Ryuu no Kishi, Doraemon Movie 36: Shin Nobita no Nippon Tanjou, Dragon Ball Super, Dragon Ball Z, Fairy Tail: Final Series, Gunslinger Stratos The Animation, Houkago Midnighters, Island, KakoPad: Nagaoka Hanabi Monogatari
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Time Machine",Pluto TV Anime | Time Machine
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

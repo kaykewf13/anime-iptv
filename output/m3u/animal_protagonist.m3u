@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Animal Protagonist
+# Total de animes na categoria: 93
 # Exemplos: 663114, Africa no Salaryman (TV), Aggressive Retsuko, Arashi no Yoru ni, Ari to Hato (1959), Baja no Studio, Baja no Studio: Baja no Mita Umi, Bananya, Bananya: Around the World, Bananya: Fushigi na Nakama-tachi
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Animal Protagonist",Pluto TV Anime | Animal Protagonist
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

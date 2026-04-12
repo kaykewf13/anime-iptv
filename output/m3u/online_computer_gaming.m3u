@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Online Computer Gaming
+# Total de animes na categoria: 12
 # Exemplos: .hack//Liminality, .hack//Quantum, .hack//Sign, .hack//Tasogare no Udewa Densetsu, .hack//The Movie: Sekai no Mukou ni, Accel World, Ixion Saga DT, Leadale no Daichi nite, Net-juu no Susume, Overlord
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Online Computer Gaming",Pluto TV Anime | Online Computer Gaming
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

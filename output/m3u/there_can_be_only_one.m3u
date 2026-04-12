@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: There Can Be Only One
+# Total de animes na categoria: 38
 # Exemplos: Afro Samurai, Afro Samurai Movie, Afro Samurai: Resurrection, Akuma no Riddle, Basilisk: Kouga Ninpou Chou, Blue Lock, Bokura no, Btooom!, Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation, Darwin's Game
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 There Can Be Only One",Pluto TV Anime | There Can Be Only One
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

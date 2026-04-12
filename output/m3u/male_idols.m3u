@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Male Idols
+# Total de animes na categoria: 7
 # Exemplos: B-Project: Kodou*Ambitious, B-Project: Netsuretsu*Love Call, B-Project: Zecchou*Emotion, Uta no☆Prince-sama♪ Maji Love 1000%, Uta no☆Prince-sama♪ Maji Love 2000%, Uta no☆Prince-sama♪ Maji Love Legend Star, Uta no☆Prince-sama♪ Maji Love Revolutions
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Male Idols",Pluto TV Anime | Male Idols
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

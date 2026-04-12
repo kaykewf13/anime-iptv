@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Hip-Hop Music
+# Total de animes na categoria: 24
 # Exemplos: B Rappers Street, Beck, Devilman: Crybaby, Good Morning, Gra-P & Rodeo, Gra-P & Rodeo II, Gunjou Sanka (2022), Hypnosis Mic: Division Rap Battle - Final, Hypnosis Mic: Division Rap Battle - Rhyme Anima, Hypnosis Mic: Division Rap Battle - Rhyme Anima +
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Hip-Hop Music",Pluto TV Anime | Hip-Hop Music
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

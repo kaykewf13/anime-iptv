@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Underwater
+# Total de animes na categoria: 48
 # Exemplos: Aimai Elegy, Aoki Hagane no Arpeggio: Ars Nova Movie 2 - Cadenza, Bermuda Triangle: Colorful Pastrale, Black Clover, Chinkoroheibei Tamatebako, Cobra The Animation, Doraemon (1979), Doraemon Movie 04: Nobita no Kaitei Kiganjou, Endro~!, Full Metal Panic!
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Underwater",Pluto TV Anime | Underwater
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

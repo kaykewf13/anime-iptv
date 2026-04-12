@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Stoic
+# Total de animes na categoria: 11
 # Exemplos: Bakumatsu Kikansetsu Irohanihoheto, Batman: Gotham Knight, Blame!, Blame! Prologue, Casshern Sins, Final Fantasy VII: Advent Children, Gundam Build Divers Re:Rise, Hoozuki no Reitetsu, Noir, Sakigake!! Cromartie Koukou
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Stoic",Pluto TV Anime | Stoic
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

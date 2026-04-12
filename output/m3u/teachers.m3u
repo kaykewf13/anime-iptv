@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Teachers
+# Total de animes na categoria: 63
 # Exemplos: 100% Pascal-sensei, 100% Pascal-sensei (TV), 3-nen Z-gumi Ginpachi-sensei, Ai Tenchi Muyou!, Amaama to Inazuma, Ansatsu Kyoushitsu, Ansatsu Kyoushitsu 2nd Season, Demi-chan wa Kataritai, Denpa Kyoushi, Domestic na Kanojo
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Teachers",Pluto TV Anime | Teachers
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

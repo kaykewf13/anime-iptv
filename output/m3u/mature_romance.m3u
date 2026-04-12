@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Mature Romance
+# Total de animes na categoria: 108
 # Exemplos: 25-sai no Joshikousei, 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii, 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii Movie, 6 Lovers, A Bittersweet Life, Ai no Kusabi, Ai no Kusabi (2012), Akagami no Shirayuki-hime, Akagami no Shirayuki-hime 2nd Season, Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Mature Romance",Pluto TV Anime | Mature Romance
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

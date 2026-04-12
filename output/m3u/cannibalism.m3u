@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Cannibalism
+# Total de animes na categoria: 75
 # Exemplos: 91 Days, Another World, Arifureta Shokugyou de Sekai Saikyou, Attack on Titan: The Final Season - Final Chapters Part 2, Beastars, Beastars 2nd Season, Black Jack Yanen, Bleach, Blood-C, Bloody Date
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Cannibalism",Pluto TV Anime | Cannibalism
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

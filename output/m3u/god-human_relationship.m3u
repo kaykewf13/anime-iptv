@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: God-Human Relationship
+# Total de animes na categoria: 15
 # Exemplos: Aa! Megami-sama!, Aa! Megami-sama! (TV), Aa! Megami-sama! Movie, Aa! Megami-sama! Sorezore no Tsubasa, Aa! Megami-sama! Sorezore no Tsubasa Specials, Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka, Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II: Past & Future, Kamigami no Asobi, Ookami to Koushinryou, Ookami to Koushinryou II
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 God-Human Relationship",Pluto TV Anime | God-Human Relationship
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

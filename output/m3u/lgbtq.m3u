@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Lgbtq
+# Total de animes na categoria: 47
 # Exemplos: Air Master, Asagao to Kase-san., Banana Fish, Bishoujo Senshi Sailor Moon S, Bishoujo Senshi Sailor Moon: Sailor Stars, Boku no Sexual Harassment, Candy Boy: Nonchalant Talk of the Certain Twin Sisters in Daily Life, Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!, Devilman Lady, Does It Count If You Lose Your Virginity to an Android?
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Lgbtq",Pluto TV Anime | Lgbtq
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

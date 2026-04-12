@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Religion
+# Total de animes na categoria: 481
 # Exemplos: "Omae Gotoki ga Maou ni Kateru to Omouna" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai, 009 Re:Cyborg, 07-Ghost, 5-Okunen Button, A Barefoot Buddha, Ai Shoujo Pollyanna Story, Akage no Anne, Akage no Anne: Green Gables e no Michi, Akuemon, Amaenaide yo!!
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Religion",Pluto TV Anime | Religion
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

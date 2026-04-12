@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Nipple Play
+# Total de animes na categoria: 9
 # Exemplos: 3-byougo, Yajuu. Goukon de Sumi ni Ita Kare wa Nikushoku deshita, A Kite, Advancer Tina, Aki no Puzzle, Dragon Knight 4, Kage (OVA), Nukitashi the Animation, Spaceship Agga Ruter, Zoku Gosenzo Sane
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Nipple Play",Pluto TV Anime | Nipple Play
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
