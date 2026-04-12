@@ -2,9 +2,9 @@ from pathlib import Path
 import shutil
 
 OUTPUT_DIR = Path("output")
-PUBLIC_DIR = Path("public")
+DOCS_DIR = Path("docs")
 
-PUBLIC_DIR.mkdir(parents=True, exist_ok=True)
+DOCS_DIR.mkdir(parents=True, exist_ok=True)
 
 playlists = {
     "master_playlist.m3u": "master.m3u",
@@ -18,7 +18,7 @@ playlists = {
 
 for src, dest in playlists.items():
     source_path = OUTPUT_DIR / src
-    destination_path = PUBLIC_DIR / dest
+    destination_path = DOCS_DIR / dest
 
     if source_path.exists():
         shutil.copy(source_path, destination_path)
@@ -26,4 +26,7 @@ for src, dest in playlists.items():
     else:
         print(f"⚠️ Arquivo não encontrado: {src}")
 
-print("🚀 Playlists publicadas para o GitHub Pages!")
+# garante que o Pages não tente processar com Jekyll
+(DOCS_DIR / ".nojekyll").write_text("", encoding="utf-8")
+
+print("🚀 Playlists publicadas na pasta docs para o GitHub Pages!")
