@@ -50,14 +50,14 @@ manifest = {
     "recent": recent,
     "types": types_count,
     "links": {
-     "anime_m3u": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/anime_channels.m3u",
-    "series_m3u": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/series_channels.m3u",
-    "master_m3u": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/master_playlist.m3u",
-    "master_m3u_validated": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/master_playlist_validated.m3u",
-    "catalog_json": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/anime_catalog.json",
-    "categories_base": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/categories/",
-    "categories_m3u_base": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/m3u/"
-    "completed_anime_series_m3u": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/completed_anime_series.m3u",
+        "anime_m3u": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/anime_channels.m3u",
+        "series_m3u": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/series_channels.m3u",
+        "master_m3u": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/master_playlist.m3u",
+        "master_m3u_validated": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/master_playlist_validated.m3u",
+        "completed_anime_series_m3u": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/completed_anime_series.m3u",
+        "catalog_json": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/anime_catalog.json",
+        "categories_base": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/categories/",
+        "categories_m3u_base": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/m3u/"
     }
 }
 
