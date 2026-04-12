@@ -23,6 +23,7 @@ function createCategoryCard(category) {
       <div class="card__actions">
         <a class="card__link" href="${category.page}">Abrir categoria</a>
         <a class="card__link" href="${category.file}" target="_blank" rel="noopener noreferrer">JSON</a>
+        <a class="card__link" href="${category.iptv}" target="_blank" rel="noopener noreferrer">Assistir via IPTV</a>
       </div>
     </article>
   `;
@@ -98,6 +99,7 @@ async function loadCategoryPage() {
   document.getElementById("categoryTitle").textContent = category.name;
   document.getElementById("categoryMeta").textContent = `${category.count} animes nesta categoria`;
   document.getElementById("categoryJsonLink").href = category.file;
+  document.getElementById("categoryIptvLink").href = category.iptv;
 
   const items = await fetchJson(category.file);
 
