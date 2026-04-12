@@ -6,7 +6,6 @@ M3U_DIR = Path("output/m3u")
 
 M3U_DIR.mkdir(parents=True, exist_ok=True)
 
-# Fontes públicas/oficiais para anime
 ANIME_CHANNELS = [
     {
         "name": "Pluto TV Anime",
@@ -20,17 +19,8 @@ ANIME_CHANNELS = [
     },
 ]
 
-# Mapeamento simples de categoria -> canais
-# Você pode expandir isso depois, se quiser tratar algumas categorias de forma diferente.
-def get_channels_for_category(category_slug: str) -> list[dict]:
-    # Hoje retorna os mesmos canais oficiais de anime para qualquer categoria.
-    # Mantido assim para garantir consistência e links válidos.
-    return ANIME_CHANNELS
-
-
 def category_title_from_slug(slug: str) -> str:
     return slug.replace("_", " ").title()
-
 
 def main() -> None:
     if not CATEGORIES_DIR.exists():
@@ -50,17 +40,15 @@ def main() -> None:
         with open(category_file, "r", encoding="utf-8") as f:
             items = json.load(f)
 
-        channels = get_channels_for_category(slug)
-
         lines = ['#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"']
+        lines.append(f"# Categoria: {category_name}")
+        lines.append(f"# Total de animes na categoria: {len(items)}")
 
-        # Cabeçalho comentado com alguns títulos da categoria
         sample_titles = [item.get("title", "") for item in items[:10] if item.get("title")]
         if sample_titles:
-            lines.append(f"# Categoria: {category_name}")
             lines.append(f"# Exemplos: {', '.join(sample_titles)}")
 
-        for channel in channels:
+        for channel in ANIME_CHANNELS:
             extinf = (
                 f'#EXTINF:-1 '
                 f'tvg-name="{channel["name"]}" '
@@ -79,7 +67,6 @@ def main() -> None:
         total_created += 1
 
     print(f"🎉 Playlists M3U por categoria geradas com sucesso! Total: {total_created}")
-
 
 if __name__ == "__main__":
     main()
