@@ -19,6 +19,29 @@ def is_completed_series(anime):
     )
 
 
+def get_episode_count(anime):
+    episodes = anime.get("episodes")
+    try:
+        return int(episodes)
+    except (TypeError, ValueError):
+        return 0
+
+
+def episode_bucket(episodes: int) -> str:
+    """Define a faixa de episódios."""
+    if episodes <= 0:
+        return "🎬 Séries | Anime Concluído | Episódios desconhecidos"
+    if 1 <= episodes <= 12:
+        return "🎬 Séries | Anime Concluído | 01-12 eps"
+    if 13 <= episodes <= 24:
+        return "🎬 Séries | Anime Concluído | 13-24 eps"
+    if 25 <= episodes <= 50:
+        return "🎬 Séries | Anime Concluído | 25-50 eps"
+    if 51 <= episodes <= 100:
+        return "🎬 Séries | Anime Concluído | 51-100 eps"
+    return "🎬 Séries | Anime Concluído | 101+ eps"
+
+
 def build_playlist():
     if not INPUT_FILE.exists():
         raise FileNotFoundError(f"Arquivo não encontrado: {INPUT_FILE}")
@@ -26,27 +49,38 @@ def build_playlist():
     with open(INPUT_FILE, "r", encoding="utf-8") as f:
         catalog = json.load(f)
 
+    completed_series = [anime for anime in catalog if is_completed_series(anime)]
+
+    # Ordena por faixa e depois por título
+    completed_series.sort(
+        key=lambda anime: (
+            episode_bucket(get_episode_count(anime)),
+            anime.get("title", "").lower()
+        )
+    )
+
     lines = ["#EXTM3U"]
     count = 0
 
-    for anime in catalog:
-        if not is_completed_series(anime):
-            continue
-
+    for anime in completed_series:
         title = anime.get("title", "Título desconhecido")
         year = anime.get("year", "N/A")
-        episodes = anime.get("episodes", "N/A")
+        episodes = get_episode_count(anime)
         anime_type = anime.get("type", "TV")
+        logo = anime.get("picture", "")
+        group_title = episode_bucket(episodes)
 
-        # Apenas metadados (VOD informativo)
-        extinf = (
-            f'#EXTINF:-1 tvg-name="{title}" '
-            f'group-title="🎌 Anime Series | Completed",'
-            f'{title} ({year}) - {episodes} eps [{anime_type}]'
-        )
-
-        # URL placeholder informativa
+        # Link neutro para catálogo/site
+        # Se no futuro você tiver watch_url oficial, pode trocar aqui.
         url = "https://kaykewf13.github.io/anime-iptv/"
+
+        extinf = (
+            f'#EXTINF:-1 '
+            f'tvg-name="{title}" '
+            f'tvg-logo="{logo}" '
+            f'group-title="{group_title}",'
+            f'{title} ({year}) - {episodes if episodes > 0 else "?"} eps [{anime_type}]'
+        )
 
         lines.append(extinf)
         lines.append(url)
