@@ -71,6 +71,9 @@ jobs:
       - name: Run build_series_m3u.py
         run: python scripts/build_series_m3u.py
 
+      - name: Generate category M3U files
+        run: python scripts/build_category_m3u.py
+
       - name: Run build_pages.py
         run: python scripts/build_pages.py
 
