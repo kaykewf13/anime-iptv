@@ -5,16 +5,22 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56e
 https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="1KZNTV.za@SD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Entertainment;Family;General",1KZN TV (576p)
 https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="3CatElbunquer.es@SD" tvg-logo="https://i.imgur.com/wiqdIjd.png" group-title="Comedy;Public",3Cat El búnquer (1080p)
+https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8
 #EXTINF:-1 tvg-id="3CatPlatsbruts.es@SD" tvg-logo="https://i.imgur.com/49ZENis.png" group-title="Classic;Comedy;Public;Series",3Cat Plats bruts (1080p)
 https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
 #EXTINF:-1 tvg-id="5Cops.us@UK" tvg-logo="https://i.imgur.com/QFPRaXK.png" group-title="Series",5 Cops
 https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8
 #EXTINF:-1 tvg-id="6WiseTv.us@SD" tvg-logo="https://jrlist70.pages.dev/list/wise.png" group-title="Family",6 Wise Tv (720p)
 https://live.enhdtv.com:8081/8150/index.m3u8
+#EXTINF:-1 tvg-id="13Humor.cl@SD" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="Comedy",13 Humor (1080p)
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 #EXTINF:-1 tvg-id="13T.cl@SD" tvg-logo="https://i.imgur.com/csBNi2L.png" group-title="Series",13 Teleseries (720p)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-id="Twentyseven.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/960px-Twentyseven_logo.svg.png" group-title="Movies;Series",27 TwentySeven [Geo-blocked]
 https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8
+#EXTINF:-1 tvg-id="30ARidiculousTV.us@SD" tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg" group-title="Comedy",30A Ridiculous TV (720p)
+https://30a-tv.com/feeds/720p/63.m3u8
 #EXTINF:-1 tvg-id="48Hours.us@CA" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="Series",48 Hours
 https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8
 #EXTINF:-1 tvg-id="48Hours.us@US" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="Series",48 Hours (1080p)
@@ -29,6 +35,8 @@ https://jmp2.uk/plu-6000a5a9e767980007b497ca.m3u8
 https://jmp2.uk/plu-64dab1f835425100080e1e7b.m3u8
 #EXTINF:-1 tvg-id="AfraSeries.ir@SD" tvg-logo="" group-title="Series",Afra Series
 https://afrashls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AFVEspanol.us@SD" tvg-logo="https://i.imgur.com/HUK4WXC.png" group-title="Comedy",AFV en Español (720p) [Not 24/7]
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSouriyaTV.sy@HD" tvg-logo="https://i.imgur.com/8FILgXT.jpeg" group-title="Family",Al-Souriya TV (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
 #EXTINF:-1 tvg-id="AlfaDramas.gr@SD" tvg-logo="https://i.imgur.com/wnVEvRM.png" group-title="Movies",Alfa Dramas (226p) [Not 24/7]
@@ -41,6 +49,10 @@ https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8
 https://pb-amiq9wz02dhco.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="alphaCinema.ru@HD" tvg-logo="https://i.imgur.com/146OgfU.png" group-title="Comedy;Family;Movies",alpha Cinema (1080p)
 https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 tvg-id="alphaFunny.ru@HD" tvg-logo="https://i.ibb.co/ZcCXw5P/alphaf.png" group-title="Comedy",alpha Funny (1080p)
+https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
+#EXTINF:-1 tvg-id="alphaMoretime.ru@HD" tvg-logo="https://i.imgur.com/ibQfUr7.png" group-title="Comedy;Movies",alpha Moretime (1080p)
+https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 tvg-id="AlwaysFunnyVideos.us@SD" tvg-logo="https://i.imgur.com/vfdN5Xl.png" group-title="Series",Always Funny Videos (720p)
 https://d24l3uppudokci.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="A2.ru@SD" tvg-logo="https://i.imgur.com/NqHla2V.png" group-title="Series",Amedia 2 (576p)
@@ -49,6 +61,8 @@ http://31.148.48.15/A2/index.m3u8
 http://31.148.48.15/Amedia_HIT_HD/index.m3u8
 #EXTINF:-1 tvg-id="AmediaPremium.ru@SD" tvg-logo="https://i.imgur.com/UUjehw9.png" group-title="Movies;Series",Amedia Premium (720p)
 http://31.148.48.15/Amedia_Premium_HD/index.m3u8
+#EXTINF:-1 tvg-id="AFV.us@SD" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Comedy",America’s Funniest Home Videos (1080p)
+https://d1mp1kdk5zi1ie.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericanCrimeChannel.pl@Poland" tvg-logo="" group-title="Entertainment",American Crime Channel
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",American Crimes (1080p)
@@ -85,8 +99,18 @@ https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/in
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
 #EXTINF:-1 tvg-id="BarRescue.us@SD" tvg-logo="https://i.imgur.com/WFgWGPb.png" group-title="Series",Bar Rescue
 https://jmp2.uk/plu-60a3d889a5b3690008dc7fe8.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Barbie & Friends
+https://jmp2.uk/plu-688892172928933015abe479.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Barbie and Friends (1080p)
+https://d1xqdnwy1bo05f.cloudfront.net/barb.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Barney & Friends
+https://jmp2.uk/plu-62ac405b3874370007419b7f.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Barney and Friends (720p)
+https://d3vm2nhw5t7pkh.cloudfront.net/v1/cinedigm_entertainment_corp_barneyandfriends_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Baywatch.us@US" tvg-logo="https://i.imgur.com/c2esKHg.png" group-title="Series",Baywatch (1080p)
 https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BBC Comedy (720p)
+https://d1em2hga7sgumq.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="DoctorWhoClassic.us@US" tvg-logo="https://i.imgur.com/JIqJQQM.png" group-title="Series",BBC Doctor Who Classic (1080p)
 https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BBC Drama (1080p) [Geo-blocked]
@@ -103,6 +127,14 @@ https://jmp2.uk/plu-60dafb9a0df1ba000758d37b.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Best Drama TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Best Thriller TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BET Comedy Movies
+https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BET x Tyler Perry Comedy (1080p)
+https://d3vmpkkd3o2grv.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BET x Tyler Perry Comedy (720p)
+https://jmp2.uk/plu-666b265722acab000885c6aa.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BET x Tyler Perry Drama (1080p)
 https://doumbtmvnsp0z.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BET x Tyler Perry Drama (720p)
@@ -113,14 +145,22 @@ https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8
 https://jmp2.uk/plu-686d61503484d6073283059d.m3u8
 #EXTINF:-1 tvg-id="BlackInkCrew.us@SD" tvg-logo="https://i.imgur.com/QnuIVB6.png" group-title="Series",Black Ink Crew
 https://jmp2.uk/plu-5d51e2bceca5b4b2c0e06c50.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Bloodline Detectives (720p)
+https://jmp2.uk/plu-63d91cc58795f30008678e9d.m3u8
 #EXTINF:-1 tvg-id="BlueBloods.us@SD" tvg-logo="https://images.pluto.tv/channels/61b3b8c645b45d0007a9bb8d/colorLogoSVG.svg" group-title="Series",Blue Bloods
 https://jmp2.uk/plu-61b3b8c645b45d0007a9bb8d.m3u8
 #EXTINF:-1 tvg-id="BritBoxMysteries.us@SD" tvg-logo="https://i.imgur.com/PJdzoLN.png" group-title="Documentary",BritBox Mysteries (1080p)
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
+#EXTINF:-1 tvg-id="CameraSmileTV.us@SD" tvg-logo="https://i.imgur.com/V5h4R83.png" group-title="Comedy",Camera Smile (480p)
+https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CBC Comedy (1080p) [Geo-blocked]
+https://amagi-streams.akamaized.net/hls/live/2110963/cbccomedy/master.m3u8
 #EXTINF:-1 tvg-id="CBCDrama.eg@SD" tvg-logo="https://i.imgur.com/I8YdakH.png" group-title="Series",CBC Drama (576p)
 https://flu.systemnet.tv/CBCDrama/index.m3u8
 #EXTINF:-1 tvg-id="CBNFamily.us@SD" tvg-logo="https://i.imgur.com/wDPkKT1.png" group-title="Religious",CBN Family (1080p)
 https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk5NTg4MTEyIn0.LYfIeObmX4AEStY_xCnPZwMJHXgOAPFMTKfztq-9F8U/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="CCPlutoTV.us@Germany" tvg-logo="https://i.imgur.com/MjC40At.png" group-title="Comedy",CC Pluto TV
+https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
 #EXTINF:-1 tvg-id="CelebrityNameGame.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/773232e1-5c36-490b-922e-e5be8ec12eb2/celebrityd5796a3e14bf45513f7b3071b90d030.png" group-title="Series",Celebrity Name Game (1080p) [Geo-blocked]
 https://amg00353-amg00353c19-xumo-us-2608.playouts.now.amagi.tv/lionsgate-clbng/playlist.m3u8
 #EXTINF:-1 tvg-id="ChaosCity.us@Germany" tvg-logo="https://i.imgur.com/1UZNdRH.png" group-title="Series",Chaos City
@@ -131,6 +171,10 @@ https://jmp2.uk/plu-611e7f224676bf00076a4d8d.m3u8
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Cine Crimen
 https://jmp2.uk/plu-686c1c873ffa5e0c91a85938.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ciné Thrillers by Pluto TV
+https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CineThriller (720p)
+https://jmp2.uk/plu-653660b4295b840008a70ba3.m3u8
 #EXTINF:-1 tvg-id="ClassicTV.ir@SD" tvg-logo="" group-title="Classic",Classic TV
 https://clshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ClassicTVComedy.us@SD" tvg-logo="https://i.imgur.com/wg5I5Fb.png" group-title="Comedy",Classic TV Comedy
@@ -145,8 +189,32 @@ https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-id="ColdCaseFiles.us@SD" tvg-logo="https://i.imgur.com/mowSfj6.png" group-title="Series",Cold Case Files (1080p)
 https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralSouthPark.us@Brazil" tvg-logo="https://i.imgur.com/7GKO6Fp.png" group-title="Series",Comedy Central South Park
-https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Comedy Central
+https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Comedy",Comedy Central (1080p)
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Comedy Central Animation
+https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralenEspanol.us@SD" tvg-logo="https://i.imgur.com/6xTD3G8.png" group-title="Comedy",Comedy Central en español
+https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Comedy",Comedy Central HD (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Comedy",Comedy Central Latin America (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Comedy Central Pluto TV
+https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Comedy Central Roast
+https://jmp2.uk/plu-6641fd41b18d700008e7e2b8.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Comedy Central South Park
+https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
+#EXTINF:-1 tvg-id="ComedyDynamics.us@SD" tvg-logo="https://i.imgur.com/1lEvUOa.png" group-title="Comedy",Comedy Dynamics (1080p)
+https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyPlay.ro@SD" tvg-logo="https://i.imgur.com/6kAeVOk.png" group-title="Comedy",Comedy Play (720p)
+https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Comedy Tadka (1080p)
+https://streams2.sofast.tv/WiseM3U8_27/sofast/cleanhls/master.m3u8
+#EXTINF:-1 tvg-id="ComedyTV.ge@SD" tvg-logo="https://i.imgur.com/i1TANKv.png" group-title="Comedy",Comedy TV
+http://31.146.5.178:8087/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="Cops.us@Poland" tvg-logo="https://i.imgur.com/J3XO6V2.png" group-title="Series",COPS
 https://a7d6af1c184e465db4f39316a5181c1f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_COPS/playlist.m3u8
 #EXTINF:-1 tvg-id="Cops.us@SD" tvg-logo="https://i.imgur.com/J3XO6V2.png" group-title="Series",Cops (720p)
@@ -195,8 +263,6 @@ https://jmp2.uk/plu-5e94cd036cc69d0007e8a1ba.m3u8
 https://d3ox1t0pcya837.cloudfront.net/v1/aenetworks_kriminal_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Crimes That Shook Britain
 https://jmp2.uk/plu-66ba1e23d2d50d00084a1e57.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Criminal Minds
-https://jmp2.uk/plu-65653817c917a5000844bc30.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CSI
 https://jmp2.uk/plu-62e9224f41d5e100076db2b6.m3u8
 #EXTINF:-1 tvg-id="CSIenespanol.us@SD" tvg-logo="https://i.imgur.com/ifarQil.png" group-title="Undefined",CSI en Español
@@ -221,8 +287,12 @@ https://amg00627-banijaygroup-dealornodeal-samsungau-si7xg.amagi.tv/playlist/amg
 https://d3537vnymvfque.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="DesignatedSurvivor.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6f31f52b-2b65-49eb-91e5-52e07edd1927/DesignatedSurvivor_Plex_1500x1000_Logo_Dark.png" group-title="Series",Designated Survivor (1080p) [Geo-blocked]
 https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Detective Conan
+https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
 #EXTINF:-1 tvg-id="Dlife.jp@SD" tvg-logo="" group-title="Series",Dlife (1080p)
 https://43.100.9.67/api/streams/live/cs312/1080p/mpegts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Doctor Who Classic (720p)
+https://jmp2.uk/plu-62bdad934d73d50007a82472.m3u8
 #EXTINF:-1 tvg-id="DogtheBountyHunter.us@US" tvg-logo="https://i.imgur.com/lMICupK.png" group-title="Series",Dog the Bounty Hunter (1080p)
 https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8
 #EXTINF:-1 tvg-id="DogtheBountyHunter.us@UK" tvg-logo="https://i.imgur.com/lMICupK.png" group-title="Series",Dog The Bounty Hunter [Geo-blocked] (1080p)
@@ -235,18 +305,30 @@ https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.
 https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
 #EXTINF:-1 tvg-id="DoveChannel.us@SD" tvg-logo="" group-title="Family",Dove Channel (1080p)
 https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="DryBarComedyPlus.us@SD" tvg-logo="https://i.imgur.com/3N2C60N.png" group-title="Comedy",Dry Bar Comedy (720p)
+https://drybar-drybarcomedy-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DuckDynasty.us@UK" tvg-logo="https://i.imgur.com/vMcSlwm.png" group-title="Series",Duck Dynasty (1080p)
 https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EbonyTVbyLionsgate.us" tvg-logo="https://provider-static.plex.tv/epg/cms/production/234d5377-ab07-41bf-acd6-34c17c1c051a/EbonyTV_Plex_Logo_Light_1500x1000.png" group-title="Movies;Series",Ebony TV by Lionsgate (1080p)
 https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ebony TV Drama (720p)
 https://jmp2.uk/plu-6675c713fc3a46000863dde7.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",El Detective Endeavour
+https://jmp2.uk/plu-619b9f16b8fee4000832d447.m3u8
 #EXTINF:-1 tvg-id="EmanTv.iq@HD" tvg-logo="https://i.imgur.com/QmgaPSi.png" group-title="Family",EmanTv (1080p)
 https://avr.host247.net/live/emantv/playlist.m3u8
 #EXTINF:-1 tvg-id="ENTFamily.uk@HD" tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Entertainment",ENT Family (720p)
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="EstrellaGames.us@SD" tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Entertainment;Family",Estrella Games (1080p)
 https://estrella-games-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ETVComedy.in@HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900003U3_20251106T195117SQUARE.png" group-title="Comedy",ETV Comedy (1080p)
+https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us@Poland" tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="Comedy",Fail Army (720p)
+https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us@Brazil" tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="Comedy",FailArmy
+https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="Comedy",Failarmy International (720p)
+https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Family Club (720p)
 https://jmp2.uk/plu-64c9260ac0222700089ee62b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Family Feud (720p)
@@ -271,6 +353,12 @@ https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8
 #EXTINF:-1 tvg-id="Freeform.us@East" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="Family",Freeform (720p) [Geo-blocked]
 https://tvpass.org/live/FreeformEast/hd
+#EXTINF:-1 tvg-id="FunnyAF.us@SD" tvg-logo="https://i.imgur.com/UCwjdtQ.png" group-title="Comedy",Funny AF
+https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Garfield and Friends
+https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
+#EXTINF:-1 tvg-id="GEMComedy.tr@SD" tvg-logo="https://i.imgur.com/FuscfJW.png" group-title="Comedy",GEM Comedy
+https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GEMDrama.tr@SD" tvg-logo="https://i.imgur.com/k2pGyRH.png" group-title="Movies",GEM Drama
 https://ca-rt.onetv.app/gemdrama/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GEMDramaPlus.tr@SD" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_7.png" group-title="Movies",GEM Drama Plus
@@ -287,6 +375,8 @@ https://jmp2.uk/plu-60afb203ec391c00070ea1bf.m3u8
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US2000012KX&channel_id=newid_351&tp=samsung_tvplus
 #EXTINF:-1 tvg-id="GhostHunters.us@UK" tvg-logo="https://i.imgur.com/KdBr6rG.png" group-title="Series",Ghost Hunters (1080p)
 https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GirlfriendsFilms.us@SD" tvg-logo="https://i.imgur.com/hCcdrOv.png" group-title="Movies",Girlfriends
+https://jmp2.uk/plu-66ba1e4446762a000855cd87.m3u8
 #EXTINF:-1 tvg-id="GranTV.hu@SD" tvg-logo="https://i.ibb.co/qJN7Qh2/gran-kicsi.png" group-title="Religious",Gran TV (720p)
 https://stream.medialive.hu/gran/grantvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="GreenTV.bd@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg" group-title="Family",Green TV (1080p)
@@ -335,26 +425,44 @@ https://jmp2.uk/plu-5d765786aad587cf4d0e2bf6.m3u8
 https://aegis-cloudfront-1.tubi.video/3b6afc3b-97f7-4f22-99f4-7bcff60fc39d/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",ION Mystery (1080p) [Geo-blocked]
 https://pb-usmbvsgwcg8pc.akamaized.net/Ion_Mystery_US.m3u8
+#EXTINF:-1 tvg-id="Jail.pl@Poland" tvg-logo="" group-title="Comedy",Jail
+https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8
 #EXTINF:-1 tvg-id="JerseyShore.us@SD" tvg-logo="https://i.imgur.com/SssCaj1.png" group-title="Series",Jersey Shore
 https://jmp2.uk/plu-609bfa51fbecc1000733152e.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Jersey Shore Family Vacation
 https://jmp2.uk/plu-6728c831c7626f0008b28127.m3u8
+#EXTINF:-1 tvg-id="JordanComedy.jo@SD" tvg-logo="https://i.imgur.com/DuwwoO2.png" group-title="Comedy",Jordan Comedy (1080p)
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
 #EXTINF:-1 tvg-id="JordanDrama.jo@SD" tvg-logo="https://i.imgur.com/gvIAEsJ.png" group-title="Undefined",Jordan Drama (1080p)
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
 #EXTINF:-1 tvg-id="JudgeNosey.us@US" tvg-logo="https://i.imgur.com/S4r98AB.png" group-title="Series",Judge Nosey (1080p)
 https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" group-title="Comedy",Just for Laughs Gags (1080p)
+https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",K Drama by CJ ENM (1080p)
 https://d2fdocl6hmu0hh.cloudfront.net/dfa54c7d_1154_425d_a2b8_6ea994157976/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",K Drama+ (1080p)
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US1700017NM&channel_id=newid_271&tp=samsung_tvplus
 #EXTINF:-1 tvg-id="KenanKel.us@Brazil" tvg-logo="https://i.imgur.com/h9dpcgN.png" group-title="Series",Kenan & Kel
 https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
+#EXTINF:-1 tvg-id="KSHBTV413.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="Comedy",KSHB-DT3 (720p)
+https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
 #EXTINF:-1 tvg-id="LatinaClasicos.pe@SD" tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Series",Latina Clasicos
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Latino Classic TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d419a88-a62c-496f-b8a1-984e746f8259/manifest.m3u8
+#EXTINF:-1 tvg-id="LaughterTheater.cn@SD" tvg-logo="https://i.imgur.com/CrFesS6.png" group-title="Comedy",Laughter Theater
+http://49.113.179.174:4022/udp/238.125.2.159:5140
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Law & Order (720p)
+https://jmp2.uk/plu-68758038552299d2b08162e3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Les Nouveaux Detectives
+https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Lifetime Movies Love & Drama (1080p)
 https://d1s7megtamek6r.cloudfront.net/Lifetime_Love_and_Drama.m3u8
+#EXTINF:-1 tvg-id="KevinHartsLOLNetwork.us@SD" tvg-logo="https://i.imgur.com/Tiy3Ur2.png" group-title="Comedy",LOL Network (1080p)
+https://aegis-cloudfront-1.tubi.video/54f95462-b44d-4c99-b74b-af49467454fa/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Los nuevos detectives
+https://jmp2.uk/plu-5f1acba0d1f6340007db8843.m3u8
 #EXTINF:-1 tvg-id="LoveHipHop.us@SD" tvg-logo="https://i.imgur.com/rhGyebf.png" group-title="Series",Love & Hip Hop
 https://jmp2.uk/plu-5d51ddf0369acdb278dfb05e.m3u8
 #EXTINF:-1 tvg-id="LTNFamily.pk@SD" tvg-logo="https://i.imgur.com/n4CenYn.png" group-title="Family",LTN Family (576p)
@@ -381,6 +489,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f
 https://video.ejeserver.com/live/mcitelevision.m3u8
 #EXTINF:-1 tvg-id="McLeodsDaughters.us@UK" tvg-logo="https://i.imgur.com/q4BBDzw.png" group-title="Series",Mcleod's Daughters (1080p)
 https://amg00627-amg00627c5-samsung-nz-2807.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mcleodsdaughters-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Medical Detectives
+https://jmp2.uk/plu-68d113f9184f1a0620c8101c.m3u8
 #EXTINF:-1 tvg-id="MemoriasTVSeries.co@SD" tvg-logo="https://i.imgur.com/ohCSMhY.png" group-title="Series",Memorias TV Series (720p) [Geo-blocked]
 https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
 #EXTINF:-1 tvg-id="MidsomerMurders.us@SD" tvg-logo="https://i.imgur.com/VFqfyfY.png" group-title="Series",Midsomer Murders (1080p)
@@ -397,6 +507,8 @@ https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
 https://jmp2.uk/plu-671645c4529ac900080c9a0b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MODUS Super Series Darts
 https://jmp2.uk/plu-671656a37d5da50008de6514.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",More Pluto TV Comedy
+https://jmp2.uk/plu-62e91c3add66e00007eeb24c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",More True Crime
 https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",More TV Crime
@@ -407,6 +519,10 @@ https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8
 https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
 #EXTINF:-1 tvg-id="MostHaunted.us@UK" tvg-logo="https://images.pluto.tv/channels/66d722d31878f200081c2c64/colorLogoPNG.png" group-title="Series",Most Haunted
 https://jmp2.uk/plu-6081648340382e0007f73d45.m3u8
+#EXTINF:-1 tvg-id="MoviesThriller.sa@SD" tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies",Movies Thriller (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+#EXTINF:-1 tvg-id="MrBeanLiveAction.uk@English" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" group-title="Comedy;Kids",Mr Bean Live Action (1080p)
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk@English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Animation;Kids",Mr. Bean Animated (1080p)
 https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk@IT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Animation;Kids",Mr. Bean Anime Italy (1080p)
@@ -443,6 +559,8 @@ https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-s
 https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Nashville.us@CA" tvg-logo="https://images.pluto.tv/channels/65cf8d7428730900087c5907/colorLogoPNG.png" group-title="Series",Nashville
 https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8
+#EXTINF:-1 tvg-id="NBCComedyVault.us@SD" tvg-logo="https://i.imgur.com/nydZWwg.png" group-title="Comedy",NBC Comedy Vault (1080p)
+https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NCIS
 https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NCIS: Det bedste med Gibbs
@@ -451,6 +569,8 @@ https://jmp2.uk/plu-6901d952ec12c3c759fdc7cd.m3u8
 https://jmp2.uk/plu-68921b2f4fa995eff24df6c8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NCIS: Los Angeles
 https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
+#EXTINF:-1 tvg-id="NickComedyCentralPlus1.de@HD" tvg-logo="https://i.imgur.com/08ZUI9k.png" group-title="Comedy;Kids",Nick/Comedy Central +1 HD (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Nonstop Drama
 https://jmp2.uk/plu-62fb9ade112ca70007d8441d.m3u8
 #EXTINF:-1 tvg-id="Nosey.us@US" tvg-logo="https://i.imgur.com/i5doCQK.png" group-title="Series",Nosey (1080p)
@@ -471,6 +591,8 @@ https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8
 #EXTINF:-1 tvg-id="PerryMason.us@SD" tvg-logo="https://i.imgur.com/rHUUAwW.png" group-title="Series",Perry Mason
 https://jmp2.uk/plu-64eddc3485efec00085b0369.m3u8
+#EXTINF:-1 tvg-id="PersianaComedy.fr@SD" tvg-logo="https://i.imgur.com/DBZ3Pi5.png" group-title="Comedy",Persiana Comedy
+https://comedyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaFamily.fr@SD" tvg-logo="https://i.imgur.com/lMZsuWi.png" group-title="Movies",Persiana Family
 https://familyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaSeries.fr@HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-series-fr.png" group-title="Series",Persiana Series
@@ -479,6 +601,8 @@ https://onehls.persiana.live/hls/stream.m3u8
 https://playmedia-playcrime-goplay-dash.amagi.tv/master.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV American True Crime
 https://jmp2.uk/plu-692ebafce72f03e07e7df985.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV British Comedy
+https://jmp2.uk/plu-638e11951177840007fdd6b2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Brittisk Crime & Drama
 https://jmp2.uk/plu-65b91b53dc10a40008d54777.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Cine Crime
@@ -495,6 +619,10 @@ https://jmp2.uk/plu-62e91af00c43540007f2bb43.m3u8
 https://jmp2.uk/plu-5e46ae801f347500099d461a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Classic TV Variety
 https://jmp2.uk/plu-68d25c623175a2780d051d3a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Comedy
+https://jmp2.uk/plu-62e92178946c8000079a3160.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Comedy Movies
+https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCrime.us@Germany" tvg-logo="https://i.imgur.com/QwEpDY9.png" group-title="Documentary",Pluto TV Crime
 https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Crime Drama
@@ -503,6 +631,8 @@ https://jmp2.uk/plu-62e92708a7ce600007b2676a.m3u8
 https://jmp2.uk/plu-5f4d8594eb979c0007706de7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Crime+
 https://jmp2.uk/stvp-GBAK3504516A?.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Deutsche Comedy
+https://jmp2.uk/plu-6672f49f61a39900089db68e.m3u8
 #EXTINF:-1 tvg-id="PlutoTVDrama.us@UK" tvg-logo="https://i.imgur.com/PvhbHTZ.png" group-title="Movies",Pluto TV Drama
 https://jmp2.uk/plu-5ddf91149880d60009d35d27.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Drama Movies
@@ -515,6 +645,8 @@ https://jmp2.uk/plu-6661d5424b10960008599fa3.m3u8
 https://jmp2.uk/plu-5dc3fc6b9133f500099c7d98.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFantastic.us@SD" tvg-logo="https://i.imgur.com/MCu7YTA.png" group-title="Series",Pluto TV Fantastic
 https://jmp2.uk/plu-5b64a245a202b3337f09e51d.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Film Thriller
+https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV K-Drama
 https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVLives.us@US" tvg-logo="https://i.imgur.com/laupYwG.png" group-title="Series",Pluto TV Lives
@@ -563,6 +695,10 @@ https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8
 https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Sitcoms+
 https://jmp2.uk/plu-5cd149f021cb6c55e258bbe8.m3u8
+#EXTINF:-1 tvg-id="PlutoTVThrillers.us@Germany" tvg-logo="https://i.imgur.com/ULKvDN7.png" group-title="Movies",Pluto TV Thriller
+https://jmp2.uk/plu-5e1efdbf90ba3e0009d99082.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Thrillers
+https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV True Crime
 https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8
 #EXTINF:-1 tvg-id="PolsatSeriale.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png" group-title="Series",Polsat Seriale (1080p)
@@ -575,6 +711,18 @@ https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 https://jmp2.uk/plu-696e61287d2afdec4ff2cb75.m3u8
 #EXTINF:-1 tvg-id="Radiocanal.ar@SD" tvg-logo="https://i.ibb.co/NNyDWsz/download-8.png" group-title="General",Radiocanal San Francisco (1080p)
 http://204.199.3.2/.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Austria" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Rakuten TV Comedy Movies Austria (720p)
+https://7ed752b220a441b7b22bdf697c6c4df8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenComedyMovies-1/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Finland" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Rakuten TV Comedy Movies Finland (1080p)
+https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Germany" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Rakuten TV Comedy Movies Germany (1080p)
+https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Italy" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Rakuten TV Comedy Movies Italy (1080p)
+https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Spain" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Rakuten TV Comedy Movies Spain (1080p)
+https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Rakuten TV Comedy Movies UK (1080p)
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten TV Crime Series Germany (1080p)
 https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten TV Crime Series Italy (1080p)
@@ -607,8 +755,16 @@ https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/
 https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@Switzerland" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Family;Movies",Rakuten TV Family Switzerland (720p)
 https://a24daf1125344b9cab66eed2fcff8821.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenFamily-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten TV Films Thriller (720p)
+https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten TV Séries Crime (720p)
 https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten TV Thrillers Germany (1080p)
+https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten TV Thrillers Spain (1080p)
+https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten TV Thrillers UK (1080p)
+https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8
 #EXTINF:-1 tvg-id="RakutenViki.us@Poland" tvg-logo="https://i.imgur.com/pbyd1g2.png" group-title="Entertainment;Series",Rakuten VIKI
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenViki.us@Spain" tvg-logo="https://i.imgur.com/pbyd1g2.png" group-title="Entertainment;Series",Rakuten Viki (1080p)
@@ -623,12 +779,18 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimebe
 https://lds-realcrimebeta-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RiC.de@SD" tvg-logo="https://i.imgur.com/4wMZ8Em.png" group-title="Family;Kids",RiC (1080p)
 https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+#EXTINF:-1 tvg-id="RiffTrax.us@US" tvg-logo="https://i.imgur.com/hM4yKMn.png" group-title="Comedy",RiffTrax (720p)
+https://wurlrifftrax.global.transmit.live/hls/68222b9cbe836edbe6f39e74/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",RomCom K-Drama (1080p)
 https://7488d45c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JvbUNvbUtEcmFtYV9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="RoyaComedy.jo@SD" tvg-logo="https://i.imgur.com/oIThcM8.png" group-title="Comedy",Roya Comedy (1080p)
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
 #EXTINF:-1 tvg-id="RoyaDrama.jo@SD" tvg-logo="https://i.imgur.com/V7I0MVf.png" group-title="Series",Roya Drama (1080p)
 https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
 #EXTINF:-1 tvg-id="RTLCrime.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/RTL_Crime_%28Netherlands%29_%282023%2C_stacked%29.svg" group-title="Series",RTL Crime HD (1080p)
 http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8
+#EXTINF:-1 tvg-id="RyanandFriends.us@SD" tvg-logo="https://i.imgur.com/jcIprmt.png" group-title="Kids",Ryan and Friends (1080p)
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Serially Crime (720p)
 https://ixmediasrl-seriallycrime-1-it.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SerieMax.ci@SD" tvg-logo="https://i.imgur.com/GaRQXHT.png" group-title="Series",Serie Max
@@ -651,8 +813,14 @@ https://reflect-bayarea.cablecast.tv/live-6/live/live.m3u8
 https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_050/playlist.m3u8
 #EXTINF:-1 tvg-id="SFGovTV.us@SD" tvg-logo="https://i.imgur.com/uYXuwmV.png" group-title="Legislative",SFGovTV San Francisco The Government Channel (720p)
 https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_048/playlist.m3u8
+#EXTINF:-1 tvg-id="ShauntheSheepFriends.uk@US" tvg-logo="https://i.imgur.com/jQgnFcQ.png" group-title="Animation;Kids",Shaun the Sheep & Friends (1080p)
+https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
+#EXTINF:-1 tvg-id="SirippoliTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143791_ld_h9_aa.png?lock=720x540" group-title="Comedy",Sirippoli TV (576p)
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Sitcom Legends
 https://jmp2.uk/plu-633354b63df9700007f6a1b7.m3u8
+#EXTINF:-1 tvg-id="SNLVault.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/712dae9e-9111-4bbc-8ea4-242e891ab5b3/snl-vault-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png" group-title="Comedy",SNL Vault (1080p)
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017
 #EXTINF:-1 tvg-id="SonyOneBlacklist.fr@HD" tvg-logo="https://i.imgur.com/uJC8rXr.png" group-title="Series",Sony One Blacklist (1080p)
 https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyOneSeriesComedie.fr@HD" tvg-logo="https://i.ibb.co/ns4Md77B/FR-FAST-Plex-Comedy-TV-logo-dark.png" group-title="Series",Sony One Series Comedie (1080p)
@@ -663,6 +831,8 @@ https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/
 https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Space Series (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Stand-up Comedy (720p)
+https://jmp2.uk/plu-663e09b341af640008c1b68c.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Movies;Series",Star Channel Latin America South (1080p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-68.playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Star Family (576p) [Not 24/7]
@@ -671,6 +841,8 @@ http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6
 https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Star Trek: The Original Series
 https://jmp2.uk/plu-66601e338ea5560008f7820e.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Strawberry Shortcake and Friends
+https://jmp2.uk/plu-667f393836a2f90008fd17c0.m3u8
 #EXTINF:-1 tvg-id="SuperTV.it@SD" tvg-logo="https://i.imgur.com/hxF3yhw.png" group-title="General;Series",Super TV (720p)
 http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Supernatural Drama
@@ -679,6 +851,8 @@ https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8
 https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
 #EXTINF:-1 tvg-id="Survivor.us@SD" tvg-logo="https://i.imgur.com/Zz9SgY8.png" group-title="Series",Survivor (1080p)
 https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="TakeshisCastle.us@Germany" tvg-logo="https://i.imgur.com/KuK72kL.png" group-title="Comedy",Takeshi's Castle
+https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
 #EXTINF:-1 tvg-id="TalangaTVCanal39.hn@SD" tvg-logo="https://i.imgur.com/5GiUzHC.jpg" group-title="Family",Talanga TV Canal 39 (480p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/Tv39Talanga/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemundoTelenovelasClasicas.us@SD" tvg-logo="https://i.imgur.com/9bPcYIN.png" group-title="Series",Telemundo telenovelas clásicas
@@ -701,12 +875,14 @@ https://jmp2.uk/plu-5d48685da7e9f476aa8a1888.m3u8
 https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="TheConners.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3acd803e-a5e3-430c-a34e-508123d2bd95/TheConners_1500x1000_Logo_Dark.png" group-title="Comedy;Series",The Conners (1080p) [Geo-blocked]
 https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheFilmDetective.us@SD" tvg-logo="https://i.imgur.com/yfOwmsP.png" group-title="Movies",The Film Detective (720p)
+https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="JohnnyCarsonTV.us@SD" tvg-logo="https://i.imgur.com/KBTqpJ7.png" group-title="Series",The Johnny Carson Show (720p)
 https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8
 #EXTINF:-1 tvg-id="TheJudgeJudyChannel.us@SD" tvg-logo="https://i.imgur.com/RhD7gIW.png" group-title="Series",The Judge Judy Channel (720p)
 https://jmp2.uk/plu-6283d51144ad8f0007fa382d.m3u8
-#EXTINF:-1 tvg-id="TheNewDetectives.us@UK" tvg-logo="https://i.imgur.com/GLXg9ge.png" group-title="Series",The New Detectives
-https://jmp2.uk/plu-5e393d5c696b3b0009775c8b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",The New Detectives
+https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us@Brazil" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Family",The Pet Collective (720p)
 https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us@India" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Family",The Pet Collective
@@ -727,12 +903,16 @@ https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
 https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThreesCompany.us@SD" tvg-logo="https://i.imgur.com/5bTwwpD.png" group-title="Series",Three's Company
 https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Thrillers 365
+https://jmp2.uk/plu-62fb6da41afad500077e9178.m3u8
 #EXTINF:-1 tvg-id="TinyHouseNation.us@SD" tvg-logo="https://i.imgur.com/ai1P06C.png" group-title="Series",Tiny House Nation (1080p)
 https://6df6888a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9UaW55SG91c2VOYXRpb25fSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="TLNMediaSanFrancisco.us@SD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tln-media-us.png" group-title="Religious",TLN Media San Francisco (720p)
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/b29d27bb-88af-42d1-937a-5bdf76b71c17.m3u8
 #EXTINF:-1 tvg-id="TopCrime.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Top_Crime_-_Logo_2013.svg/960px-Top_Crime_-_Logo_2013.svg.png" group-title="Series",Top Crime [Geo-blocked]
 https://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
+#EXTINF:-1 tvg-id="TopMillionDollarAgent.pl@FAST" tvg-logo="" group-title="Comedy",Top Million Dollar Agent
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883107
 #EXTINF:-1 tvg-id="TotalCrime.ca@CA" tvg-logo="https://images.pluto.tv/channels/62e93b8eb8e02600071f8b1d/colorLogoPNG_1731000193486.png" group-title="Documentary",Total Crime (1080p)
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",True Crime by Pluto TV
@@ -769,6 +949,10 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 #EXTINF:-1 tvg-id="TVIFiccao.pt@SD" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" group-title="Series",TVI Ficção (720p)
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMaticComedy.br@SD" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="Comedy",TVMatic Comedy (720p)
+http://cdn.tvmatic.net/comedy.m3u8
+#EXTINF:-1 tvg-id="TVSComedyNetwork.us@SD" tvg-logo="https://i.imgur.com/rXORbti.png" group-title="Comedy",TVS Comedy Network (720p)
+https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8
 #EXTINF:-1 tvg-id="TVSFamilyChannel.us@SD" tvg-logo="https://i.imgur.com/Y3EV3DL.png" group-title="Family",TVS Family Channel (360p)
 https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
 #EXTINF:-1 tvg-id="UAlibi.uk@SD" tvg-logo="https://i.imgur.com/uazjv8g.png" group-title="Series",U&Alibi (576p)
@@ -815,12 +999,16 @@ https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
 https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCafe.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Series",Zee Cafe HD (1080p)
 http://103.229.254.25:7001/play/a0cx/index.m3u8
+#EXTINF:-1 tvg-id="ZeeComedyNation.in@HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100002GD_20260325T012327SQUARE.png" group-title="Comedy",Zee Comedy Nation (1080p)
+https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="FrequenceNovelas.fr@SD" tvg-logo="https://i.imgur.com/fEjNAps.png" group-title="Series",Zylo Fréquence Novelas (1080p)
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="IntoCrime.fr@SD" tvg-logo="https://i.imgur.com/43at4M2.png" group-title="Documentary",Zylo Into Crime (1080p)
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TodoNovelas.es@SD" tvg-logo="https://i.imgur.com/NuYwGok.png" group-title="Series",Zylo Todo Novelas (1080p)
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
+#EXTINF:-1 tvg-id="KVNTV.ru@SD" tvg-logo="https://i.imgur.com/Vw3LFLX.png" group-title="Comedy",КВН ТВ (576p)
+http://31.148.48.15/KVN_TV/index.m3u8
 #EXTINF:-1 tvg-id="Crimea24.ru@SD" tvg-logo="https://i.imgur.com/k4C0uvp.png" group-title="News",Крым 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:-1 tvg-id="MirSeriala.ru@SD" tvg-logo="https://i.imgur.com/uzj7wVp.png" group-title="Series",Мир Сериала (576p)
@@ -845,5 +1033,7 @@ https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="STS.ru@SD" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Family",СТС (+4) (576p)
 http://31.148.48.15/STS/index.m3u8
+#EXTINF:-1 tvg-id="TvoyeTVYumor.ru@SD" tvg-logo="https://smotret.tv/images/tvoe-tv-yumor.webp" group-title="Comedy",Твое ТВ Юмор (1080p)
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="SichuanTVWomenandChildrenChannel.cn@SD" tvg-logo="https://i.imgur.com/1lGO0vY.png" group-title="Family",四川妇女儿童 (720p) [Not 24/7]
 http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
