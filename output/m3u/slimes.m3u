@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Slimes
+# Exemplos: Kami-tachi ni Hirowareta Otoko, Kami-tachi ni Hirowareta Otoko 2nd Season, Puniru wa Kawaii Slime, Puniru wa Kawaii Slime 2nd Season, Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita., Slime Boukenki, Slime Boukenki: Umi da, Yeah!, Slime Boukenki: Wolf-kun Ganbaru no Maki, Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita, Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Slimes",Pluto TV Anime | Slimes
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Slimes",Anime World | Slimes
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

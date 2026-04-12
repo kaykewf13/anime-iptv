@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Shinigami
+# Exemplos: Black Butler, Bleach, Bleach Movie 1: Memories of Nobody, Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru, Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu, Bleach Movie 4: Jigoku-hen, Bleach: Memories in the Rain, Bleach: Sennen Kessen-hen, Bleach: Sennen Kessen-hen - Ketsubetsu-tan, Bleach: Sennen Kessen-hen - Soukoku-tan
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Shinigami",Pluto TV Anime | Shinigami
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Shinigami",Anime World | Shinigami
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

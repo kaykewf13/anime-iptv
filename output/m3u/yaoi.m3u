@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Yaoi
+# Exemplos: 4-ju Aein, 6 Lovers, Ai no Kusabi, Ai no Kusabi (2012), Ateuma Chara no Kuse shite, Super Darling Ouji ni Chouai sareteimasu., Banana Fish, Boku no Pico, Boku no Sexual Harassment, Boku wa Konomama Kaeranai, Bronze: Zetsuai Since 1989
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Yaoi",Pluto TV Anime | Yaoi
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Yaoi",Anime World | Yaoi
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Nostalgia
+# Exemplos: 16bit Sensation: Another Layer, Akazukin Chacha, Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai., Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie, Antique Heart, Aoi Blink, Arknights: Rise from Ember, Aru Tabibito no Nikki, Astro Note, Boku dake ga Inai Machi
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Nostalgia",Pluto TV Anime | Nostalgia
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Nostalgia",Anime World | Nostalgia
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

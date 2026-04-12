@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Apartment Life
+# Exemplos: 20-dai no Heya-hen, Akiba-chan, Apartment!, Ashiaraiyashiki no Juunin-tachi., Astro Note, C Danchi, Inu x Boku SS, Inu x Boku SS: Miketsukami-kun Henka/Switch/Omamagoto, Kaze ga Tsuyoku Fuiteiru, Kotarou wa Hitorigurashi
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Apartment Life",Pluto TV Anime | Apartment Life
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Apartment Life",Anime World | Apartment Life
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Ancient China
+# Exemplos: 5-fun de Wakaru! Kingdom: Gou Juugun-hen, Akatsuki no Yona, Akatsuki no Yona OVA, Auspicious Emperor, Bai She II: Qing She Jie Qi, Bai She: Fusheng, Bai She: Yuanqi, Bai Yao Pu, Bai Yao Pu 2nd Season, Bai Yao Pu: Jingshi Pian
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Ancient China",Pluto TV Anime | Ancient China
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Ancient China",Anime World | Ancient China
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

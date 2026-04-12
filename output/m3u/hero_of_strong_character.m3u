@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Hero Of Strong Character
+# Exemplos: 18if, 1989, 29-sai Dokushin Chuuken Boukensha no Nichijou, 7 Seeds, 7 Seeds 2nd Season, 91 Days, 91 Days: Toki no Asase/Subete no Kinou/Ashita, Mata Ashita, [Oshi no Ko], [Oshi no Ko] 2nd Season, A3! Season Spring & Summer
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Hero Of Strong Character",Pluto TV Anime | Hero Of Strong Character
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Hero Of Strong Character",Anime World | Hero Of Strong Character
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

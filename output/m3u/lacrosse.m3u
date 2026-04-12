@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Lacrosse
+# Exemplos: Aikatsu Friends!, Battle Athletess Daiundoukai, Cross Ange: Tenshi to Ryuu no Rondo, Extreme Hearts, Futari wa Precure, Futari wa Precure: Max Heart, Jam the Housnail, Kimi no Koe wo Todoketai, Ochame na Futago: Claire Gakuin Monogatari, Sakura Capsule
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Lacrosse",Pluto TV Anime | Lacrosse
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Lacrosse",Anime World | Lacrosse
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

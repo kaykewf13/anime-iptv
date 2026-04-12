@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Senpai-Kouhai Relationship
+# Exemplos: Ao no Hako, Bukiyou na Senpai., Clannad: Mou Hitotsu no Sekai, Tomoyo-hen, Ganbare Douki-chan, Ganbare Douki-chan: Kakusa Shakai ni Nayamu Kaisha no Douki, Giji Harem, Hirano to Kagiura, Ijiranaide, Nagatoro-san, Ijiranaide, Nagatoro-san 2nd Attack, Ijiranaide, Nagatoro-san 2nd Attack Mini Anime
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Senpai-Kouhai Relationship",Pluto TV Anime | Senpai-Kouhai Relationship
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Senpai-Kouhai Relationship",Anime World | Senpai-Kouhai Relationship
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

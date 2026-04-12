@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Switzerland
+# Exemplos: Alps Monogatari: Watashi no Annette, Alps Monogatari: Watashi no Annette Specials, Alps no Shoujo Heidi, Alps no Shoujo Heidi (1979), Alps no Shoujo Heidi Pilot, Alps no Shoujo Heidi: Alm no Yama-hen, Alps no Shoujo Heidi: Heidi to Clara-hen, Eiga Daisuki Pompo-san, Eureka Seven AO, Eureka Seven AO: Jungfrau no Hanabana-tachi
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Switzerland",Pluto TV Anime | Switzerland
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Switzerland",Anime World | Switzerland
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

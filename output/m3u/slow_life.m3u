@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Slow Life
+# Exemplos: Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore, Hataage! Kemono Michi, Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu., Izure Saikyou no Renkinjutsushi?, Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life, Kami-tachi ni Hirowareta Otoko, Kami-tachi ni Hirowareta Otoko 2nd Season, Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life, Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita, Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Slow Life",Pluto TV Anime | Slow Life
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Slow Life",Anime World | Slow Life
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Zashiki-Warashi
+# Exemplos: Hoozuki no Reitetsu 2nd Season, Hoozuki no Reitetsu 2nd Season: Sono Ni, Hoozuki no Reitetsu OAD, Inu x Boku SS, Jigoku Sensei Nube, Jigoku Sensei Nube (2025), Kiitarou Shounen no Youkai Enikki, Miyori no Mori, Mononoke, Takahashi Rumiko Gekijou
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Zashiki-Warashi",Pluto TV Anime | Zashiki-Warashi
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Zashiki-Warashi",Anime World | Zashiki-Warashi
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

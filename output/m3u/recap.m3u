@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Recap
+# Exemplos: "Uchuu Senkan Yamato" to Iu Jidai: Seireki 2202-nen no Sentaku, 10-pun de Oitsukeru: Attack on Titan, 100-man no Inochi no Ue ni Ore wa Tatteiru Recap, 15-fun de Wakaru: Tower of God, 15-pun de Oitsukeru: Attack on Titan, 20-pun de Oitsukeru: Attack on Titan, 3-gatsu no Lion Recap, 3-pun de Wakaru! Kore made no Love Live!, 3-pun de Wakaru! Kore made no Love Live! Sunshine!!, 30-pun de Wakaru! Kore made no Love Live!
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Recap",Pluto TV Anime | Recap
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Recap",Anime World | Recap
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

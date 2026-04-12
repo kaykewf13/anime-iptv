@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Christmas
+# Exemplos: 1-gatsu ni wa Christmas, 12-wol, 7-nin no Santa Claus, A Christmas Song, A Day Before Us: Merry Christmas!, Aggressive Retsuko: We Wish You a Metal Christmas, Ai to Aiko no Christmas: Omoide no Tsuri, Ai Yori Aoshi: Enishi - Miyuki, Akuei to Gacchinpo, Angel Heart
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Christmas",Pluto TV Anime | Christmas
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Christmas",Anime World | Christmas
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

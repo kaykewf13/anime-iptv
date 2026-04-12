@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Veterinarian
+# Exemplos: Anyamal Tantei Kiruminzoo, Dog Signal, Fresh Precure!, Healin' Good♡Precure, Jigoku Shoujo, Kemono no Souja Erin, Mahou no Princess Minky Momo, Monster Musume no Oishasan, Precure All Stars Movie New Stage 3: Eien no Tomodachi, Wonderful Precure!
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Veterinarian",Pluto TV Anime | Veterinarian
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Veterinarian",Anime World | Veterinarian
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

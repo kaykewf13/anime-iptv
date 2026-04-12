@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Stardom
+# Exemplos: Chou Kuse ni Narisou, Interstella5555: The 5tory of The 5ecret 5tar 5ystem, Key the Metal Idol, Kirarin☆Revolution, Lemon Angel Project, Mahou no Tenshi Creamy Mami, Mermaid Melody Pichi Pichi Pitch, Perfect Blue, Skip Beat!
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Stardom",Pluto TV Anime | Stardom
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Stardom",Anime World | Stardom
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

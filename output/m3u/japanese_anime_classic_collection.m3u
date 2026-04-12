@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Japanese Anime Classic Collection
+# Exemplos: Ahiru no Otegara, Bouken Dankichi: Hyouryuu no Maki, Chou no Sainan, Dankichi-jima no Olympic Taikai, Dekobou no Jidousha Ryokou, Doubutsu Mura no Daisodou, Doubutsu Mura no Sports Day, Doubutsu Sumo Taikai, Furudera no Obake-soudou, Gulliver Funtouki
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Japanese Anime Classic Collection",Pluto TV Anime | Japanese Anime Classic Collection
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Japanese Anime Classic Collection",Anime World | Japanese Anime Classic Collection
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

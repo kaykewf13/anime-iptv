@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Food And Beverage
+# Exemplos: "Calpis" Hakkou Monogatari, "Inochi Sketch" Movie Jabow x Mameshiba Collab CM, 23-ji no Saga Meshi Anime, 40MeterP: Shaker, A-Channel: Nabe wo Tabeyou, Ai wo Komete, Aitata Bocchi, Akiba Ichi: Hitobito ga Igoi. Kouryou Suru. Kokochi Ii. Kodawari no Shokukuukan., Akujiki Reijou to Kyouketsu Koushaku, All-Free kono Natsu Ichioshi Monogatari Campaign Kokuchi Douga
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Food And Beverage",Pluto TV Anime | Food And Beverage
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Food And Beverage",Anime World | Food And Beverage
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

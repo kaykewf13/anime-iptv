@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Management
+# Exemplos: Amagi Brilliant Park, Amagi Brilliant Park: Nonbirishiteiru Hima ga Nai!, Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!, Dungeon no Naka no Hito, Genjitsu Shugi Yuusha no Oukoku Saikenki, Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2, Kui Cheng Shoufu Cong Youxi Kaishi, Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni, Release That Witch, Shinmai Renkinjutsushi no Tenpo Keiei
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Management",Pluto TV Anime | Management
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Management",Anime World | Management
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

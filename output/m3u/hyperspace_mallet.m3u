@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Hyperspace Mallet
+# Exemplos: A-Ko The Versus, Amagi Brilliant Park, Angel Heart, Arifureta Shokugyou de Sekai Saikyou, Asura Cryin', Asura Cryin' 2, Beast Wars Second Chou Seimeitai Transformers, Chuunibyou demo Koi ga Shitai!, City Hunter, City Hunter '91
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Hyperspace Mallet",Pluto TV Anime | Hyperspace Mallet
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Hyperspace Mallet",Anime World | Hyperspace Mallet
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Indigenous Cultures
+# Exemplos: Fumetsu no Anata e, Fumetsu no Anata e Season 2, Golden Douga Gekijou, Golden Douga Gekijou Specials, Golden Kamuy, Golden Kamuy 2nd Season, Golden Kamuy 2nd Season OVA, Golden Kamuy 3rd Season, Golden Kamuy 4th Season, Golden Kamuy: Barato no Youjinbou/Kaiki! Nazo no Kyodai Tori
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Indigenous Cultures",Pluto TV Anime | Indigenous Cultures
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Indigenous Cultures",Anime World | Indigenous Cultures
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

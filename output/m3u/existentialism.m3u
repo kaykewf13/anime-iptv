@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Existentialism
+# Exemplos: .hack//Sign, Alien 9, Blade Runner: Black Lotus, Blade Runner: Black Out 2022, Boogiepop wa Warawanai (2019), Dead Dead Demons Dededede Destruction (ONA), Ergo Proxy, Fumetsu no Anata e Season 2, Ghost in the Shell: Arise, Gosenzo-sama Banbanzai!
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Existentialism",Pluto TV Anime | Existentialism
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Existentialism",Anime World | Existentialism
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

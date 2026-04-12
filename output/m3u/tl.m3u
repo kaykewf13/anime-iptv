@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Tl
+# Exemplos: 3-byougo, Yajuu. Goukon de Sumi ni Ita Kare wa Nikushoku deshita, Amai Choubatsu: Watashi wa Kanshu Senyou Pet, Eternity: Shinya no Nurekoi Channel ♡, Milky Passion: Dougenzaka - Ai no Shiro, Ookami-san wa Taberaretai, Ore no Yubi de Midarero.: Heitengo Futarikiri no Salon de..., Sazanami Soushi ni Junketsu wo Sasagu, Shuudengo, Capsule Hotel de, Joushi ni Binetsu Tsutawaru Yoru., Skirt no Naka wa Kedamono deshita., XL Joushi.
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Tl",Pluto TV Anime | Tl
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Tl",Anime World | Tl
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

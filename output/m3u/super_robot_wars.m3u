@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Super Robot Wars
+# Exemplos: Aoki Ryuusei SPT Layzner, Aquarion Evol, Beautiful World, Betterman, Bouken! Iczer 3, Brain Powerd, Buddy Complex, Buddy Complex: Kanketsu-hen - Ano Sora ni Kaeru Mirai de, Change!! Getter Robo: Sekai Saigo no Hi, Chou Denji Machine Voltes V
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Super Robot Wars",Pluto TV Anime | Super Robot Wars
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Super Robot Wars",Anime World | Super Robot Wars
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

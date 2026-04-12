@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Struggle To Survive
+# Exemplos: 7 Seeds, 7 Seeds 2nd Season, Akudama Drive, Alien Stage, Ame wo Tsugeru Hyouryuu Danchi, Angel Cop, Angolmois: Genkou Kassenki, Around 40 Otoko no Isekai Tsuuhan, Banana Fish, Baoh Raihousha
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Struggle To Survive",Pluto TV Anime | Struggle To Survive
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Struggle To Survive",Anime World | Struggle To Survive
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

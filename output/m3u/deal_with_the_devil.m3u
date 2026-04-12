@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Deal With The Devil
+# Exemplos: Andersen Douwa: Ningyohime, Chocolat no Mahou, Dororo, Dororo to Hyakkimaru, Emo Faze, Fushigi Dagashiya: Zenitendou, Jigoku Shoujo, Jigoku Shoujo Futakomori, Jigoku Shoujo Mitsuganae, Jigoku Shoujo Recap
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Deal With The Devil",Pluto TV Anime | Deal With The Devil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Deal With The Devil",Anime World | Deal With The Devil
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

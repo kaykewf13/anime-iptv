@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Manhua
+# Exemplos: Aguu: Tensai Ningyou, Aishen Qiaokeli-ing..., Aishen Qiaokeli-ing...II, Ani ni Tsukeru Kusuri wa Nai!, Ani ni Tsukeru Kusuri wa Nai! 2, Ani ni Tsukeru Kusuri wa Nai! 3, Ani ni Tsukeru Kusuri wa Nai! 4, Ani ni Tsukeru Kusuri wa Nai! 5, AOTU Shijie, Bloodivores
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Manhua",Pluto TV Anime | Manhua
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Manhua",Anime World | Manhua
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

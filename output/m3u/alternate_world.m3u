@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Alternate World
+# Exemplos: Astarotte no Omocha!, C: The Money of Soul and Possibility Control, Doraemon Movie 05: Nobita no Makai Daibouken, Doraemon Movie 07: Nobita to Tetsujin Heidan, Doraemon Movie 22: Nobita to Tsubasa no Yuusha-tachi, Doraemon Movie 27: Nobita no Shin Makai Daibouken - 7-nin no Mahoutsukai, Doraemon the Movie: Nobita and the Steel Troops: The New Age, Kyou kara Maou! 3rd Series, No Game No Life, Tenkuu Senki Shurato
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Alternate World",Pluto TV Anime | Alternate World
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Alternate World",Anime World | Alternate World
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Healthcare And Medicine
+# Exemplos: Ameku Takao no Suiri Karte, Anime de Wakaru Shinryounaika, Arknights: Perish in Frost, Arknights: Prelude to Dawn, Atarashii Joushi wa Do Tennen, Babylon, Black Jack (TV), Black Jack 21, Black Jack Final, Black Jack OVA
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Healthcare And Medicine",Pluto TV Anime | Healthcare And Medicine
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Healthcare And Medicine",Anime World | Healthcare And Medicine
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Tourism
+# Exemplos: Adachi-ku: Adachi no Theme, Adachi-ku: Adachin Toujou-hen, Aloha! Youkai Watch: Rakuen Hawaii de Geragerapou!!, Anata no France wa Donna Tokoro?, Aoshima Megu, Attakai, Fuyu Canada, Chichibu de Buchichi, Chou Futsuu Toshi Kamagaya Densetsu, Chou Futsuu Toshi Kashiwa Densetsu, Chou Futsuu Toshi Kashiwa Densetsu R
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Tourism",Pluto TV Anime | Tourism
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Tourism",Anime World | Tourism
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

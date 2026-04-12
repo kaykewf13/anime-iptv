@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Branching Story
+# Exemplos: Amagami SS, Amagami SS+ Plus, Amnesia, Attraction, Big Order, Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria, Hallelujah: Unmei no Sentaku, Higurashi no Naku Koro ni, Higurashi no Naku Koro ni Gou, Higurashi no Naku Koro ni Sotsu
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Branching Story",Pluto TV Anime | Branching Story
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Branching Story",Anime World | Branching Story
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

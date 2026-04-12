@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Non-Blood-Related Siblings -- Do Not Use -- To Be Deleted
+# Exemplos: 100-man-nen Chikyuu no Tabi: Bander Book, Ai Shimai 2: Futari no Kajitsu, Ai Shimai: Futari no Kajitsu, Air Gear, Akaneiro ni Somaru Saka, Asatte no Houkou., Bakuen Campus Guardress, Blood+, Canvas 2: Nijiiro no Sketch, Chocotto Sister
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Non-Blood-Related Siblings -- Do Not Use -- To Be Deleted",Pluto TV Anime | Non-Blood-Related Siblings -- Do Not Use -- To Be Deleted
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Non-Blood-Related Siblings -- Do Not Use -- To Be Deleted",Anime World | Non-Blood-Related Siblings -- Do Not Use -- To Be Deleted
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

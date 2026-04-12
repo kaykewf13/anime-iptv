@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Action Comedy
+# Exemplos: 20min Walk From Nishi-Ogikubo Station, 21 Emon, 21 Emon Uchuu e Irasshai!, 21 Emon Uchuu ike! Hadashi no Princess, 7-fun de Wakaru: My Hero Academia!, A-Ko The Versus, Aachi wa Ssipak, Abashiri Ikka, Abunai Sisters: Koko & Mika, Ai Tenshi Densetsu Wedding Peach Specials
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Action Comedy",Pluto TV Anime | Action Comedy
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Action Comedy",Anime World | Action Comedy
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8
