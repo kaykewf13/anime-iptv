@@ -57,6 +57,7 @@ manifest = {
     "catalog_json": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/anime_catalog.json",
     "categories_base": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/categories/",
     "categories_m3u_base": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/m3u/"
+    "completed_anime_series_m3u": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/completed_anime_series.m3u",
     }
 }
 
