@@ -80,20 +80,8 @@ jobs:
       - name: Generate grouped completed anime series M3U
         run: python scripts/build_completed_anime_series_grouped_m3u.py
 
-      - name: Generate master M3U playlist
-        run: python scripts/build_master_m3u.py
-
-      - name: Run build_catalog.py
-        run: python scripts/build_catalog.py
-
-      - name: Run build_m3u.py
-        run: python scripts/build_m3u.py
-
-      - name: Run build_series_m3u.py
-        run: python scripts/build_series_m3u.py
-
-      - name: Generate category M3U files
-        run: python scripts/build_category_m3u.py
+      - name: Generate Top 20 completed anime series M3U
+        run: python scripts/build_top20_completed_anime_series_m3u.py
 
       - name: Generate master M3U playlist
         run: python scripts/build_master_m3u.py
@@ -104,13 +92,20 @@ jobs:
       - name: Run build_pages.py
         run: python scripts/build_pages.py
 
-      - name: Publish playlists to GitHub Pages
+      - name: Publish playlists to GitHub Pages docs
         run: python scripts/publish_pages.py
 
-            - name: Commit and push generated files
-              run: |
+      - name: Show generated files
+        run: |
+          echo "----- output -----"
+          ls -lah output || true
+          echo "----- docs -----"
+          ls -lah docs || true
+
+      - name: Commit and push generated files
+        run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public output docs
-          git diff --cached --quiet || git commit -m "chore: update IPTV playlists"
+          git add data output docs
+          git diff --cached --quiet || git commit -m "chore: update anime playlists and pages"
           git push
