@@ -104,10 +104,13 @@ jobs:
       - name: Run build_pages.py
         run: python scripts/build_pages.py
 
-      - name: Commit and push generated files
-        run: |
+      - name: Publish playlists to GitHub Pages
+        run: python scripts/publish_pages.py
+
+            - name: Commit and push generated files
+              run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data output docs
-          git diff --cached --quiet || git commit -m "chore: update anime catalog and series playlist"
+          git add public output docs
+          git diff --cached --quiet || git commit -m "chore: update IPTV playlists"
           git push
