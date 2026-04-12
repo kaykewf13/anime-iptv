@@ -77,6 +77,9 @@ jobs:
       - name: Generate completed anime series M3U
         run: python scripts/build_completed_anime_series_m3u.py
 
+      - name: Generate grouped completed anime series M3U
+        run: python scripts/build_completed_anime_series_grouped_m3u.py
+
       - name: Generate master M3U playlist
         run: python scripts/build_master_m3u.py
 
