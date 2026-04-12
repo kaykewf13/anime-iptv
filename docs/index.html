@@ -7,25 +7,26 @@
   <link rel="stylesheet" href="assets/style.css" />
 </head>
 <body>
-  <header class="hero">
-    <div class="hero__content">
-      <p class="eyebrow">Catálogo + IPTV + GitHub Pages</p>
-      <h1>🎎 Anime IPTV</h1>
+  <header class="hero hero--home">
+    <div class="hero__overlay"></div>
+    <div class="hero__content container">
+      <p class="eyebrow">Catálogo + IPTV + Streaming Hub</p>
+      <h1>Anime IPTV</h1>
       <p class="hero__text">
-        Explore categorias de anime e assista através de playlists IPTV organizadas.
+        Explore categorias, descubra animes por gênero e assista via IPTV com uma experiência inspirada em plataformas de streaming.
       </p>
 
       <div class="hero__actions">
         <a id="animeM3uLink" class="button" href="#" target="_blank" rel="noopener noreferrer">
-          📺 Assistir Anime via IPTV
+          ▶ Assistir Anime via IPTV
         </a>
 
         <a id="seriesM3uLink" class="button button--ghost" href="#" target="_blank" rel="noopener noreferrer">
-          🎬 Assistir Séries via IPTV
+          🎬 Séries via IPTV
         </a>
 
-        <a id="masterM3uLink" class="button" href="#" target="_blank" rel="noopener noreferrer">
-          📡 Playlist Mestra IPTV
+        <a id="masterM3uLink" class="button button--ghost" href="#" target="_blank" rel="noopener noreferrer">
+          📡 Playlist Mestra
         </a>
 
         <a id="catalogLink" class="button button--ghost" href="#" target="_blank" rel="noopener noreferrer">
@@ -35,12 +36,15 @@
     </div>
   </header>
 
-  <main class="container">
-    <section class="stats" id="stats"></section>
+  <main class="container page-spacing">
+    <section class="stats stats--highlight" id="stats"></section>
 
-    <section class="panel">
+    <section class="panel panel--featured">
       <div class="panel__header">
-        <h2>Categorias</h2>
+        <div>
+          <p class="section-kicker">Explorar</p>
+          <h2>Categorias de Anime</h2>
+        </div>
         <input type="search" id="categorySearch" placeholder="Buscar categoria..." />
       </div>
       <div id="categoriesGrid" class="grid"></div>
@@ -48,7 +52,10 @@
 
     <section class="panel">
       <div class="panel__header">
-        <h2>Animes recentes</h2>
+        <div>
+          <p class="section-kicker">Em destaque</p>
+          <h2>Animes recentes</h2>
+        </div>
       </div>
       <div id="recentGrid" class="grid grid--small"></div>
     </section>
