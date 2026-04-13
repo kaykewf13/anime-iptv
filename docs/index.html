@@ -13,29 +13,25 @@
       <p class="eyebrow">Catálogo + IPTV + Streaming Hub</p>
       <h1>Anime IPTV</h1>
       <p class="hero__text">
-        Explore categorias, descubra animes por gênero e assista via IPTV com uma experiência inspirada em plataformas de streaming.
+        Explore categorias, descubra animes por gênero e acesse playlists IPTV e VOD em uma experiência inspirada em plataformas de streaming.
       </p>
 
       <div class="hero__actions">
         <a id="animeM3uLink" class="button" href="#" target="_blank" rel="noopener noreferrer">
-          ▶ Assistir Anime via IPTV
+          ▶ Anime via IPTV
         </a>
 
         <a id="seriesM3uLink" class="button button--ghost" href="#" target="_blank" rel="noopener noreferrer">
-          🎬 Séries via IPTV
+          📺 Séries via IPTV
+        </a>
+
+        <a id="vodSeriesLink" class="button button--ghost" href="#" target="_blank" rel="noopener noreferrer">
+          🎬 VOD Séries
         </a>
 
         <a id="masterM3uLink" class="button button--ghost" href="#" target="_blank" rel="noopener noreferrer">
           📡 Playlist Mestra
         </a>
-
-        <a id="completedSeriesLink"
-   class="button button--ghost"
-   href="https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/completed_anime_series.m3u"
-   target="_blank"
-   rel="noopener noreferrer">
-   🎌 Séries de Animes Concluídas
-</a>
 
         <a id="catalogLink" class="button button--ghost" href="#" target="_blank" rel="noopener noreferrer">
           📊 Catálogo JSON
@@ -45,6 +41,25 @@
   </header>
 
   <main class="container page-spacing">
+    <section class="panel player-panel hidden" id="playerPanel">
+      <div class="panel__header">
+        <div>
+          <p class="section-kicker">Player</p>
+          <h2>Reprodução</h2>
+        </div>
+        <button id="closePlayerBtn" class="button button--ghost button--small" type="button">
+          Fechar
+        </button>
+      </div>
+
+      <div id="playerInfo" class="player-info"></div>
+
+      <div class="player-wrap">
+        <video id="videoPlayer" class="video-player hidden" controls playsinline></video>
+        <iframe id="iframePlayer" class="iframe-player hidden" allowfullscreen></iframe>
+      </div>
+    </section>
+
     <section class="stats stats--highlight" id="stats"></section>
 
     <section class="panel panel--featured">
