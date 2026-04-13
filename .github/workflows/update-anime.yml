@@ -6,7 +6,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 */12 * * *"  # Atualiza a cada 12 horas
+    - cron: "0 */12 * * *"  # Executa a cada 12 horas
 
 permissions:
   contents: write
@@ -37,17 +37,14 @@ jobs:
       # 📁 4. Criar diretórios necessários
       - name: Create directories
         run: |
-          mkdir -p data
-          mkdir -p output
-          mkdir -p docs
-          mkdir -p scripts
+          mkdir -p data output docs
 
-      # 📊 5. Baixar o Anime Offline Database
+      # 📊 5. Baixar o Anime Offline Database (URL corrigida)
       - name: Download Anime Offline Database
         run: |
           curl -fL \
-      https://sourceforge.net/projects/anime-offline-database.mirror/files/2026-14/anime-offline-database-minified.json/download \
-      -o data/anime-offline-database-minified.json
+            https://sourceforge.net/projects/anime-offline-database.mirror/files/2026-14/anime-offline-database-minified.json/download \
+            -o data/anime-offline-database-minified.json
 
       # 🔍 6. Verificar arquivo baixado
       - name: Verify downloaded database
@@ -64,8 +61,8 @@ jobs:
           if not p.exists():
               raise FileNotFoundError("Arquivo não foi baixado.")
 
-          if p.stat().st_size < 1000:
-              raise ValueError("Arquivo inválido ou corrompido.")
+          if p.stat().st_size < 1000000:
+              raise ValueError("Arquivo inválido ou muito pequeno.")
 
           with open(p, "r", encoding="utf-8") as f:
               raw = json.load(f)
@@ -74,7 +71,7 @@ jobs:
           print("Total de animes:", len(raw.get("data", [])))
           PY
 
-      # 🧩 7. Garantir arquivo de fontes oficiais
+      # 📂 7. Garantir arquivo de fontes oficiais
       - name: Ensure official sources file exists
         run: |
           if [ ! -f data/official_sources.json ]; then
@@ -85,7 +82,7 @@ jobs:
       - name: Run build_catalog.py
         run: python scripts/build_catalog.py
 
-      # 🔗 9. Mesclar fontes oficiais aprovadas
+      # 🔗 9. Mesclar fontes aprovadas
       - name: Merge approved sources
         run: python scripts/build_sources_merge.py
 
