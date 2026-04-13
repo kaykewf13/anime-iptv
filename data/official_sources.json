@@ -1,0 +1,66 @@
+[
+  {
+    "match_title": "Boruto: Naruto Next Generations",
+    "source_name": "Pluto TV",
+    "type": "live",
+    "source_url": "https://pluto.tv/",
+    "watch_url": "https://pluto.tv/us/live-tv/67ed8f7e443f0671bc2b2368",
+    "approved": true
+  },
+  {
+    "match_title": "Naruto",
+    "source_name": "Pluto TV",
+    "type": "live",
+    "source_url": "https://pluto.tv/",
+    "watch_url": "https://pluto.tv/us/live-tv/naruto",
+    "approved": true
+  },
+  {
+    "match_title": "One Piece",
+    "source_name": "Pluto TV",
+    "type": "live",
+    "source_url": "https://pluto.tv/",
+    "watch_url": "https://pluto.tv/en/live-tv/5f7790b3ed0c88000720b241",
+    "approved": true
+  },
+  {
+    "match_title": "Sailor Moon",
+    "source_name": "Pluto TV",
+    "type": "live",
+    "source_url": "https://pluto.tv/",
+    "watch_url": "https://pluto.tv/en/live-tv/637e55347427a40007fac703",
+    "approved": true
+  },
+  {
+    "match_title": "Inuyasha",
+    "source_name": "Pluto TV",
+    "type": "live",
+    "source_url": "https://pluto.tv/",
+    "watch_url": "https://pluto.tv/",
+    "approved": true
+  },
+  {
+    "match_title": "Yu-Gi-Oh!",
+    "source_name": "Pluto TV",
+    "type": "live",
+    "source_url": "https://pluto.tv/",
+    "watch_url": "https://pluto.tv/",
+    "approved": true
+  },
+  {
+    "match_title": "World Trigger",
+    "source_name": "Tubi",
+    "type": "vod",
+    "source_url": "https://tubitv.com/series/2061/world-trigger",
+    "watch_url": "https://tubitv.com/series/2061/world-trigger",
+    "approved": true
+  },
+  {
+    "match_title": "Ultra Maniac",
+    "source_name": "Tubi",
+    "type": "vod",
+    "source_url": "https://tubitv.com/series/300006334/ultra-maniac",
+    "watch_url": "https://tubitv.com/series/300006334/ultra-maniac",
+    "approved": true
+  }
+]
