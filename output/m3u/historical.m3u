@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Historical
-# Total de animes na categoria: 2945
+# Total de animes na categoria: 2951
 # Exemplos: "Calpis" Hakkou Monogatari, "Hataraku" no 100-nenshi, "Parade" de Satie, 'Arirang' Animation Trailer: What Is Your Love Song?, 0-sen Hayato, 0-sen Hayato Pilot, 1001 Nights, 16bit Sensation: Another Layer, 24-pun de Wakaru: Sengoku Youko - Sen Ma Konton-hen - Zenhan, 3-pun de Wakaru Koizumi Yakumo no Kaidan
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Historical",Pluto TV Anime | Historical
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

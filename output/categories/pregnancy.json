@@ -27,6 +27,7 @@
       "detective",
       "dialogue driven",
       "drama",
+      "educational",
       "ensemble cast",
       "entertainment industry",
       "episodic",
@@ -345,7 +346,7 @@
       "world domination"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/75543.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/75543.jpg"
   },
   {
     "title": "Darling in the FranXX",
@@ -416,6 +417,7 @@
       "in medias res",
       "japanese production",
       "kaiju",
+      "lgbtq+ themes",
       "lost civilization",
       "love polygon",
       "love triangle",
@@ -545,6 +547,7 @@
     "type": "TV",
     "status": "FINISHED",
     "tags": [
+      "cgi",
       "drama",
       "fake relationship",
       "fantasy",
@@ -809,6 +812,7 @@
       "primarily female cast",
       "reincarnation",
       "rivalry",
+      "rural",
       "sake",
       "seinen",
       "shapeshifting",
@@ -836,7 +840,7 @@
       "working life"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1983/132329.jpg"
+    "picture": "https://myanimelist.net/images/anime/1983/132329.jpg"
   },
   {
     "title": "Journey to the Bosei no Mezame",
@@ -925,27 +929,32 @@
       "wordplay"
     ],
     "year": 2002,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/10306.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/10306.jpg"
   },
   {
     "title": "Kaya-chan wa Kowakunai",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
+      "action",
       "anti-hero",
       "based on a manga",
       "body horror",
       "child protagonists",
+      "childcare",
       "comedy",
       "contemporary fantasy",
       "cosmic horror",
       "curses",
+      "drama",
+      "educational",
       "episodic",
       "exorcism",
       "fantasy",
       "female protagonist",
       "ghost",
+      "ghosts",
       "horror",
       "japanese production",
       "kindergarten",
@@ -954,20 +963,26 @@
       "pregnancy",
       "present",
       "primarily child cast",
+      "psychics",
+      "psychological",
+      "revenge",
       "school",
       "school life",
       "seinen",
       "slice of life",
+      "social stigma",
       "speculative fiction",
+      "spirits",
       "storytelling",
       "super power",
       "supernatural",
+      "superpowers",
       "urban fantasy",
       "violence",
       "work"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1194/153705.jpg"
+    "picture": "https://myanimelist.net/images/anime/1194/153705.jpg"
   },
   {
     "title": "Kimitachi wa Dou Ikiru ka",
@@ -1908,7 +1923,7 @@
       "zashiki-warashi"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/20713.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/20713.jpg"
   },
   {
     "title": "Mononoke Movie 2: Hinezumi",
@@ -1935,6 +1950,7 @@
       "original work",
       "politics",
       "pregnancy",
+      "primarily adult cast",
       "psychological",
       "psychological drama",
       "royal affairs",
@@ -2089,7 +2105,7 @@
       "winter"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/19981.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/19981.jpg"
   },
   {
     "title": "Nana",
@@ -2123,7 +2139,6 @@
       "japanese production",
       "jealousy",
       "kuudere",
-      "lgbtq+ themes",
       "love polygon",
       "love triangle",
       "mahjong",
@@ -2241,7 +2256,7 @@
       "unrequited love"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/69455.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/69455.jpg"
   },
   {
     "title": "Peach Girl",
@@ -2339,6 +2354,7 @@
       "historical",
       "immortality",
       "japanese production",
+      "lgbtq+ themes",
       "long time span",
       "medieval",
       "middle ages",
@@ -2371,7 +2387,116 @@
       "work"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/89556.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/89556.jpg"
+  },
+  {
+    "title": "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen",
+    "episodes": 12,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "acting",
+      "adult cast",
+      "adult couples",
+      "afterlife",
+      "age gap",
+      "animeism",
+      "apprenticeship",
+      "based on a manga",
+      "drama",
+      "elderly protagonist",
+      "gods",
+      "historical",
+      "inseki",
+      "japanese production",
+      "josei",
+      "love polygon",
+      "male protagonist",
+      "manga",
+      "memory manipulation",
+      "multi-anime projects",
+      "performance",
+      "performing arts",
+      "plot twists",
+      "pregnancy",
+      "primarily adult cast",
+      "rakugo",
+      "sequel",
+      "showbiz",
+      "suicide",
+      "the arts",
+      "time skip",
+      "yakuza"
+    ],
+    "year": 2017,
+    "picture": "https://cdn.myanimelist.net/images/anime/1493/124765.jpg"
+  },
+  {
+    "title": "Steel Ball Run: JoJo no Kimyou na Bouken",
+    "episodes": 12,
+    "type": "ONA",
+    "status": "ONGOING",
+    "tags": [
+      "19th century",
+      "action",
+      "adventure",
+      "alternate universe",
+      "america",
+      "angels",
+      "based on a manga",
+      "coastal",
+      "coming of age",
+      "conspiracy",
+      "cowboys",
+      "desert",
+      "dinosaurs",
+      "disability",
+      "drama",
+      "epic fantasy",
+      "excessive violence",
+      "fantasy",
+      "foreign",
+      "ganbatte",
+      "gods",
+      "gore",
+      "gunfights",
+      "hero of strong character",
+      "heterosexual",
+      "historical",
+      "horror",
+      "indigenous cultures",
+      "male protagonist",
+      "manga",
+      "mystery",
+      "nun",
+      "only on netflix",
+      "philosophy",
+      "politics",
+      "pregnancy",
+      "primarily adult cast",
+      "primarily male cast",
+      "psi-powers",
+      "racing",
+      "rehabilitation",
+      "religion",
+      "seinen",
+      "shounen",
+      "splatter",
+      "struggle to survive",
+      "super power",
+      "supernatural",
+      "supernatural drama",
+      "thriller",
+      "time manipulation",
+      "torture",
+      "tragedy",
+      "trains",
+      "travel",
+      "united states",
+      "wilderness"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1448/154111.jpg"
   },
   {
     "title": "Tamayura no Yume",
@@ -2386,7 +2511,7 @@
       "shorts"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/1155/99550.jpg"
+    "picture": "https://myanimelist.net/images/anime/1155/99550.jpg"
   },
   {
     "title": "Tengoku Daimakyou",
@@ -2484,7 +2609,7 @@
       "violence"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1121/133132.jpg"
+    "picture": "https://myanimelist.net/images/anime/1121/133132.jpg"
   },
   {
     "title": "Tentacle and Witches",
@@ -2536,7 +2661,7 @@
     "title": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "adult cast",
       "aliens",
@@ -2553,6 +2678,7 @@
       "fantasy",
       "female protagonist",
       "heterosexual",
+      "interspecies",
       "iyashikei",
       "japanese production",
       "kemonomimi",
@@ -2576,7 +2702,7 @@
       "workplace"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1033/152494.jpg"
+    "picture": "https://myanimelist.net/images/anime/1033/152494.jpg"
   },
   {
     "title": "Vinland Saga Season 2",

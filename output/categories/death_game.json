@@ -203,7 +203,7 @@
       "watercolour style"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1424/117718.jpg"
+    "picture": "https://myanimelist.net/images/anime/1424/117718.jpg"
   },
   {
     "title": "Akuma no Riddle",
@@ -387,7 +387,7 @@
       "violence censoring"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/75509.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/75509.jpg"
   },
   {
     "title": "Arifureta Shokugyou de Sekai Saikyou",
@@ -507,7 +507,7 @@
       "zero to hero"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1776/97682.jpg"
+    "picture": "https://myanimelist.net/images/anime/1776/97682.jpg"
   },
   {
     "title": "Bokura no",
@@ -653,7 +653,7 @@
       "weekly shounen jump"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/1091/99847.jpg"
+    "picture": "https://myanimelist.net/images/anime/1091/99847.jpg"
   },
   {
     "title": "Btooom!",
@@ -865,7 +865,7 @@
       "violence"
     ],
     "year": 1990,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/58763.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/58763.jpg"
   },
   {
     "title": "Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen",
@@ -921,7 +921,7 @@
       "visual novel"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/80931.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/80931.jpg"
   },
   {
     "title": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation",
@@ -1221,7 +1221,7 @@
       "weak to strong"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/75299.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/75299.jpg"
   },
   {
     "title": "Death Billiards",
@@ -2000,18 +2000,19 @@
       "witch"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/1881/124810.jpg"
+    "picture": "https://myanimelist.net/images/anime/1881/124810.jpg"
   },
   {
     "title": "Fate/strange Fake",
     "episodes": 13,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "adventure",
       "america",
       "anachronism",
+      "animals",
       "archery",
       "assassins",
       "based on a light novel",
@@ -2020,38 +2021,71 @@
       "chimera",
       "conspiracy",
       "contemporary fantasy",
+      "curses",
       "cyborg",
+      "dark fantasy",
       "death game",
+      "demons",
+      "desert",
       "dissociative identities",
+      "drama",
       "ensemble cast",
+      "factions",
       "fantasy",
+      "fighting",
       "foreign",
       "gambling",
       "gender bending",
       "gods",
+      "gore",
+      "government",
       "guns",
+      "homunculi",
+      "idealism",
       "japanese production",
+      "knights",
+      "legendary warriors",
       "lgbtq+ themes",
       "magic",
+      "magical items",
+      "medieval",
+      "memory manipulation",
+      "military",
+      "monsters",
+      "moral dilemma",
       "mystery",
       "mythology",
+      "necromancy",
       "nun",
       "police",
       "proxy battles",
+      "psychological",
       "religion",
+      "religious sect",
+      "secret organization",
+      "shapeshifting",
+      "skeleton",
+      "sorcery",
+      "spirits",
       "supernatural",
       "superpowers",
+      "survival game",
       "swordplay",
       "terrorism",
-      "transgender",
+      "thriller",
+      "tournament",
+      "tragedy",
+      "trauma",
       "united states",
       "urban",
       "urban fantasy",
       "vampire",
-      "war"
+      "vampires",
+      "war",
+      "werewolf"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1752/150192.jpg"
+    "picture": "https://myanimelist.net/images/anime/1752/150192.jpg"
   },
   {
     "title": "Fate/strange Fake: Whispers of Dawn",
@@ -2101,6 +2135,7 @@
       "shapeshifting",
       "sorcery",
       "spirits",
+      "super power",
       "supernatural",
       "superpowers",
       "survival game",
@@ -2298,7 +2333,7 @@
       "zombie"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/1522/117645.jpg"
+    "picture": "https://myanimelist.net/images/anime/1522/117645.jpg"
   },
   {
     "title": "Gantz",
@@ -2395,7 +2430,7 @@
       "violence"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/23247.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/23247.jpg"
   },
   {
     "title": "Gantz:O",
@@ -2472,7 +2507,7 @@
       "youkai"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/81255.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/81255.jpg"
   },
   {
     "title": "Gintama",
@@ -2618,7 +2653,7 @@
       "yakuza"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/73274.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/73274.jpg"
   },
   {
     "title": "Gleipnir",
@@ -2775,7 +2810,7 @@
     "title": "Gnosia",
     "episodes": 21,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "achromatic",
       "agender",
@@ -2792,12 +2827,15 @@
       "clone",
       "cosmic horror",
       "death game",
+      "detective",
       "drama",
       "ensemble cast",
+      "fan service",
       "game",
       "gender bending",
       "ghost",
       "gods",
+      "gyaru",
       "heterosexual",
       "japanese production",
       "lgbtq+ themes",
@@ -2817,14 +2855,16 @@
       "struggle to survive",
       "suicide",
       "survival",
+      "survival game",
       "suspense",
+      "technology",
       "thriller",
       "time loop",
       "time travel",
       "visual novel"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1257/152352.jpg"
+    "picture": "https://myanimelist.net/images/anime/1257/152352.jpg"
   },
   {
     "title": "Gyakkyou Burai Kaiji: Ultimate Survivor",
@@ -3147,7 +3187,7 @@
       "tragedy"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/1004/96669.jpg"
+    "picture": "https://myanimelist.net/images/anime/1004/96669.jpg"
   },
   {
     "title": "Jigokuraku",
@@ -3322,13 +3362,13 @@
       "zombie"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/75045.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/75045.jpg"
   },
   {
     "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "angst",
@@ -3336,12 +3376,10 @@
       "battle royale",
       "bisexual",
       "body sharing",
-      "boys' love",
       "comedy",
       "contemporary fantasy",
       "curse",
       "curses",
-      "cute boys doing cute things",
       "dark fantasy",
       "death game",
       "demon",
@@ -3350,40 +3388,49 @@
       "ensemble cast",
       "exorcism",
       "exorcists",
+      "factions",
       "fantasy",
-      "femboy",
       "gambling",
       "gore",
       "horror",
       "japan",
       "japanese production",
-      "lgbtq+ themes",
       "magic",
       "male protagonist",
       "martial arts",
       "monster",
       "monsters",
+      "mystery",
+      "nudity",
       "philosophy",
       "present",
+      "primarily male cast",
       "primarily teen cast",
+      "psychological",
       "rotoscoping",
       "school",
-      "school life",
       "sequel",
       "shounen",
+      "sorcery",
+      "spirits",
       "super power",
       "supernatural",
+      "superpowers",
+      "surreal comedy",
       "survival",
       "swordplay",
       "swords & co",
+      "thriller",
+      "tournament",
       "tragedy",
+      "transformations",
       "transgender",
       "urban",
       "urban fantasy",
       "violence"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1659/154920.jpg"
+    "picture": "https://myanimelist.net/images/anime/1659/154920.jpg"
   },
   {
     "title": "Juu Ou Sei",
@@ -3469,7 +3516,7 @@
       "zettai ryouiki"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/14079.jpg"
+    "picture": "https://myanimelist.net/images/anime/1355/115472.jpg"
   },
   {
     "title": "Juuni Taisen",
@@ -3684,8 +3731,8 @@
       "manga",
       "mind games",
       "mystery",
-      "netflix original",
       "ojou-sama",
+      "only on netflix",
       "place",
       "present",
       "primarily female cast",
@@ -3946,7 +3993,7 @@
       "visual novel"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/1030/154345.jpg"
+    "picture": "https://myanimelist.net/images/anime/1030/154345.jpg"
   },
   {
     "title": "Kyoukaisen",
@@ -4027,6 +4074,7 @@
       "secret agent",
       "secret organization",
       "seinen",
+      "shounen",
       "suspense",
       "technology",
       "thriller",
@@ -4171,7 +4219,7 @@
       "thriller"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1869/104422.jpg"
+    "picture": "https://myanimelist.net/images/anime/1869/104422.jpg"
   },
   {
     "title": "Mirai Nikki",
@@ -4374,7 +4422,7 @@
       "yandere"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/33465.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/33465.jpg"
   },
   {
     "title": "Nakanohito Genome [Jikkyouchuu]",
@@ -4574,7 +4622,7 @@
       "yuri"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1845/150343.jpg"
+    "picture": "https://myanimelist.net/images/anime/1845/150343.jpg"
   },
   {
     "title": "Ousama Game The Animation",
@@ -4718,7 +4766,7 @@
       "violent"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/34045.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/34045.jpg"
   },
   {
     "title": "Phi Brain: Kami no Puzzle - Orpheus Order-hen",
@@ -5010,7 +5058,7 @@
       "yandere"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1862/95624.jpg"
+    "picture": "https://myanimelist.net/images/anime/1862/95624.jpg"
   },
   {
     "title": "Serial Experiments Lain",
@@ -5119,7 +5167,7 @@
       "zombie"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/1718/91550.jpg"
+    "picture": "https://myanimelist.net/images/anime/1718/91550.jpg"
   },
   {
     "title": "Shadows House",
@@ -5198,18 +5246,21 @@
     "title": "Shibou Yuugi de Meshi wo Kuu.",
     "episodes": 11,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "achronological order",
       "action",
       "action drama",
       "amputation",
       "based on a light novel",
+      "battle royale",
       "body horror",
       "cgi",
+      "contemplation",
       "cosmic horror",
       "death game",
       "drama",
+      "dystopian",
       "fantasy",
       "female protagonist",
       "guns",
@@ -5221,7 +5272,9 @@
       "lgbtq+ themes",
       "maids",
       "mixed media",
+      "moral dilemma",
       "mystery",
+      "non-linear narrative",
       "novel",
       "ojou-sama",
       "philosophy",
@@ -5231,6 +5284,8 @@
       "psychological",
       "shounen",
       "suicide",
+      "surrealism",
+      "survival game",
       "suspense",
       "swords & co",
       "thriller",
@@ -5238,7 +5293,7 @@
       "yuri"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1834/151169.jpg"
+    "picture": "https://myanimelist.net/images/anime/1834/151169.jpg"
   },
   {
     "title": "Shikabane Hime: Aka",
@@ -5416,7 +5471,7 @@
       "zombies"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/1125/105989.jpg"
+    "picture": "https://myanimelist.net/images/anime/1125/105989.jpg"
   },
   {
     "title": "Shuumatsu no Walküre II",
@@ -5485,7 +5540,7 @@
       "tragedy"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1958/136099.jpg"
+    "picture": "https://myanimelist.net/images/anime/1958/136099.jpg"
   },
   {
     "title": "Shuumatsu no Walküre III",
@@ -5844,7 +5899,7 @@
       "virtual world"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/1223/121999.jpg"
+    "picture": "https://myanimelist.net/images/anime/1223/121999.jpg"
   },
   {
     "title": "Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria",
@@ -6055,8 +6110,8 @@
       "murder",
       "mutilation",
       "mystery",
-      "netflix original",
       "nudity",
+      "only on netflix",
       "open-ended",
       "pantsu",
       "paper clothes",
@@ -6146,7 +6201,7 @@
       "virtual reality"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1247/121345.jpg"
+    "picture": "https://myanimelist.net/images/anime/1247/121345.jpg"
   },
   {
     "title": "Touhai Densetsu Akagi: Yami ni Maiorita Tensai",

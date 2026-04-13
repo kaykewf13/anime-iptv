@@ -423,7 +423,7 @@
       "yggdrasil"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1876/114021.jpg"
+    "picture": "https://myanimelist.net/images/anime/1876/114021.jpg"
   },
   {
     "title": "Hoozuki no Reitetsu 2nd Season",
@@ -557,7 +557,7 @@
       "zashiki-warashi"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/88280.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/88280.jpg"
   },
   {
     "title": "Hoozuki no Reitetsu OAD",
@@ -645,6 +645,7 @@
       "adventure",
       "alternative present",
       "alternative world",
+      "amnesia",
       "animals",
       "anthropomorphism",
       "anti-hero",
@@ -1019,7 +1020,7 @@
       "workplace"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1777/117885.jpg"
+    "picture": "https://myanimelist.net/images/anime/1777/117885.jpg"
   },
   {
     "title": "Juuni Kokuki",
@@ -1195,7 +1196,7 @@
       "video games"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1954/129158.jpg"
+    "picture": "https://myanimelist.net/images/anime/1954/129158.jpg"
   },
   {
     "title": "Kage (OVA)",
@@ -1425,16 +1426,18 @@
     "title": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "adventure",
       "alternative world",
+      "arranged marriage",
       "based on a light novel",
       "blackmail",
       "cheats",
       "civil war",
       "comedy",
+      "conspiracy",
       "crime",
       "curse",
       "death",
@@ -1450,6 +1453,7 @@
       "hostage situation",
       "isekai",
       "japanese production",
+      "kingdom management",
       "knight",
       "large breasts",
       "magic",
@@ -1484,7 +1488,7 @@
       "war"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1629/153722.jpg"
+    "picture": "https://myanimelist.net/images/anime/1629/153722.jpg"
   },
   {
     "title": "Kusuriya no Hitorigoto",
@@ -1772,7 +1776,7 @@
       "yuri"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1802/108501.jpg"
+    "picture": "https://myanimelist.net/images/anime/1802/108501.jpg"
   },
   {
     "title": "Mononoke Movie 1: Karakasa",
@@ -1788,6 +1792,7 @@
       "cosmic horror",
       "court politics",
       "demon",
+      "edo period",
       "exorcism",
       "exorcists",
       "fantasy",
@@ -2283,6 +2288,7 @@
       "historical",
       "immortality",
       "japanese production",
+      "lgbtq+ themes",
       "long time span",
       "medieval",
       "middle ages",
@@ -2315,7 +2321,7 @@
       "work"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/89556.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/89556.jpg"
   },
   {
     "title": "Seijo no Maryoku wa Bannou desu",
@@ -2406,7 +2412,7 @@
       "working life"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1947/114235.jpg"
+    "picture": "https://myanimelist.net/images/anime/1947/114235.jpg"
   },
   {
     "title": "Shingeki no Bahamut: Virgin Soul",
@@ -2848,7 +2854,7 @@
       "zombie"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1490/101365.jpg"
+    "picture": "https://myanimelist.net/images/anime/1490/101365.jpg"
   },
   {
     "title": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
@@ -2957,7 +2963,7 @@
       "yandere"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1512/111549.jpg"
+    "picture": "https://myanimelist.net/images/anime/1512/111549.jpg"
   },
   {
     "title": "Tezuka Osamu no Buddha",
@@ -3263,7 +3269,7 @@
       "war"
     ],
     "year": 1979,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/57043.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/57043.jpg"
   },
   {
     "title": "Versailles no Bara (Movie)",
@@ -3475,6 +3481,6 @@
       "zero to hero"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1006/153770.jpg"
+    "picture": "https://myanimelist.net/images/anime/1006/153770.jpg"
   }
 ]

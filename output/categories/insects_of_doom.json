@@ -309,7 +309,7 @@
       "visiting alien superhero"
     ],
     "year": 1990,
-    "picture": "https://cdn.myanimelist.net/images/anime/1986/146153.jpg"
+    "picture": "https://myanimelist.net/images/anime/1986/146153.jpg"
   },
   {
     "title": "Fanren Xiu Xian Zhuan: Xinghai Feichi",
@@ -350,7 +350,7 @@
       "wuxia"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1119/139470.jpg"
+    "picture": "https://myanimelist.net/images/anime/1763/155878.jpg"
   },
   {
     "title": "Gunbuster Movie",
@@ -516,7 +516,7 @@
       "war"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/50435.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/50435.jpg"
   },
   {
     "title": "Heroman",
@@ -584,6 +584,7 @@
       "adventure",
       "alternative present",
       "alternative world",
+      "amnesia",
       "animals",
       "anthropomorphism",
       "anti-hero",
@@ -767,7 +768,7 @@
       "speculative fiction"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/1843/139490.jpg"
+    "picture": "https://myanimelist.net/images/anime/1843/139490.jpg"
   },
   {
     "title": "Kannagi",
@@ -855,7 +856,7 @@
       "wordplay"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/19724.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/19724.jpg"
   },
   {
     "title": "Kaze no Tani no Nausicaä",
@@ -936,7 +937,7 @@
       "war"
     ],
     "year": 1984,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/75914.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/75914.jpg"
   },
   {
     "title": "Kikou Souseiki Mospeada",
@@ -1060,7 +1061,7 @@
       "yggdrasil"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/21586.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/21586.jpg"
   },
   {
     "title": "Koukaku no Regios",
@@ -1291,7 +1292,7 @@
       "wilderness"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1808/116867.jpg"
+    "picture": "https://myanimelist.net/images/anime/1808/116867.jpg"
   },
   {
     "title": "Kyochuu Rettou Movie",
@@ -1921,6 +1922,7 @@
       "space",
       "speculative fiction",
       "time",
+      "travel",
       "volcanic eruption"
     ],
     "year": 1972,
@@ -2144,7 +2146,7 @@
       "war"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/44462.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/44462.jpg"
   },
   {
     "title": "No.6",
@@ -2370,7 +2372,7 @@
       "war"
     ],
     "year": 1995,
-    "picture": "https://cdn.myanimelist.net/images/anime/1893/128632.jpg"
+    "picture": "https://myanimelist.net/images/anime/1893/128632.jpg"
   },
   {
     "title": "Shinpi no Sekai El-Hazard (TV)",
@@ -2445,7 +2447,7 @@
       "violence"
     ],
     "year": 1997,
-    "picture": "https://cdn.myanimelist.net/images/anime/1928/154391.jpg"
+    "picture": "https://myanimelist.net/images/anime/1928/154391.jpg"
   },
   {
     "title": "Starship Troopers: Invasion",
@@ -2502,7 +2504,7 @@
       "war"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/1698/95973.jpg"
+    "picture": "https://myanimelist.net/images/anime/1698/95973.jpg"
   },
   {
     "title": "Starship Troopers: Red Planet",
@@ -2772,7 +2774,7 @@
       "zombie"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1490/101365.jpg"
+    "picture": "https://myanimelist.net/images/anime/1490/101365.jpg"
   },
   {
     "title": "Tegamibachi",
@@ -3075,7 +3077,7 @@
       "yuri"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/50475.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/50475.jpg"
   },
   {
     "title": "Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!",
@@ -3265,17 +3267,19 @@
       "zero to hero"
     ],
     "year": 1988,
-    "picture": "https://cdn.myanimelist.net/images/anime/1303/92309.jpg"
+    "picture": "https://myanimelist.net/images/anime/1303/92309.jpg"
   },
   {
     "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
     "episodes": 24,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
+      "absurdity",
       "action",
       "action comedy",
       "adult cast",
+      "aliens",
       "asia",
       "based on a manga",
       "brainwashing",
@@ -3291,6 +3295,7 @@
       "crime",
       "crunchyroll co-production",
       "cyborgs",
+      "dark comedy",
       "drama",
       "earth",
       "ecchi",
@@ -3302,12 +3307,15 @@
       "following one's dream",
       "gangs",
       "good vs evil",
+      "gore",
       "henshin",
       "hero of strong character",
       "heroine of strong character",
       "huge breasts",
       "human enhancement",
+      "idealism",
       "idol",
+      "idols",
       "insects of doom",
       "japan",
       "japanese production",
@@ -3316,6 +3324,7 @@
       "manga",
       "martial arts",
       "monster",
+      "monsters",
       "nostalgia",
       "nudity",
       "otaku culture",
@@ -3328,13 +3337,16 @@
       "preaired episodes",
       "predominantly adult cast",
       "present",
+      "psychological",
       "redemption",
       "revenge",
       "rivalry",
       "saving the world",
+      "science fiction",
       "secret organisation",
       "seinen",
       "self-parody",
+      "sentai",
       "sibling rivalry",
       "soft science fiction",
       "speculative fiction",
@@ -3346,6 +3358,8 @@
       "superhero",
       "superheroes",
       "supernatural drama",
+      "superpowers",
+      "supervillains",
       "surreal comedy",
       "teamwork",
       "the power of love",
@@ -3355,13 +3369,15 @@
       "tone changes",
       "tournament",
       "training",
+      "transformations",
       "tropes",
       "violence",
       "visible aura",
-      "world domination"
+      "world domination",
+      "yakuza"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1455/152139.jpg"
+    "picture": "https://myanimelist.net/images/anime/1455/152139.jpg"
   },
   {
     "title": "Uchuu no Kishi Tekkaman Blade",
@@ -3448,7 +3464,7 @@
       "war"
     ],
     "year": 1992,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/54793.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/54793.jpg"
   },
   {
     "title": "Uzumaki",

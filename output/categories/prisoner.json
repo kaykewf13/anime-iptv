@@ -98,7 +98,7 @@
       "violence"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/1827/112657.jpg"
+    "picture": "https://myanimelist.net/images/anime/1827/112657.jpg"
   },
   {
     "title": "Deadman Wonderland",
@@ -188,7 +188,7 @@
       "weak to strong"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/75299.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/75299.jpg"
   },
   {
     "title": "Dorei Maid Princess",
@@ -432,7 +432,7 @@
       "weekly shounen jump"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1896/119844.jpg"
+    "picture": "https://myanimelist.net/images/anime/1896/119844.jpg"
   },
   {
     "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2",
@@ -536,7 +536,56 @@
       "weekly shounen jump"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1233/128920.jpg"
+    "picture": "https://myanimelist.net/images/anime/1233/128920.jpg"
+  },
+  {
+    "title": "Moonrise",
+    "episodes": 18,
+    "type": "ONA",
+    "status": "FINISHED",
+    "tags": [
+      "action",
+      "action drama",
+      "adventure",
+      "amnesia",
+      "artificial intelligence",
+      "bionic powers",
+      "cgi",
+      "conspiracy",
+      "cyberpunk",
+      "cyborg",
+      "drama",
+      "dystopia",
+      "dystopian",
+      "fantasy",
+      "guns",
+      "hero of strong character",
+      "japanese production",
+      "love triangle",
+      "male protagonist",
+      "military",
+      "mystery",
+      "new",
+      "only on netflix",
+      "original work",
+      "orphan",
+      "outer space",
+      "prisoner",
+      "rebellions",
+      "robots",
+      "robots & android",
+      "sci fi",
+      "sci-fi",
+      "science fiction",
+      "science-fiction",
+      "space",
+      "time skip",
+      "tragedy",
+      "urban fantasy",
+      "war"
+    ],
+    "year": 2025,
+    "picture": "https://cdn.myanimelist.net/images/anime/1181/148693.jpg"
   },
   {
     "title": "Nanbaka",
@@ -605,7 +654,7 @@
       "unrequited love"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/81399.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/81399.jpg"
   },
   {
     "title": "Nanbaka 2",
@@ -622,6 +671,7 @@
       "crime",
       "crossdressing",
       "crunchyroll co-production",
+      "cute boys doing cute things",
       "disability",
       "dissociative identities",
       "drama",
@@ -648,7 +698,7 @@
       "unrequited love"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/1294/127370.jpg"
+    "picture": "https://myanimelist.net/images/anime/1294/127370.jpg"
   },
   {
     "title": "Naruto: Shippuuden Movie 5 - Blood Prison",
@@ -689,7 +739,7 @@
       "violence"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/1500/134496.jpg"
+    "picture": "https://myanimelist.net/images/anime/1500/134496.jpg"
   },
   {
     "title": "Norageki!",
@@ -955,6 +1005,7 @@
       "gore",
       "historical",
       "horror",
+      "incarceration",
       "japan",
       "japanese production",
       "language barrier",
@@ -1003,7 +1054,7 @@
       "yakuza"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/72697.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/72697.jpg"
   },
   {
     "title": "Riki-Oh: Toukatsu Jigoku",
@@ -1110,7 +1161,7 @@
       "yandere"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1862/95624.jpg"
+    "picture": "https://myanimelist.net/images/anime/1862/95624.jpg"
   },
   {
     "title": "Usavich",
@@ -1135,7 +1186,7 @@
       "slapstick"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/15660.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/15660.jpg"
   },
   {
     "title": "Usavich III",
@@ -1316,7 +1367,7 @@
       "weekly shounen jump"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1830/118780.jpg"
+    "picture": "https://myanimelist.net/images/anime/1830/118780.jpg"
   },
   {
     "title": "Yakusoku no Neverland: Michishirube",
@@ -1358,6 +1409,6 @@
       "tragedy"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1097/111813.jpg"
+    "picture": "https://myanimelist.net/images/anime/1097/111813.jpg"
   }
 ]

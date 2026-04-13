@@ -26,7 +26,7 @@
       "tragedy"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1524/143502.jpg"
+    "picture": "https://myanimelist.net/images/anime/1524/143502.jpg"
   },
   {
     "title": "Bokura no",
@@ -151,7 +151,7 @@
       "supernatural drama"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/36163.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/36163.jpg"
   },
   {
     "title": "Btooom!",
@@ -406,7 +406,7 @@
       "visual novel"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/80931.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/80931.jpg"
   },
   {
     "title": "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen",
@@ -652,7 +652,7 @@
       "violence"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1975/111967.jpg"
+    "picture": "https://myanimelist.net/images/anime/1975/111967.jpg"
   },
   {
     "title": "Date A Bullet: Dead or Bullet",
@@ -774,7 +774,7 @@
       "weak to strong"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/75299.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/75299.jpg"
   },
   {
     "title": "Death Billiards",
@@ -1209,7 +1209,7 @@
       "tragedy"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/1004/96669.jpg"
+    "picture": "https://myanimelist.net/images/anime/1004/96669.jpg"
   },
   {
     "title": "Kami no Tou",
@@ -1381,7 +1381,7 @@
       "urban fantasy"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1475/145570.jpg"
+    "picture": "https://myanimelist.net/images/anime/1475/145570.jpg"
   },
   {
     "title": "Kyokugen Dasshutsu Adv: Zennin Shibou desu Prologue",
@@ -1414,7 +1414,7 @@
       "visual novel"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/1030/154345.jpg"
+    "picture": "https://myanimelist.net/images/anime/1030/154345.jpg"
   },
   {
     "title": "Mirai Nikki",
@@ -1617,7 +1617,7 @@
       "yandere"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/33465.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/33465.jpg"
   },
   {
     "title": "Necronomico no Cosmic Horror Show",
@@ -1675,7 +1675,7 @@
       "yuri"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1845/150343.jpg"
+    "picture": "https://myanimelist.net/images/anime/1845/150343.jpg"
   },
   {
     "title": "Ousama Game The Animation",
@@ -1827,24 +1827,27 @@
       "yandere"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1992/116576.jpg"
+    "picture": "https://myanimelist.net/images/anime/1992/116576.jpg"
   },
   {
     "title": "Shibou Yuugi de Meshi wo Kuu.",
     "episodes": 11,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "achronological order",
       "action",
       "action drama",
       "amputation",
       "based on a light novel",
+      "battle royale",
       "body horror",
       "cgi",
+      "contemplation",
       "cosmic horror",
       "death game",
       "drama",
+      "dystopian",
       "fantasy",
       "female protagonist",
       "guns",
@@ -1856,7 +1859,9 @@
       "lgbtq+ themes",
       "maids",
       "mixed media",
+      "moral dilemma",
       "mystery",
+      "non-linear narrative",
       "novel",
       "ojou-sama",
       "philosophy",
@@ -1866,6 +1871,8 @@
       "psychological",
       "shounen",
       "suicide",
+      "surrealism",
+      "survival game",
       "suspense",
       "swords & co",
       "thriller",
@@ -1873,7 +1880,7 @@
       "yuri"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1834/151169.jpg"
+    "picture": "https://myanimelist.net/images/anime/1834/151169.jpg"
   },
   {
     "title": "Super Danganronpa 2.5: Komaeda Nagito to Sekai no Hakaisha",
@@ -1909,7 +1916,7 @@
       "visual novel"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/83150.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/83150.jpg"
   },
   {
     "title": "Tasuuketsu",

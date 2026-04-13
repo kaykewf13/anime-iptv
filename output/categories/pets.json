@@ -105,7 +105,7 @@
       "pets"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1504/145128.jpg"
+    "picture": "https://myanimelist.net/images/anime/1504/145128.jpg"
   },
   {
     "title": "Anime Hachiko Monogatari",
@@ -190,7 +190,7 @@
       "slice of life"
     ],
     "year": 2000,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/64149.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/64149.jpg"
   },
   {
     "title": "Aru Hi Inu no Kuni kara Tegami ga Kite",
@@ -218,7 +218,7 @@
       "supernatural"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/1085/92040.jpg"
+    "picture": "https://myanimelist.net/images/anime/1085/92040.jpg"
   },
   {
     "title": "Beolineun Seom",
@@ -374,7 +374,7 @@
       "sanrio characters"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1176/125100.jpg"
+    "picture": "https://myanimelist.net/images/anime/1176/125100.jpg"
   },
   {
     "title": "Chi's Sweet Home",
@@ -562,7 +562,7 @@
       "time"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/49925.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/49925.jpg"
   },
   {
     "title": "Chotto Ugoku!? \"Futeneko\"",
@@ -683,7 +683,7 @@
       "slice of life"
     ],
     "year": 2001,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/46873.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/46873.jpg"
   },
   {
     "title": "Daqiao yi Quan",
@@ -804,7 +804,7 @@
       "pets"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1647/155346.jpg"
+    "picture": "https://myanimelist.net/images/anime/1647/155346.jpg"
   },
   {
     "title": "Egao",
@@ -1025,7 +1025,7 @@
       "present"
     ],
     "year": 2002,
-    "picture": "https://cdn.myanimelist.net/images/anime/1337/153259.jpg"
+    "picture": "https://myanimelist.net/images/anime/1337/153259.jpg"
   },
   {
     "title": "Futari de Hanbunko",
@@ -1264,7 +1264,7 @@
       "work"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/21232.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/21232.jpg"
   },
   {
     "title": "Heisei Inu Monogatari Bow",
@@ -1506,7 +1506,7 @@
       "slice of life"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/77180.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/77180.jpg"
   },
   {
     "title": "Itsudemo Futari",
@@ -1620,9 +1620,9 @@
   },
   {
     "title": "Kaijuu Sekai Seifuku (TV)",
-    "episodes": 48,
+    "episodes": 50,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "aliens",
       "animals",
@@ -1638,7 +1638,7 @@
       "slice of life"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1582/150123.jpg"
+    "picture": "https://myanimelist.net/images/anime/1582/150123.jpg"
   },
   {
     "title": "Kanashiki Debu Neko-chan",
@@ -1656,7 +1656,7 @@
       "slice of life"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1626/116549.jpg"
+    "picture": "https://myanimelist.net/images/anime/1626/116549.jpg"
   },
   {
     "title": "Kanojo to Kanojo no Neko",
@@ -1761,7 +1761,7 @@
       "ultra super anime time"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/79716.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/79716.jpg"
   },
   {
     "title": "Kappa no Kaikata",
@@ -1799,7 +1799,7 @@
       "youkai"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/1827/99134.jpg"
+    "picture": "https://myanimelist.net/images/anime/1827/99134.jpg"
   },
   {
     "title": "Kawaisugi Crisis",
@@ -1952,7 +1952,7 @@
       "shorts"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1276/151020.jpg"
+    "picture": "https://myanimelist.net/images/anime/1276/151020.jpg"
   },
   {
     "title": "Kimi to Boku",
@@ -2092,7 +2092,7 @@
       "pets"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1887/140761.jpg"
+    "picture": "https://myanimelist.net/images/anime/1887/140761.jpg"
   },
   {
     "title": "Kinoko Inu",
@@ -2131,6 +2131,18 @@
     ],
     "year": 2024,
     "picture": "https://cdn.myanimelist.net/images/anime/1954/144622.jpg"
+  },
+  {
+    "title": "Kita no Majo to Yeti",
+    "episodes": 1,
+    "type": "SPECIAL",
+    "status": "FINISHED",
+    "tags": [
+      "fantasy",
+      "pets"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1130/156428.jpg"
   },
   {
     "title": "Koakuma datte Kamawanai!",
@@ -2472,7 +2484,7 @@
       "slice of life"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/24952.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/24952.jpg"
   },
   {
     "title": "Kuruneko: Kurunekobin",
@@ -2485,7 +2497,7 @@
       "slice of life"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/47301.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/47301.jpg"
   },
   {
     "title": "Kuruneko: Nyaalock Holmes no Bouken",
@@ -2602,7 +2614,7 @@
       "slice of life"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1553/132340.jpg"
+    "picture": "https://myanimelist.net/images/anime/1553/132340.jpg"
   },
   {
     "title": "Mamekichi Mameko NEET no Nichijou 2nd Season",
@@ -2627,7 +2639,7 @@
       "slice of life"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1740/150041.jpg"
+    "picture": "https://myanimelist.net/images/anime/1740/150041.jpg"
   },
   {
     "title": "Mameneko",
@@ -2678,7 +2690,7 @@
       "pets"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1560/133233.jpg"
+    "picture": "https://myanimelist.net/images/anime/1560/133233.jpg"
   },
   {
     "title": "Massugu ni Ikou.",
@@ -2696,7 +2708,9 @@
       "daily life",
       "dogs",
       "drama",
+      "educational",
       "fantasy",
+      "female protagonist",
       "heterosexual",
       "japanese production",
       "josei",
@@ -2704,7 +2718,9 @@
       "manga",
       "non-human protagonists",
       "pets",
+      "primarily adult cast",
       "romance",
+      "school",
       "shoujo",
       "slice of life",
       "talking animals",
@@ -2872,7 +2888,7 @@
       "world masterpiece theater"
     ],
     "year": 1997,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/85785.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/85785.jpg"
   },
   {
     "title": "Meow no Hoshi",
@@ -3045,7 +3061,7 @@
       "slice of life"
     ],
     "year": 1993,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/65225.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/65225.jpg"
   },
   {
     "title": "Mikeneko Holmes no Yuurei Joushu",
@@ -3121,7 +3137,7 @@
       "slice of life"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1671/154773.jpg"
+    "picture": "https://myanimelist.net/images/anime/1671/154773.jpg"
   },
   {
     "title": "Moudouken Quill no Isshou",
@@ -3151,7 +3167,7 @@
       "pets"
     ],
     "year": 2000,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/87822.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/87822.jpg"
   },
   {
     "title": "Nabiui Moheom",
@@ -3181,7 +3197,7 @@
       "slice of life"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/75429.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/75429.jpg"
   },
   {
     "title": "Neko Hiki no Oruorane",
@@ -3498,7 +3514,7 @@
       "pets"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1542/90663.jpg"
+    "picture": "https://myanimelist.net/images/anime/1542/90663.jpg"
   },
   {
     "title": "Oda Cinnamon Nobunaga",
@@ -3559,7 +3575,7 @@
       "wordplay"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1004/106819.jpg"
+    "picture": "https://myanimelist.net/images/anime/1004/106819.jpg"
   },
   {
     "title": "Odekake Kozame Movie: Tokai no Otomodachi x Yoru wa Neko to Issho Manner Eizou",
@@ -3630,7 +3646,7 @@
       "urban"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1809/117254.jpg"
+    "picture": "https://myanimelist.net/images/anime/1809/117254.jpg"
   },
   {
     "title": "Ore, Tsushima x Na Mo Naki Nezumi",
@@ -3769,9 +3785,9 @@
   },
   {
     "title": "PetitCure: Precure Fairies Season 2",
-    "episodes": 20,
+    "episodes": 23,
     "type": "ONA",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "animals",
       "chibi",
@@ -3789,7 +3805,27 @@
       "slice of life"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1676/152488.jpg"
+    "picture": "https://myanimelist.net/images/anime/1676/152488.jpg"
+  },
+  {
+    "title": "PetitCure: Precure Fairies Season 3",
+    "episodes": 2,
+    "type": "ONA",
+    "status": "ONGOING",
+    "tags": [
+      "animals",
+      "chibi",
+      "fairy",
+      "fantasy",
+      "mahou shoujo",
+      "no dialogue",
+      "pets",
+      "primarily animal cast",
+      "slice of life",
+      "super deformed"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1909/156227.jpg"
   },
   {
     "title": "Petting a Dog",
@@ -3924,7 +3960,7 @@
       "slice of life"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1745/119344.jpg"
+    "picture": "https://myanimelist.net/images/anime/1745/119344.jpg"
   },
   {
     "title": "Sekai no Owari ni Shiba Inu to",
@@ -4182,7 +4218,7 @@
       "pets"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1710/151052.jpg"
+    "picture": "https://myanimelist.net/images/anime/1710/151052.jpg"
   },
   {
     "title": "Stuck Rabbit",
@@ -4545,7 +4581,7 @@
       "twins"
     ],
     "year": 2000,
-    "picture": "https://cdn.myanimelist.net/images/anime/1645/152927.jpg"
+    "picture": "https://myanimelist.net/images/anime/1645/152927.jpg"
   },
   {
     "title": "Tottoko Hamtarou Hai!",
@@ -4647,7 +4683,7 @@
       "unrequited love"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1624/103162.jpg"
+    "picture": "https://myanimelist.net/images/anime/1624/103162.jpg"
   },
   {
     "title": "Uchuu Kyoudai: Apo's Dream",
@@ -4762,7 +4798,7 @@
       "shoujo"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/1132/90779.jpg"
+    "picture": "https://myanimelist.net/images/anime/1132/90779.jpg"
   },
   {
     "title": "Wei Miao Rensheng",
@@ -4792,6 +4828,7 @@
       "ghost",
       "gods",
       "heroine of weak character",
+      "heterosexual",
       "love triangle",
       "mature romance",
       "nudity",
@@ -4804,11 +4841,13 @@
       "romantic comedy",
       "shapeshifting",
       "supernatural",
+      "time manipulation",
       "work",
-      "workplace"
+      "workplace",
+      "yandere"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1871/147084.jpg"
+    "picture": "https://myanimelist.net/images/anime/1871/147084.jpg"
   },
   {
     "title": "What's Michael?",
@@ -4856,7 +4895,7 @@
       "slice of life"
     ],
     "year": 1988,
-    "picture": "https://cdn.myanimelist.net/images/anime/1969/154853.jpg"
+    "picture": "https://myanimelist.net/images/anime/1969/154853.jpg"
   },
   {
     "title": "What's Michael? 2",
@@ -4941,7 +4980,7 @@
       "yuri"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1852/140786.jpg"
+    "picture": "https://myanimelist.net/images/anime/1852/140786.jpg"
   },
   {
     "title": "Wonderful Precure! Movie: Dokidoki Game no Sekai de Daibouken!",
@@ -5071,7 +5110,7 @@
       "short episodes"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1761/151651.jpg"
+    "picture": "https://myanimelist.net/images/anime/1761/151651.jpg"
   },
   {
     "title": "Yankee Hamster Season 2",
@@ -5121,7 +5160,7 @@
       "short episodes"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1546/136281.jpg"
+    "picture": "https://myanimelist.net/images/anime/1546/136281.jpg"
   },
   {
     "title": "Yankee Hamster Season 4",
@@ -5139,7 +5178,7 @@
       "short episodes"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1581/138432.jpg"
+    "picture": "https://myanimelist.net/images/anime/1581/138432.jpg"
   },
   {
     "title": "Yiqing Qijian de Feitian Gou",
@@ -5163,7 +5202,7 @@
       "pets"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1584/146361.jpg"
+    "picture": "https://myanimelist.net/images/anime/1584/146361.jpg"
   },
   {
     "title": "Yoru wa Neko to Issho",
@@ -5204,6 +5243,7 @@
       "episodic",
       "family",
       "family life",
+      "flash",
       "iyashikei",
       "japanese production",
       "male protagonist",
@@ -5229,6 +5269,7 @@
       "comedy",
       "episodic",
       "family",
+      "flash",
       "iyashikei",
       "japanese production",
       "pets",

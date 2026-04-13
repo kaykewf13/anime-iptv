@@ -350,7 +350,6 @@
       "coming of age",
       "conspiracy",
       "crime",
-      "cute girls doing cute things",
       "death",
       "disability",
       "drama",
@@ -380,7 +379,6 @@
       "murder",
       "new",
       "ninja",
-      "nudity",
       "organized crime",
       "original work",
       "orphan",
@@ -399,7 +397,6 @@
       "splatter",
       "spring",
       "surreal comedy",
-      "tanned skin",
       "thriller",
       "time",
       "time skip",
@@ -534,7 +531,7 @@
       "wordplay"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1139/95077.jpg"
+    "picture": "https://myanimelist.net/images/anime/1139/95077.jpg"
   },
   {
     "title": "AWAKE",
@@ -627,6 +624,7 @@
       "japan",
       "japanese production",
       "lgbtq+ themes",
+      "manga",
       "moe",
       "pet play",
       "place",
@@ -728,6 +726,7 @@
       "school clubs",
       "school life",
       "sequel",
+      "ships",
       "slice of life",
       "the arts",
       "tsundere",
@@ -783,7 +782,7 @@
       "urban"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1985/104767.jpg"
+    "picture": "https://myanimelist.net/images/anime/1985/104767.jpg"
   },
   {
     "title": "BanG Dream! Movie: Episode of Roselia - I: Yakusoku",
@@ -815,7 +814,7 @@
       "video games"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1867/119189.jpg"
+    "picture": "https://myanimelist.net/images/anime/1867/119189.jpg"
   },
   {
     "title": "BanG Dream! Movie: Episode of Roselia - II: Song I Am.",
@@ -911,7 +910,7 @@
       "work"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/11636.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/11636.jpg"
   },
   {
     "title": "Burn Up Scramble",
@@ -975,7 +974,6 @@
       "sci-fi",
       "science fiction",
       "science-fiction",
-      "seinen",
       "shounen",
       "slapstick",
       "special squads",
@@ -1204,7 +1202,7 @@
       "seinen"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1167/119187.jpg"
+    "picture": "https://myanimelist.net/images/anime/1167/119187.jpg"
   },
   {
     "title": "Dandadan",
@@ -1654,7 +1652,7 @@
       "wardrobe malfunction"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1385/101060.jpg"
+    "picture": "https://myanimelist.net/images/anime/1385/101060.jpg"
   },
   {
     "title": "Dumbbell Nan Kilo Moteru?: Silverman-Gym Oni Tore Kouza",
@@ -1813,7 +1811,8 @@
       "sudden naked guy appearance",
       "time",
       "tropes",
-      "tsundere"
+      "tsundere",
+      "yuri"
     ],
     "year": 2022,
     "picture": "https://cdn.myanimelist.net/images/anime/1713/126442.jpg"
@@ -1878,7 +1877,7 @@
       "working life"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1603/111352.jpg"
+    "picture": "https://myanimelist.net/images/anime/1603/111352.jpg"
   },
   {
     "title": "Gimai Seikatsu",
@@ -1920,6 +1919,66 @@
     ],
     "year": 2024,
     "picture": "https://cdn.myanimelist.net/images/anime/1420/143707.jpg"
+  },
+  {
+    "title": "Gnosia",
+    "episodes": 21,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "achromatic",
+      "agender",
+      "alien",
+      "aliens",
+      "alternate universe",
+      "amnesia",
+      "aromantic",
+      "artificial intelligence",
+      "asexual",
+      "based on a visual novel",
+      "bisexual",
+      "cgi",
+      "clone",
+      "cosmic horror",
+      "death game",
+      "detective",
+      "drama",
+      "ensemble cast",
+      "fan service",
+      "game",
+      "gender bending",
+      "ghost",
+      "gods",
+      "gyaru",
+      "heterosexual",
+      "japanese production",
+      "lgbtq+ themes",
+      "mystery",
+      "on spaceship",
+      "outer space",
+      "philosophy",
+      "pov",
+      "primarily adult cast",
+      "psychological",
+      "religion",
+      "robots",
+      "sci fi",
+      "sci-fi",
+      "science fiction",
+      "space",
+      "struggle to survive",
+      "suicide",
+      "survival",
+      "survival game",
+      "suspense",
+      "technology",
+      "thriller",
+      "time loop",
+      "time travel",
+      "visual novel"
+    ],
+    "year": 2025,
+    "picture": "https://myanimelist.net/images/anime/1257/152352.jpg"
   },
   {
     "title": "Gokinjo Monogatari",
@@ -2016,7 +2075,7 @@
       "yuri"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/35659.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/35659.jpg"
   },
   {
     "title": "Grand Blue Season 2",
@@ -2049,6 +2108,7 @@
       "kuudere",
       "lgbtq+ themes",
       "male protagonist",
+      "manga",
       "mature romance",
       "nonsense-comedy",
       "nudity",
@@ -2056,11 +2116,13 @@
       "ojou-sama",
       "otaku",
       "otaku culture",
+      "pantsu",
       "present",
       "primarily adult cast",
       "romance",
       "sadism",
       "school club",
+      "school life",
       "scuba diving",
       "seinen",
       "sequel",
@@ -2104,6 +2166,7 @@
       "censored uncensored version",
       "combat",
       "comedy",
+      "cosplay",
       "drastic change of life",
       "earth",
       "ecchi",
@@ -2124,11 +2187,13 @@
       "male protagonist",
       "manga",
       "nudity",
+      "otaku culture",
       "pantsu",
       "parody",
       "place",
       "plot continuity",
       "present",
+      "primarily teen cast",
       "romance",
       "romantic comedy",
       "school",
@@ -2145,6 +2210,7 @@
       "tv censoring",
       "unrequited love",
       "urban",
+      "work",
       "wrestling",
       "yandere"
     ],
@@ -2213,7 +2279,7 @@
       "working life"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1006/126132.jpg"
+    "picture": "https://myanimelist.net/images/anime/1006/126132.jpg"
   },
   {
     "title": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
@@ -2503,7 +2569,7 @@
       "wordplay"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1221/148863.jpg"
+    "picture": "https://myanimelist.net/images/anime/1221/148863.jpg"
   },
   {
     "title": "Hige wo Soru. Soshite Joshikousei wo Hirou.",
@@ -2612,7 +2678,7 @@
       "trap"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/27511.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/27511.jpg"
   },
   {
     "title": "Himesama \"Goumon\" no Jikan desu",
@@ -2641,6 +2707,7 @@
       "demons",
       "ecchi",
       "episodic",
+      "family life",
       "fantasy",
       "female protagonist",
       "fictional location",
@@ -2723,7 +2790,7 @@
       "urban"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1382/144602.jpg"
+    "picture": "https://myanimelist.net/images/anime/1382/144602.jpg"
   },
   {
     "title": "Ijiranaide, Nagatoro-san",
@@ -2822,7 +2889,7 @@
       "yandere"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1900/110097.jpg"
+    "picture": "https://myanimelist.net/images/anime/1900/110097.jpg"
   },
   {
     "title": "Ijiranaide, Nagatoro-san 2nd Attack",
@@ -3041,7 +3108,7 @@
       "time"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1851/124275.jpg"
+    "picture": "https://myanimelist.net/images/anime/1851/124275.jpg"
   },
   {
     "title": "Kaminaki Sekai no Kamisama Katsudou",
@@ -3249,7 +3316,7 @@
       "yuri"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1655/111626.jpg"
+    "picture": "https://myanimelist.net/images/anime/1655/111626.jpg"
   },
   {
     "title": "Kandagawa Jet Girls: Koko kara Hajimaru Tokyo Girls Promotion",
@@ -3423,7 +3490,7 @@
       "twins"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1452/139991.jpg"
+    "picture": "https://myanimelist.net/images/anime/1452/139991.jpg"
   },
   {
     "title": "Kekkon Yubiwa Monogatari II",
@@ -3917,7 +3984,7 @@
       "twins"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1724/121343.jpg"
+    "picture": "https://myanimelist.net/images/anime/1724/121343.jpg"
   },
   {
     "title": "Maesetsu!",
@@ -4024,7 +4091,7 @@
   },
   {
     "title": "Meitantei Precure!",
-    "episodes": 50,
+    "episodes": 51,
     "type": "TV",
     "status": "ONGOING",
     "tags": [
@@ -4033,6 +4100,7 @@
       "age regression",
       "animals",
       "anti-hero",
+      "coastal",
       "detective",
       "fairy",
       "fantasy",
@@ -4052,7 +4120,7 @@
       "urban fantasy"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1706/154944.jpg"
+    "picture": "https://myanimelist.net/images/anime/1706/154944.jpg"
   },
   {
     "title": "MILPOM★",
@@ -4386,7 +4454,7 @@
       "verbal comedy"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/1728/147375.jpg"
+    "picture": "https://myanimelist.net/images/anime/1728/147375.jpg"
   },
   {
     "title": "Oshiete! Galko-chan",
@@ -4449,7 +4517,7 @@
       "wordplay"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/77845.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/77845.jpg"
   },
   {
     "title": "Oshiete! Galko-chan: Natsuyasumi tte Hontou desu ka?",
@@ -4608,7 +4676,7 @@
       "urban"
     ],
     "year": 2002,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/83128.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/83128.jpg"
   },
   {
     "title": "Pokemon Movie 21: Minna no Monogatari",
@@ -5046,7 +5114,7 @@
       "sumo"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1355/108815.jpg"
+    "picture": "https://myanimelist.net/images/anime/1355/108815.jpg"
   },
   {
     "title": "Sanrio Danshi",
@@ -5087,7 +5155,7 @@
     "title": "Seihantai na Kimi to Boku",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "asia",
       "based on a manga",
@@ -5095,6 +5163,7 @@
       "chibi",
       "comedy",
       "coming of age",
+      "coming-of-age",
       "daily life",
       "drama",
       "earth",
@@ -5109,12 +5178,16 @@
       "japan",
       "japanese production",
       "kuudere",
+      "kyoto",
       "male protagonist",
       "manga",
       "middle school",
+      "misunderstandings",
       "mixed media",
       "multiple couples",
+      "nara",
       "opposites attract",
+      "osaka",
       "photography",
       "place",
       "plot continuity",
@@ -5128,6 +5201,7 @@
       "shounen",
       "slapstick",
       "slice of life",
+      "social anxiety",
       "stoic hero",
       "super deformed",
       "the arts",
@@ -5136,7 +5210,7 @@
       "verbal comedy"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1140/154457.jpg"
+    "picture": "https://myanimelist.net/images/anime/1140/154457.jpg"
   },
   {
     "title": "Seiyuu Radio no Uraomote",
@@ -5305,7 +5379,7 @@
       "zombie"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1224/137451.jpg"
+    "picture": "https://myanimelist.net/images/anime/1224/137451.jpg"
   },
   {
     "title": "Sono Bisque Doll wa Koi wo Suru",
@@ -5418,6 +5492,7 @@
       "cgi",
       "chibi",
       "comedy",
+      "coming-of-age",
       "cosplay",
       "cosplaying",
       "cross-dressing",
@@ -5436,6 +5511,7 @@
       "heterosexual",
       "high school",
       "ikebukuro",
+      "inspiration",
       "iyashikei",
       "japan",
       "japanese production",
@@ -5452,16 +5528,20 @@
       "present",
       "romance",
       "romantic comedy",
+      "rotoscoping",
       "school",
       "school life",
       "seinen",
+      "self-discovery",
       "sequel",
       "slapstick",
       "slice of life",
       "slide show animation",
+      "social anxiety",
       "teamwork",
       "time",
       "tokyo",
+      "trauma",
       "unrequited love",
       "urban",
       "verbal comedy"
@@ -6028,7 +6108,7 @@
       "yandere"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1510/99891.jpg"
+    "picture": "https://myanimelist.net/images/anime/1510/99891.jpg"
   },
   {
     "title": "Tenchi Muyou!",
@@ -6283,7 +6363,7 @@
       "working life"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/75120.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/75120.jpg"
   },
   {
     "title": "Toaru Kagaku no Railgun",
@@ -6406,7 +6486,7 @@
       "yuri"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/1099/106939.jpg"
+    "picture": "https://myanimelist.net/images/anime/1099/106939.jpg"
   },
   {
     "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
@@ -6695,7 +6775,7 @@
       "verbal comedy"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1509/148453.jpg"
+    "picture": "https://myanimelist.net/images/anime/1509/148453.jpg"
   },
   {
     "title": "Yumemiru Danshi wa Genjitsushugisha",
@@ -6759,7 +6839,7 @@
       "working life"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1239/134810.jpg"
+    "picture": "https://myanimelist.net/images/anime/1239/134810.jpg"
   },
   {
     "title": "Yurukawa Mell-chan",

@@ -41,7 +41,7 @@
       "winter"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1070/134906.jpg"
+    "picture": "https://myanimelist.net/images/anime/1070/134906.jpg"
   },
   {
     "title": "Dallyeola Hani",
@@ -97,14 +97,17 @@
     "title": "Dark Moon: Tsuki no Saidan",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "based on a webtoon",
       "bishounen",
+      "comedy",
       "crunchyroll co-production",
+      "drama",
       "ensemble cast",
       "fantasy",
       "female protagonist",
+      "gore",
       "idol",
       "interspecies relationship",
       "japanese production",
@@ -113,15 +116,18 @@
       "non-human protagonists",
       "orphans",
       "primarily male cast",
+      "reincarnation",
       "reverse harem",
       "romance",
       "school",
       "school life",
       "shoujo",
+      "social stigma",
       "speculative fiction",
       "super power",
       "supernatural",
       "superpowers",
+      "time manipulation",
       "transfer students",
       "undead",
       "vampire",
@@ -130,7 +136,7 @@
       "werewolves"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1559/154695.jpg"
+    "picture": "https://myanimelist.net/images/anime/1559/154695.jpg"
   },
   {
     "title": "Elena Evoy Gwanchal Ilji",
@@ -211,7 +217,7 @@
       "work"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1449/140344.jpg"
+    "picture": "https://myanimelist.net/images/anime/1449/140344.jpg"
   },
   {
     "title": "Kami no Tou",
@@ -894,7 +900,7 @@
       "yandere"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1319/136330.jpg"
+    "picture": "https://myanimelist.net/images/anime/1319/136330.jpg"
   },
   {
     "title": "The God of High School",
@@ -1089,6 +1095,6 @@
       "urban"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1535/139699.jpg"
+    "picture": "https://myanimelist.net/images/anime/1535/139699.jpg"
   }
 ]

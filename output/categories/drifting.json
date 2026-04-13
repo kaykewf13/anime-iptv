@@ -61,7 +61,7 @@
       "tournament"
     ],
     "year": 2002,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/13168.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/13168.jpg"
   },
   {
     "title": "Initial D Battle Stage 2",
@@ -99,7 +99,7 @@
       "tournament"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/13167.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/13167.jpg"
   },
   {
     "title": "Initial D Battle Stage 3",
@@ -132,7 +132,7 @@
       "street racing"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1236/113306.jpg"
+    "picture": "https://myanimelist.net/images/anime/1236/113306.jpg"
   },
   {
     "title": "Initial D Extra Stage",
@@ -173,7 +173,7 @@
       "tournament"
     ],
     "year": 2001,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/13169.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/13169.jpg"
   },
   {
     "title": "Initial D Extra Stage 2",
@@ -441,7 +441,7 @@
       "visible aura"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/10521.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/10521.jpg"
   },
   {
     "title": "Initial D Second Stage",
@@ -498,7 +498,7 @@
       "work"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/12750.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/12750.jpg"
   },
   {
     "title": "Initial D Third Stage",
@@ -604,7 +604,7 @@
       "staff missing"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/1281/93043.jpg"
+    "picture": "https://myanimelist.net/images/anime/1281/93043.jpg"
   },
   {
     "title": "Lei Su Deng Shandian Chong Xian 2",
@@ -727,9 +727,9 @@
   },
   {
     "title": "MF Ghost 3rd Season",
-    "episodes": 11,
+    "episodes": 13,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "asia",
@@ -752,8 +752,8 @@
       "present",
       "primarily adult cast",
       "primarily male cast",
+      "product placement",
       "racing",
-      "science fiction",
       "seinen",
       "sequel",
       "skimpy clothing",
@@ -762,7 +762,7 @@
       "time"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1419/154458.jpg"
+    "picture": "https://myanimelist.net/images/anime/1419/154458.jpg"
   },
   {
     "title": "New Initial D Movie: Legend 1 - Kakusei",
@@ -790,7 +790,7 @@
       "street racing"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/75648.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/75648.jpg"
   },
   {
     "title": "New Initial D Movie: Legend 2 - Tousou",
@@ -1005,6 +1005,6 @@
       "workplace"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/1460/141897.jpg"
+    "picture": "https://myanimelist.net/images/anime/1460/141897.jpg"
   }
 ]

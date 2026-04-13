@@ -15,7 +15,7 @@
       "shorts"
     ],
     "year": 1979,
-    "picture": "https://cdn.myanimelist.net/images/anime/1174/118191.jpg"
+    "picture": "https://myanimelist.net/images/anime/1174/118191.jpg"
   },
   {
     "title": "Ciwei Xiao Zi: Tiansheng Wo Ci",
@@ -49,6 +49,7 @@
     "tags": [
       "animal protagonists",
       "anthropomorphic",
+      "anthropomorphism",
       "beastman",
       "guns",
       "hedgehogs",
@@ -60,6 +61,7 @@
       "present",
       "propaganda",
       "squirrels",
+      "violence",
       "war",
       "wartime propaganda"
     ],
@@ -86,6 +88,36 @@
     "picture": "https://cdn.myanimelist.net/images/anime/9/62169.jpg"
   },
   {
+    "title": "Fureru.",
+    "episodes": 1,
+    "type": "MOVIE",
+    "status": "FINISHED",
+    "tags": [
+      "adult cast",
+      "bar",
+      "childhood friends",
+      "coming of age",
+      "disability",
+      "drama",
+      "found family",
+      "hedgehogs",
+      "japanese production",
+      "love triangle",
+      "new",
+      "original work",
+      "predominantly adult cast",
+      "present",
+      "primarily adult cast",
+      "roommates",
+      "supernatural",
+      "unrequited love",
+      "urban",
+      "work"
+    ],
+    "year": 2024,
+    "picture": "https://myanimelist.net/images/anime/1488/150090.jpg"
+  },
+  {
     "title": "Harimogu Harry",
     "episodes": 140,
     "type": "TV",
@@ -102,7 +134,7 @@
       "short episodes"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/29632.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/29632.jpg"
   },
   {
     "title": "Harinezumi no Luchika",
@@ -295,6 +327,6 @@
       "western comics"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/1843/124074.jpg"
+    "picture": "https://myanimelist.net/images/anime/1843/124074.jpg"
   }
 ]

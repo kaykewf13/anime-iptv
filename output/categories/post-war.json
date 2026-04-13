@@ -48,7 +48,7 @@
       "war"
     ],
     "year": 1988,
-    "picture": "https://cdn.myanimelist.net/images/anime/1632/100395.jpg"
+    "picture": "https://myanimelist.net/images/anime/1632/100395.jpg"
   },
   {
     "title": "Appleseed Alpha",
@@ -151,7 +151,7 @@
       "violence"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/1519/148684.jpg"
+    "picture": "https://myanimelist.net/images/anime/1519/148684.jpg"
   },
   {
     "title": "Blood+",
@@ -407,7 +407,7 @@
       "world wars"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/1696/112292.jpg"
+    "picture": "https://myanimelist.net/images/anime/1696/112292.jpg"
   },
   {
     "title": "Ecchan no Sensou",
@@ -1112,7 +1112,7 @@
       "world wars"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/56297.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/56297.jpg"
   },
   {
     "title": "Glass no Usagi",
@@ -1297,7 +1297,7 @@
       "winter"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1145/90880.jpg"
+    "picture": "https://myanimelist.net/images/anime/1145/90880.jpg"
   },
   {
     "title": "Golden Kamuy 2nd Season",
@@ -1418,12 +1418,15 @@
       "daily life",
       "disaster",
       "drama",
+      "dystopian",
       "earth",
       "educational",
       "elementary school",
       "family",
+      "found family",
       "hiroshima",
       "historical",
+      "homeless",
       "japan",
       "japanese production",
       "male protagonist",
@@ -1450,7 +1453,7 @@
       "world wars"
     ],
     "year": 1986,
-    "picture": "https://cdn.myanimelist.net/images/anime/1238/154907.jpg"
+    "picture": "https://myanimelist.net/images/anime/1238/154907.jpg"
   },
   {
     "title": "Haruwo",
@@ -1509,7 +1512,7 @@
       "yakuza"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/1037/112340.jpg"
+    "picture": "https://myanimelist.net/images/anime/1037/112340.jpg"
   },
   {
     "title": "Hengen Taima Yakou Karura Mau! Sendai Kokeshi Enka",
@@ -1647,7 +1650,7 @@
       "world wars"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/54359.jpg"
+    "picture": "https://myanimelist.net/images/anime/1519/155517.jpg"
   },
   {
     "title": "Hitsugi no Chaika",
@@ -1940,7 +1943,7 @@
       "weekly shounen jump"
     ],
     "year": 1987,
-    "picture": "https://cdn.myanimelist.net/images/anime/1912/106020.jpg"
+    "picture": "https://myanimelist.net/images/anime/1912/106020.jpg"
   },
   {
     "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
@@ -2149,7 +2152,7 @@
       "yamagata"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1677/106540.jpg"
+    "picture": "https://myanimelist.net/images/anime/1677/106540.jpg"
   },
   {
     "title": "Isekai Shokudou",
@@ -2406,7 +2409,7 @@
       "violence"
     ],
     "year": 2000,
-    "picture": "https://cdn.myanimelist.net/images/anime/1323/103343.jpg"
+    "picture": "https://myanimelist.net/images/anime/1323/103343.jpg"
   },
   {
     "title": "Junod",
@@ -2773,6 +2776,7 @@
       "artificial intelligence",
       "based on a manga",
       "bionic powers",
+      "cars",
       "cg animation",
       "cg-anime",
       "cgi",
@@ -2804,8 +2808,8 @@
       "mecha",
       "military",
       "mystery",
-      "netflix original",
       "nudity",
+      "only on netflix",
       "orphan",
       "philosophy",
       "place",
@@ -2846,7 +2850,7 @@
       "war"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1213/106702.jpg"
+    "picture": "https://myanimelist.net/images/anime/1213/106702.jpg"
   },
   {
     "title": "Koukyoushihen Eureka Seven",
@@ -3162,7 +3166,7 @@
       "watercolour style"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/1266/133852.jpg"
+    "picture": "https://myanimelist.net/images/anime/1266/133852.jpg"
   },
   {
     "title": "Kuroi Ame ni Utarete",
@@ -3391,7 +3395,7 @@
       "zombie"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/84004.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/84004.jpg"
   },
   {
     "title": "Log Horizon 2nd Season",
@@ -3877,7 +3881,7 @@
       "world domination"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1814/143744.jpg"
+    "picture": "https://myanimelist.net/images/anime/1814/143744.jpg"
   },
   {
     "title": "Mardock Scramble",
@@ -4032,7 +4036,7 @@
       "violence"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/75427.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/75427.jpg"
   },
   {
     "title": "Monster Musume no Oishasan",
@@ -4151,7 +4155,7 @@
       "zombie"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1762/106598.jpg"
+    "picture": "https://myanimelist.net/images/anime/1762/106598.jpg"
   },
   {
     "title": "Mouryou no Hako",
@@ -4255,7 +4259,7 @@
       "youkai"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/75492.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/75492.jpg"
   },
   {
     "title": "My Daemon",
@@ -4580,7 +4584,7 @@
       "weekly shounen jump"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1386/140401.jpg"
+    "picture": "https://myanimelist.net/images/anime/1386/140401.jpg"
   },
   {
     "title": "Ninkuu",
@@ -4849,7 +4853,7 @@
       "wartime propaganda"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/75181.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/75181.jpg"
   },
   {
     "title": "Rainbow: Nisha Rokubou no Shichinin",
@@ -4886,6 +4890,7 @@
       "gore",
       "historical",
       "horror",
+      "incarceration",
       "japan",
       "japanese production",
       "language barrier",
@@ -4934,7 +4939,7 @@
       "yakuza"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/72697.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/72697.jpg"
   },
   {
     "title": "Raiyantsuuri no Uta",
@@ -5308,7 +5313,7 @@
       "wilderness"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1263/119932.jpg"
+    "picture": "https://myanimelist.net/images/anime/1263/119932.jpg"
   },
   {
     "title": "Shingeki no Bahamut: Genesis",
@@ -5692,7 +5697,7 @@
       "world war ii"
     ],
     "year": 1983,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/75322.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/75322.jpg"
   },
   {
     "title": "Sky Girls",
@@ -6202,7 +6207,9 @@
       "anachronisms",
       "aristocracy",
       "aromantic",
+      "asexual",
       "autumn",
+      "award winning",
       "based on a manga",
       "boy meets girl",
       "calling your attacks",
@@ -6261,6 +6268,7 @@
       "kuudere",
       "large breasts",
       "large-scale war",
+      "lgbtq+ themes",
       "long time span",
       "magic",
       "magic circles",
@@ -6325,7 +6333,7 @@
       "winter"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg"
+    "picture": "https://myanimelist.net/images/anime/1015/138006.jpg"
   },
   {
     "title": "Stranger: Mukou Hadan",
@@ -6535,7 +6543,7 @@
       "work"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/22769.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/22769.jpg"
   },
   {
     "title": "Tenbatsu Angel Rabbie☆",
@@ -6634,7 +6642,7 @@
       "zombie"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/53585.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/53585.jpg"
   },
   {
     "title": "Tetsujin 28-gou: Hakuchuu no Zangetsu",
@@ -6729,6 +6737,7 @@
       "long time span",
       "lost civilization",
       "lost technology",
+      "mafia",
       "male protagonist",
       "marriage",
       "melodrama",
@@ -7336,7 +7345,7 @@
       "wartime propaganda"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/75968.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/75968.jpg"
   },
   {
     "title": "Vinland Saga",
@@ -7597,7 +7606,7 @@
       "writing"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1667/112943.jpg"
+    "picture": "https://myanimelist.net/images/anime/1667/112943.jpg"
   },
   {
     "title": "Violet Evergarden Movie",
@@ -7671,7 +7680,7 @@
       "writing"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1825/110716.jpg"
+    "picture": "https://myanimelist.net/images/anime/1825/110716.jpg"
   },
   {
     "title": "Viper's Creed",

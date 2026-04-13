@@ -178,7 +178,7 @@
       "world domination"
     ],
     "year": 1992,
-    "picture": "https://cdn.myanimelist.net/images/anime/1419/99205.jpg"
+    "picture": "https://myanimelist.net/images/anime/1419/99205.jpg"
   },
   {
     "title": "BASTARD!!: Ankoku no Hakaishin (ONA)",
@@ -656,7 +656,7 @@
       "zombie"
     ],
     "year": 1974,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/86971.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/86971.jpg"
   },
   {
     "title": "Code Geass: Hangyaku no Lelouch",
@@ -1111,7 +1111,7 @@
       "world domination"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/75543.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/75543.jpg"
   },
   {
     "title": "Crayon Shin-chan Movie 19: Arashi wo Yobu Ougon no Spy Daisakusen",
@@ -1139,7 +1139,7 @@
       "world domination"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/1849/137876.jpg"
+    "picture": "https://myanimelist.net/images/anime/1849/137876.jpg"
   },
   {
     "title": "Death Note",
@@ -1251,7 +1251,7 @@
       "yandere"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg"
+    "picture": "https://myanimelist.net/images/anime/1079/138100.jpg"
   },
   {
     "title": "Densetsu no Yuusha da Garn",
@@ -1297,7 +1297,7 @@
       "world domination"
     ],
     "year": 1992,
-    "picture": "https://cdn.myanimelist.net/images/anime/1206/105983.jpg"
+    "picture": "https://myanimelist.net/images/anime/1206/105983.jpg"
   },
   {
     "title": "Devidol!",
@@ -2258,7 +2258,7 @@
       "world domination"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/1094/109008.jpg"
+    "picture": "https://myanimelist.net/images/anime/1094/109008.jpg"
   },
   {
     "title": "Kaijin Kaihatsu-bu no Kuroitsu-san",
@@ -3049,7 +3049,7 @@
       "world domination"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/61839.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/61839.jpg"
   },
   {
     "title": "Majutsushi Orphen: Revenge",
@@ -3279,7 +3279,7 @@
       "world domination"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1814/143744.jpg"
+    "picture": "https://myanimelist.net/images/anime/1814/143744.jpg"
   },
   {
     "title": "Mirai Robo Daltanias",
@@ -3343,7 +3343,7 @@
       "world domination"
     ],
     "year": 1979,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/52299.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/52299.jpg"
   },
   {
     "title": "Mouryou Senki Madara",
@@ -3517,7 +3517,7 @@
       "yandere"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1992/116576.jpg"
+    "picture": "https://myanimelist.net/images/anime/1992/116576.jpg"
   },
   {
     "title": "Project Zeorymer",
@@ -4172,7 +4172,7 @@
       "world domination"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/49801.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/49801.jpg"
   },
   {
     "title": "Shin Mazinger Shougeki! Z-hen",
@@ -4195,10 +4195,12 @@
       "dark fantasy",
       "demon",
       "drama",
+      "dullahan",
       "dysfunctional family",
       "family life",
       "gods",
       "greek mythology",
+      "guns",
       "japanese production",
       "lost civilization",
       "magic",
@@ -4207,11 +4209,13 @@
       "monster",
       "multi-anime projects",
       "mythology",
+      "nudity",
       "parasite",
       "piloted robot",
       "psi-powers",
       "remake",
       "robot",
+      "robots",
       "romance",
       "sci fi",
       "sci-fi",
@@ -4271,7 +4275,7 @@
       "world domination"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1617/152980.jpg"
+    "picture": "https://myanimelist.net/images/anime/1617/152980.jpg"
   },
   {
     "title": "Shinzou Ningen Casshern",
@@ -4424,7 +4428,7 @@
       "zombies"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/75468.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/75468.jpg"
   },
   {
     "title": "Shugo Chara!",
@@ -4670,7 +4674,7 @@
       "world domination"
     ],
     "year": 1991,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/31133.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/31133.jpg"
   },
   {
     "title": "Tentai Senshi Sunred 2nd Season",
@@ -4847,11 +4851,13 @@
     "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
     "episodes": 24,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
+      "absurdity",
       "action",
       "action comedy",
       "adult cast",
+      "aliens",
       "asia",
       "based on a manga",
       "brainwashing",
@@ -4867,6 +4873,7 @@
       "crime",
       "crunchyroll co-production",
       "cyborgs",
+      "dark comedy",
       "drama",
       "earth",
       "ecchi",
@@ -4878,12 +4885,15 @@
       "following one's dream",
       "gangs",
       "good vs evil",
+      "gore",
       "henshin",
       "hero of strong character",
       "heroine of strong character",
       "huge breasts",
       "human enhancement",
+      "idealism",
       "idol",
+      "idols",
       "insects of doom",
       "japan",
       "japanese production",
@@ -4892,6 +4902,7 @@
       "manga",
       "martial arts",
       "monster",
+      "monsters",
       "nostalgia",
       "nudity",
       "otaku culture",
@@ -4904,13 +4915,16 @@
       "preaired episodes",
       "predominantly adult cast",
       "present",
+      "psychological",
       "redemption",
       "revenge",
       "rivalry",
       "saving the world",
+      "science fiction",
       "secret organisation",
       "seinen",
       "self-parody",
+      "sentai",
       "sibling rivalry",
       "soft science fiction",
       "speculative fiction",
@@ -4922,6 +4936,8 @@
       "superhero",
       "superheroes",
       "supernatural drama",
+      "superpowers",
+      "supervillains",
       "surreal comedy",
       "teamwork",
       "the power of love",
@@ -4931,13 +4947,15 @@
       "tone changes",
       "tournament",
       "training",
+      "transformations",
       "tropes",
       "violence",
       "visible aura",
-      "world domination"
+      "world domination",
+      "yakuza"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1455/152139.jpg"
+    "picture": "https://myanimelist.net/images/anime/1455/152139.jpg"
   },
   {
     "title": "Trouble Chocolate",
@@ -5084,6 +5102,7 @@
       "gods",
       "hanami",
       "henshin",
+      "heterosexual",
       "hostage situation",
       "human sacrifice",
       "incest",
@@ -5206,7 +5225,7 @@
       "world domination"
     ],
     "year": 1993,
-    "picture": "https://cdn.myanimelist.net/images/anime/1352/91072.jpg"
+    "picture": "https://myanimelist.net/images/anime/1352/91072.jpg"
   },
   {
     "title": "Yuusha-Ou GaoGaiGar",

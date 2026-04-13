@@ -232,7 +232,7 @@
       "war"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1790/149462.jpg"
+    "picture": "https://myanimelist.net/images/anime/1790/149462.jpg"
   },
   {
     "title": "Cross Ange: Tenshi to Ryuu no Rondo",
@@ -254,6 +254,7 @@
       "bullying",
       "castaway",
       "cgi",
+      "class struggle",
       "colour coded",
       "concentration camp",
       "corrupt nobility",
@@ -396,6 +397,7 @@
       "piloted robot",
       "place",
       "plot continuity",
+      "police",
       "police are useless",
       "politics",
       "power suit",
@@ -428,7 +430,7 @@
       "war-zone realities"
     ],
     "year": 1983,
-    "picture": "https://cdn.myanimelist.net/images/anime/1253/116763.jpg"
+    "picture": "https://myanimelist.net/images/anime/1253/116763.jpg"
   },
   {
     "title": "Dallos Special",
@@ -493,7 +495,7 @@
       "war-zone realities"
     ],
     "year": 1985,
-    "picture": "https://cdn.myanimelist.net/images/anime/1752/116764.jpg"
+    "picture": "https://myanimelist.net/images/anime/1752/116764.jpg"
   },
   {
     "title": "Drifters",
@@ -1018,7 +1020,7 @@
       "war"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1286/151078.jpg"
+    "picture": "https://myanimelist.net/images/anime/1286/151078.jpg"
   },
   {
     "title": "Glass no Kantai: La Legende du Vent de l'Univers",
@@ -1543,7 +1545,7 @@
       "yandere"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1301/110018.jpg"
+    "picture": "https://myanimelist.net/images/anime/1301/110018.jpg"
   },
   {
     "title": "Kaze wo Mita Shounen",
@@ -1695,7 +1697,7 @@
       "zaku"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/75618.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/75618.jpg"
   },
   {
     "title": "Kidou Senshi Gundam: Tekketsu no Orphans",
@@ -1796,7 +1798,7 @@
       "yakuza"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/75879.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/75879.jpg"
   },
   {
     "title": "Kikou Ryouhei Merowlink",
@@ -1864,22 +1866,24 @@
       "war-zone realities"
     ],
     "year": 1988,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/23503.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/23503.jpg"
   },
   {
     "title": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "adventure",
       "alternative world",
+      "arranged marriage",
       "based on a light novel",
       "blackmail",
       "cheats",
       "civil war",
       "comedy",
+      "conspiracy",
       "crime",
       "curse",
       "death",
@@ -1895,6 +1899,7 @@
       "hostage situation",
       "isekai",
       "japanese production",
+      "kingdom management",
       "knight",
       "large breasts",
       "magic",
@@ -1929,7 +1934,7 @@
       "war"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1629/153722.jpg"
+    "picture": "https://myanimelist.net/images/anime/1629/153722.jpg"
   },
   {
     "title": "Kyoukai Senki",
@@ -2210,7 +2215,7 @@
       "war-zone realities"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/57237.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/57237.jpg"
   },
   {
     "title": "Psycho-Pass: Sinners of the System",
@@ -2365,7 +2370,7 @@
       "war"
     ],
     "year": 1989,
-    "picture": "https://cdn.myanimelist.net/images/anime/1606/94109.jpg"
+    "picture": "https://myanimelist.net/images/anime/1606/94109.jpg"
   },
   {
     "title": "Senjou no Valkyria",
@@ -2465,7 +2470,7 @@
       "zettai ryouiki"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/53901.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/53901.jpg"
   },
   {
     "title": "Shin Hakkenden",
@@ -2611,7 +2616,7 @@
       "world domination"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/49801.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/49801.jpg"
   },
   {
     "title": "Shingeki no Kyojin Season 3",
@@ -3051,7 +3056,7 @@
       "winter"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/79923.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/79923.jpg"
   },
   {
     "title": "Youjo Senki",

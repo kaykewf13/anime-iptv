@@ -143,7 +143,7 @@
       "zettai ryouiki"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/1385/136247.jpg"
+    "picture": "https://myanimelist.net/images/anime/1385/136247.jpg"
   },
   {
     "title": "Aa! Megami-sama! (TV)",
@@ -373,7 +373,7 @@
       "yggdrasil"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/78931.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/78931.jpg"
   },
   {
     "title": "Aa! Megami-sama! Tatakau Tsubasa",
@@ -521,7 +521,7 @@
       "winter"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/1/303.jpg"
+    "picture": "https://myanimelist.net/images/anime/1/303.jpg"
   },
   {
     "title": "Aquarion Evol",
@@ -711,36 +711,6 @@
     ],
     "year": 2006,
     "picture": "https://cdn.myanimelist.net/images/anime/2/11746.jpg"
-  },
-  {
-    "title": "Campfire Cooking in Another World with My Absurd Skill",
-    "episodes": 0,
-    "type": "TV",
-    "status": "FINISHED",
-    "tags": [
-      "adventure",
-      "aristocracy",
-      "comedy",
-      "cooking",
-      "demi-humans",
-      "dragons",
-      "dungeons",
-      "dwarves",
-      "elves",
-      "fantasy",
-      "goddesses",
-      "gods",
-      "gourmet",
-      "isekai",
-      "magical creatures",
-      "medieval",
-      "monsters",
-      "slice of life",
-      "sorcery",
-      "superpowers"
-    ],
-    "year": 2025,
-    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A30535-1651126805.1760526737.jpg"
   },
   {
     "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
@@ -1107,7 +1077,7 @@
       "walls of text"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1431/146222.jpg"
+    "picture": "https://myanimelist.net/images/anime/1431/146222.jpg"
   },
   {
     "title": "Jungle de Ikou!",
@@ -1349,7 +1319,7 @@
       "wordplay"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/19724.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/19724.jpg"
   },
   {
     "title": "Kono Subarashii Sekai ni Shukufuku wo!",
@@ -1716,7 +1686,7 @@
       "wrestling"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/1386/120773.jpg"
+    "picture": "https://myanimelist.net/images/anime/1386/120773.jpg"
   },
   {
     "title": "Noragami",
@@ -1861,6 +1831,7 @@
       "action",
       "action comedy",
       "alternate universe",
+      "angst",
       "asia",
       "based on a light novel",
       "boob cannon",
@@ -1911,6 +1882,7 @@
       "school",
       "science fiction",
       "shintoism",
+      "shounen",
       "shrine maiden",
       "speculative fiction",
       "storytelling",
@@ -1929,46 +1901,12 @@
       "tsundere",
       "tv censoring",
       "verbal comedy",
+      "violence",
       "walls of text",
       "watercolour style"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/53951.jpg"
-  },
-  {
-    "title": "Sentenced to Be a Hero",
-    "episodes": 7,
-    "type": "TV",
-    "status": "FINISHED",
-    "tags": [
-      "action",
-      "aristocracy",
-      "betrayal",
-      "conspiracy",
-      "crime",
-      "dark fantasy",
-      "demons",
-      "dragons",
-      "drama",
-      "explosions",
-      "factions",
-      "fantasy",
-      "goddesses",
-      "gore",
-      "knights",
-      "medieval",
-      "military",
-      "monsters",
-      "religious sect",
-      "resurrection",
-      "revenge",
-      "social stigma",
-      "sorcery",
-      "superpowers",
-      "trauma"
-    ],
-    "year": 2026,
-    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A29058-2748034787.1770167879.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/53951.jpg"
   },
   {
     "title": "Spice & Wolf: merchant meets the wise wolf",
@@ -2040,15 +1978,20 @@
       "comedy",
       "cooking",
       "creature taming",
+      "demi-humans",
       "dragons",
       "dungeon",
       "dungeons",
+      "dwarves",
       "economics",
+      "educational",
       "elf",
+      "elves",
       "fantasy",
       "food",
       "food and beverage",
       "food preparation",
+      "food science",
       "found family",
       "game elements",
       "goblin",
@@ -2115,6 +2058,66 @@
       "war"
     ],
     "year": 1980,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/83046.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/83046.jpg"
+  },
+  {
+    "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+    "episodes": 12,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "action",
+      "action drama",
+      "adventure",
+      "anti-hero",
+      "aristocracy",
+      "based on a light novel",
+      "betrayal",
+      "body horror",
+      "cgi",
+      "comedy",
+      "conspiracy",
+      "cosmic horror",
+      "crime",
+      "dark fantasy",
+      "deity",
+      "demon",
+      "demons",
+      "disaster",
+      "dragons",
+      "drama",
+      "explosions",
+      "factions",
+      "fantasy",
+      "goddesses",
+      "gods",
+      "gore",
+      "isekai",
+      "japanese production",
+      "knights",
+      "magic",
+      "male protagonist",
+      "medieval",
+      "military",
+      "monsters",
+      "novel",
+      "prison",
+      "religious sect",
+      "resurrection",
+      "revenge",
+      "social stigma",
+      "sorcery",
+      "speculative fiction",
+      "superpowers",
+      "sword",
+      "swordplay",
+      "swords & co",
+      "tragedy",
+      "trauma",
+      "tsundere",
+      "war"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1062/151911.jpg"
   }
 ]

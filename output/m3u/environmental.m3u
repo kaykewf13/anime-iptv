@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Environmental
-# Total de animes na categoria: 277
+# Total de animes na categoria: 281
 # Exemplos: 100% Renewable Energy, 663114, 7 Seeds, 7 Seeds 2nd Season, A.LI.CE, AIKa, Aika-chan no Chikyuu, Aisubeki Mirai e, Anyamal Tantei Kiruminzoo, Ao no 6-gou
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Environmental",Pluto TV Anime | Environmental
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

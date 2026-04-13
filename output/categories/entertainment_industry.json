@@ -48,7 +48,7 @@
       "tokyo"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1485/108385.jpg"
+    "picture": "https://myanimelist.net/images/anime/1485/108385.jpg"
   },
   {
     "title": "[Oshi no Ko]",
@@ -78,6 +78,7 @@
       "detective",
       "dialogue driven",
       "drama",
+      "educational",
       "ensemble cast",
       "entertainment industry",
       "episodic",
@@ -172,7 +173,6 @@
       "coming of age",
       "coming-of-age",
       "conspiracy",
-      "cosplay",
       "crime",
       "daily life",
       "dancing",
@@ -247,6 +247,76 @@
     ],
     "year": 2024,
     "picture": "https://cdn.myanimelist.net/images/anime/1006/143302.jpg"
+  },
+  {
+    "title": "[Oshi no Ko] 3rd Season",
+    "episodes": 11,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "acting",
+      "anti-hero",
+      "asia",
+      "based on a manga",
+      "bullying",
+      "comedy",
+      "coming-of-age",
+      "conspiracy",
+      "cosplay",
+      "crime",
+      "detective",
+      "drama",
+      "earth",
+      "educational",
+      "ensemble cast",
+      "entertainment industry",
+      "female protagonist",
+      "filmmaking",
+      "heterosexual",
+      "idol",
+      "idols",
+      "inspiration",
+      "japan",
+      "japanese production",
+      "male protagonist",
+      "manga",
+      "mental health",
+      "music",
+      "mystery",
+      "non-linear narrative",
+      "otaku culture",
+      "performing arts",
+      "place",
+      "plot continuity",
+      "politics",
+      "present",
+      "psychological",
+      "reincarnation",
+      "revenge",
+      "school",
+      "seinen",
+      "self-discovery",
+      "sequel",
+      "showbiz",
+      "siblings",
+      "slice of life",
+      "social commentary",
+      "social media",
+      "social stigma",
+      "supernatural",
+      "the arts",
+      "time",
+      "tragedy",
+      "trauma",
+      "tsundere",
+      "twins",
+      "urban fantasy",
+      "vtuber",
+      "workplace",
+      "writing"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1979/153329.jpg"
   },
   {
     "title": "A Kite",
@@ -422,7 +492,7 @@
       "yakuza"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1421/105605.jpg"
+    "picture": "https://myanimelist.net/images/anime/1421/105605.jpg"
   },
   {
     "title": "Android Ana Maico 2010",
@@ -482,7 +552,7 @@
       "workplace"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/30397.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/30397.jpg"
   },
   {
     "title": "Animegataris",
@@ -638,7 +708,7 @@
       "work"
     ],
     "year": 2002,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/21141.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/21141.jpg"
   },
   {
     "title": "Assemble Insert",
@@ -965,7 +1035,7 @@
       "writing"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/41845.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/41845.jpg"
   },
   {
     "title": "BanG Dream! Ave Mujica",
@@ -1003,6 +1073,7 @@
       "japan",
       "japanese production",
       "jealousy",
+      "kuudere",
       "lgbtq+ themes",
       "melodrama",
       "metal music",
@@ -1032,12 +1103,13 @@
       "tragedy",
       "training",
       "tropes",
+      "tsundere",
       "urban",
       "yandere",
       "yuri"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1181/148235.jpg"
+    "picture": "https://myanimelist.net/images/anime/1181/148235.jpg"
   },
   {
     "title": "Cue!",
@@ -1183,6 +1255,7 @@
     "tags": [
       "adventure",
       "alternative world",
+      "anachronism",
       "dungeon",
       "ensemble cast",
       "entertainment industry",
@@ -1202,7 +1275,7 @@
       "the arts"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1874/151419.jpg"
+    "picture": "https://myanimelist.net/images/anime/1874/151419.jpg"
   },
   {
     "title": "Eien no Filena",
@@ -2001,6 +2074,7 @@
       "boys' love",
       "comedy",
       "crossdressing",
+      "cute boys doing cute things",
       "drama",
       "earth",
       "entertainment industry",
@@ -2195,7 +2269,7 @@
       "work"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/2903.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/2903.jpg"
   },
   {
     "title": "Hime Chen! Otogi Chikku Idol Lilpri",
@@ -2270,7 +2344,7 @@
   },
   {
     "title": "Holo no Graffiti",
-    "episodes": 356,
+    "episodes": 359,
     "type": "ONA",
     "status": "ONGOING",
     "tags": [
@@ -2358,11 +2432,10 @@
       "vtubers",
       "witch",
       "wordplay",
-      "working life",
-      "yuri"
+      "working life"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1259/110227.jpg"
+    "picture": "https://myanimelist.net/images/anime/1259/110227.jpg"
   },
   {
     "title": "Hoozuki no Reitetsu",
@@ -2602,7 +2675,7 @@
       "zashiki-warashi"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/88280.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/88280.jpg"
   },
   {
     "title": "Hoozuki no Reitetsu 2nd Season: Sono Ni",
@@ -2721,7 +2794,7 @@
       "zombie"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1113/92465.jpg"
+    "picture": "https://myanimelist.net/images/anime/1113/92465.jpg"
   },
   {
     "title": "Hoozuki no Reitetsu OAD",
@@ -3527,7 +3600,7 @@
       "working life"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/25524.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/25524.jpg"
   },
   {
     "title": "Koi-ken!: Watashitachi Anime ni Nacchatta!",
@@ -3836,7 +3909,7 @@
       "yaoi"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/76599.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/76599.jpg"
   },
   {
     "title": "Love♥Love?",
@@ -3993,7 +4066,7 @@
       "work"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/1673/132849.jpg"
+    "picture": "https://myanimelist.net/images/anime/1673/132849.jpg"
   },
   {
     "title": "Mahou Shoujo Ore",
@@ -4043,6 +4116,7 @@
       "genderbending",
       "gore",
       "henshin",
+      "heterosexual",
       "human enhancement",
       "idol",
       "idols",
@@ -4566,7 +4640,7 @@
       "working life"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1913/112190.jpg"
+    "picture": "https://myanimelist.net/images/anime/1913/112190.jpg"
   },
   {
     "title": "Nana",
@@ -4600,7 +4674,6 @@
       "japanese production",
       "jealousy",
       "kuudere",
-      "lgbtq+ themes",
       "love polygon",
       "love triangle",
       "mahjong",
@@ -4736,7 +4809,7 @@
       "workplace"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/80417.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/80417.jpg"
   },
   {
     "title": "New Game!!",
@@ -5017,7 +5090,7 @@
       "working life"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1811/91043.jpg"
+    "picture": "https://myanimelist.net/images/anime/1811/91043.jpg"
   },
   {
     "title": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
@@ -5629,7 +5702,7 @@
       "working life"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1165/113391.jpg"
+    "picture": "https://myanimelist.net/images/anime/1165/113391.jpg"
   },
   {
     "title": "Sakura Quest",
@@ -5989,7 +6062,7 @@
       "workplace"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/1460/141897.jpg"
+    "picture": "https://myanimelist.net/images/anime/1460/141897.jpg"
   },
   {
     "title": "Shiroi Suna no Aquatope",
@@ -6800,7 +6873,7 @@
       "visual novel"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/30248.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/30248.jpg"
   },
   {
     "title": "Uta no☆Prince-sama♪ Maji Love 2000%",
@@ -6825,6 +6898,7 @@
       "following one's dream",
       "game",
       "harem",
+      "heterosexual",
       "idol",
       "idols",
       "idols (male)",
@@ -6951,6 +7025,7 @@
       "predominantly female cast",
       "present",
       "primarily female cast",
+      "primarily teen cast",
       "real-world location",
       "recycled animation -- to be split and deleted",
       "rivalry",
@@ -6969,7 +7044,7 @@
       "work"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/58971.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/58971.jpg"
   },
   {
     "title": "Wake Up, Girls! Shichinin no Idol",
@@ -7234,7 +7309,7 @@
       "winter"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/1528/152025.jpg"
+    "picture": "https://myanimelist.net/images/anime/1528/152025.jpg"
   },
   {
     "title": "World Fool News",
@@ -7268,7 +7343,7 @@
       "workplace"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/63067.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/63067.jpg"
   },
   {
     "title": "World Fool News (TV)",
@@ -7453,6 +7528,6 @@
       "yaoi"
     ],
     "year": 1992,
-    "picture": "https://cdn.myanimelist.net/images/anime/1998/116562.jpg"
+    "picture": "https://myanimelist.net/images/anime/1998/116562.jpg"
   }
 ]

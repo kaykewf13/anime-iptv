@@ -140,7 +140,7 @@
       "youkai"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/75274.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/75274.jpg"
   },
   {
     "title": "Black Butler",
@@ -673,7 +673,7 @@
       "surreal comedy"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/23363.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/23363.jpg"
   },
   {
     "title": "Dandadan 2nd Season",
@@ -752,7 +752,7 @@
       "youkai"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1721/149001.jpg"
+    "picture": "https://myanimelist.net/images/anime/1721/149001.jpg"
   },
   {
     "title": "Ditou Rensheng",
@@ -1046,7 +1046,7 @@
       "winter"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1145/90880.jpg"
+    "picture": "https://myanimelist.net/images/anime/1145/90880.jpg"
   },
   {
     "title": "Golden Kamuy 2nd Season",
@@ -1343,43 +1343,67 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1855/128059.jpg"
   },
   {
-    "title": "Golden Kamuy Final Season",
-    "episodes": 0,
+    "title": "Golden Kamuy: Saishuushou",
+    "episodes": 13,
     "type": "TV",
     "status": "FINISHED",
     "tags": [
       "action",
+      "adult cast",
+      "adventure",
       "ainu",
+      "archery",
+      "based on a manga",
       "chases",
+      "coastal",
       "comedy",
       "conspiracy",
       "culture clash",
       "dark comedy",
       "drama",
+      "ensemble cast",
       "factions",
+      "female protagonist",
+      "fugitive",
       "gore",
       "gunplay",
+      "guns",
+      "hero of strong character",
       "historical",
+      "hokkaido",
       "idealism",
+      "indigenous cultures",
+      "japan",
+      "japanese production",
+      "male protagonist",
       "meiji era",
       "military",
       "moral dilemma",
       "mystery",
+      "primarily adult cast",
       "psychological",
       "revenge",
+      "rural",
+      "seinen",
+      "sequel",
       "shinsengumi",
       "spiritualism",
+      "stoic heroine",
+      "swords & co",
       "thriller",
       "torture",
       "tragedy",
+      "trains",
       "trauma",
+      "treasure hunters",
       "treasure hunting",
+      "urban",
       "war",
       "western",
       "wilderness"
     ],
     "year": 2026,
-    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37046-1012401904.1767411011.jpg"
+    "picture": "https://myanimelist.net/images/anime/1288/154763.jpg"
   },
   {
     "title": "Golden Kamuy: Sapporo Beer Koujou-hen",
@@ -1432,7 +1456,7 @@
     "title": "Goumon Baito-kun no Nichijou",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "adult cast",
       "assassins",
@@ -1444,6 +1468,7 @@
       "crossdressing",
       "cute boys doing cute things",
       "dark comedy",
+      "iyashikei",
       "japanese production",
       "lgbtq+ themes",
       "male protagonist",
@@ -1459,7 +1484,7 @@
       "workplace"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1721/153380.jpg"
+    "picture": "https://myanimelist.net/images/anime/1721/153380.jpg"
   },
   {
     "title": "Gugure! Kokkuri-san",
@@ -1594,7 +1619,7 @@
       "war"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/17245.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/17245.jpg"
   },
   {
     "title": "Heppoko Jikken Animation Excel♥Saga",
@@ -1925,7 +1950,7 @@
       "zashiki-warashi"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/88280.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/88280.jpg"
   },
   {
     "title": "Hoozuki no Reitetsu 2nd Season OVA",
@@ -2081,7 +2106,7 @@
       "zombie"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1113/92465.jpg"
+    "picture": "https://myanimelist.net/images/anime/1113/92465.jpg"
   },
   {
     "title": "Hozuki's Coolheadedness OVA",
@@ -2777,7 +2802,7 @@
       "vulgar"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/1711/133585.jpg"
+    "picture": "https://myanimelist.net/images/anime/1711/133585.jpg"
   },
   {
     "title": "Kekkai Sensen",
@@ -3175,7 +3200,7 @@
       "zombie"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/74392.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/74392.jpg"
   },
   {
     "title": "Magical Witch Punie-chan",
@@ -3287,7 +3312,7 @@
       "weekly shounen jump"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/20930.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/20930.jpg"
   },
   {
     "title": "Majokko Tsukune-chan",
@@ -3299,6 +3324,7 @@
       "antihero",
       "based on a manga",
       "bionic powers",
+      "chibi",
       "claymation",
       "comedy",
       "countryside",
@@ -3335,9 +3361,11 @@
       "slapstick",
       "slice of life",
       "speculative fiction",
+      "stop motion",
       "summoning",
       "surreal comedy",
       "the arts",
+      "time manipulation",
       "time travel",
       "violence",
       "witch",
@@ -3571,7 +3599,7 @@
       "twins"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1845/134817.jpg"
+    "picture": "https://myanimelist.net/images/anime/1845/134817.jpg"
   },
   {
     "title": "Minna no Tonio-chan: Fuck the World",
@@ -3955,7 +3983,7 @@
       "weekly shounen jump"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1386/140401.jpg"
+    "picture": "https://myanimelist.net/images/anime/1386/140401.jpg"
   },
   {
     "title": "No Littering",
@@ -4017,7 +4045,7 @@
       "time"
     ],
     "year": 2000,
-    "picture": "https://cdn.myanimelist.net/images/anime/1189/134405.jpg"
+    "picture": "https://myanimelist.net/images/anime/1189/134405.jpg"
   },
   {
     "title": "Osu",
@@ -4146,7 +4174,7 @@
       "violent retribution for accidental infringement"
     ],
     "year": 2000,
-    "picture": "https://cdn.myanimelist.net/images/anime/1152/154258.jpg"
+    "picture": "https://myanimelist.net/images/anime/1152/154258.jpg"
   },
   {
     "title": "Popee the Performer: Countdown Special",
@@ -4574,40 +4602,117 @@
       "time"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/78075.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/78075.jpg"
   },
   {
-    "title": "Tojima Wants to Be a Kamen Rider",
-    "episodes": 21,
+    "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+    "episodes": 24,
     "type": "TV",
     "status": "FINISHED",
     "tags": [
       "absurdity",
       "action",
+      "action comedy",
       "adult cast",
       "aliens",
+      "asia",
+      "based on a manga",
+      "brainwashing",
+      "call my name",
+      "calling your attacks",
+      "character driven",
+      "chuunibyou",
+      "combat",
       "comedy",
+      "competition",
+      "cosplaying",
+      "countryside",
+      "crime",
+      "crunchyroll co-production",
+      "cyborgs",
       "dark comedy",
       "drama",
+      "earth",
       "ecchi",
+      "ensemble cast",
+      "facial distortion",
+      "female protagonist",
+      "female teacher",
       "fighting",
+      "following one's dream",
+      "gangs",
+      "good vs evil",
       "gore",
+      "henshin",
+      "hero of strong character",
+      "heroine of strong character",
+      "huge breasts",
+      "human enhancement",
       "idealism",
+      "idol",
       "idols",
+      "insects of doom",
+      "japan",
+      "japanese production",
+      "love between enemies",
+      "male protagonist",
+      "manga",
       "martial arts",
+      "monster",
       "monsters",
+      "nostalgia",
+      "nudity",
+      "otaku culture",
+      "pantsu",
       "parody",
+      "photographic backgrounds",
+      "place",
+      "plot continuity",
+      "plot twists",
+      "preaired episodes",
+      "predominantly adult cast",
+      "present",
       "psychological",
+      "redemption",
+      "revenge",
+      "rivalry",
+      "saving the world",
       "science fiction",
+      "secret organisation",
+      "seinen",
+      "self-parody",
       "sentai",
+      "sibling rivalry",
+      "soft science fiction",
+      "speculative fiction",
+      "stop motion",
+      "street fighting",
+      "strong female lead",
+      "strong male lead",
+      "super power",
+      "superhero",
       "superheroes",
+      "supernatural drama",
       "superpowers",
       "supervillains",
+      "surreal comedy",
+      "teamwork",
+      "the power of love",
+      "thievery",
+      "time",
+      "tokusatsu",
+      "tone changes",
+      "tournament",
+      "training",
       "transformations",
+      "tropes",
+      "violence",
+      "visible aura",
+      "world domination",
       "yakuza"
     ],
     "year": 2025,
-    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35007-2175550095.1760616737.jpg"
+    "picture": "https://myanimelist.net/images/anime/1455/152139.jpg"
   },
   {
     "title": "Uramichi Oniisan",
@@ -4808,7 +4913,7 @@
       "visible aura"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/1786/120117.jpg"
+    "picture": "https://myanimelist.net/images/anime/1786/120117.jpg"
   },
   {
     "title": "Youjo Senki Movie",
@@ -4952,7 +5057,7 @@
       "yandere"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/78774.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/78774.jpg"
   },
   {
     "title": "Zan Sayonara Zetsubou Sensei Bangaichi",
@@ -5114,6 +5219,6 @@
       "zombies"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1955/123249.jpg"
+    "picture": "https://myanimelist.net/images/anime/1955/123249.jpg"
   }
 ]

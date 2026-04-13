@@ -113,7 +113,7 @@
       "winter"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1545/133887.jpg"
+    "picture": "https://myanimelist.net/images/anime/1545/133887.jpg"
   },
   {
     "title": "Boku no Kokoro no Yabai Yatsu 2nd Season",
@@ -221,7 +221,7 @@
       "tsundere"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1678/153935.jpg"
+    "picture": "https://myanimelist.net/images/anime/1678/153935.jpg"
   },
   {
     "title": "Boku no Kokoro no Yabai Yatsu: Twi-Yaba",
@@ -288,6 +288,7 @@
       "immature",
       "japan",
       "japanese production",
+      "lgbtq+ themes",
       "love polygon",
       "love triangle",
       "manga",
@@ -599,6 +600,7 @@
       "boys' love",
       "comedy",
       "crossdressing",
+      "cute boys doing cute things",
       "drama",
       "earth",
       "entertainment industry",
@@ -1010,7 +1012,7 @@
       "winter"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1768/93291.jpg"
+    "picture": "https://myanimelist.net/images/anime/1768/93291.jpg"
   },
   {
     "title": "Kodomo no Omocha",
@@ -1156,7 +1158,7 @@
       "yaoi"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/26233.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/26233.jpg"
   },
   {
     "title": "Kono Danshi, Mahou ga Oshigoto desu.",
@@ -1295,7 +1297,7 @@
       "supernatural drama"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1304/138045.jpg"
+    "picture": "https://myanimelist.net/images/anime/1304/138045.jpg"
   },
   {
     "title": "Sankaku Mado no Sotogawa wa Yoru",
@@ -1358,7 +1360,7 @@
     "title": "Seihantai na Kimi to Boku",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "asia",
       "based on a manga",
@@ -1366,6 +1368,7 @@
       "chibi",
       "comedy",
       "coming of age",
+      "coming-of-age",
       "daily life",
       "drama",
       "earth",
@@ -1380,12 +1383,16 @@
       "japan",
       "japanese production",
       "kuudere",
+      "kyoto",
       "male protagonist",
       "manga",
       "middle school",
+      "misunderstandings",
       "mixed media",
       "multiple couples",
+      "nara",
       "opposites attract",
+      "osaka",
       "photography",
       "place",
       "plot continuity",
@@ -1399,6 +1406,7 @@
       "shounen",
       "slapstick",
       "slice of life",
+      "social anxiety",
       "stoic hero",
       "super deformed",
       "the arts",
@@ -1407,7 +1415,7 @@
       "verbal comedy"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1140/154457.jpg"
+    "picture": "https://myanimelist.net/images/anime/1140/154457.jpg"
   },
   {
     "title": "Shoujo Kakumei Utena: Adolescence Mokushiroku",
@@ -1486,7 +1494,7 @@
       "yuri"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/1268/107516.jpg"
+    "picture": "https://myanimelist.net/images/anime/1268/107516.jpg"
   },
   {
     "title": "Strawberry Panic",
@@ -1699,6 +1707,7 @@
       "storytelling",
       "strong female lead",
       "sudden girlfriend appearance",
+      "taisho era",
       "taishou period",
       "the arts",
       "time",
@@ -1966,10 +1975,10 @@
       "youkai"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1203/139210.jpg"
+    "picture": "https://myanimelist.net/images/anime/1203/139210.jpg"
   },
   {
-    "title": "Tian Guan Cifu Short Film",
+    "title": "Tian Guan Cifu Short Films",
     "episodes": 3,
     "type": "ONA",
     "status": "ONGOING",
@@ -2007,7 +2016,7 @@
       "xianxia"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1174/149943.jpg"
+    "picture": "https://myanimelist.net/images/anime/1174/149943.jpg"
   },
   {
     "title": "Tian Guan Cifu Special",
@@ -2188,7 +2197,7 @@
     "title": "Wiheomhan Pyeonuijeom",
     "episodes": 2,
     "type": "ONA",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "age gap",
       "based on a webtoon",
@@ -2210,6 +2219,6 @@
       "yaoi"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1942/150354.jpg"
+    "picture": "https://myanimelist.net/images/anime/1942/150354.jpg"
   }
 ]

@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Curses
-# Total de animes na categoria: 128
+# Total de animes na categoria: 131
 # Exemplos: A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu., Ai to Yuuki no Pig Girl Tonde Buurin, Amagi Brilliant Park, Amatsuki, Another, Another World, Aru Majo ga Shinu Made, Ayakashi: Japanese Classic Horror, Bakemonogatari, Bikini Warriors Special
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Curses",Pluto TV Anime | Curses
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

@@ -154,7 +154,6 @@
       "school club",
       "school clubs",
       "school life",
-      "seinen",
       "ships",
       "slapstick",
       "slice of life",
@@ -244,7 +243,7 @@
       "tournaments"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/81095.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/81095.jpg"
   },
   {
     "title": "Girls & Panzer Specials",
@@ -358,11 +357,11 @@
       "tournaments"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/1959/92804.jpg"
+    "picture": "https://myanimelist.net/images/anime/1959/92804.jpg"
   },
   {
     "title": "Girls & Panzer: Motto Love Love Sakusen desu!",
-    "episodes": 4,
+    "episodes": 12,
     "type": "MOVIE",
     "status": "ONGOING",
     "tags": [
@@ -380,10 +379,11 @@
       "school club",
       "school life",
       "seinen",
-      "slice of life"
+      "slice of life",
+      "yuri"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1832/153628.jpg"
+    "picture": "https://myanimelist.net/images/anime/1832/153628.jpg"
   },
   {
     "title": "Girls & Panzer: Saishuushou Part 1",
@@ -478,7 +478,7 @@
       "tournaments"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1894/119214.jpg"
+    "picture": "https://myanimelist.net/images/anime/1894/119214.jpg"
   },
   {
     "title": "Girls & Panzer: Saishuushou Part 4",
@@ -510,7 +510,7 @@
       "tournaments"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1652/138188.jpg"
+    "picture": "https://myanimelist.net/images/anime/1652/138188.jpg"
   },
   {
     "title": "Girls & Panzer: Shoukai Shimasu!",
@@ -567,6 +567,57 @@
     "picture": "https://cdn.anime-planet.com/anime/primary/girls-und-panzer-der-film-arisu-war-1.jpg"
   },
   {
+    "title": "Girls und Panzer: Ribbon no Musha",
+    "episodes": 0,
+    "type": "SPECIAL",
+    "status": "UNKNOWN",
+    "tags": [
+      "action",
+      "based on a manga",
+      "comedy",
+      "military",
+      "military school",
+      "school life",
+      "seinen"
+    ],
+    "year": 2026,
+    "picture": "https://cdn.anime-planet.com/anime/primary/girls-und-panzer-ribbon-no-musha-1.webp"
+  },
+  {
+    "title": "Girls und Panzer: Shin Iemoto, Toujou desu!",
+    "episodes": 1,
+    "type": "SPECIAL",
+    "status": "FINISHED",
+    "tags": [
+      "action",
+      "based on a manga",
+      "comedy",
+      "military",
+      "military school",
+      "school life",
+      "seinen"
+    ],
+    "year": 2025,
+    "picture": "https://cdn.anime-planet.com/anime/primary/girls-und-panzer-shin-iemoto-toujou-desu-1.webp"
+  },
+  {
+    "title": "Girls und Panzer: Shin Sensha, Hakken desu!",
+    "episodes": 1,
+    "type": "SPECIAL",
+    "status": "UNKNOWN",
+    "tags": [
+      "action",
+      "based on a manga",
+      "comedy",
+      "military",
+      "military school",
+      "school life",
+      "seinen"
+    ],
+    "year": 2026,
+    "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png"
+  },
+  {
     "title": "High School Fleet",
     "episodes": 12,
     "type": "TV",
@@ -619,7 +670,7 @@
       "yuri"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/79670.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/79670.jpg"
   },
   {
     "title": "High School Fleet Movie",
@@ -899,6 +950,6 @@
       "tokusatsu"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/79983.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/79983.jpg"
   }
 ]

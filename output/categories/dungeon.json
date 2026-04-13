@@ -168,7 +168,7 @@
       "virtual world"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/13050.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/13050.jpg"
   },
   {
     "title": ".hack//Sign",
@@ -330,7 +330,7 @@
       "watercolour style"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/78321.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/78321.jpg"
   },
   {
     "title": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -440,14 +440,18 @@
     "title": "29-sai Dokushin Chuuken Boukensha no Nichijou",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "adventure",
-      "age regression",
+      "anthropomorphs",
       "based on a manga",
       "beastman",
+      "black humour",
+      "catastrophic gadgets",
       "childcare",
       "comedy",
+      "creature taming",
+      "daily life",
       "demi-humans",
       "demon",
       "demons",
@@ -456,9 +460,12 @@
       "elf",
       "elves",
       "episodic",
+      "facial distortion",
       "family life",
       "fantasy",
       "fictional location",
+      "fighting",
+      "funny expressions",
       "gore",
       "guilds",
       "hero of strong character",
@@ -471,25 +478,34 @@
       "medieval",
       "monster",
       "monsters",
+      "mutilation",
       "orphans",
       "parenting",
       "place",
       "rural",
       "sexual humour",
       "shounen",
+      "skimpy clothing",
+      "slapstick",
       "slice of life",
       "sorcery",
       "speculative fiction",
       "succubus",
+      "super deformed",
       "survival",
+      "swordplay",
       "swords & co",
       "transformations",
       "trauma",
       "vampire",
-      "witch"
+      "violence",
+      "violent retribution for accidental infringement",
+      "witch",
+      "wordplay",
+      "working life"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1765/154087.jpg"
+    "picture": "https://myanimelist.net/images/anime/1765/154087.jpg"
   },
   {
     "title": "A Kite",
@@ -1076,7 +1092,7 @@
       "zero to hero"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1776/97682.jpg"
+    "picture": "https://myanimelist.net/images/anime/1776/97682.jpg"
   },
   {
     "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
@@ -1478,7 +1494,7 @@
       "yuri"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/1670/112160.jpg"
+    "picture": "https://myanimelist.net/images/anime/1670/112160.jpg"
   },
   {
     "title": "Black Clover",
@@ -1649,7 +1665,7 @@
       "zombie"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1563/139990.jpg"
+    "picture": "https://myanimelist.net/images/anime/1563/139990.jpg"
   },
   {
     "title": "Brave Story",
@@ -2161,7 +2177,7 @@
       "working life"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1659/105254.jpg"
+    "picture": "https://myanimelist.net/images/anime/1659/105254.jpg"
   },
   {
     "title": "Death March kara Hajimaru Isekai Kyousoukyoku",
@@ -2207,7 +2223,6 @@
       "harem",
       "heart-warming",
       "hero of strong character",
-      "historical",
       "in medias res",
       "isekai",
       "japan",
@@ -2530,7 +2545,7 @@
       "yggdrasil"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1876/114021.jpg"
+    "picture": "https://myanimelist.net/images/anime/1876/114021.jpg"
   },
   {
     "title": "Druaga no Tou: The Aegis of Uruk",
@@ -2593,7 +2608,7 @@
       "zero to hero"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/75646.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/75646.jpg"
   },
   {
     "title": "Druaga no Tou: The Aegis of Uruk - Jil no Bouken",
@@ -3307,6 +3322,7 @@
       "novel",
       "nudity",
       "paper clothes",
+      "place",
       "predominantly female cast",
       "primarily female cast",
       "revenge",
@@ -3488,7 +3504,7 @@
       "yandere"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1299/144738.jpg"
+    "picture": "https://myanimelist.net/images/anime/1299/144738.jpg"
   },
   {
     "title": "Dungeon no Naka no Hito",
@@ -3541,7 +3557,7 @@
       "zombie"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1026/143505.jpg"
+    "picture": "https://myanimelist.net/images/anime/1026/143505.jpg"
   },
   {
     "title": "Dungeons & Television",
@@ -3551,6 +3567,7 @@
     "tags": [
       "adventure",
       "alternative world",
+      "anachronism",
       "dungeon",
       "ensemble cast",
       "entertainment industry",
@@ -3570,7 +3587,7 @@
       "the arts"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1874/151419.jpg"
+    "picture": "https://myanimelist.net/images/anime/1874/151419.jpg"
   },
   {
     "title": "Dungeons & Television Pilot Film",
@@ -3682,7 +3699,7 @@
       "yuri"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1300/111361.jpg"
+    "picture": "https://myanimelist.net/images/anime/1300/111361.jpg"
   },
   {
     "title": "Explorer Woman Ray",
@@ -4152,6 +4169,7 @@
       "air combat",
       "almighty heroine",
       "alternative world",
+      "archery",
       "based on a light novel",
       "body horror",
       "calling your attacks",
@@ -4159,6 +4177,8 @@
       "comedy",
       "daily life",
       "death",
+      "dissociative identities",
+      "dragons",
       "drama",
       "dungeon",
       "fantasy",
@@ -4189,6 +4209,7 @@
       "skimpy clothing",
       "slapstick",
       "sorcery",
+      "spearplay",
       "speculative fiction",
       "storytelling",
       "strong female lead",
@@ -4200,6 +4221,7 @@
       "talking is a free action",
       "tropes",
       "tsundere",
+      "twins",
       "violence",
       "work",
       "work life",
@@ -4381,7 +4403,7 @@
       "zombie"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/77976.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/77976.jpg"
   },
   {
     "title": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
@@ -4770,7 +4792,7 @@
       "violence"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1490/126919.jpg"
+    "picture": "https://myanimelist.net/images/anime/1490/126919.jpg"
   },
   {
     "title": "Isekai wa Smartphone to Tomo ni.",
@@ -5042,6 +5064,7 @@
       "demi-humans",
       "dialogue driven",
       "dungeon",
+      "dungeons",
       "economics",
       "factions",
       "fantasy",
@@ -5052,8 +5075,10 @@
       "ingenuity",
       "isekai",
       "japanese production",
+      "knights",
       "language barrier",
       "magic",
+      "magical items",
       "male protagonist",
       "martial arts",
       "medieval",
@@ -5071,12 +5096,16 @@
       "shounen",
       "skeleton",
       "slice of life",
+      "sorcery",
       "storytelling",
+      "superpowers",
       "swordplay",
       "swords & co",
       "transformations",
+      "trauma",
       "twins",
       "violence",
+      "wizards",
       "zombie"
     ],
     "year": 2023,
@@ -5288,6 +5317,59 @@
     "picture": "https://cdn.myanimelist.net/images/anime/6/50859.jpg"
   },
   {
+    "title": "Kami wa Game ni Ueteiru.",
+    "episodes": 13,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "action",
+      "alternative world",
+      "based on a light novel",
+      "battle royale",
+      "board game",
+      "board games",
+      "brain games and gambling",
+      "card battle",
+      "card games",
+      "celestial being",
+      "comedy",
+      "crunchyroll co-production",
+      "deity",
+      "drama",
+      "dungeon",
+      "ecchi",
+      "fantasy",
+      "female harem",
+      "female protagonist",
+      "fictional location",
+      "gambling",
+      "gods",
+      "high stakes game",
+      "high-stakes game",
+      "japanese production",
+      "kaiju",
+      "magic",
+      "male protagonist",
+      "novel",
+      "nudity",
+      "place",
+      "poker",
+      "primarily female cast",
+      "romance",
+      "science and magic coexist",
+      "seinen",
+      "slice of life",
+      "speculative fiction",
+      "strategy game",
+      "super power",
+      "suspense",
+      "urban fantasy",
+      "virtual world"
+    ],
+    "year": 2024,
+    "picture": "https://cdn.myanimelist.net/images/anime/1578/141782.jpg"
+  },
+  {
     "title": "Kaze no Tairiku",
     "episodes": 1,
     "type": "MOVIE",
@@ -5335,7 +5417,7 @@
       "violence"
     ],
     "year": 1992,
-    "picture": "https://cdn.myanimelist.net/images/anime/1796/114316.jpg"
+    "picture": "https://myanimelist.net/images/anime/1796/114316.jpg"
   },
   {
     "title": "Kenja no Deshi wo Nanoru Kenja",
@@ -5615,7 +5697,7 @@
       "vtuber"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1500/105552.jpg"
+    "picture": "https://myanimelist.net/images/anime/1500/105552.jpg"
   },
   {
     "title": "Kono Healer, Mendokusai",
@@ -6468,7 +6550,7 @@
       "zombie"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/84004.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/84004.jpg"
   },
   {
     "title": "Log Horizon 2nd Season",
@@ -7402,7 +7484,7 @@
       "wardrobe malfunction"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/42773.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/42773.jpg"
   },
   {
     "title": "Mahou Senshi Louie",
@@ -7754,7 +7836,7 @@
       "war"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1126/108573.jpg"
+    "picture": "https://myanimelist.net/images/anime/1126/108573.jpg"
   },
   {
     "title": "Maoujou de Oyasumi",
@@ -7845,7 +7927,7 @@
       "wordplay"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1448/108514.jpg"
+    "picture": "https://myanimelist.net/images/anime/1448/108514.jpg"
   },
   {
     "title": "Meikyuu Black Company",
@@ -8674,7 +8756,7 @@
     "title": "Odayaka Kizoku no Kyuuka no Susume.",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "adventure",
       "aristocracy",
@@ -8692,10 +8774,13 @@
       "friendship",
       "game elements",
       "guilds",
+      "guns",
       "isekai",
+      "iyashikei",
       "japanese production",
       "josei",
       "lgbtq+ themes",
+      "love triangle",
       "male protagonist",
       "medieval",
       "medieval european aesthetic",
@@ -8706,26 +8791,32 @@
       "primarily male cast",
       "royalty",
       "shoujo",
+      "shounen ai",
       "slice of life",
       "sorcery",
       "speculative fiction",
+      "swordplay",
       "traveling"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1968/152396.jpg"
+    "picture": "https://myanimelist.net/images/anime/1968/152396.jpg"
   },
   {
     "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "adventure",
       "alternative world",
+      "aristocracy",
+      "banishment",
       "based on a light novel",
       "class struggle",
       "comedy",
+      "cute boys doing cute things",
+      "drama",
       "dungeon",
       "estranged family",
       "fantasy",
@@ -8738,17 +8829,20 @@
       "male protagonist",
       "management",
       "medieval",
+      "mermaid",
       "nobility",
       "person in a strange world",
       "reincarnation",
+      "romance",
       "rural",
       "shounen",
       "slavery",
+      "sorcery",
       "swords & co",
       "time skip"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1264/153908.jpg"
+    "picture": "https://myanimelist.net/images/anime/1264/153908.jpg"
   },
   {
     "title": "Ore dake Haireru Kakushi Dungeon",
@@ -9701,7 +9795,7 @@
       "zombie"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1825/91514.jpg"
+    "picture": "https://myanimelist.net/images/anime/1825/91514.jpg"
   },
   {
     "title": "Ragnarök The Animation",
@@ -9930,7 +10024,7 @@
       "tsundere"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/76664.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/76664.jpg"
   },
   {
     "title": "Saikyou Onmyouji no Isekai Tenseiki",
@@ -10064,7 +10158,7 @@
       "violence"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1384/140829.jpg"
+    "picture": "https://myanimelist.net/images/anime/1384/140829.jpg"
   },
   {
     "title": "Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi",
@@ -10132,7 +10226,7 @@
       "zombie"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1490/137816.jpg"
+    "picture": "https://myanimelist.net/images/anime/1490/137816.jpg"
   },
   {
     "title": "Seiken Densetsu: Legend of Mana - The Teardrop Crystal",
@@ -10357,7 +10451,7 @@
       "violence"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1132/120388.jpg"
+    "picture": "https://myanimelist.net/images/anime/1132/120388.jpg"
   },
   {
     "title": "Shingeki no Bahamut: Virgin Soul",
@@ -10729,6 +10823,116 @@
     "picture": "https://cdn.myanimelist.net/images/anime/8/34993.jpg"
   },
   {
+    "title": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita",
+    "episodes": 12,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "action",
+      "adventure",
+      "age regression",
+      "air combat",
+      "alcohol",
+      "alternative world",
+      "anthropomorphism",
+      "based on a light novel",
+      "cgdct",
+      "collateral damage",
+      "comedy",
+      "cooking",
+      "cute girls doing cute things",
+      "defeat means friendship",
+      "deity",
+      "demon",
+      "demons",
+      "desert",
+      "detailed landscapes",
+      "dialogue driven",
+      "dragon",
+      "dragons",
+      "dungeon",
+      "elf",
+      "ending",
+      "episodic",
+      "european stylised",
+      "family",
+      "family life",
+      "fantasy",
+      "female harem",
+      "female protagonist",
+      "fictional language",
+      "fictional location",
+      "flat chest jokes",
+      "found family",
+      "friendship",
+      "funny expressions",
+      "gainax bounce",
+      "game elements",
+      "ghost",
+      "god is a girl",
+      "heart-warming",
+      "isekai",
+      "iyashikei",
+      "japanese production",
+      "jungle",
+      "juujin",
+      "kemonomimi",
+      "magic",
+      "magic circles",
+      "magical girl",
+      "medicine",
+      "medieval",
+      "monster",
+      "monster girl",
+      "nearly almighty protagonist",
+      "novel",
+      "open-ended",
+      "overpowered main characters",
+      "parenthood",
+      "performance",
+      "person in a strange world",
+      "place",
+      "predominantly female cast",
+      "primarily female cast",
+      "reincarnation",
+      "rural",
+      "satire",
+      "sexual humour",
+      "sibling yin yang",
+      "skimpy clothing",
+      "slapstick",
+      "slice of life",
+      "slice of life comedy",
+      "slide show animation",
+      "slimes",
+      "slow life",
+      "slow-paced",
+      "speculative fiction",
+      "spellcasting",
+      "stereotypes",
+      "storytelling",
+      "super deformed",
+      "swordplay",
+      "tanned skin",
+      "teamwork",
+      "the arts",
+      "time skip",
+      "tropes",
+      "tv censoring",
+      "undead",
+      "under one roof",
+      "violence",
+      "wardrobe malfunction",
+      "witch",
+      "witches",
+      "wordplay",
+      "work",
+      "yuri"
+    ],
+    "year": 2021,
+    "picture": "https://cdn.myanimelist.net/images/anime/1888/133089.jpg"
+  },
+  {
     "title": "Sousou no Frieren",
     "episodes": 28,
     "type": "TV",
@@ -10742,7 +10946,9 @@
       "anachronisms",
       "aristocracy",
       "aromantic",
+      "asexual",
       "autumn",
+      "award winning",
       "based on a manga",
       "boy meets girl",
       "calling your attacks",
@@ -10801,6 +11007,7 @@
       "kuudere",
       "large breasts",
       "large-scale war",
+      "lgbtq+ themes",
       "long time span",
       "magic",
       "magic circles",
@@ -10865,7 +11072,7 @@
       "winter"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg"
+    "picture": "https://myanimelist.net/images/anime/1015/138006.jpg"
   },
   {
     "title": "Sword Art Online",
@@ -11090,6 +11297,26 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1656/126446.jpg"
   },
   {
+    "title": "Sword Art Online: Unanswered//butterfly",
+    "episodes": 0,
+    "type": "OVA",
+    "status": "UNKNOWN",
+    "tags": [
+      "action",
+      "adventure",
+      "based on a light novel",
+      "dungeon",
+      "fantasy",
+      "game elements",
+      "high stakes games",
+      "mmorpg",
+      "sci fi",
+      "virtual reality"
+    ],
+    "year": 2026,
+    "picture": "https://cdn.anime-planet.com/anime/primary/sword-art-online-unanswered-butterfly-1.webp"
+  },
+  {
     "title": "Tate no Yuusha no Nariagari",
     "episodes": 25,
     "type": "TV",
@@ -11307,7 +11534,7 @@
       "zombie"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1490/101365.jpg"
+    "picture": "https://myanimelist.net/images/anime/1490/101365.jpg"
   },
   {
     "title": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
@@ -11416,7 +11643,7 @@
       "yandere"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1512/111549.jpg"
+    "picture": "https://myanimelist.net/images/anime/1512/111549.jpg"
   },
   {
     "title": "Tears to Tiara",
@@ -11780,15 +12007,20 @@
       "comedy",
       "cooking",
       "creature taming",
+      "demi-humans",
       "dragons",
       "dungeon",
       "dungeons",
+      "dwarves",
       "economics",
+      "educational",
       "elf",
+      "elves",
       "fantasy",
       "food",
       "food and beverage",
       "food preparation",
+      "food science",
       "found family",
       "game elements",
       "goblin",
@@ -11870,6 +12102,21 @@
     ],
     "year": 2025,
     "picture": "https://cdn.myanimelist.net/images/anime/1206/151772.jpg"
+  },
+  {
+    "title": "Tower Dungeon Volume 6 Release Commemorative PV",
+    "episodes": 1,
+    "type": "ONA",
+    "status": "FINISHED",
+    "tags": [
+      "adventure",
+      "advertisement",
+      "dungeon",
+      "fantasy",
+      "magic"
+    ],
+    "year": 2026,
+    "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210115-q1KHm4P3ZyPw.jpg"
   },
   {
     "title": "Tsue to Tsurugi no Wistoria",
@@ -12032,7 +12279,7 @@
       "working life"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1313/149355.jpg"
+    "picture": "https://myanimelist.net/images/anime/1313/149355.jpg"
   },
   {
     "title": "Unanswered//butterfly",
@@ -12316,13 +12563,13 @@
       "weekly shounen jump"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1815/110626.jpg"
+    "picture": "https://myanimelist.net/images/anime/1815/110626.jpg"
   },
   {
     "title": "Yuusha Party wo Oidasareta Kiyoubinbou",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "action comedy",
@@ -12333,19 +12580,26 @@
       "comedy",
       "coming of age",
       "crunchyroll co-production",
+      "dragon",
       "dragons",
       "dungeon",
       "fantasy",
       "fictional location",
+      "flat chest jokes",
+      "found family",
       "goblin",
       "japanese production",
       "large breasts",
+      "love triangle",
       "magic",
       "magic circles",
       "male protagonist",
+      "memory manipulation",
+      "nudity",
       "overpowered main characters",
       "place",
       "romance",
+      "sexual humour",
       "shounen",
       "speculative fiction",
       "spellcasting",
@@ -12355,7 +12609,7 @@
       "violence"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1486/153135.jpg"
+    "picture": "https://myanimelist.net/images/anime/1486/153135.jpg"
   },
   {
     "title": "Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau",
@@ -12477,6 +12731,6 @@
       "time skip"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1072/149889.jpg"
+    "picture": "https://myanimelist.net/images/anime/1072/149889.jpg"
   }
 ]

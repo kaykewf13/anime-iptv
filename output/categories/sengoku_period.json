@@ -185,7 +185,7 @@
       "violent retribution for accidental infringement"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/1704/143834.jpg"
+    "picture": "https://myanimelist.net/images/anime/1704/143834.jpg"
   },
   {
     "title": "Centaur no Nayami",
@@ -407,7 +407,7 @@
       "war"
     ],
     "year": 2002,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/22026.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/22026.jpg"
   },
   {
     "title": "Dororo",
@@ -427,6 +427,7 @@
       "based on a manga",
       "black and white",
       "body horror",
+      "body image",
       "buddhism",
       "cannibalism",
       "child protagonists",
@@ -699,7 +700,7 @@
       "war"
     ],
     "year": 1985,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/11984.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/11984.jpg"
   },
   {
     "title": "Gifuu Doudou!!: Kanetsugu to Keiji",
@@ -1310,6 +1311,7 @@
       "historical",
       "isekai",
       "japanese production",
+      "kemonomimi",
       "kuudere",
       "magic",
       "manga",
@@ -1386,7 +1388,7 @@
       "youkai"
     ],
     "year": 2002,
-    "picture": "https://cdn.myanimelist.net/images/anime/1162/92219.jpg"
+    "picture": "https://myanimelist.net/images/anime/1162/92219.jpg"
   },
   {
     "title": "InuYasha Movie 3: Tenka Hadou no Ken",
@@ -1900,7 +1902,7 @@
       "youkai"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/69187.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/69187.jpg"
   },
   {
     "title": "Kamisama Kiss OVA",
@@ -2314,7 +2316,7 @@
       "watercolour style"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1651/91110.jpg"
+    "picture": "https://myanimelist.net/images/anime/1651/91110.jpg"
   },
   {
     "title": "Nobunaga no Shinobi: Ise Kanegasaki-hen",
@@ -2402,7 +2404,7 @@
       "swords & co"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/82507.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/82507.jpg"
   },
   {
     "title": "Oda Cinnamon Nobunaga",
@@ -2463,7 +2465,7 @@
       "wordplay"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1004/106819.jpg"
+    "picture": "https://myanimelist.net/images/anime/1004/106819.jpg"
   },
   {
     "title": "Oda Nobuna no Yabou",
@@ -2845,7 +2847,7 @@
       "war"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/21849.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/21849.jpg"
   },
   {
     "title": "Sengoku Basara Movie: 4-koma Gekijou - Another Last Party",
@@ -2863,7 +2865,7 @@
       "short episodes"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/49863.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/49863.jpg"
   },
   {
     "title": "Sengoku Basara Movie: The Last Party",
@@ -2909,7 +2911,7 @@
       "war"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/50871.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/50871.jpg"
   },
   {
     "title": "Sengoku Basara Ni",
@@ -3081,7 +3083,7 @@
       "time"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/82326.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/82326.jpg"
   },
   {
     "title": "Sengoku Choujuu Giga: Otsu",
@@ -3301,7 +3303,7 @@
       "war"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/71770.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/71770.jpg"
   },
   {
     "title": "Sengoku Musou SP: Sanada no Shou",
@@ -3578,7 +3580,7 @@
       "youkai"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1948/143550.jpg"
+    "picture": "https://myanimelist.net/images/anime/1948/143550.jpg"
   },
   {
     "title": "Sengoku Youko: Yonaoshi Kyoudai-hen",
@@ -3637,7 +3639,7 @@
       "youkai"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1645/140627.jpg"
+    "picture": "https://myanimelist.net/images/anime/1645/140627.jpg"
   },
   {
     "title": "Sengoku☆Paradise Kiwami",
@@ -3711,7 +3713,7 @@
       "world domination"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1617/152980.jpg"
+    "picture": "https://myanimelist.net/images/anime/1617/152980.jpg"
   },
   {
     "title": "Shinshaku Sengoku Eiyuu Densetsu: Sanada Juu Yuushi",
@@ -3751,15 +3753,19 @@
       "action",
       "asia",
       "comedy",
+      "discontinued",
       "earth",
       "feudal japan",
       "historical",
       "japan",
       "japanese production",
+      "male protagonist",
       "military",
       "ninja",
       "past",
       "place",
+      "predominantly adult cast",
+      "predominantly male cast",
       "samurai",
       "sengoku period",
       "swordplay",
@@ -3879,7 +3885,7 @@
       "time"
     ],
     "year": 1975,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/53833.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/53833.jpg"
   },
   {
     "title": "Stranger: Mukou Hadan",

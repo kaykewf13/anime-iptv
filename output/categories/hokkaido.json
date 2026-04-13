@@ -214,7 +214,7 @@
       "working life"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/1242/154058.jpg"
+    "picture": "https://myanimelist.net/images/anime/1242/154058.jpg"
   },
   {
     "title": "Chou Kidou Densetsu DinaGiga",
@@ -371,7 +371,7 @@
       "whale"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/1189/134110.jpg"
+    "picture": "https://myanimelist.net/images/anime/1189/134110.jpg"
   },
   {
     "title": "Donbee Monogatari",
@@ -676,7 +676,7 @@
       "zombies"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/63633.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/63633.jpg"
   },
   {
     "title": "From North Field",
@@ -866,7 +866,7 @@
       "urban"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/77941.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/77941.jpg"
   },
   {
     "title": "Golden Kamuy",
@@ -995,7 +995,7 @@
       "winter"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1145/90880.jpg"
+    "picture": "https://myanimelist.net/images/anime/1145/90880.jpg"
   },
   {
     "title": "Golden Kamuy 2nd Season",
@@ -1292,6 +1292,25 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1855/128059.jpg"
   },
   {
+    "title": "Golden Kamuy Final Season: Runaway Train Arc",
+    "episodes": 0,
+    "type": "SPECIAL",
+    "status": "UNKNOWN",
+    "tags": [
+      "adventure",
+      "based on a manga",
+      "drama",
+      "historical",
+      "hokkaido",
+      "meiji era",
+      "military",
+      "seinen",
+      "treasure hunters"
+    ],
+    "year": 2026,
+    "picture": "https://cdn.anime-planet.com/anime/primary/golden-kamuy-final-season-runaway-train-arc-1.webp"
+  },
+  {
     "title": "Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga",
     "episodes": 1,
     "type": "OVA",
@@ -1320,41 +1339,64 @@
     "title": "Golden Kamuy: Saishuushou",
     "episodes": 13,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "adult cast",
       "adventure",
+      "ainu",
       "archery",
       "based on a manga",
+      "chases",
       "coastal",
       "comedy",
+      "conspiracy",
+      "culture clash",
+      "dark comedy",
       "drama",
       "ensemble cast",
+      "factions",
       "female protagonist",
       "fugitive",
       "gore",
+      "gunplay",
       "guns",
       "hero of strong character",
       "historical",
       "hokkaido",
+      "idealism",
       "indigenous cultures",
       "japan",
       "japanese production",
       "male protagonist",
       "meiji era",
       "military",
+      "moral dilemma",
+      "mystery",
       "primarily adult cast",
+      "psychological",
+      "revenge",
       "rural",
       "seinen",
       "sequel",
+      "shinsengumi",
+      "spiritualism",
       "stoic heroine",
       "swords & co",
+      "thriller",
+      "torture",
+      "tragedy",
+      "trains",
+      "trauma",
       "treasure hunters",
-      "urban"
+      "treasure hunting",
+      "urban",
+      "war",
+      "western",
+      "wilderness"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1288/154763.jpg"
+    "picture": "https://myanimelist.net/images/anime/1288/154763.jpg"
   },
   {
     "title": "Golden Kamuy: Sapporo Beer Koujou-hen",
@@ -1554,7 +1596,7 @@
       "space"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1134/135615.jpg"
+    "picture": "https://myanimelist.net/images/anime/1134/135615.jpg"
   },
   {
     "title": "Hyakushou Kizoku 2nd Season",
@@ -1924,7 +1966,7 @@
       "workplace"
     ],
     "year": 1989,
-    "picture": "https://cdn.myanimelist.net/images/anime/1739/144310.jpg"
+    "picture": "https://myanimelist.net/images/anime/1739/144310.jpg"
   },
   {
     "title": "Kindan no Mokushiroku: Crystal Triangle",
@@ -2451,7 +2493,7 @@
       "working life"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1913/112190.jpg"
+    "picture": "https://myanimelist.net/images/anime/1913/112190.jpg"
   },
   {
     "title": "Noein: Mou Hitori no Kimi e",
@@ -2522,7 +2564,7 @@
       "violence"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/1087/152978.jpg"
+    "picture": "https://myanimelist.net/images/anime/1087/152978.jpg"
   },
   {
     "title": "Nogizaka Haruka no Himitsu Finale ♪",
@@ -2600,7 +2642,7 @@
       "speculative fiction"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/21296.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/21296.jpg"
   },
   {
     "title": "Oni no Ko to Yuki Usagi",
@@ -3317,7 +3359,6 @@
       "place",
       "plot continuity",
       "plot twists",
-      "pov",
       "present",
       "primarily child cast",
       "promise",
@@ -3508,7 +3549,7 @@
       "youkai"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1122/133858.jpg"
+    "picture": "https://myanimelist.net/images/anime/1122/133858.jpg"
   },
   {
     "title": "Tetsuko no Tabi",
@@ -3609,6 +3650,7 @@
       "long time span",
       "lost civilization",
       "lost technology",
+      "mafia",
       "male protagonist",
       "marriage",
       "melodrama",
@@ -3784,7 +3826,7 @@
       "workplace"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/75262.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/75262.jpg"
   },
   {
     "title": "Yomigaeru Sora: Rescue Wings",

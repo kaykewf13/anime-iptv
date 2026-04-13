@@ -52,7 +52,7 @@
       "unrequited love"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/14405.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/14405.jpg"
   },
   {
     "title": "Asa made Jugyou Chu!",
@@ -265,7 +265,7 @@
       "wordplay"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1974/102960.jpg"
+    "picture": "https://myanimelist.net/images/anime/1974/102960.jpg"
   },
   {
     "title": "Bokutachi wa Benkyou ga Dekinai! Chapel no Kane wa [X] wo Shukufuku Suru",
@@ -793,7 +793,7 @@
       "whipping"
     ],
     "year": 1985,
-    "picture": "https://cdn.myanimelist.net/images/anime/1538/94531.jpg"
+    "picture": "https://myanimelist.net/images/anime/1538/94531.jpg"
   },
   {
     "title": "Hakaima Sadamitsu",
@@ -1001,7 +1001,7 @@
       "water sports"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/1297/138526.jpg"
+    "picture": "https://myanimelist.net/images/anime/1297/138526.jpg"
   },
   {
     "title": "Hidamari Sketch",
@@ -1079,7 +1079,7 @@
       "yuri"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/1893/133786.jpg"
+    "picture": "https://myanimelist.net/images/anime/1893/133786.jpg"
   },
   {
     "title": "Hidamari Sketch x 365",
@@ -1516,7 +1516,7 @@
       "zombies"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/78311.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/78311.jpg"
   },
   {
     "title": "Ichigo 100%",
@@ -1732,7 +1732,7 @@
       "zettai ryouiki"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/20345.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/20345.jpg"
   },
   {
     "title": "Isuca",
@@ -1913,7 +1913,6 @@
       "association football",
       "baseball",
       "based on a manga",
-      "bath house visit",
       "bishounen",
       "body and host",
       "body takeover",
@@ -2176,7 +2175,7 @@
       "watersports"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/1660/121553.jpg"
+    "picture": "https://myanimelist.net/images/anime/1660/121553.jpg"
   },
   {
     "title": "Kodomo no Jikan (TV)",
@@ -2247,7 +2246,7 @@
       "yandere"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/1944/149834.jpg"
+    "picture": "https://myanimelist.net/images/anime/1944/149834.jpg"
   },
   {
     "title": "Kono Aozora ni Yakusoku wo: Youkoso Tsugumi Ryou e",
@@ -2330,6 +2329,7 @@
       "female teacher",
       "found family",
       "gainax bounce",
+      "go",
       "harem",
       "heart-warming",
       "heterosexual",
@@ -2527,7 +2527,7 @@
       "wrestling"
     ],
     "year": 1981,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/60423.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/60423.jpg"
   },
   {
     "title": "Maken-Ki! Two",
@@ -2976,7 +2976,7 @@
       "verbal comedy"
     ],
     "year": 2002,
-    "picture": "https://cdn.myanimelist.net/images/anime/1371/138517.jpg"
+    "picture": "https://myanimelist.net/images/anime/1371/138517.jpg"
   },
   {
     "title": "Project A-Ko 2: Daitokuji Zaibatsu no Inbou",
@@ -3034,7 +3034,7 @@
       "violence"
     ],
     "year": 1987,
-    "picture": "https://cdn.myanimelist.net/images/anime/1387/114803.jpg"
+    "picture": "https://myanimelist.net/images/anime/1387/114803.jpg"
   },
   {
     "title": "Project A-Ko 4: Final",
@@ -3160,7 +3160,7 @@
       "world wars"
     ],
     "year": 1990,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/25891.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/25891.jpg"
   },
   {
     "title": "Seikoku no Dragonar",
@@ -3416,7 +3416,7 @@
       "wordplay"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/79008.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/79008.jpg"
   },
   {
     "title": "Strike the Blood Final",
@@ -3634,7 +3634,7 @@
       "war"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/75545.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/75545.jpg"
   },
   {
     "title": "Tonari no Kaibutsu-kun: Tonari no Gokudou-kun",
@@ -3700,11 +3700,13 @@
     "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
     "episodes": 24,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
+      "absurdity",
       "action",
       "action comedy",
       "adult cast",
+      "aliens",
       "asia",
       "based on a manga",
       "brainwashing",
@@ -3720,6 +3722,7 @@
       "crime",
       "crunchyroll co-production",
       "cyborgs",
+      "dark comedy",
       "drama",
       "earth",
       "ecchi",
@@ -3731,12 +3734,15 @@
       "following one's dream",
       "gangs",
       "good vs evil",
+      "gore",
       "henshin",
       "hero of strong character",
       "heroine of strong character",
       "huge breasts",
       "human enhancement",
+      "idealism",
       "idol",
+      "idols",
       "insects of doom",
       "japan",
       "japanese production",
@@ -3745,6 +3751,7 @@
       "manga",
       "martial arts",
       "monster",
+      "monsters",
       "nostalgia",
       "nudity",
       "otaku culture",
@@ -3757,13 +3764,16 @@
       "preaired episodes",
       "predominantly adult cast",
       "present",
+      "psychological",
       "redemption",
       "revenge",
       "rivalry",
       "saving the world",
+      "science fiction",
       "secret organisation",
       "seinen",
       "self-parody",
+      "sentai",
       "sibling rivalry",
       "soft science fiction",
       "speculative fiction",
@@ -3775,6 +3785,8 @@
       "superhero",
       "superheroes",
       "supernatural drama",
+      "superpowers",
+      "supervillains",
       "surreal comedy",
       "teamwork",
       "the power of love",
@@ -3784,13 +3796,15 @@
       "tone changes",
       "tournament",
       "training",
+      "transformations",
       "tropes",
       "violence",
       "visible aura",
-      "world domination"
+      "world domination",
+      "yakuza"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1455/152139.jpg"
+    "picture": "https://myanimelist.net/images/anime/1455/152139.jpg"
   },
   {
     "title": "Zoku Gosenzo Sane",

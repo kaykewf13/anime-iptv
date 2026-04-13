@@ -159,7 +159,7 @@
       "yuri"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/1446/98891.jpg"
+    "picture": "https://myanimelist.net/images/anime/1446/98891.jpg"
   },
   {
     "title": "Full Metal Panic! Invisible Victory",
@@ -273,6 +273,7 @@
     "type": "TV",
     "status": "FINISHED",
     "tags": [
+      "19th century",
       "action",
       "adventure",
       "americas",
@@ -296,6 +297,7 @@
       "death",
       "drama",
       "earth",
+      "england",
       "engrish",
       "epic fantasy",
       "europe",
@@ -413,51 +415,5 @@
     ],
     "year": 2008,
     "picture": "https://cdn.myanimelist.net/images/anime/5/63601.jpg"
-  },
-  {
-    "title": "Taiyou no Ko Esteban",
-    "episodes": 39,
-    "type": "TV",
-    "status": "FINISHED",
-    "tags": [
-      "16th century",
-      "adventure",
-      "americas",
-      "anachronism",
-      "aviation",
-      "child protagonists",
-      "earth",
-      "educational",
-      "europe",
-      "family friendly",
-      "fantasy",
-      "foreign",
-      "french-japanese co-production",
-      "historical",
-      "indigenous cultures",
-      "lost civilization",
-      "lost technology",
-      "male protagonist",
-      "mexico",
-      "mythology",
-      "navy",
-      "original work",
-      "outdoor activities",
-      "past",
-      "place",
-      "primarily child cast",
-      "sci-fi",
-      "science fiction",
-      "ships",
-      "spain",
-      "speculative fiction",
-      "supernatural drama",
-      "time",
-      "tragedy",
-      "tropes",
-      "violence"
-    ],
-    "year": 1982,
-    "picture": "https://cdn.myanimelist.net/images/anime/1936/134369.jpg"
   }
 ]

@@ -34,7 +34,7 @@
       "turkey"
     ],
     "year": 1979,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/12829.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/12829.jpg"
   },
   {
     "title": "Cardcaptor Sakura Movie 1",
@@ -342,7 +342,7 @@
       "yuri"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1035/101330.jpg"
+    "picture": "https://myanimelist.net/images/anime/1035/101330.jpg"
   },
   {
     "title": "Kidou Butouden G Gundam",
@@ -480,7 +480,7 @@
       "shounen"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/75726.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/75726.jpg"
   },
   {
     "title": "Kowloon Generic Romance",
@@ -586,7 +586,7 @@
       "tsukkomi"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/1200/112734.jpg"
+    "picture": "https://myanimelist.net/images/anime/1200/112734.jpg"
   },
   {
     "title": "McDull: Gushi",
@@ -883,6 +883,7 @@
       "place",
       "plot continuity",
       "present",
+      "primarily adult cast",
       "primarily male cast",
       "psi-powers",
       "psychological drama",

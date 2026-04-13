@@ -352,7 +352,7 @@
       "writing"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/41845.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/41845.jpg"
   },
   {
     "title": "Blood+",
@@ -550,7 +550,7 @@
       "winter"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/1410/112994.jpg"
+    "picture": "https://myanimelist.net/images/anime/1410/112994.jpg"
   },
   {
     "title": "Fullmetal Alchemist",
@@ -1291,7 +1291,7 @@
       "twisted story"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1104/112106.jpg"
+    "picture": "https://myanimelist.net/images/anime/1104/112106.jpg"
   },
   {
     "title": "Kibou no Chikara: Otona Precure '23",
@@ -1875,7 +1875,7 @@
       "working life"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/1330/133826.jpg"
+    "picture": "https://myanimelist.net/images/anime/1330/133826.jpg"
   },
   {
     "title": "Popotan",
@@ -1910,7 +1910,6 @@
       "furo scene",
       "gainax bounce",
       "game",
-      "harem",
       "high school",
       "hot springs visit",
       "japanese production",
@@ -2327,7 +2326,9 @@
       "anachronisms",
       "aristocracy",
       "aromantic",
+      "asexual",
       "autumn",
+      "award winning",
       "based on a manga",
       "boy meets girl",
       "calling your attacks",
@@ -2386,6 +2387,7 @@
       "kuudere",
       "large breasts",
       "large-scale war",
+      "lgbtq+ themes",
       "long time span",
       "magic",
       "magic circles",
@@ -2450,7 +2452,87 @@
       "winter"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg"
+    "picture": "https://myanimelist.net/images/anime/1015/138006.jpg"
+  },
+  {
+    "title": "Sousou no Frieren 2nd Season",
+    "episodes": 10,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "adventure",
+      "alcohol",
+      "anachronisms",
+      "aromantic",
+      "asexual",
+      "based on a manga",
+      "calling your attacks",
+      "coastal",
+      "comedy",
+      "death of a loved one",
+      "demons",
+      "dragons",
+      "drama",
+      "eating of humans",
+      "economics",
+      "elf",
+      "elves",
+      "fantasy",
+      "female protagonist",
+      "fictional location",
+      "fishing",
+      "flying",
+      "found family",
+      "funny expressions",
+      "helpful",
+      "high fantasy",
+      "historical",
+      "iyashikei",
+      "japanese production",
+      "jealousy",
+      "journey",
+      "long time span",
+      "magic",
+      "magic circles",
+      "manga",
+      "medieval",
+      "medieval european aesthetic",
+      "medium breasts",
+      "middle ages",
+      "mutilation",
+      "non-human protagonists",
+      "philosophy",
+      "place",
+      "running gag",
+      "rural",
+      "season",
+      "sequel",
+      "shounen",
+      "slice of life",
+      "slow-paced",
+      "small breasts",
+      "snowscape",
+      "speculative fiction",
+      "spellcasting",
+      "strong female lead",
+      "swordplay",
+      "swords & co",
+      "teamwork",
+      "the effects of time and distance on human relationships",
+      "time",
+      "time skip",
+      "tragedy",
+      "travel",
+      "tropes",
+      "urban",
+      "violence",
+      "visible aura",
+      "warrior",
+      "wilderness",
+      "winter"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1921/154528.jpg"
   },
   {
     "title": "Tabidachi: Ami Shuushou",
@@ -2570,7 +2652,7 @@
       "working life"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/18027.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/18027.jpg"
   },
   {
     "title": "Udon no Kuni no Kiniro Kemari",
@@ -2796,6 +2878,6 @@
       "wartime propaganda"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/75968.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/75968.jpg"
   }
 ]

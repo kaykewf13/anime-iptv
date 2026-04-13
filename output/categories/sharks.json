@@ -40,7 +40,7 @@
       "short episodes"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1703/129345.jpg"
+    "picture": "https://myanimelist.net/images/anime/1703/129345.jpg"
   },
   {
     "title": "Bytheway Dance",
@@ -137,6 +137,7 @@
       "anthropomorphic",
       "anthropomorphism",
       "based on a manga",
+      "comedy",
       "episodic",
       "family friendly",
       "fish",
@@ -145,13 +146,14 @@
       "japanese production",
       "kids",
       "non-human protagonists",
+      "present",
       "sharks",
       "short episodes",
       "slice of life",
       "tragedy"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1464/136707.jpg"
+    "picture": "https://myanimelist.net/images/anime/1464/136707.jpg"
   },
   {
     "title": "Odekake Kozame Movie: Tokai no Otomodachi",
@@ -177,7 +179,25 @@
       "urban"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1592/151477.jpg"
+    "picture": "https://myanimelist.net/images/anime/1592/151477.jpg"
+  },
+  {
+    "title": "Odekake Kozame Season 2",
+    "episodes": 0,
+    "type": "ONA",
+    "status": "UNKNOWN",
+    "tags": [
+      "animal protagonists",
+      "anthropomorphic",
+      "based on a manga",
+      "family friendly",
+      "fish",
+      "non-human protagonists",
+      "sharks",
+      "slice of life"
+    ],
+    "year": 2026,
+    "picture": "https://cdn.anime-planet.com/anime/primary/odekake-kozame-season-2-1.webp"
   },
   {
     "title": "Odekake Kozame x Chiba-ken Kuro Ajillo",
@@ -201,7 +221,7 @@
       "slice of life"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1152/141060.jpg"
+    "picture": "https://myanimelist.net/images/anime/1152/141060.jpg"
   },
   {
     "title": "Odekake Kozame x Gamera: Rebirth - Gamera vs Kozamera",

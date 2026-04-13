@@ -108,7 +108,7 @@
       "workplace"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1937/102309.jpg"
+    "picture": "https://myanimelist.net/images/anime/1937/102309.jpg"
   },
   {
     "title": "Aggressive Retsuko",
@@ -462,7 +462,6 @@
       "cg-anime",
       "cgi",
       "character driven",
-      "class struggle",
       "club",
       "comedy",
       "coming of age",
@@ -527,9 +526,9 @@
       "talking animals",
       "the arts",
       "theater",
+      "unrequited love",
       "urban",
       "violence",
-      "vore",
       "wolves"
     ],
     "year": 2019,
@@ -635,7 +634,7 @@
       "wolves"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1097/109646.jpg"
+    "picture": "https://myanimelist.net/images/anime/1097/109646.jpg"
   },
   {
     "title": "Bloody Bunny",
@@ -672,7 +671,7 @@
       "violence"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/1308/113309.jpg"
+    "picture": "https://myanimelist.net/images/anime/1308/113309.jpg"
   },
   {
     "title": "Buta no Liver wa Kanetsu Shiro",
@@ -778,7 +777,7 @@
       "violence"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1319/140965.jpg"
+    "picture": "https://myanimelist.net/images/anime/1319/140965.jpg"
   },
   {
     "title": "Chi's Sweet Home",
@@ -977,7 +976,7 @@
       "wilderness"
     ],
     "year": 1978,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/80079.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/80079.jpg"
   },
   {
     "title": "Chironup no Kitsune",
@@ -1247,7 +1246,7 @@
       "urban"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/77941.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/77941.jpg"
   },
   {
     "title": "Goro-chan",
@@ -1335,7 +1334,7 @@
       "non-human protagonists"
     ],
     "year": 1987,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/28907.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/28907.jpg"
   },
   {
     "title": "Inemuri Buu-chan",
@@ -1365,7 +1364,7 @@
       "stop motion animation"
     ],
     "year": 1959,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/77376.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/77376.jpg"
   },
   {
     "title": "Inu ni Nattara Suki na Hito ni Hirowareta.",
@@ -1488,7 +1487,7 @@
       "staff missing"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1209/107860.jpg"
+    "picture": "https://myanimelist.net/images/anime/1209/107860.jpg"
   },
   {
     "title": "Jingju Mao Zhi Jiaota Shidi",
@@ -1553,7 +1552,7 @@
       "speculative fiction"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/1675/107855.jpg"
+    "picture": "https://myanimelist.net/images/anime/1675/107855.jpg"
   },
   {
     "title": "Ju Bing Chang Cheng Zhuan",
@@ -1808,7 +1807,7 @@
       "ultra super anime time"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/79716.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/79716.jpg"
   },
   {
     "title": "Kemushi no Boro",
@@ -2054,7 +2053,7 @@
       "romance"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/47243.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/47243.jpg"
   },
   {
     "title": "Koneko no Chi: Ponponra Daibouken",
@@ -2196,7 +2195,9 @@
       "daily life",
       "dogs",
       "drama",
+      "educational",
       "fantasy",
+      "female protagonist",
       "heterosexual",
       "japanese production",
       "josei",
@@ -2204,7 +2205,9 @@
       "manga",
       "non-human protagonists",
       "pets",
+      "primarily adult cast",
       "romance",
+      "school",
       "shoujo",
       "slice of life",
       "talking animals",
@@ -2581,6 +2584,51 @@
     "picture": "https://cdn.myanimelist.net/images/anime/4/66675.jpg"
   },
   {
+    "title": "Niwatori Fighter",
+    "episodes": 3,
+    "type": "TV",
+    "status": "ONGOING",
+    "tags": [
+      "action",
+      "adventure",
+      "alien",
+      "animal protagonist",
+      "animal protagonists",
+      "animals",
+      "anthropomorphic",
+      "based on a manga",
+      "birds",
+      "body horror",
+      "cgi",
+      "chickens",
+      "comedy",
+      "death of a loved one",
+      "demon",
+      "demons",
+      "hero of strong character",
+      "japanese production",
+      "kaiju",
+      "male protagonist",
+      "manga",
+      "netorare",
+      "non-human protagonists",
+      "parody",
+      "revenge",
+      "robots & android",
+      "science-fiction",
+      "seinen",
+      "speculative fiction",
+      "super power",
+      "supernatural",
+      "surreal comedy",
+      "urban",
+      "urban fantasy",
+      "yakuza"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1666/150983.jpg"
+  },
+  {
     "title": "Norakuro",
     "episodes": 26,
     "type": "TV",
@@ -2662,7 +2710,7 @@
       "vampires"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/46147.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/46147.jpg"
   },
   {
     "title": "Oda Cinnamon Nobunaga",
@@ -2723,7 +2771,7 @@
       "wordplay"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1004/106819.jpg"
+    "picture": "https://myanimelist.net/images/anime/1004/106819.jpg"
   },
   {
     "title": "Odd Taxi",
@@ -3075,7 +3123,7 @@
       "talking animal"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/1666/143300.jpg"
+    "picture": "https://myanimelist.net/images/anime/1666/143300.jpg"
   },
   {
     "title": "Reincarnated as a Dragon Hatchling",
@@ -3152,7 +3200,7 @@
       "slice of life"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1008/113384.jpg"
+    "picture": "https://myanimelist.net/images/anime/1008/113384.jpg"
   },
   {
     "title": "Shirokuma Cafe",
@@ -3311,7 +3359,7 @@
       "yuri"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1165/93552.jpg"
+    "picture": "https://myanimelist.net/images/anime/1165/93552.jpg"
   },
   {
     "title": "Show By Rock!!",
@@ -3371,7 +3419,7 @@
       "yuri"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/73674.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/73674.jpg"
   },
   {
     "title": "Stray Sheep: Poe no Chicchana Daibouken",
@@ -3540,7 +3588,7 @@
       "time travel"
     ],
     "year": 1988,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/44137.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/44137.jpg"
   },
   {
     "title": "Uchi no Shishou wa Shippo ga Nai",
@@ -3650,7 +3698,7 @@
       "unrequited love"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1624/103162.jpg"
+    "picture": "https://myanimelist.net/images/anime/1624/103162.jpg"
   },
   {
     "title": "Usagi to Kame",
@@ -3974,7 +4022,34 @@
       "tragedy"
     ],
     "year": 1970,
-    "picture": "https://cdn.myanimelist.net/images/anime/1238/112799.jpg"
+    "picture": "https://myanimelist.net/images/anime/1238/112799.jpg"
+  },
+  {
+    "title": "You Shou Yan 3rd Season",
+    "episodes": 12,
+    "type": "ONA",
+    "status": "FINISHED",
+    "tags": [
+      "animal protagonist",
+      "animal protagonists",
+      "anthropomorphism",
+      "based on a manga",
+      "chinese animation",
+      "chinese production",
+      "comedy",
+      "episodic",
+      "fantasy",
+      "found family",
+      "iyashikei",
+      "manhua",
+      "mythology",
+      "non-human protagonists",
+      "short episodes",
+      "slice of life",
+      "staff missing"
+    ],
+    "year": 2024,
+    "picture": "https://cdn.myanimelist.net/images/anime/1102/142342.jpg"
   },
   {
     "title": "Yu Bang Xiang Zheng",

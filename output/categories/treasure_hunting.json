@@ -482,7 +482,7 @@
       "weekly shounen jump"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/18900.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/18900.jpg"
   },
   {
     "title": "Coyote Ragtime Show",
@@ -557,7 +557,7 @@
       "western"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1286/132736.jpg"
+    "picture": "https://myanimelist.net/images/anime/1286/132736.jpg"
   },
   {
     "title": "Crayon Shin-chan Movie 02: Buriburi Oukoku no Hihou",
@@ -1251,7 +1251,7 @@
       "winter"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1145/90880.jpg"
+    "picture": "https://myanimelist.net/images/anime/1145/90880.jpg"
   },
   {
     "title": "Golden Kamuy 2nd Season",
@@ -1548,43 +1548,67 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1855/128059.jpg"
   },
   {
-    "title": "Golden Kamuy Final Season",
-    "episodes": 0,
+    "title": "Golden Kamuy: Saishuushou",
+    "episodes": 13,
     "type": "TV",
     "status": "FINISHED",
     "tags": [
       "action",
+      "adult cast",
+      "adventure",
       "ainu",
+      "archery",
+      "based on a manga",
       "chases",
+      "coastal",
       "comedy",
       "conspiracy",
       "culture clash",
       "dark comedy",
       "drama",
+      "ensemble cast",
       "factions",
+      "female protagonist",
+      "fugitive",
       "gore",
       "gunplay",
+      "guns",
+      "hero of strong character",
       "historical",
+      "hokkaido",
       "idealism",
+      "indigenous cultures",
+      "japan",
+      "japanese production",
+      "male protagonist",
       "meiji era",
       "military",
       "moral dilemma",
       "mystery",
+      "primarily adult cast",
       "psychological",
       "revenge",
+      "rural",
+      "seinen",
+      "sequel",
       "shinsengumi",
       "spiritualism",
+      "stoic heroine",
+      "swords & co",
       "thriller",
       "torture",
       "tragedy",
+      "trains",
       "trauma",
+      "treasure hunters",
       "treasure hunting",
+      "urban",
       "war",
       "western",
       "wilderness"
     ],
     "year": 2026,
-    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37046-1012401904.1767411011.jpg"
+    "picture": "https://myanimelist.net/images/anime/1288/154763.jpg"
   },
   {
     "title": "Golden Kamuy: Sapporo Beer Koujou-hen",
@@ -1768,6 +1792,7 @@
       "adventure",
       "alternative present",
       "alternative world",
+      "amnesia",
       "animals",
       "anthropomorphism",
       "anti-hero",
@@ -2142,7 +2167,7 @@
       "workplace"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1777/117885.jpg"
+    "picture": "https://myanimelist.net/images/anime/1777/117885.jpg"
   },
   {
     "title": "Isekai wa Smartphone to Tomo ni.",
@@ -2493,7 +2518,7 @@
       "video games"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1954/129158.jpg"
+    "picture": "https://myanimelist.net/images/anime/1954/129158.jpg"
   },
   {
     "title": "Kamui no Ken",
@@ -2685,7 +2710,7 @@
       "wordplay"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1142/111693.jpg"
+    "picture": "https://myanimelist.net/images/anime/1142/111693.jpg"
   },
   {
     "title": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!",
@@ -2850,7 +2875,7 @@
       "violence"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1638/119321.jpg"
+    "picture": "https://myanimelist.net/images/anime/1638/119321.jpg"
   },
   {
     "title": "Lupin III (2015)",
@@ -2976,7 +3001,7 @@
       "violence"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/1276/134263.jpg"
+    "picture": "https://myanimelist.net/images/anime/1276/134263.jpg"
   },
   {
     "title": "Lupin III: Prison of the Past",
@@ -3039,7 +3064,7 @@
       "wordplay"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1534/105213.jpg"
+    "picture": "https://myanimelist.net/images/anime/1534/105213.jpg"
   },
   {
     "title": "Lupin III: The First",
@@ -3106,7 +3131,7 @@
       "tropes"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1572/108506.jpg"
+    "picture": "https://myanimelist.net/images/anime/1572/108506.jpg"
   },
   {
     "title": "Lupin III: Touhou Kenbunroku - Another Page",
@@ -3476,7 +3501,7 @@
       "wardrobe malfunction"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/42773.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/42773.jpg"
   },
   {
     "title": "Mahou Senshi Louie",
@@ -3790,7 +3815,7 @@
       "violence"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/15380.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/15380.jpg"
   },
   {
     "title": "Master Mosquiton",
@@ -4519,6 +4544,7 @@
       "henshin",
       "hero of strong character",
       "human enhancement",
+      "indigenous cultures",
       "japanese production",
       "journey",
       "kabuki",
@@ -4606,7 +4632,7 @@
       "zombie"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg"
+    "picture": "https://myanimelist.net/images/anime/1244/138851.jpg"
   },
   {
     "title": "Phi Brain: Kami no Puzzle - Shukuteki! Rätsel-hen",
@@ -4891,7 +4917,7 @@
       "zombie"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1825/91514.jpg"
+    "picture": "https://myanimelist.net/images/anime/1825/91514.jpg"
   },
   {
     "title": "Ruri no Houseki",
@@ -4938,6 +4964,7 @@
       "the great outdoors",
       "time",
       "treasure hunting",
+      "university",
       "wilderness",
       "work"
     ],
@@ -5087,7 +5114,7 @@
       "violence"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1384/140829.jpg"
+    "picture": "https://myanimelist.net/images/anime/1384/140829.jpg"
   },
   {
     "title": "Sakura Quest",
@@ -5547,7 +5574,6 @@
       "sci-fi",
       "science fiction",
       "science-fiction",
-      "shounen",
       "speculative fiction",
       "stand-alone movie",
       "steampunk",
@@ -5940,6 +5966,6 @@
       "virtual world"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1416/119528.jpg"
+    "picture": "https://myanimelist.net/images/anime/1416/119528.jpg"
   }
 ]

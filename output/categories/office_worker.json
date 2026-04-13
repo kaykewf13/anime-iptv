@@ -14,7 +14,7 @@
       "slice of life"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1788/150015.jpg"
+    "picture": "https://myanimelist.net/images/anime/1788/150015.jpg"
   },
   {
     "title": "30-sai made Doutei dato Mahoutsukai ni Nareru Rashii",
@@ -87,7 +87,7 @@
       "writing"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1762/139690.jpg"
+    "picture": "https://myanimelist.net/images/anime/1762/139690.jpg"
   },
   {
     "title": "30-sai made Doutei dato Mahoutsukai ni Nareru Rashii Movie",
@@ -125,13 +125,13 @@
       "workplace"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1079/146486.jpg"
+    "picture": "https://myanimelist.net/images/anime/1079/146486.jpg"
   },
   {
     "title": "Android wa Keiken Ninzuu ni Hairimasu ka??",
     "episodes": 8,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "18 restricted",
       "adult audience only",
@@ -139,6 +139,7 @@
       "androids",
       "based on a manga",
       "comedy",
+      "comicfesta anime zone",
       "deregula label",
       "ecchi",
       "erotica",
@@ -148,7 +149,10 @@
       "hentai",
       "interspecies relationship",
       "japanese production",
+      "josei",
+      "multi-anime projects",
       "non-human protagonists",
+      "office lady",
       "office worker",
       "plot with porn",
       "pornography",
@@ -160,6 +164,7 @@
       "sci-fi",
       "science fiction",
       "science-fiction",
+      "seinen",
       "sex",
       "sexual humour",
       "short episodes",
@@ -168,7 +173,7 @@
       "yuri"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1084/149783.jpg"
+    "picture": "https://myanimelist.net/images/anime/1084/149783.jpg"
   },
   {
     "title": "Boku no Tsuma wa Kanjou ga Nai",
@@ -391,7 +396,7 @@
       "working life"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1659/105254.jpg"
+    "picture": "https://myanimelist.net/images/anime/1659/105254.jpg"
   },
   {
     "title": "Danna ga Nani wo Itteiru ka Wakaranai Ken 2 Sure-me",
@@ -720,7 +725,7 @@
       "slice of life"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/83698.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/83698.jpg"
   },
   {
     "title": "Hige wo Soru. Soshite Joshikousei wo Hirou.",
@@ -866,7 +871,7 @@
       "workplace"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1123/154179.jpg"
+    "picture": "https://myanimelist.net/images/anime/1123/154179.jpg"
   },
   {
     "title": "Kobayashi-san Chi no Maid Dragon",
@@ -1012,7 +1017,7 @@
       "yuri"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/85434.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/85434.jpg"
   },
   {
     "title": "Kobayashi-san Chi no Maid Dragon S",
@@ -1141,7 +1146,7 @@
       "yuri"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1252/115539.jpg"
+    "picture": "https://myanimelist.net/images/anime/1252/115539.jpg"
   },
   {
     "title": "Kobayashi-san Chi no Maid Dragon S: Mini Dra EX",
@@ -1229,6 +1234,7 @@
       "lgbtq+ themes",
       "magic",
       "maids",
+      "manga",
       "moe",
       "monster girl",
       "monster girls",
@@ -1247,11 +1253,12 @@
       "slice of life comedy",
       "stoic heroine",
       "supernatural",
+      "swordplay",
       "war",
       "yuri"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1134/148744.jpg"
+    "picture": "https://myanimelist.net/images/anime/1134/148744.jpg"
   },
   {
     "title": "Kobayashi-san Chi no Maid Dragon: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai",
@@ -1302,7 +1309,7 @@
       "yuri"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/88486.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/88486.jpg"
   },
   {
     "title": "Kobayashi-san Chi no OO Dragon",
@@ -1504,7 +1511,7 @@
       "yuki-onna"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1927/132758.jpg"
+    "picture": "https://myanimelist.net/images/anime/1927/132758.jpg"
   },
   {
     "title": "Kounai Shasei",
@@ -1629,7 +1636,7 @@
       "secretary"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/50553.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/50553.jpg"
   },
   {
     "title": "Mazome Soap de Aimashou!",
@@ -1719,6 +1726,19 @@
     ],
     "year": 1990,
     "picture": "https://cdn.myanimelist.net/images/anime/13/27363.jpg"
+  },
+  {
+    "title": "Offbeat",
+    "episodes": 1,
+    "type": "ONA",
+    "status": "FINISHED",
+    "tags": [
+      "independent anime",
+      "office worker",
+      "present"
+    ],
+    "year": 2026,
+    "picture": "https://cdn.anisearch.com/images/anime/cover/21/21351_600.webp"
   },
   {
     "title": "Osake wa Fuufu ni Natte kara",
@@ -1830,7 +1850,7 @@
       "workplace"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1140/120215.jpg"
+    "picture": "https://myanimelist.net/images/anime/1140/120215.jpg"
   },
   {
     "title": "Senpai ga Uzai Kouhai no Hanashi",
@@ -2122,7 +2142,7 @@
       "workplace"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1984/136274.jpg"
+    "picture": "https://myanimelist.net/images/anime/1984/136274.jpg"
   },
   {
     "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi Mini Anime",
@@ -2217,7 +2237,7 @@
       "working life"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/1460/98853.jpg"
+    "picture": "https://myanimelist.net/images/anime/1460/98853.jpg"
   },
   {
     "title": "Wei Miao Rensheng",
@@ -2247,6 +2267,7 @@
       "ghost",
       "gods",
       "heroine of weak character",
+      "heterosexual",
       "love triangle",
       "mature romance",
       "nudity",
@@ -2259,11 +2280,13 @@
       "romantic comedy",
       "shapeshifting",
       "supernatural",
+      "time manipulation",
       "work",
-      "workplace"
+      "workplace",
+      "yandere"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1871/147084.jpg"
+    "picture": "https://myanimelist.net/images/anime/1871/147084.jpg"
   },
   {
     "title": "Wotaku ni Koi wa Muzukashii",

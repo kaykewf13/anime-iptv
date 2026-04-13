@@ -185,6 +185,7 @@
       "cgi",
       "cute girls doing cute things",
       "dancing",
+      "disability",
       "drama",
       "family friendly",
       "fantasy",
@@ -228,6 +229,7 @@
       "female protagonist",
       "iyashikei",
       "japanese production",
+      "lgbtq+ themes",
       "music",
       "musical band",
       "nun",
@@ -242,7 +244,7 @@
       "school life",
       "ships",
       "slice of life",
-      "trains"
+      "unrequited love"
     ],
     "year": 2024,
     "picture": "https://cdn.myanimelist.net/images/anime/1971/142121.jpg"
@@ -335,6 +337,31 @@
     "picture": "https://cdn.myanimelist.net/images/anime/5/74733.jpg"
   },
   {
+    "title": "Paris ni Saku Etoile",
+    "episodes": 1,
+    "type": "MOVIE",
+    "status": "FINISHED",
+    "tags": [
+      "ballet",
+      "drawing",
+      "europe",
+      "female protagonist",
+      "foreign",
+      "france",
+      "historical",
+      "japanese production",
+      "original work",
+      "slice of life",
+      "sports",
+      "swordplay",
+      "the arts",
+      "time skip",
+      "war"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1966/154338.jpg"
+  },
+  {
     "title": "Princess Tutu",
     "episodes": 38,
     "type": "TV",
@@ -423,6 +450,7 @@
       "shapeshifting",
       "short episodes",
       "shoujo",
+      "shounen",
       "speculative fiction",
       "star-crossed lovers",
       "storytelling",
@@ -511,7 +539,7 @@
       "war"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/1834/133855.jpg"
+    "picture": "https://myanimelist.net/images/anime/1834/133855.jpg"
   },
   {
     "title": "Shugo Chara!",

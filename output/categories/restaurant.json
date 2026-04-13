@@ -55,7 +55,7 @@
       "war"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/1905/145992.jpg"
+    "picture": "https://myanimelist.net/images/anime/1905/145992.jpg"
   },
   {
     "title": "Aiseki Mogol Girl",
@@ -101,7 +101,6 @@
       "coming of age",
       "conspiracy",
       "crime",
-      "cute girls doing cute things",
       "death",
       "disability",
       "drama",
@@ -131,7 +130,6 @@
       "murder",
       "new",
       "ninja",
-      "nudity",
       "organized crime",
       "original work",
       "orphan",
@@ -150,7 +148,6 @@
       "splatter",
       "spring",
       "surreal comedy",
-      "tanned skin",
       "thriller",
       "time",
       "time skip",
@@ -336,7 +333,7 @@
       "workplace"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/88286.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/88286.jpg"
   },
   {
     "title": "Cat's♥Eye",
@@ -479,6 +476,8 @@
       "fashion",
       "fast-paced",
       "female protagonist",
+      "fictional location",
+      "floating island",
       "fugitive",
       "gambling",
       "game",
@@ -491,12 +490,14 @@
       "japanese production",
       "journalism",
       "law and order",
+      "lingerie",
       "mafia",
       "male protagonist",
       "manga",
       "martial arts",
       "mystery",
       "occupation and career",
+      "ocean",
       "parental abandonment",
       "place",
       "police",
@@ -527,7 +528,7 @@
       "weekly shounen jump"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1347/151708.jpg"
+    "picture": "https://myanimelist.net/images/anime/1347/151708.jpg"
   },
   {
     "title": "Chuumon no Ooi Ryouriten",
@@ -633,7 +634,7 @@
       "supernatural"
     ],
     "year": 1993,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/74516.jpg"
+    "picture": "https://myanimelist.net/images/anime/1494/156244.jpg"
   },
   {
     "title": "City The Animation",
@@ -673,6 +674,7 @@
       "photography",
       "present",
       "primarily adult cast",
+      "primarily female cast",
       "prime video original",
       "randomness",
       "religion",
@@ -696,7 +698,7 @@
       "yuri"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1829/145678.jpg"
+    "picture": "https://myanimelist.net/images/anime/1829/145678.jpg"
   },
   {
     "title": "Dorohedoro",
@@ -722,6 +724,7 @@
       "canon filler",
       "cg-anime",
       "cgi",
+      "class struggle",
       "comedy",
       "cooking",
       "crime",
@@ -880,6 +883,43 @@
     ],
     "year": 2025,
     "picture": "https://cdn.myanimelist.net/images/anime/1104/150590.jpg"
+  },
+  {
+    "title": "GANSO! BanG Dream Chan",
+    "episodes": 52,
+    "type": "ONA",
+    "status": "ONGOING",
+    "tags": [
+      "aliens",
+      "band",
+      "camping",
+      "chibi",
+      "chibi style",
+      "comedy",
+      "cute girls doing cute things",
+      "ensemble cast",
+      "episodic",
+      "female protagonist",
+      "idol",
+      "japanese production",
+      "lgbtq+ themes",
+      "music",
+      "natural disaster",
+      "parody",
+      "post-apocalyptic",
+      "primarily female cast",
+      "primarily teen cast",
+      "restaurant",
+      "school",
+      "sequel",
+      "short episodes",
+      "super deformed",
+      "surreal comedy",
+      "urban",
+      "yuri"
+    ],
+    "year": 2025,
+    "picture": "https://myanimelist.net/images/anime/1908/155077.jpg"
   },
   {
     "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
@@ -1397,7 +1437,7 @@
       "workplace"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1777/117885.jpg"
+    "picture": "https://myanimelist.net/images/anime/1777/117885.jpg"
   },
   {
     "title": "Jarinko Chie",
@@ -1448,7 +1488,7 @@
       "yakuza"
     ],
     "year": 1981,
-    "picture": "https://cdn.myanimelist.net/images/anime/1398/112401.jpg"
+    "picture": "https://myanimelist.net/images/anime/1398/112401.jpg"
   },
   {
     "title": "Jarinko Chie (TV)",
@@ -1515,7 +1555,7 @@
       "virtual reality"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1980/133532.jpg"
+    "picture": "https://myanimelist.net/images/anime/1980/133532.jpg"
   },
   {
     "title": "Journey to Bloom",
@@ -1592,6 +1632,7 @@
       "dialogue driven",
       "drama",
       "earth",
+      "ensemble cast",
       "episodic",
       "faceless background characters",
       "facial distortion",
@@ -1665,6 +1706,7 @@
       "tropes",
       "tsundere",
       "unrequited love",
+      "urban",
       "verbal comedy",
       "violence",
       "visible aura",
@@ -1707,7 +1749,7 @@
       "work"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/28329.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/28329.jpg"
   },
   {
     "title": "Kaichou wa Maid-sama!: Omake da yo!",
@@ -1718,11 +1760,14 @@
       "bar",
       "based on a manga",
       "comedy",
+      "ensemble cast",
+      "family life",
       "female protagonist",
       "kuudere",
       "maid",
       "maids",
       "present",
+      "primarily female cast",
       "restaurant",
       "romance",
       "romantic comedy",
@@ -1844,7 +1889,7 @@
       "work"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/88612.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/88612.jpg"
   },
   {
     "title": "Kirakira☆Precure A La Mode Movie: Paritto! Omoide no Mille-Feuille!",
@@ -1994,7 +2039,7 @@
       "writing"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1271/90136.jpg"
+    "picture": "https://myanimelist.net/images/anime/1271/90136.jpg"
   },
   {
     "title": "Kurage no Shokudou",
@@ -2175,7 +2220,7 @@
       "yuri"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1314/147593.jpg"
+    "picture": "https://myanimelist.net/images/anime/1314/147593.jpg"
   },
   {
     "title": "Mahou Shoujo Nante Mou Ii desu kara. Second Season",
@@ -2362,7 +2407,7 @@
       "workplace"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1606/141394.jpg"
+    "picture": "https://myanimelist.net/images/anime/1606/141394.jpg"
   },
   {
     "title": "Monsters: Ippyaku Sanjou Hiryuu Jigoku",
@@ -2556,7 +2601,7 @@
       "working life"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1913/112190.jpg"
+    "picture": "https://myanimelist.net/images/anime/1913/112190.jpg"
   },
   {
     "title": "NEET Kunoichi to Nazeka Dousei Hajimemashita",
@@ -2602,6 +2647,7 @@
       "small breasts",
       "supernatural",
       "swords & co",
+      "transgender",
       "tropes",
       "tsundere",
       "under one roof",
@@ -2863,7 +2909,7 @@
       "work"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1614/153337.jpg"
+    "picture": "https://myanimelist.net/images/anime/1614/153337.jpg"
   },
   {
     "title": "Petit! Tokyo Mew Mew New ♡",
@@ -2896,7 +2942,7 @@
       "super deformed"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1381/126586.jpg"
+    "picture": "https://myanimelist.net/images/anime/1381/126586.jpg"
   },
   {
     "title": "Pia Carrot e Youkoso!! 2 DX",
@@ -2939,7 +2985,7 @@
       "work life"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/1884/153618.jpg"
+    "picture": "https://myanimelist.net/images/anime/1884/153618.jpg"
   },
   {
     "title": "Pia Carrot e Youkoso!!: Sayaka no Koi Monogatari",
@@ -3086,7 +3132,7 @@
       "vocaloid"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1883/144526.jpg"
+    "picture": "https://myanimelist.net/images/anime/1883/144526.jpg"
   },
   {
     "title": "Ramen Akaneko",
@@ -3553,7 +3599,7 @@
       "urban fantasy"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/32129.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/32129.jpg"
   },
   {
     "title": "Sushi Police",
@@ -3595,7 +3641,7 @@
       "work life"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/76236.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/76236.jpg"
   },
   {
     "title": "Tenki no Ko",
@@ -3839,7 +3885,7 @@
       "urban fantasy"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1001/116687.jpg"
+    "picture": "https://myanimelist.net/images/anime/1001/116687.jpg"
   },
   {
     "title": "Tokyo Mew Mew New ♡ 2nd Season",
@@ -3924,7 +3970,7 @@
       "work"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/78559.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/78559.jpg"
   },
   {
     "title": "Tsuihousha Shokudou e Youkoso!",
@@ -4026,7 +4072,7 @@
       "working life"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1313/149355.jpg"
+    "picture": "https://myanimelist.net/images/anime/1313/149355.jpg"
   },
   {
     "title": "UniteUp!",
@@ -4250,7 +4296,7 @@
       "workplace"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/75262.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/75262.jpg"
   },
   {
     "title": "Working!!!",
@@ -4725,6 +4771,6 @@
       "winter"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1478/140828.jpg"
+    "picture": "https://myanimelist.net/images/anime/1478/140828.jpg"
   }
 ]

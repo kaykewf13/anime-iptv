@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Mina
-# Total de animes na categoria: 273
+# Total de animes na categoria: 274
 # Exemplos: A Piece of Phantasmagoria, Ai no Gakkou Cuore Monogatari, Ai Shoujo Pollyanna Story, Ali Baba to 40-hiki no Touzoku, Amefuri Kozou, Andersen Douwa: Ningyohime, Aoi Kioku: Manmou Kaitaku to Shounen-tachi, Arashi no Yoru ni, Arete Hime, Atama Yama
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Mina",Pluto TV Anime | Mina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Daily Life
-# Total de animes na categoria: 1389
-# Exemplos: "Eiyuu" Kaitai, 16bit Sensation: Another Layer, 21 Emon, 3-gatsu no Lion, 3-gatsu no Lion 2nd Season, 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii, 30-sai no Hoken Taiiku, [Oshi no Ko], [Oshi no Ko] 2nd Season, _Summer
+# Total de animes na categoria: 1390
+# Exemplos: "Eiyuu" Kaitai, 16bit Sensation: Another Layer, 21 Emon, 29-sai Dokushin Chuuken Boukensha no Nichijou, 3-gatsu no Lion, 3-gatsu no Lion 2nd Season, 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii, 30-sai no Hoken Taiiku, [Oshi no Ko], [Oshi no Ko] 2nd Season
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Daily Life",Pluto TV Anime | Daily Life
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
 #EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Daily Life",Anime World | Daily Life

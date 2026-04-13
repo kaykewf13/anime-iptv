@@ -36,7 +36,7 @@
       "seals"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1234/105532.jpg"
+    "picture": "https://myanimelist.net/images/anime/1234/105532.jpg"
   },
   {
     "title": "Koisuru Shirokuma",
@@ -117,6 +117,22 @@
     ],
     "year": 2009,
     "picture": "https://cdn.myanimelist.net/images/anime/12/19916.jpg"
+  },
+  {
+    "title": "Shirotan",
+    "episodes": 0,
+    "type": "TV",
+    "status": "UNKNOWN",
+    "tags": [
+      "animal protagonists",
+      "episodic",
+      "family friendly",
+      "non-human protagonists",
+      "seals",
+      "slice of life"
+    ],
+    "year": 2026,
+    "picture": "https://cdn.anime-planet.com/anime/primary/shirotan-1.webp"
   },
   {
     "title": "Shirotan: Shirotan ga Ippai!",

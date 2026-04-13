@@ -27,6 +27,7 @@
       "japan",
       "japanese production",
       "lgbtq+ themes",
+      "manga",
       "moe",
       "pet play",
       "place",
@@ -298,7 +299,7 @@
       "yandere"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1346/138731.jpg"
+    "picture": "https://myanimelist.net/images/anime/1346/138731.jpg"
   },
   {
     "title": "Digimon Adventure",
@@ -382,11 +383,12 @@
       "travel",
       "tropes",
       "urban",
+      "vampire",
       "virtual world",
       "wilderness"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/1471/99249.jpg"
+    "picture": "https://myanimelist.net/images/anime/1471/99249.jpg"
   },
   {
     "title": "Futari Solo Camp",
@@ -454,10 +456,12 @@
       "japanese production",
       "lgbtq+ themes",
       "music",
+      "natural disaster",
       "parody",
       "post-apocalyptic",
       "primarily female cast",
       "primarily teen cast",
+      "restaurant",
       "school",
       "sequel",
       "short episodes",
@@ -467,7 +471,7 @@
       "yuri"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1908/155077.jpg"
+    "picture": "https://myanimelist.net/images/anime/1908/155077.jpg"
   },
   {
     "title": "Gokushufudou Season 2",
@@ -507,7 +511,7 @@
       "yakuza"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1985/132227.jpg"
+    "picture": "https://myanimelist.net/images/anime/1985/132227.jpg"
   },
   {
     "title": "Harem Camp!",
@@ -685,6 +689,7 @@
       "seinen",
       "slice of life",
       "slice of life drama",
+      "swimming",
       "tanned skin",
       "the arts",
       "time",
@@ -805,7 +810,7 @@
       "wordplay"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/75617.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/75617.jpg"
   },
   {
     "title": "Solo Camping for Two",
@@ -821,6 +826,20 @@
     ],
     "year": 2025,
     "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34251-1257251063.1752229358.jpg"
+  },
+  {
+    "title": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
+    "episodes": 0,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "camping",
+      "cooking",
+      "fantasy",
+      "isekai"
+    ],
+    "year": 2026,
+    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38732-332426438.1773882051.jpg"
   },
   {
     "title": "Tondemo Skill de Isekai Hourou Meshi",
@@ -840,15 +859,20 @@
       "comedy",
       "cooking",
       "creature taming",
+      "demi-humans",
       "dragons",
       "dungeon",
       "dungeons",
+      "dwarves",
       "economics",
+      "educational",
       "elf",
+      "elves",
       "fantasy",
       "food",
       "food and beverage",
       "food preparation",
+      "food science",
       "found family",
       "game elements",
       "goblin",

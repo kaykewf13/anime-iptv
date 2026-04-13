@@ -349,7 +349,7 @@
       "violence censoring"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/75509.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/75509.jpg"
   },
   {
     "title": "Another World",
@@ -685,7 +685,7 @@
       "youkai"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/75274.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/75274.jpg"
   },
   {
     "title": "Bikini Warriors Special",
@@ -724,7 +724,7 @@
       "yuri"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/78515.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/78515.jpg"
   },
   {
     "title": "Birthday Wonderland",
@@ -944,6 +944,52 @@
     "picture": "https://cdn.myanimelist.net/images/anime/5/62619.jpg"
   },
   {
+    "title": "Champignon no Majo",
+    "episodes": 12,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "adoption",
+      "adventure",
+      "age regression",
+      "angst",
+      "animals",
+      "anthropomorphism",
+      "anthropomorphs",
+      "based on a manga",
+      "conspiracy",
+      "curses",
+      "drama",
+      "elf",
+      "fairy",
+      "fantasy",
+      "female protagonist",
+      "heterosexual",
+      "horticulture",
+      "japanese production",
+      "magic",
+      "medicine",
+      "medieval",
+      "memory manipulation",
+      "romance",
+      "rural",
+      "shapeshifting",
+      "shoujo",
+      "small town",
+      "social stigma",
+      "sorcery",
+      "spirits",
+      "supernatural",
+      "tragedy",
+      "unrequited love",
+      "wilderness",
+      "witch",
+      "witches"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1499/152613.jpg"
+  },
+  {
     "title": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
     "episodes": 12,
     "type": "TV",
@@ -1038,7 +1084,7 @@
       "war"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/56243.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/56243.jpg"
   },
   {
     "title": "Code Geass: Boukoku no Akito 3 - Kagayaku Mono Ten yori Otsu",
@@ -1223,7 +1269,7 @@
       "yuri"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/32285.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/32285.jpg"
   },
   {
     "title": "Dansai Bunri no Crime Edge",
@@ -1284,7 +1330,7 @@
       "zombie"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/52139.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/52139.jpg"
   },
   {
     "title": "Dark Gathering",
@@ -1424,34 +1470,47 @@
       "yandere"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1346/138731.jpg"
+    "picture": "https://myanimelist.net/images/anime/1346/138731.jpg"
   },
   {
     "title": "Dead Account",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "based on a manga",
       "boarding school",
+      "comedy",
       "crunchyroll co-production",
       "curses",
       "death of a loved one",
+      "drama",
       "exorcism",
+      "factions",
+      "fighting",
       "ghost",
+      "ghosts",
+      "horror",
       "japanese production",
       "male protagonist",
+      "nudity",
+      "occult",
       "orphans",
+      "revenge",
       "school",
       "shounen",
       "social media",
+      "sorcery",
+      "spirits",
       "super power",
       "supernatural",
+      "superpowers",
+      "technology",
       "urban fantasy"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1622/154192.jpg"
+    "picture": "https://myanimelist.net/images/anime/1622/154192.jpg"
   },
   {
     "title": "Devilman: Crybaby",
@@ -1573,7 +1632,7 @@
       "war"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/89973.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/89973.jpg"
   },
   {
     "title": "Dorohedoro",
@@ -1599,6 +1658,7 @@
       "canon filler",
       "cg-anime",
       "cgi",
+      "class struggle",
       "comedy",
       "cooking",
       "crime",
@@ -1719,6 +1779,49 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1230/119278.jpg"
   },
   {
+    "title": "Dorohedoro Season 2",
+    "episodes": 11,
+    "type": "ONA",
+    "status": "ONGOING",
+    "tags": [
+      "action",
+      "adventure",
+      "alternative world",
+      "amnesia",
+      "anti-hero",
+      "based on a manga",
+      "comedy",
+      "curse",
+      "curses",
+      "dark fantasy",
+      "demon",
+      "demons",
+      "drama",
+      "dystopian",
+      "ensemble cast",
+      "fantasy",
+      "full cgi",
+      "gore",
+      "horror",
+      "japanese production",
+      "magic",
+      "male protagonist",
+      "monster boy",
+      "mystery",
+      "primarily adult cast",
+      "psychological",
+      "revenge",
+      "seinen",
+      "sequel",
+      "supernatural",
+      "surreal comedy",
+      "urban fantasy",
+      "violence"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1603/155354.jpg"
+  },
+  {
     "title": "Dorohedoro: Ma no Omake",
     "episodes": 6,
     "type": "SPECIAL",
@@ -1744,7 +1847,6 @@
       "magic",
       "monster boy",
       "non-human protagonists",
-      "only on netflix",
       "primarily adult cast",
       "seinen",
       "splatter",
@@ -1773,6 +1875,7 @@
       "based on a manga",
       "black and white",
       "body horror",
+      "body image",
       "buddhism",
       "cannibalism",
       "child protagonists",
@@ -1939,6 +2042,91 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1711/142478.jpg"
   },
   {
+    "title": "Fate/strange Fake",
+    "episodes": 13,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "action",
+      "adventure",
+      "america",
+      "anachronism",
+      "animals",
+      "archery",
+      "assassins",
+      "based on a light novel",
+      "battle royale",
+      "body swapping",
+      "chimera",
+      "conspiracy",
+      "contemporary fantasy",
+      "curses",
+      "cyborg",
+      "dark fantasy",
+      "death game",
+      "demons",
+      "desert",
+      "dissociative identities",
+      "drama",
+      "ensemble cast",
+      "factions",
+      "fantasy",
+      "fighting",
+      "foreign",
+      "gambling",
+      "gender bending",
+      "gods",
+      "gore",
+      "government",
+      "guns",
+      "homunculi",
+      "idealism",
+      "japanese production",
+      "knights",
+      "legendary warriors",
+      "lgbtq+ themes",
+      "magic",
+      "magical items",
+      "medieval",
+      "memory manipulation",
+      "military",
+      "monsters",
+      "moral dilemma",
+      "mystery",
+      "mythology",
+      "necromancy",
+      "nun",
+      "police",
+      "proxy battles",
+      "psychological",
+      "religion",
+      "religious sect",
+      "secret organization",
+      "shapeshifting",
+      "skeleton",
+      "sorcery",
+      "spirits",
+      "supernatural",
+      "superpowers",
+      "survival game",
+      "swordplay",
+      "terrorism",
+      "thriller",
+      "tournament",
+      "tragedy",
+      "trauma",
+      "united states",
+      "urban",
+      "urban fantasy",
+      "vampire",
+      "vampires",
+      "war",
+      "werewolf"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1752/150192.jpg"
+  },
+  {
     "title": "Fruits Basket",
     "episodes": 26,
     "type": "TV",
@@ -2074,6 +2262,7 @@
       "family without mother",
       "fantasy",
       "fate",
+      "female harem",
       "female protagonist",
       "femboy",
       "following one's dream",
@@ -2173,7 +2362,7 @@
       "zodiac"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1447/99827.jpg"
+    "picture": "https://myanimelist.net/images/anime/1447/99827.jpg"
   },
   {
     "title": "Fruits Basket 2nd Season",
@@ -2311,7 +2500,7 @@
       "zodiac"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg"
+    "picture": "https://myanimelist.net/images/anime/1972/111635.jpg"
   },
   {
     "title": "Fruits Basket: The Final",
@@ -2586,7 +2775,7 @@
       "urban fantasy"
     ],
     "year": 2001,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/74184.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/74184.jpg"
   },
   {
     "title": "Ghost Hunt",
@@ -3406,7 +3595,7 @@
       "working life"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1649/93412.jpg"
+    "picture": "https://myanimelist.net/images/anime/1649/93412.jpg"
   },
   {
     "title": "Itou Junji: Collection",
@@ -3545,7 +3734,7 @@
       "josei",
       "monster girl",
       "mystery",
-      "netflix original",
+      "only on netflix",
       "photography",
       "psychological",
       "religion",
@@ -3559,7 +3748,7 @@
       "violence"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1956/132879.jpg"
+    "picture": "https://myanimelist.net/images/anime/1956/132879.jpg"
   },
   {
     "title": "Izure Saikyou no Renkinjutsushi?",
@@ -3641,7 +3830,7 @@
       "walls of text"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1431/146222.jpg"
+    "picture": "https://myanimelist.net/images/anime/1431/146222.jpg"
   },
   {
     "title": "Jigoku Shoujo",
@@ -3788,7 +3977,7 @@
       "youkai"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/86975.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/86975.jpg"
   },
   {
     "title": "Jigoku Shoujo Mitsuganae",
@@ -3901,7 +4090,7 @@
       "youkai"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/1110/92117.jpg"
+    "picture": "https://myanimelist.net/images/anime/1110/92117.jpg"
   },
   {
     "title": "Jujutsu Kaisen",
@@ -4239,40 +4428,6 @@
     "picture": "https://myanimelist.net/images/anime/1438/154138.jpg"
   },
   {
-    "title": "Jujutsu Kaisen Season 3: The Culling Game Part 1",
-    "episodes": 7,
-    "type": "TV",
-    "status": "FINISHED",
-    "tags": [
-      "action",
-      "comedy",
-      "curses",
-      "dark fantasy",
-      "demons",
-      "drama",
-      "exorcism",
-      "factions",
-      "gore",
-      "horror",
-      "martial arts",
-      "monsters",
-      "mystery",
-      "psychological",
-      "school",
-      "sorcery",
-      "spirits",
-      "supernatural",
-      "superpowers",
-      "thriller",
-      "tournament",
-      "tragedy",
-      "transformations",
-      "urban fantasy"
-    ],
-    "year": 2026,
-    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A31174-1004375785.1770168022.jpg"
-  },
-  {
     "title": "Jujutsu Kaisen: Kaigyoku/Gyokusetsu",
     "episodes": 1,
     "type": "MOVIE",
@@ -4311,13 +4466,13 @@
       "urban fantasy"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1999/147023.jpg"
+    "picture": "https://myanimelist.net/images/anime/1999/147023.jpg"
   },
   {
     "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "angst",
@@ -4325,12 +4480,10 @@
       "battle royale",
       "bisexual",
       "body sharing",
-      "boys' love",
       "comedy",
       "contemporary fantasy",
       "curse",
       "curses",
-      "cute boys doing cute things",
       "dark fantasy",
       "death game",
       "demon",
@@ -4339,40 +4492,49 @@
       "ensemble cast",
       "exorcism",
       "exorcists",
+      "factions",
       "fantasy",
-      "femboy",
       "gambling",
       "gore",
       "horror",
       "japan",
       "japanese production",
-      "lgbtq+ themes",
       "magic",
       "male protagonist",
       "martial arts",
       "monster",
       "monsters",
+      "mystery",
+      "nudity",
       "philosophy",
       "present",
+      "primarily male cast",
       "primarily teen cast",
+      "psychological",
       "rotoscoping",
       "school",
-      "school life",
       "sequel",
       "shounen",
+      "sorcery",
+      "spirits",
       "super power",
       "supernatural",
+      "superpowers",
+      "surreal comedy",
       "survival",
       "swordplay",
       "swords & co",
+      "thriller",
+      "tournament",
       "tragedy",
+      "transformations",
       "transgender",
       "urban",
       "urban fantasy",
       "violence"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1659/154920.jpg"
+    "picture": "https://myanimelist.net/images/anime/1659/154920.jpg"
   },
   {
     "title": "Kaidan Restaurant",
@@ -4416,7 +4578,7 @@
       "youkai"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/17905.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/17905.jpg"
   },
   {
     "title": "Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi",
@@ -4431,11 +4593,14 @@
       "alchemy",
       "alternative world",
       "animals",
+      "aristocracy",
       "aromantic",
+      "banishment",
       "based on a light novel",
       "cheats",
       "cohabitation",
       "comedy",
+      "conspiracy",
       "creature taming",
       "crime",
       "curses",
@@ -4450,14 +4615,18 @@
       "magic",
       "male protagonist",
       "medieval",
+      "misunderstandings",
       "nearly almighty protagonist",
       "novel",
       "overpowered main characters",
       "place",
+      "royalty",
       "rural",
+      "science fiction",
       "seinen",
       "shounen",
       "slapstick",
+      "sorcery",
       "speculative fiction",
       "super power",
       "swordplay",
@@ -4466,27 +4635,32 @@
       "work"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1743/148272.jpg"
+    "picture": "https://myanimelist.net/images/anime/1743/148272.jpg"
   },
   {
     "title": "Kaya-chan wa Kowakunai",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
+      "action",
       "anti-hero",
       "based on a manga",
       "body horror",
       "child protagonists",
+      "childcare",
       "comedy",
       "contemporary fantasy",
       "cosmic horror",
       "curses",
+      "drama",
+      "educational",
       "episodic",
       "exorcism",
       "fantasy",
       "female protagonist",
       "ghost",
+      "ghosts",
       "horror",
       "japanese production",
       "kindergarten",
@@ -4495,20 +4669,26 @@
       "pregnancy",
       "present",
       "primarily child cast",
+      "psychics",
+      "psychological",
+      "revenge",
       "school",
       "school life",
       "seinen",
       "slice of life",
+      "social stigma",
       "speculative fiction",
+      "spirits",
       "storytelling",
       "super power",
       "supernatural",
+      "superpowers",
       "urban fantasy",
       "violence",
       "work"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1194/153705.jpg"
+    "picture": "https://myanimelist.net/images/anime/1194/153705.jpg"
   },
   {
     "title": "Kekkon Yubiwa Monogatari II",
@@ -5015,6 +5195,7 @@
       "superpowers",
       "swordplay",
       "swords & co",
+      "taisho era",
       "taishou era",
       "taishou period",
       "teamwork",
@@ -5075,12 +5256,13 @@
       "superpowers",
       "swordplay",
       "swords & co",
+      "taisho era",
       "taishou era",
       "thriller",
       "tragedy"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1565/142711.jpg"
+    "picture": "https://myanimelist.net/images/anime/1565/142711.jpg"
   },
   {
     "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
@@ -5277,7 +5459,7 @@
       "weekly shounen jump"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1065/118763.jpg"
+    "picture": "https://myanimelist.net/images/anime/1065/118763.jpg"
   },
   {
     "title": "Kimetsu no Yaiba: Yuukaku-hen",
@@ -5450,7 +5632,7 @@
       "twins"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/2764.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/2764.jpg"
   },
   {
     "title": "Ling Qi 2",
@@ -5891,7 +6073,7 @@
       "travel"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1173/95167.jpg"
+    "picture": "https://myanimelist.net/images/anime/1173/95167.jpg"
   },
   {
     "title": "Made in Abyss Movie 2: Hourou Suru Tasogare",
@@ -6232,7 +6414,7 @@
       "yuri"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/54231.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/54231.jpg"
   },
   {
     "title": "Mayonaka no Occult Koumuin OVA",
@@ -6530,7 +6712,7 @@
   },
   {
     "title": "Mushen Ji",
-    "episodes": 73,
+    "episodes": 76,
     "type": "ONA",
     "status": "ONGOING",
     "tags": [
@@ -6562,7 +6744,7 @@
       "shounen"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1324/150012.jpg"
+    "picture": "https://myanimelist.net/images/anime/1324/150012.jpg"
   },
   {
     "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
@@ -6917,6 +7099,7 @@
       "countryside",
       "curses",
       "cute boys doing cute things",
+      "deity",
       "demon",
       "drama",
       "episodic",
@@ -7195,7 +7378,7 @@
       "swordplay"
     ],
     "year": 1990,
-    "picture": "https://cdn.myanimelist.net/images/anime/1139/154319.jpg"
+    "picture": "https://myanimelist.net/images/anime/1139/154319.jpg"
   },
   {
     "title": "Ragnarök The Animation",
@@ -7495,7 +7678,7 @@
       "antihero",
       "asia",
       "assassins",
-      "based on a web novel",
+      "based on a manga",
       "beastman",
       "calling your attacks",
       "character driven",
@@ -7818,7 +8001,7 @@
       "witch"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1988/142714.jpg"
+    "picture": "https://myanimelist.net/images/anime/1988/142714.jpg"
   },
   {
     "title": "Silent Möbius: The Motion Picture",
@@ -8017,7 +8200,7 @@
       "violent"
     ],
     "year": 2001,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/20969.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/20969.jpg"
   },
   {
     "title": "Sugar Sugar Rune",
@@ -8411,7 +8594,7 @@
       "swordplay"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/45953.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/45953.jpg"
   },
   {
     "title": "Tsubasa: Shunraiki",
@@ -8673,7 +8856,7 @@
       "witches"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1143/142439.jpg"
+    "picture": "https://myanimelist.net/images/anime/1143/142439.jpg"
   },
   {
     "title": "Unnamed Memory Act.2",
@@ -8792,7 +8975,7 @@
       "yuri"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1494/111515.jpg"
+    "picture": "https://myanimelist.net/images/anime/1494/111515.jpg"
   },
   {
     "title": "Uzumaki",
@@ -9159,6 +9342,30 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1811/146726.jpg"
   },
   {
+    "title": "Yami Shibai 16",
+    "episodes": 13,
+    "type": "TV",
+    "status": "ONGOING",
+    "tags": [
+      "avant garde",
+      "avant-garde",
+      "curses",
+      "episodic",
+      "ghost",
+      "ghost stories",
+      "horror",
+      "japanese production",
+      "original work",
+      "sequel",
+      "short episodes",
+      "skeleton",
+      "supernatural",
+      "urban legend"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1666/154215.jpg"
+  },
+  {
     "title": "Youkai Gakkou no Sensei Hajimemashita!",
     "episodes": 24,
     "type": "TV",
@@ -9235,6 +9442,6 @@
       "tragedy"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1229/142648.jpg"
+    "picture": "https://myanimelist.net/images/anime/1229/142648.jpg"
   }
 ]

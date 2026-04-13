@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Disability
-# Total de animes na categoria: 262
+# Total de animes na categoria: 267
 # Exemplos: "Omae Gotoki ga Maou ni Kateru to Omouna" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai, 1 Year, 18if, 3-gatsu no Lion 2nd Season, Action Heroine Cheer Fruits, Aggressive Retsuko (ONA) 5th Season, Akiba Meido Sensou, Alps no Shoujo Heidi, Alps no Shoujo Heidi: Heidi to Clara-hen, Amagi Brilliant Park
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Disability",Pluto TV Anime | Disability
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

@@ -452,7 +452,7 @@
       "unidentified flying object"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/23117.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/23117.jpg"
   },
   {
     "title": "Imouto sae Ireba Ii.",
@@ -726,7 +726,7 @@
       "yuri"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1655/111626.jpg"
+    "picture": "https://myanimelist.net/images/anime/1655/111626.jpg"
   },
   {
     "title": "Lupin III vs. Meitantei Conan: The Movie",
@@ -932,11 +932,11 @@
       "weekly shounen sunday"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/67807.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/67807.jpg"
   },
   {
     "title": "Meitantei Conan",
-    "episodes": 1193,
+    "episodes": 1195,
     "type": "TV",
     "status": "ONGOING",
     "tags": [
@@ -1052,7 +1052,7 @@
       "work"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/75199.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/75199.jpg"
   },
   {
     "title": "Meitantei Conan Movie 18: Ijigen no Sniper",
@@ -1098,7 +1098,7 @@
       "tomboy"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/60289.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/60289.jpg"
   },
   {
     "title": "Miss Monochrome The Animation 2",
@@ -1337,7 +1337,7 @@
       "tokyo skytree"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/60199.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/60199.jpg"
   },
   {
     "title": "Natsu-iro Kiseki",
@@ -2103,7 +2103,7 @@
       "zettai ryouiki"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/64587.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/64587.jpg"
   },
   {
     "title": "Tokyo Marble Chocolate",
@@ -2150,7 +2150,7 @@
       "winter"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/50455.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/50455.jpg"
   },
   {
     "title": "Wake Up, Girls!",
@@ -2197,6 +2197,7 @@
       "predominantly female cast",
       "present",
       "primarily female cast",
+      "primarily teen cast",
       "real-world location",
       "recycled animation -- to be split and deleted",
       "rivalry",
@@ -2215,7 +2216,7 @@
       "work"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/58971.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/58971.jpg"
   },
   {
     "title": "Wake Up, Girls! Shin Shou",
@@ -2382,6 +2383,6 @@
       "work life"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/58145.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/58145.jpg"
   }
 ]

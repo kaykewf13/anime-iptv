@@ -1,5 +1,29 @@
 [
   {
+    "title": "Animated Self Portraits: A Portrait of Kawamoto",
+    "episodes": 1,
+    "type": "MOVIE",
+    "status": "FINISHED",
+    "tags": [
+      "art",
+      "comedy",
+      "demon",
+      "demons",
+      "independent anime",
+      "japanese production",
+      "mythology",
+      "puppetmation",
+      "short movie",
+      "shorts",
+      "stop motion",
+      "stop motion animation",
+      "supernatural",
+      "visual arts"
+    ],
+    "year": 1988,
+    "picture": "https://myanimelist.net/images/anime/11/23821.jpg"
+  },
+  {
     "title": "Ari to Hato (1959)",
     "episodes": 1,
     "type": "MOVIE",
@@ -216,7 +240,7 @@
       "time"
     ],
     "year": 1988,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/17915.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/17915.jpg"
   },
   {
     "title": "Fushigi na Kusuri",
@@ -440,7 +464,7 @@
       "stop motion animation"
     ],
     "year": 1959,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/77376.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/77376.jpg"
   },
   {
     "title": "Junk Head 1",
@@ -499,7 +523,7 @@
       "time"
     ],
     "year": 1961,
-    "picture": "https://cdn.myanimelist.net/images/anime/1651/112762.jpg"
+    "picture": "https://myanimelist.net/images/anime/1651/112762.jpg"
   },
   {
     "title": "Kataku",
@@ -548,7 +572,7 @@
       "stop motion animation"
     ],
     "year": 1970,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/17203.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/17203.jpg"
   },
   {
     "title": "Kiekaketa Monogatari-tachi no Tame ni",
@@ -593,7 +617,7 @@
       "stop motion animation"
     ],
     "year": 1966,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/36693.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/36693.jpg"
   },
   {
     "title": "Konohana no Sakuya Mori",
@@ -742,7 +766,7 @@
       "stop motion animation"
     ],
     "year": 1966,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/58593.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/58593.jpg"
   },
   {
     "title": "Niji ni Mukatte",
@@ -951,30 +975,6 @@
     "picture": "https://cdn.myanimelist.net/images/anime/4/25824.jpg"
   },
   {
-    "title": "Self-Portrait",
-    "episodes": 1,
-    "type": "SPECIAL",
-    "status": "FINISHED",
-    "tags": [
-      "art",
-      "comedy",
-      "demon",
-      "demons",
-      "independent anime",
-      "japanese production",
-      "mythology",
-      "puppetmation",
-      "short movie",
-      "shorts",
-      "stop motion",
-      "stop motion animation",
-      "supernatural",
-      "visual arts"
-    ],
-    "year": 1988,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/23821.jpg"
-  },
-  {
     "title": "Shisha no Sho",
     "episodes": 1,
     "type": "MOVIE",
@@ -1021,6 +1021,7 @@
       "outer space",
       "puppetmation",
       "puppetry",
+      "real robot",
       "sci fi",
       "sci-fi",
       "science fiction",

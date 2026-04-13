@@ -70,7 +70,7 @@
       "writing"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1762/139690.jpg"
+    "picture": "https://myanimelist.net/images/anime/1762/139690.jpg"
   },
   {
     "title": "Africa no Salaryman (TV)",
@@ -137,7 +137,7 @@
       "workplace"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1937/102309.jpg"
+    "picture": "https://myanimelist.net/images/anime/1937/102309.jpg"
   },
   {
     "title": "Aggressive Retsuko",
@@ -313,7 +313,7 @@
       "workplace"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1739/101117.jpg"
+    "picture": "https://myanimelist.net/images/anime/1739/101117.jpg"
   },
   {
     "title": "AnimeCanvas Concept Movie",
@@ -322,10 +322,11 @@
     "status": "FINISHED",
     "tags": [
       "drawing",
+      "music",
       "office"
     ],
     "year": 2025,
-    "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187596-KLKb3ynAZYzh.png"
+    "picture": "https://media.kitsu.app/anime/50636/poster_image/small-dff20737cebd617f36df9b14b57b60c6.jpeg"
   },
   {
     "title": "Araiguma Calcal-dan",
@@ -681,16 +682,19 @@
     "title": "Ganglion",
     "episodes": 24,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "adult cast",
       "based on a manga",
       "comedy",
       "henshin",
+      "heterosexual",
       "japanese production",
+      "martial arts",
       "office",
       "parody",
+      "primarily adult cast",
       "satire",
       "short episodes",
       "superhero",
@@ -699,7 +703,7 @@
       "work"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1333/151768.jpg"
+    "picture": "https://myanimelist.net/images/anime/1333/151768.jpg"
   },
   {
     "title": "Glass no Kamen desu ga",
@@ -718,13 +722,13 @@
       "the arts"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/47215.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/47215.jpg"
   },
   {
     "title": "Goumon Baito-kun no Nichijou",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "adult cast",
       "assassins",
@@ -736,6 +740,7 @@
       "crossdressing",
       "cute boys doing cute things",
       "dark comedy",
+      "iyashikei",
       "japanese production",
       "lgbtq+ themes",
       "male protagonist",
@@ -751,7 +756,7 @@
       "workplace"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1721/153380.jpg"
+    "picture": "https://myanimelist.net/images/anime/1721/153380.jpg"
   },
   {
     "title": "Hataraki Man",
@@ -949,7 +954,7 @@
       "work"
     ],
     "year": 1987,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/41467.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/41467.jpg"
   },
   {
     "title": "Kekkon suru tte, Hontou desu ka",
@@ -999,7 +1004,7 @@
       "workplace"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1123/154179.jpg"
+    "picture": "https://myanimelist.net/images/anime/1123/154179.jpg"
   },
   {
     "title": "Koi Kaze",
@@ -1061,7 +1066,7 @@
       "work"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/61441.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/61441.jpg"
   },
   {
     "title": "Koi wa 1-nichi ni Shite Narazu",
@@ -1188,7 +1193,7 @@
       "yuki-onna"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1927/132758.jpg"
+    "picture": "https://myanimelist.net/images/anime/1927/132758.jpg"
   },
   {
     "title": "Kowloon Generic Romance",
@@ -1313,7 +1318,27 @@
       "secretary"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/50553.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/50553.jpg"
+  },
+  {
+    "title": "Mahoroba",
+    "episodes": 1,
+    "type": "MOVIE",
+    "status": "FINISHED",
+    "tags": [
+      "black and white",
+      "coastal",
+      "comedy",
+      "drama",
+      "male protagonist",
+      "office",
+      "pandemic",
+      "shorts",
+      "suicide",
+      "survival"
+    ],
+    "year": 2022,
+    "picture": "https://cdn.myanimelist.net/images/anime/1727/133906.jpg"
   },
   {
     "title": "Mechiku",
@@ -1415,7 +1440,7 @@
       "workplace"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/80417.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/80417.jpg"
   },
   {
     "title": "New Game!!",
@@ -1540,7 +1565,7 @@
       "work"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1614/153337.jpg"
+    "picture": "https://myanimelist.net/images/anime/1614/153337.jpg"
   },
   {
     "title": "Office Work",
@@ -1608,7 +1633,7 @@
       "working life"
     ],
     "year": 1988,
-    "picture": "https://cdn.myanimelist.net/images/anime/1681/109663.jpg"
+    "picture": "https://myanimelist.net/images/anime/1681/109663.jpg"
   },
   {
     "title": "Oishinbo Pilot",
@@ -1633,7 +1658,7 @@
       "work"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/1380/117921.jpg"
+    "picture": "https://myanimelist.net/images/anime/1380/117921.jpg"
   },
   {
     "title": "Oshi ga Buka ni Narimashita",
@@ -1648,6 +1673,7 @@
       "office",
       "office lady",
       "romance",
+      "short episodes",
       "slice of life",
       "workplace"
     ],
@@ -1703,7 +1729,7 @@
       "workplace"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1140/120215.jpg"
+    "picture": "https://myanimelist.net/images/anime/1140/120215.jpg"
   },
   {
     "title": "Senpai ga Uzai Kouhai no Hanashi",
@@ -1954,7 +1980,7 @@
       "visual novel"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/1610/95574.jpg"
+    "picture": "https://myanimelist.net/images/anime/1610/95574.jpg"
   },
   {
     "title": "Shirobako",
@@ -2035,7 +2061,7 @@
       "workplace"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/1460/141897.jpg"
+    "picture": "https://myanimelist.net/images/anime/1460/141897.jpg"
   },
   {
     "title": "Takunomi.",
@@ -2104,7 +2130,7 @@
       "working life"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1869/95731.jpg"
+    "picture": "https://myanimelist.net/images/anime/1869/95731.jpg"
   },
   {
     "title": "Tansu Warashi.",
@@ -2306,7 +2332,7 @@
       "workplace"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1984/136274.jpg"
+    "picture": "https://myanimelist.net/images/anime/1984/136274.jpg"
   },
   {
     "title": "Warau Salesman New",
@@ -2382,6 +2408,7 @@
       "ghost",
       "gods",
       "heroine of weak character",
+      "heterosexual",
       "love triangle",
       "mature romance",
       "nudity",
@@ -2394,11 +2421,13 @@
       "romantic comedy",
       "shapeshifting",
       "supernatural",
+      "time manipulation",
       "work",
-      "workplace"
+      "workplace",
+      "yandere"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1871/147084.jpg"
+    "picture": "https://myanimelist.net/images/anime/1871/147084.jpg"
   },
   {
     "title": "Wotaku ni Koi wa Muzukashii",

@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Thief
-# Total de animes na categoria: 109
+# Total de animes na categoria: 110
 # Exemplos: Baccano!, Cat's Eye, Cat's Eye (Music), Cat's♥Eye, Code:Realize - Sousei no Himegimi, Code:Realize - Sousei no Himegimi - Set a Thief to Catch a Thief, D.N.Angel, Doraemon Movie 12: Nobita no Dorabian Nights, Doraemon the Movie: Nobita in the Secret Gadgets Museum, Dungeon no Naka no Hito
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Thief",Pluto TV Anime | Thief
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

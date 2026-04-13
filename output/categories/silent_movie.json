@@ -166,7 +166,7 @@
       "war"
     ],
     "year": 1962,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/3159.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/3159.jpg"
   },
   {
     "title": "Baguda-jou no Touzoku",
@@ -363,7 +363,7 @@
       "silent movie"
     ],
     "year": 1979,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/72721.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/72721.jpg"
   },
   {
     "title": "Denshin Denrei Denwa",
@@ -559,7 +559,7 @@
       "swords & co"
     ],
     "year": 1934,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/60165.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/60165.jpg"
   },
   {
     "title": "Goichi Jiisan",
@@ -924,7 +924,7 @@
       "supernatural"
     ],
     "year": 1971,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/71337.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/71337.jpg"
   },
   {
     "title": "Kisha no Hattatsu",
@@ -999,7 +999,7 @@
       "youkai"
     ],
     "year": 1929,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/12518.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/12518.jpg"
   },
   {
     "title": "Kogane no Hana",
@@ -1092,7 +1092,7 @@
       "trains"
     ],
     "year": 1957,
-    "picture": "https://cdn.myanimelist.net/images/anime/1937/121362.jpg"
+    "picture": "https://myanimelist.net/images/anime/1990/156042.jpg"
   },
   {
     "title": "Koukou Eisei",
@@ -1905,7 +1905,7 @@
       "silent movie"
     ],
     "year": 1926,
-    "picture": "https://cdn.myanimelist.net/images/anime/1915/151541.jpg"
+    "picture": "https://myanimelist.net/images/anime/1915/151541.jpg"
   },
   {
     "title": "Senga Tsubo",
@@ -2268,6 +2268,20 @@
     "picture": "https://cdn.myanimelist.net/images/anime/9/85234.jpg"
   },
   {
+    "title": "Ura Kissa",
+    "episodes": 1,
+    "type": "ONA",
+    "status": "FINISHED",
+    "tags": [
+      "cg-anime",
+      "independent anime",
+      "present",
+      "silent movie"
+    ],
+    "year": 2026,
+    "picture": "https://cdn.anisearch.com/images/anime/cover/21/21348_600.webp"
+  },
+  {
     "title": "Urashima Tarou (1931)",
     "episodes": 1,
     "type": "MOVIE",
@@ -2365,6 +2379,21 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1617/103183.jpg"
   },
   {
+    "title": "Vidro",
+    "episodes": 1,
+    "type": "ONA",
+    "status": "FINISHED",
+    "tags": [
+      "cg-anime",
+      "independent anime",
+      "robots & android",
+      "science-fiction",
+      "silent movie"
+    ],
+    "year": 2026,
+    "picture": "https://cdn.anisearch.com/images/anime/cover/21/21347_600.webp"
+  },
+  {
     "title": "Wengzhong Zhuobie",
     "episodes": 1,
     "type": "MOVIE",
@@ -2380,7 +2409,7 @@
       "silent movie"
     ],
     "year": 1948,
-    "picture": "https://cdn.myanimelist.net/images/anime/1136/118110.jpg"
+    "picture": "https://myanimelist.net/images/anime/1136/118110.jpg"
   },
   {
     "title": "Yoshichirou no Keirei",

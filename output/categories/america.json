@@ -256,7 +256,7 @@
       "world masterpiece theater"
     ],
     "year": 1986,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/71674.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/71674.jpg"
   },
   {
     "title": "Ame-iro Cocoa in Hawaii",
@@ -330,7 +330,7 @@
       "workplace"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/1165/111716.jpg"
+    "picture": "https://myanimelist.net/images/anime/1165/111716.jpg"
   },
   {
     "title": "Anime-ban Little★Nicky: Henachoko Akuma Nicky no NY Taikenki",
@@ -344,7 +344,7 @@
       "short episodes"
     ],
     "year": 2001,
-    "picture": "https://cdn.myanimelist.net/images/anime/1375/93755.jpg"
+    "picture": "https://myanimelist.net/images/anime/1375/93755.jpg"
   },
   {
     "title": "Appare-Ranman!",
@@ -512,7 +512,7 @@
       "violence"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/1519/148684.jpg"
+    "picture": "https://myanimelist.net/images/anime/1519/148684.jpg"
   },
   {
     "title": "Araiguma Rascal",
@@ -566,7 +566,7 @@
       "slice of life"
     ],
     "year": 2000,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/64149.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/64149.jpg"
   },
   {
     "title": "Arano no Sakebi Koe: Hoero, Buck",
@@ -609,7 +609,7 @@
       "shorts"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1990/98312.jpg"
+    "picture": "https://myanimelist.net/images/anime/1990/98312.jpg"
   },
   {
     "title": "Ashinaga Ojisan",
@@ -875,7 +875,7 @@
       "yaoi"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1190/93472.jpg"
+    "picture": "https://myanimelist.net/images/anime/1190/93472.jpg"
   },
   {
     "title": "Biohazard: Vendetta",
@@ -1415,7 +1415,7 @@
       "violent retribution for accidental infringement"
     ],
     "year": 1989,
-    "picture": "https://cdn.myanimelist.net/images/anime/1367/107825.jpg"
+    "picture": "https://myanimelist.net/images/anime/1367/107825.jpg"
   },
   {
     "title": "Cop Craft",
@@ -1493,6 +1493,7 @@
       "science and magic coexist",
       "science fiction",
       "science-fiction",
+      "seinen",
       "sex",
       "sexual abuse",
       "sexual humour",
@@ -1516,9 +1517,9 @@
   },
   {
     "title": "Darwin Jihen",
-    "episodes": 10,
+    "episodes": 13,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "adoption",
@@ -1526,12 +1527,15 @@
       "animals",
       "anthropomorphism",
       "based on a manga",
+      "cgi",
       "coming of age",
       "criminal organization",
       "drama",
       "eco-horror",
       "environmental",
+      "gore",
       "guns",
+      "heterosexual",
       "japanese production",
       "male protagonist",
       "non-human protagonists",
@@ -1550,7 +1554,7 @@
       "thriller"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1341/152829.jpg"
+    "picture": "https://myanimelist.net/images/anime/1341/152829.jpg"
   },
   {
     "title": "Di Gi Charat Natsuyasumi Special",
@@ -1605,8 +1609,11 @@
       "comedy",
       "coming of age",
       "contemporary fantasy",
+      "cosmic horror",
+      "denpa",
       "drama",
       "earth",
+      "ensemble cast",
       "family friendly",
       "fantasy",
       "fate",
@@ -1633,6 +1640,8 @@
       "speculative fiction",
       "time",
       "tragedy",
+      "travel",
+      "urban fantasy",
       "virtual world"
     ],
     "year": 2000,
@@ -1695,7 +1704,7 @@
       "war"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1403/146479.jpg"
+    "picture": "https://myanimelist.net/images/anime/1403/146479.jpg"
   },
   {
     "title": "Early Reins",
@@ -1784,12 +1793,13 @@
     "title": "Fate/strange Fake",
     "episodes": 13,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "adventure",
       "america",
       "anachronism",
+      "animals",
       "archery",
       "assassins",
       "based on a light novel",
@@ -1798,38 +1808,71 @@
       "chimera",
       "conspiracy",
       "contemporary fantasy",
+      "curses",
       "cyborg",
+      "dark fantasy",
       "death game",
+      "demons",
+      "desert",
       "dissociative identities",
+      "drama",
       "ensemble cast",
+      "factions",
       "fantasy",
+      "fighting",
       "foreign",
       "gambling",
       "gender bending",
       "gods",
+      "gore",
+      "government",
       "guns",
+      "homunculi",
+      "idealism",
       "japanese production",
+      "knights",
+      "legendary warriors",
       "lgbtq+ themes",
       "magic",
+      "magical items",
+      "medieval",
+      "memory manipulation",
+      "military",
+      "monsters",
+      "moral dilemma",
       "mystery",
       "mythology",
+      "necromancy",
       "nun",
       "police",
       "proxy battles",
+      "psychological",
       "religion",
+      "religious sect",
+      "secret organization",
+      "shapeshifting",
+      "skeleton",
+      "sorcery",
+      "spirits",
       "supernatural",
       "superpowers",
+      "survival game",
       "swordplay",
       "terrorism",
-      "transgender",
+      "thriller",
+      "tournament",
+      "tragedy",
+      "trauma",
       "united states",
       "urban",
       "urban fantasy",
       "vampire",
-      "war"
+      "vampires",
+      "war",
+      "werewolf"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1752/150192.jpg"
+    "picture": "https://myanimelist.net/images/anime/1752/150192.jpg"
   },
   {
     "title": "Fate/strange Fake: Whispers of Dawn",
@@ -1879,6 +1922,7 @@
       "shapeshifting",
       "sorcery",
       "spirits",
+      "super power",
       "supernatural",
       "superpowers",
       "survival game",
@@ -1948,7 +1992,7 @@
       "united states"
     ],
     "year": 1984,
-    "picture": "https://cdn.myanimelist.net/images/anime/1784/97034.jpg"
+    "picture": "https://myanimelist.net/images/anime/1784/97034.jpg"
   },
   {
     "title": "Ginga Hyouryuu Vifam: Chicago Super Police 13",
@@ -1965,7 +2009,7 @@
       "police"
     ],
     "year": 1985,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/38829.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/38829.jpg"
   },
   {
     "title": "Gun Frontier",
@@ -2154,7 +2198,7 @@
       "wolves"
     ],
     "year": 1990,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/29878.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/29878.jpg"
   },
   {
     "title": "Heroman",
@@ -2511,7 +2555,7 @@
       "weekly shounen jump"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1896/119844.jpg"
+    "picture": "https://myanimelist.net/images/anime/1896/119844.jpg"
   },
   {
     "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2",
@@ -2615,7 +2659,7 @@
       "weekly shounen jump"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1233/128920.jpg"
+    "picture": "https://myanimelist.net/images/anime/1233/128920.jpg"
   },
   {
     "title": "Kaleido Star",
@@ -2689,7 +2733,7 @@
       "work life"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/1230/98847.jpg"
+    "picture": "https://myanimelist.net/images/anime/1230/98847.jpg"
   },
   {
     "title": "Kaleido Star: Aratanaru Tsubasa - Extra Stage",
@@ -2732,7 +2776,7 @@
       "urban fantasy"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/23761.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/23761.jpg"
   },
   {
     "title": "Kaleido Star: Good da yo! Goood!!",
@@ -2754,6 +2798,7 @@
       "full cgi",
       "gymnastics",
       "japanese production",
+      "musical theater",
       "off-model animation",
       "original work",
       "parody",
@@ -2766,7 +2811,7 @@
       "verbal comedy"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/23765.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/23765.jpg"
   },
   {
     "title": "Kaleido Star: Legend of Phoenix - Layla Hamilton Monogatari",
@@ -3308,7 +3353,7 @@
       "united states"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/27604.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/27604.jpg"
   },
   {
     "title": "Major S6",
@@ -3316,6 +3361,7 @@
     "type": "TV",
     "status": "FINISHED",
     "tags": [
+      "adoption",
       "ambitious",
       "america",
       "americas",
@@ -3329,13 +3375,17 @@
       "foreign",
       "ganbatte",
       "hard work and guts",
+      "heterosexual",
       "japanese production",
       "male protagonist",
       "manga",
       "place",
       "plot continuity",
       "present",
+      "primarily adult cast",
+      "primarily male cast",
       "prodigy",
+      "rehabilitation",
       "rivalry",
       "romance",
       "shounen",
@@ -3388,7 +3438,7 @@
       "whale"
     ],
     "year": 1991,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/61777.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/61777.jpg"
   },
   {
     "title": "Miami Guns",
@@ -3590,7 +3640,7 @@
       "war"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/44462.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/44462.jpg"
   },
   {
     "title": "Muv-Luv Alternative: Total Eclipse Recap - Climax Chokuzen Special",
@@ -3611,7 +3661,7 @@
       "science fiction"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/44133.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/44133.jpg"
   },
   {
     "title": "Neo Yokio",
@@ -3675,7 +3725,7 @@
       "shorts"
     ],
     "year": 1970,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/72722.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/72722.jpg"
   },
   {
     "title": "Ninja Kamui",
@@ -3887,7 +3937,7 @@
       "wakate animator ikusei project"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1190/106238.jpg"
+    "picture": "https://myanimelist.net/images/anime/1190/106238.jpg"
   },
   {
     "title": "Red Garden",
@@ -4347,7 +4397,7 @@
       "wolves"
     ],
     "year": 1982,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/81828.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/81828.jpg"
   },
   {
     "title": "Sougen no Shoujo Laura",
@@ -4376,7 +4426,7 @@
       "slice of life"
     ],
     "year": 1975,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/44648.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/44648.jpg"
   },
   {
     "title": "Soutenzenshiki",
@@ -4393,6 +4443,73 @@
     ],
     "year": 2019,
     "picture": "https://cdn.anime-planet.com/anime/primary/soutenzenshiki-1.webp"
+  },
+  {
+    "title": "Steel Ball Run: JoJo no Kimyou na Bouken",
+    "episodes": 12,
+    "type": "ONA",
+    "status": "ONGOING",
+    "tags": [
+      "19th century",
+      "action",
+      "adventure",
+      "alternate universe",
+      "america",
+      "angels",
+      "based on a manga",
+      "coastal",
+      "coming of age",
+      "conspiracy",
+      "cowboys",
+      "desert",
+      "dinosaurs",
+      "disability",
+      "drama",
+      "epic fantasy",
+      "excessive violence",
+      "fantasy",
+      "foreign",
+      "ganbatte",
+      "gods",
+      "gore",
+      "gunfights",
+      "hero of strong character",
+      "heterosexual",
+      "historical",
+      "horror",
+      "indigenous cultures",
+      "male protagonist",
+      "manga",
+      "mystery",
+      "nun",
+      "only on netflix",
+      "philosophy",
+      "politics",
+      "pregnancy",
+      "primarily adult cast",
+      "primarily male cast",
+      "psi-powers",
+      "racing",
+      "rehabilitation",
+      "religion",
+      "seinen",
+      "shounen",
+      "splatter",
+      "struggle to survive",
+      "super power",
+      "supernatural",
+      "supernatural drama",
+      "thriller",
+      "time manipulation",
+      "torture",
+      "tragedy",
+      "trains",
+      "travel",
+      "united states",
+      "wilderness"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1448/154111.jpg"
   },
   {
     "title": "Steins;Gate: Oukoubakko no Poriomania",
@@ -4610,7 +4727,7 @@
       "world masterpiece theater"
     ],
     "year": 2001,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/64129.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/64129.jpg"
   },
   {
     "title": "Touch: Cross Road - Kaze no Yukue",
@@ -4665,7 +4782,7 @@
       "slice of life drama"
     ],
     "year": 1980,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/60945.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/60945.jpg"
   },
   {
     "title": "Wakakusa no Yon Shimai",
@@ -4857,6 +4974,6 @@
       "war"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1872/140863.jpg"
+    "picture": "https://myanimelist.net/images/anime/1872/140863.jpg"
   }
 ]

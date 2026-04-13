@@ -3,11 +3,12 @@
     "title": "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "action drama",
       "adventure",
+      "age gap",
       "alternative world",
       "based on a light novel",
       "betrayal",
@@ -24,6 +25,7 @@
       "fantasy",
       "female protagonist",
       "foreign",
+      "found family",
       "game elements",
       "girls love",
       "girls' love",
@@ -37,6 +39,7 @@
       "master-servant relationship",
       "medieval",
       "monsters",
+      "post-apocalyptic",
       "prophecy",
       "religion",
       "revenge",
@@ -44,16 +47,18 @@
       "slavery",
       "slice of life",
       "sorcery",
+      "spearplay",
       "superpowers",
       "swordplay",
       "swords & co",
+      "tragedy",
       "werewolf",
       "witch",
       "yuri",
       "zombie"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1360/153435.jpg"
+    "picture": "https://myanimelist.net/images/anime/1360/153435.jpg"
   },
   {
     "title": "Akazukin Chacha",
@@ -239,7 +244,7 @@
       "world domination"
     ],
     "year": 1992,
-    "picture": "https://cdn.myanimelist.net/images/anime/1419/99205.jpg"
+    "picture": "https://myanimelist.net/images/anime/1419/99205.jpg"
   },
   {
     "title": "Blood Lad",
@@ -539,7 +544,7 @@
       "yakuza"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/73934.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/73934.jpg"
   },
   {
     "title": "Cybersix",
@@ -756,14 +761,17 @@
     "title": "Dark Moon: Tsuki no Saidan",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "based on a webtoon",
       "bishounen",
+      "comedy",
       "crunchyroll co-production",
+      "drama",
       "ensemble cast",
       "fantasy",
       "female protagonist",
+      "gore",
       "idol",
       "interspecies relationship",
       "japanese production",
@@ -772,15 +780,18 @@
       "non-human protagonists",
       "orphans",
       "primarily male cast",
+      "reincarnation",
       "reverse harem",
       "romance",
       "school",
       "school life",
       "shoujo",
+      "social stigma",
       "speculative fiction",
       "super power",
       "supernatural",
       "superpowers",
+      "time manipulation",
       "transfer students",
       "undead",
       "vampire",
@@ -789,7 +800,7 @@
       "werewolves"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1559/154695.jpg"
+    "picture": "https://myanimelist.net/images/anime/1559/154695.jpg"
   },
   {
     "title": "Demashita! Powerpuff Girls Z",
@@ -914,7 +925,7 @@
       "werewolf"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1754/144383.jpg"
+    "picture": "https://myanimelist.net/images/anime/1754/144383.jpg"
   },
   {
     "title": "Dragon Crisis!",
@@ -1010,7 +1021,7 @@
       "werewolf"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1800/132226.jpg"
+    "picture": "https://myanimelist.net/images/anime/1800/132226.jpg"
   },
   {
     "title": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 3",
@@ -1044,6 +1055,91 @@
     ],
     "year": 2025,
     "picture": "https://cdn.myanimelist.net/images/anime/1363/151262.jpg"
+  },
+  {
+    "title": "Fate/strange Fake",
+    "episodes": 13,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "action",
+      "adventure",
+      "america",
+      "anachronism",
+      "animals",
+      "archery",
+      "assassins",
+      "based on a light novel",
+      "battle royale",
+      "body swapping",
+      "chimera",
+      "conspiracy",
+      "contemporary fantasy",
+      "curses",
+      "cyborg",
+      "dark fantasy",
+      "death game",
+      "demons",
+      "desert",
+      "dissociative identities",
+      "drama",
+      "ensemble cast",
+      "factions",
+      "fantasy",
+      "fighting",
+      "foreign",
+      "gambling",
+      "gender bending",
+      "gods",
+      "gore",
+      "government",
+      "guns",
+      "homunculi",
+      "idealism",
+      "japanese production",
+      "knights",
+      "legendary warriors",
+      "lgbtq+ themes",
+      "magic",
+      "magical items",
+      "medieval",
+      "memory manipulation",
+      "military",
+      "monsters",
+      "moral dilemma",
+      "mystery",
+      "mythology",
+      "necromancy",
+      "nun",
+      "police",
+      "proxy battles",
+      "psychological",
+      "religion",
+      "religious sect",
+      "secret organization",
+      "shapeshifting",
+      "skeleton",
+      "sorcery",
+      "spirits",
+      "supernatural",
+      "superpowers",
+      "survival game",
+      "swordplay",
+      "terrorism",
+      "thriller",
+      "tournament",
+      "tragedy",
+      "trauma",
+      "united states",
+      "urban",
+      "urban fantasy",
+      "vampire",
+      "vampires",
+      "war",
+      "werewolf"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1752/150192.jpg"
   },
   {
     "title": "Fei Ren Zai",
@@ -1829,14 +1925,19 @@
       "action",
       "alcohol",
       "alternative world",
+      "aristocracy",
+      "banishment",
       "based on a light novel",
       "betrayal",
       "class struggle",
       "collateral damage",
       "comedy",
       "crime",
+      "demi-humans",
+      "drama",
       "dystopian",
       "elf",
+      "elves",
       "fantasy",
       "female harem",
       "friendship",
@@ -1858,13 +1959,17 @@
       "monster",
       "monster girl",
       "nekomimi",
+      "redemption",
       "revenge",
       "rivalry",
       "romance",
+      "royalty",
       "slavery",
       "small breasts",
+      "sorcery",
       "speculative fiction",
       "spellcasting",
+      "spirits",
       "stoic hero",
       "sudden naked girl appearance",
       "swords & co",
@@ -1927,6 +2032,7 @@
       "based on a light novel",
       "comedy",
       "contemporary fantasy",
+      "cute girls doing cute things",
       "demi-humans",
       "dissociative identities",
       "drama",
@@ -1958,7 +2064,7 @@
       "workplace"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1387/154934.jpg"
+    "picture": "https://myanimelist.net/images/anime/1387/154934.jpg"
   },
   {
     "title": "Jitsu wa Watashi wa",
@@ -2016,7 +2122,7 @@
       "youkai"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/74042.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/74042.jpg"
   },
   {
     "title": "Kaibutsu Oujo",
@@ -2185,7 +2291,7 @@
       "werewolf"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/27643.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/27643.jpg"
   },
   {
     "title": "Kaibutsu-kun",
@@ -2212,7 +2318,7 @@
       "werewolf"
     ],
     "year": 1968,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/79850.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/79850.jpg"
   },
   {
     "title": "Kaibutsu-kun (1980)",
@@ -2265,7 +2371,7 @@
       "werewolf"
     ],
     "year": 1982,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/59587.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/59587.jpg"
   },
   {
     "title": "Katsute Kami Datta Kemono-tachi e",
@@ -2566,7 +2672,7 @@
       "witch"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1517/148292.jpg"
+    "picture": "https://myanimelist.net/images/anime/1517/148292.jpg"
   },
   {
     "title": "Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note",
@@ -2582,6 +2688,7 @@
       "contemporary fantasy",
       "crime fiction",
       "death",
+      "desert",
       "detective",
       "dialogue driven",
       "drama",
@@ -2596,11 +2703,14 @@
       "following one's dream",
       "foreign",
       "ghost",
+      "guns",
       "japanese production",
       "london",
       "magic",
       "magic school",
+      "maids",
       "male protagonist",
+      "motorcycles",
       "murder",
       "mutilation",
       "mystery",
@@ -2638,7 +2748,7 @@
       "werewolf"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1107/111530.jpg"
+    "picture": "https://myanimelist.net/images/anime/1107/111530.jpg"
   },
   {
     "title": "Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi",
@@ -2926,7 +3036,7 @@
       "witch"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1801/138944.jpg"
+    "picture": "https://myanimelist.net/images/anime/1576/153341.jpg"
   },
   {
     "title": "Monster High: Kowa-ike Girls",
@@ -2965,7 +3075,7 @@
       "zombies"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/68521.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/68521.jpg"
   },
   {
     "title": "MÄR",
@@ -3017,7 +3127,7 @@
       "zombie"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/38383.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/38383.jpg"
   },
   {
     "title": "Noblesse",
@@ -3248,7 +3358,7 @@
       "wolves"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/21784.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/21784.jpg"
   },
   {
     "title": "Overlord: Ple Ple Pleiades 4",
@@ -3335,7 +3445,7 @@
       "youkai"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1156/93567.jpg"
+    "picture": "https://myanimelist.net/images/anime/1156/93567.jpg"
   },
   {
     "title": "Renkin San-kyuu Magical? Pokaan",
@@ -3467,7 +3577,7 @@
       "witch"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/74299.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/74299.jpg"
   },
   {
     "title": "Sengoku Night Blood",
@@ -3809,10 +3919,11 @@
       "sequel",
       "speculative fiction",
       "the arts",
-      "werewolf"
+      "werewolf",
+      "yuri"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1713/106712.jpg"
+    "picture": "https://myanimelist.net/images/anime/1713/106712.jpg"
   },
   {
     "title": "Sirius",
@@ -3842,8 +3953,8 @@
       "martial arts",
       "military",
       "monster",
-      "netflix original",
       "new",
+      "only on netflix",
       "original work",
       "past",
       "place",
@@ -3868,7 +3979,7 @@
       "werewolves"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1456/94897.jpg"
+    "picture": "https://myanimelist.net/images/anime/1456/94897.jpg"
   },
   {
     "title": "Smile Precure!",
@@ -4204,7 +4315,7 @@
       "yakuza"
     ],
     "year": 1982,
-    "picture": "https://cdn.myanimelist.net/images/anime/1272/104468.jpg"
+    "picture": "https://myanimelist.net/images/anime/1272/104468.jpg"
   },
   {
     "title": "Tooboe",
@@ -4321,7 +4432,7 @@
       "youkai"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1946/136661.jpg"
+    "picture": "https://myanimelist.net/images/anime/1946/136661.jpg"
   },
   {
     "title": "Urusei Yatsura OVA",
@@ -4747,7 +4858,7 @@
       "winter"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1854/106930.jpg"
+    "picture": "https://myanimelist.net/images/anime/1854/106930.jpg"
   },
   {
     "title": "Wan Sheng Jie 2",
@@ -4822,7 +4933,7 @@
       "zombie"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1040/112897.jpg"
+    "picture": "https://myanimelist.net/images/anime/1040/112897.jpg"
   },
   {
     "title": "Wan Sheng Jie 3",
@@ -4946,7 +5057,7 @@
       "zombie"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1567/137044.jpg"
+    "picture": "https://myanimelist.net/images/anime/1567/137044.jpg"
   },
   {
     "title": "Witch Watch",
@@ -5024,7 +5135,7 @@
       "youkai"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1526/150689.jpg"
+    "picture": "https://myanimelist.net/images/anime/1526/150689.jpg"
   },
   {
     "title": "Wolf Guy",
@@ -5213,6 +5324,6 @@
       "werewolf"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1523/101986.jpg"
+    "picture": "https://myanimelist.net/images/anime/1523/101986.jpg"
   }
 ]

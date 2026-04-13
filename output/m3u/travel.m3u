@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Travel
-# Total de animes na categoria: 469
+# Total de animes na categoria: 478
 # Exemplos: 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii, 86, ACCA: 13-ku Kansatsu-ka, Afro Samurai, Afro Samurai: Resurrection, Ai no Wakakusa Monogatari, Akatsuki no Yona, Allison to Lillia, Anata no France wa Donna Tokoro?, Animation Kikou: Marco Polo no Bouken
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Travel",Pluto TV Anime | Travel
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

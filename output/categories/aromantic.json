@@ -55,7 +55,7 @@
     "title": "Fumetsu no Anata e Season 3",
     "episodes": 22,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "adventure",
@@ -101,13 +101,13 @@
       "yuri"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1140/152364.jpg"
+    "picture": "https://myanimelist.net/images/anime/1140/152364.jpg"
   },
   {
     "title": "Gnosia",
     "episodes": 21,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "achromatic",
       "agender",
@@ -124,12 +124,15 @@
       "clone",
       "cosmic horror",
       "death game",
+      "detective",
       "drama",
       "ensemble cast",
+      "fan service",
       "game",
       "gender bending",
       "ghost",
       "gods",
+      "gyaru",
       "heterosexual",
       "japanese production",
       "lgbtq+ themes",
@@ -149,14 +152,16 @@
       "struggle to survive",
       "suicide",
       "survival",
+      "survival game",
       "suspense",
+      "technology",
       "thriller",
       "time loop",
       "time travel",
       "visual novel"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1257/152352.jpg"
+    "picture": "https://myanimelist.net/images/anime/1257/152352.jpg"
   },
   {
     "title": "Hananoi-kun to Koi no Yamai",
@@ -193,7 +198,7 @@
       "yandere"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1646/141411.jpg"
+    "picture": "https://myanimelist.net/images/anime/1646/141411.jpg"
   },
   {
     "title": "Hikaru ga Shinda Natsu",
@@ -340,11 +345,14 @@
       "alchemy",
       "alternative world",
       "animals",
+      "aristocracy",
       "aromantic",
+      "banishment",
       "based on a light novel",
       "cheats",
       "cohabitation",
       "comedy",
+      "conspiracy",
       "creature taming",
       "crime",
       "curses",
@@ -359,14 +367,18 @@
       "magic",
       "male protagonist",
       "medieval",
+      "misunderstandings",
       "nearly almighty protagonist",
       "novel",
       "overpowered main characters",
       "place",
+      "royalty",
       "rural",
+      "science fiction",
       "seinen",
       "shounen",
       "slapstick",
+      "sorcery",
       "speculative fiction",
       "super power",
       "swordplay",
@@ -375,7 +387,7 @@
       "work"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1743/148272.jpg"
+    "picture": "https://myanimelist.net/images/anime/1743/148272.jpg"
   },
   {
     "title": "Kusuriya no Hitorigoto",
@@ -934,6 +946,7 @@
       "henshin",
       "hero of strong character",
       "human enhancement",
+      "indigenous cultures",
       "japanese production",
       "journey",
       "kabuki",
@@ -1021,7 +1034,7 @@
       "zombie"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg"
+    "picture": "https://myanimelist.net/images/anime/1244/138851.jpg"
   },
   {
     "title": "Ore Monogatari!!",
@@ -1088,7 +1101,7 @@
       "unrequited love"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/69455.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/69455.jpg"
   },
   {
     "title": "Panty & Stocking with Garterbelt",
@@ -1220,12 +1233,13 @@
   },
   {
     "title": "Princession Orchestra",
-    "episodes": 45,
+    "episodes": 48,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "acting",
       "action",
+      "amnesia",
       "aromantic",
       "cosplay",
       "crossdressing",
@@ -1263,7 +1277,7 @@
       "yuri"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1405/152146.jpg"
+    "picture": "https://myanimelist.net/images/anime/1405/152146.jpg"
   },
   {
     "title": "Romantic Killer",
@@ -1621,10 +1635,12 @@
       "ensemble cast",
       "fake relationship",
       "female protagonist",
+      "femdom",
       "food",
       "genius",
       "high school",
       "japanese production",
+      "male protagonist",
       "mixed media",
       "mystery",
       "present",
@@ -1659,7 +1675,9 @@
       "anachronisms",
       "aristocracy",
       "aromantic",
+      "asexual",
       "autumn",
+      "award winning",
       "based on a manga",
       "boy meets girl",
       "calling your attacks",
@@ -1718,6 +1736,7 @@
       "kuudere",
       "large breasts",
       "large-scale war",
+      "lgbtq+ themes",
       "long time span",
       "magic",
       "magic circles",
@@ -1782,53 +1801,87 @@
       "winter"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg"
+    "picture": "https://myanimelist.net/images/anime/1015/138006.jpg"
   },
   {
     "title": "Sousou no Frieren 2nd Season",
     "episodes": 10,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "adventure",
+      "alcohol",
+      "anachronisms",
       "aromantic",
       "asexual",
       "based on a manga",
+      "calling your attacks",
+      "coastal",
       "comedy",
       "death of a loved one",
+      "demons",
       "dragons",
       "drama",
+      "eating of humans",
+      "economics",
       "elf",
       "elves",
-      "episodic",
       "fantasy",
       "female protagonist",
       "fictional location",
       "fishing",
+      "flying",
       "found family",
-      "heterosexual",
+      "funny expressions",
+      "helpful",
       "high fantasy",
       "historical",
       "iyashikei",
       "japanese production",
+      "jealousy",
+      "journey",
+      "long time span",
       "magic",
+      "magic circles",
       "manga",
       "medieval",
+      "medieval european aesthetic",
+      "medium breasts",
       "middle ages",
+      "mutilation",
       "non-human protagonists",
       "philosophy",
       "place",
+      "running gag",
+      "rural",
+      "season",
       "sequel",
       "shounen",
       "slice of life",
+      "slow-paced",
+      "small breasts",
+      "snowscape",
       "speculative fiction",
+      "spellcasting",
+      "strong female lead",
       "swordplay",
       "swords & co",
+      "teamwork",
+      "the effects of time and distance on human relationships",
+      "time",
       "time skip",
-      "travel"
+      "tragedy",
+      "travel",
+      "tropes",
+      "urban",
+      "violence",
+      "visible aura",
+      "warrior",
+      "wilderness",
+      "winter"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1921/154528.jpg"
+    "picture": "https://myanimelist.net/images/anime/1921/154528.jpg"
   },
   {
     "title": "Watashi no Yuri wa Oshigoto desu!",
@@ -2078,7 +2131,7 @@
       "verbal comedy"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1509/148453.jpg"
+    "picture": "https://myanimelist.net/images/anime/1509/148453.jpg"
   },
   {
     "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",

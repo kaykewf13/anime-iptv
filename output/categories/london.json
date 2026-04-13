@@ -66,7 +66,7 @@
       "work"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1300/133792.jpg"
+    "picture": "https://myanimelist.net/images/anime/1300/133792.jpg"
   },
   {
     "title": "Burn the Witch",
@@ -135,7 +135,7 @@
       "work"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1993/108967.jpg"
+    "picture": "https://myanimelist.net/images/anime/1993/108967.jpg"
   },
   {
     "title": "Burn the Witch #0.8",
@@ -706,7 +706,7 @@
       "yakuza"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/19570.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/19570.jpg"
   },
   {
     "title": "Doolie Baenang-Yeohaeng",
@@ -769,7 +769,7 @@
       "united kingdom"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/80217.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/80217.jpg"
   },
   {
     "title": "Fate/Apocrypha",
@@ -979,7 +979,7 @@
       "war"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/77289.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/77289.jpg"
   },
   {
     "title": "Great Pretender",
@@ -1077,7 +1077,7 @@
       "work"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1418/107954.jpg"
+    "picture": "https://myanimelist.net/images/anime/1418/107954.jpg"
   },
   {
     "title": "Hello!! Kiniro Mosaic",
@@ -1488,6 +1488,7 @@
     "type": "TV",
     "status": "FINISHED",
     "tags": [
+      "19th century",
       "action",
       "adventure",
       "americas",
@@ -1511,6 +1512,7 @@
       "death",
       "drama",
       "earth",
+      "england",
       "engrish",
       "epic fantasy",
       "europe",
@@ -1705,7 +1707,7 @@
       "world wars"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/77523.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/77523.jpg"
   },
   {
     "title": "K-On! Movie",
@@ -1776,7 +1778,7 @@
       "yuri"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/76233.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/76233.jpg"
   },
   {
     "title": "Kiniro Mosaic",
@@ -1850,7 +1852,7 @@
       "winter"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/1793/117610.jpg"
+    "picture": "https://myanimelist.net/images/anime/1793/117610.jpg"
   },
   {
     "title": "Kinnikuman: Kessen! Shichinin no Choujin tai Uchuu Nobushi",
@@ -1925,7 +1927,6 @@
       "award winning",
       "based on a manga",
       "bionic powers",
-      "bisexual",
       "body swapping",
       "car chases",
       "cgi",
@@ -2142,7 +2143,7 @@
       "violence"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/1467/137783.jpg"
+    "picture": "https://myanimelist.net/images/anime/1467/137783.jpg"
   },
   {
     "title": "Layton Mystery Tanteisha: Katri no Nazotoki File",
@@ -2200,6 +2201,7 @@
       "contemporary fantasy",
       "crime fiction",
       "death",
+      "desert",
       "detective",
       "dialogue driven",
       "drama",
@@ -2214,11 +2216,14 @@
       "following one's dream",
       "foreign",
       "ghost",
+      "guns",
       "japanese production",
       "london",
       "magic",
       "magic school",
+      "maids",
       "male protagonist",
+      "motorcycles",
       "murder",
       "mutilation",
       "mystery",
@@ -2256,7 +2261,7 @@
       "werewolf"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1107/111530.jpg"
+    "picture": "https://myanimelist.net/images/anime/1107/111530.jpg"
   },
   {
     "title": "Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi",
@@ -2610,7 +2615,7 @@
       "violence"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/80587.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/80587.jpg"
   },
   {
     "title": "Master Mosquiton",
@@ -2696,7 +2701,7 @@
   },
   {
     "title": "Meitantei Conan",
-    "episodes": 1193,
+    "episodes": 1195,
     "type": "TV",
     "status": "ONGOING",
     "tags": [
@@ -2812,7 +2817,7 @@
       "work"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/75199.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/75199.jpg"
   },
   {
     "title": "Meitantei Conan Movie 06: Baker Street no Bourei",
@@ -2949,7 +2954,7 @@
       "united kingdom"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/78894.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/78894.jpg"
   },
   {
     "title": "Mikeneko Holmes no Yuurei Joushu",
@@ -3137,7 +3142,7 @@
       "yuri"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/86768.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/86768.jpg"
   },
   {
     "title": "Princess Principal: Crown Handler",
@@ -3441,6 +3446,7 @@
       "music",
       "mythology",
       "new",
+      "nudity",
       "open-ended",
       "original work",
       "orphan",
@@ -3476,7 +3482,7 @@
       "yuri"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/86681.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/86681.jpg"
   },
   {
     "title": "Shisha no Teikoku",
@@ -3585,7 +3591,7 @@
       "zombies"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/75468.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/75468.jpg"
   },
   {
     "title": "Shoujo☆Kageki Revue Starlight",
@@ -3683,7 +3689,7 @@
       "yuri"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1165/93552.jpg"
+    "picture": "https://myanimelist.net/images/anime/1165/93552.jpg"
   },
   {
     "title": "Sin: Nanatsu no Taizai",
@@ -3785,7 +3791,7 @@
       "yuri"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/86621.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/86621.jpg"
   },
   {
     "title": "Special A",
@@ -3873,7 +3879,7 @@
       "wrestling"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/77363.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/77363.jpg"
   },
   {
     "title": "Steamboy",
@@ -4009,6 +4015,7 @@
       "long time span",
       "middle east",
       "mina",
+      "modeling",
       "moscow",
       "new",
       "new york",
@@ -4024,6 +4031,7 @@
       "slice of life",
       "speculative fiction",
       "time",
+      "travel",
       "united kingdom",
       "united states"
     ],
@@ -4387,7 +4395,7 @@
       "winter"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1583/93857.jpg"
+    "picture": "https://myanimelist.net/images/anime/1583/93857.jpg"
   },
   {
     "title": "Trinity Blood",
@@ -4573,7 +4581,7 @@
       "youkai"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1946/136661.jpg"
+    "picture": "https://myanimelist.net/images/anime/1946/136661.jpg"
   },
   {
     "title": "Your Forma",

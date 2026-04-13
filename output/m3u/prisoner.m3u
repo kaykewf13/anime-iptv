@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Prisoner
-# Total de animes na categoria: 28
+# Total de animes na categoria: 29
 # Exemplos: Angels of Death (Web), Dead Leaves, Deadman Wonderland, Dorei Maid Princess, Evil or Live, Evil or Live Recap, Id:Invaded, JoJo no Kimyou na Bouken Part 6: Stone Ocean, JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2, JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Prisoner",Pluto TV Anime | Prisoner
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

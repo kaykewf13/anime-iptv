@@ -230,7 +230,7 @@
       "wrestling"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/83185.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/83185.jpg"
   },
   {
     "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
@@ -455,7 +455,7 @@
       "weekly shounen jump"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1908/135431.jpg"
+    "picture": "https://myanimelist.net/images/anime/1908/135431.jpg"
   },
   {
     "title": "Chikyuu Shoujo Arjuna",
@@ -754,7 +754,7 @@
       "yandere"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1346/138731.jpg"
+    "picture": "https://myanimelist.net/images/anime/1346/138731.jpg"
   },
   {
     "title": "Dead Mount Death Play",
@@ -1233,6 +1233,91 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1274/102213.jpg"
   },
   {
+    "title": "Fate/strange Fake",
+    "episodes": 13,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "action",
+      "adventure",
+      "america",
+      "anachronism",
+      "animals",
+      "archery",
+      "assassins",
+      "based on a light novel",
+      "battle royale",
+      "body swapping",
+      "chimera",
+      "conspiracy",
+      "contemporary fantasy",
+      "curses",
+      "cyborg",
+      "dark fantasy",
+      "death game",
+      "demons",
+      "desert",
+      "dissociative identities",
+      "drama",
+      "ensemble cast",
+      "factions",
+      "fantasy",
+      "fighting",
+      "foreign",
+      "gambling",
+      "gender bending",
+      "gods",
+      "gore",
+      "government",
+      "guns",
+      "homunculi",
+      "idealism",
+      "japanese production",
+      "knights",
+      "legendary warriors",
+      "lgbtq+ themes",
+      "magic",
+      "magical items",
+      "medieval",
+      "memory manipulation",
+      "military",
+      "monsters",
+      "moral dilemma",
+      "mystery",
+      "mythology",
+      "necromancy",
+      "nun",
+      "police",
+      "proxy battles",
+      "psychological",
+      "religion",
+      "religious sect",
+      "secret organization",
+      "shapeshifting",
+      "skeleton",
+      "sorcery",
+      "spirits",
+      "supernatural",
+      "superpowers",
+      "survival game",
+      "swordplay",
+      "terrorism",
+      "thriller",
+      "tournament",
+      "tragedy",
+      "trauma",
+      "united states",
+      "urban",
+      "urban fantasy",
+      "vampire",
+      "vampires",
+      "war",
+      "werewolf"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1752/150192.jpg"
+  },
+  {
     "title": "Fullmetal Alchemist: Brotherhood",
     "episodes": 64,
     "type": "TV",
@@ -1314,6 +1399,7 @@
       "mutilation",
       "mystery",
       "necromancy",
+      "orphan",
       "philosopher's stone",
       "philosophy",
       "place",
@@ -1533,7 +1619,7 @@
   },
   {
     "title": "Holo no Graffiti",
-    "episodes": 356,
+    "episodes": 359,
     "type": "ONA",
     "status": "ONGOING",
     "tags": [
@@ -1621,11 +1707,10 @@
       "vtubers",
       "witch",
       "wordplay",
-      "working life",
-      "yuri"
+      "working life"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1259/110227.jpg"
+    "picture": "https://myanimelist.net/images/anime/1259/110227.jpg"
   },
   {
     "title": "InuYasha",
@@ -2041,7 +2126,7 @@
       "werewolf"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/27643.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/27643.jpg"
   },
   {
     "title": "Kaibutsu Oujo: Konsui Oujo",
@@ -2074,7 +2159,7 @@
       "vampire"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/22440.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/22440.jpg"
   },
   {
     "title": "Kono Healer, Mendokusai",
@@ -2271,7 +2356,7 @@
       "youkai"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/1266/91829.jpg"
+    "picture": "https://myanimelist.net/images/anime/1266/91829.jpg"
   },
   {
     "title": "Ling Qi 2",
@@ -2368,6 +2453,7 @@
       "contemporary fantasy",
       "crime fiction",
       "death",
+      "desert",
       "detective",
       "dialogue driven",
       "drama",
@@ -2382,11 +2468,14 @@
       "following one's dream",
       "foreign",
       "ghost",
+      "guns",
       "japanese production",
       "london",
       "magic",
       "magic school",
+      "maids",
       "male protagonist",
+      "motorcycles",
       "murder",
       "mutilation",
       "mystery",
@@ -2424,7 +2513,7 @@
       "werewolf"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1107/111530.jpg"
+    "picture": "https://myanimelist.net/images/anime/1107/111530.jpg"
   },
   {
     "title": "Majo to Yajuu",
@@ -2490,7 +2579,7 @@
       "zombie"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1380/139745.jpg"
+    "picture": "https://myanimelist.net/images/anime/1380/139745.jpg"
   },
   {
     "title": "Makai Tenshou",
@@ -2525,10 +2614,12 @@
       "old asia",
       "past",
       "place",
+      "primarily male cast",
       "reincarnation",
       "religion",
       "samurai",
       "sex",
+      "snowscape",
       "speculative fiction",
       "strong male lead",
       "supernatural",
@@ -2700,7 +2791,7 @@
       "zombie"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1301/110433.jpg"
+    "picture": "https://myanimelist.net/images/anime/1301/110433.jpg"
   },
   {
     "title": "Naruto",
@@ -3293,6 +3384,7 @@
       "demons",
       "elf",
       "fantasy",
+      "flash",
       "isekai",
       "kingdom management",
       "magic",
@@ -3481,6 +3573,7 @@
       "shapeshifting",
       "short episodes",
       "shoujo",
+      "shounen",
       "speculative fiction",
       "star-crossed lovers",
       "storytelling",
@@ -3665,7 +3758,7 @@
       "weak to strong"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1523/141680.jpg"
+    "picture": "https://myanimelist.net/images/anime/1523/141680.jpg"
   },
   {
     "title": "Saihate no Paladin",
@@ -4182,7 +4275,7 @@
       "zombie"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/23992.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/23992.jpg"
   },
   {
     "title": "Shin Kujakuou",
@@ -4352,7 +4445,7 @@
       "zombie"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1154/149614.jpg"
+    "picture": "https://myanimelist.net/images/anime/1154/149614.jpg"
   },
   {
     "title": "Thunderbolt Fantasy 4",
@@ -4508,7 +4601,7 @@
       "zombie"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1160/99995.jpg"
+    "picture": "https://myanimelist.net/images/anime/1160/99995.jpg"
   },
   {
     "title": "Yun Shen Buzhi Meng",
@@ -4576,6 +4669,7 @@
       "paper clothes",
       "parody",
       "romance",
+      "seinen",
       "slapstick",
       "spearplay",
       "speculative fiction",

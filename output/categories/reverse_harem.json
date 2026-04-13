@@ -431,7 +431,7 @@
       "yandere"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/1311/128738.jpg"
+    "picture": "https://myanimelist.net/images/anime/1311/128738.jpg"
   },
   {
     "title": "Angel Beats!",
@@ -533,7 +533,7 @@
       "visible aura"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/1244/111115.jpg"
+    "picture": "https://myanimelist.net/images/anime/1244/111115.jpg"
   },
   {
     "title": "Angelique",
@@ -674,6 +674,7 @@
       "family life",
       "fantasy",
       "female protagonist",
+      "foreign",
       "game",
       "gangs",
       "gunfights",
@@ -716,7 +717,7 @@
       "zettai ryouiki"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/39495.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/39495.jpg"
   },
   {
     "title": "Arcana Famiglia: Capriccio - stile Arcana Famiglia",
@@ -842,7 +843,7 @@
       "violent retribution for accidental infringement"
     ],
     "year": 2000,
-    "picture": "https://cdn.myanimelist.net/images/anime/1287/134408.jpg"
+    "picture": "https://myanimelist.net/images/anime/1287/134408.jpg"
   },
   {
     "title": "Bishounen Tanteidan",
@@ -1488,7 +1489,7 @@
       "urban fantasy"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/1388/98050.jpg"
+    "picture": "https://myanimelist.net/images/anime/1388/98050.jpg"
   },
   {
     "title": "Code:Realize - Sousei no Himegimi",
@@ -1761,38 +1762,20 @@
     "picture": "https://cdn.myanimelist.net/images/anime/2/86240.jpg"
   },
   {
-    "title": "Dark Moon: The Blood Altar",
-    "episodes": 0,
-    "type": "TV",
-    "status": "FINISHED",
-    "tags": [
-      "bishounen",
-      "comedy",
-      "drama",
-      "reverse harem",
-      "romance",
-      "school",
-      "social stigma",
-      "supernatural",
-      "superpowers",
-      "vampires",
-      "werewolves"
-    ],
-    "year": 2026,
-    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33548-1062377704.1767560537.jpg"
-  },
-  {
     "title": "Dark Moon: Tsuki no Saidan",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "based on a webtoon",
       "bishounen",
+      "comedy",
       "crunchyroll co-production",
+      "drama",
       "ensemble cast",
       "fantasy",
       "female protagonist",
+      "gore",
       "idol",
       "interspecies relationship",
       "japanese production",
@@ -1801,15 +1784,18 @@
       "non-human protagonists",
       "orphans",
       "primarily male cast",
+      "reincarnation",
       "reverse harem",
       "romance",
       "school",
       "school life",
       "shoujo",
+      "social stigma",
       "speculative fiction",
       "super power",
       "supernatural",
       "superpowers",
+      "time manipulation",
       "transfer students",
       "undead",
       "vampire",
@@ -1818,7 +1804,7 @@
       "werewolves"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1559/154695.jpg"
+    "picture": "https://myanimelist.net/images/anime/1559/154695.jpg"
   },
   {
     "title": "Diabolik Lovers",
@@ -1986,7 +1972,7 @@
       "vampires"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/74238.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/74238.jpg"
   },
   {
     "title": "Diabolik Lovers Recap",
@@ -2053,7 +2039,7 @@
     "title": "Douse, Koishite Shimaunda. 2nd Season",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "based on a manga",
       "childhood friends",
@@ -2078,7 +2064,7 @@
       "slice of life"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1054/153719.jpg"
+    "picture": "https://myanimelist.net/images/anime/1054/153719.jpg"
   },
   {
     "title": "Ensemble Stars!",
@@ -2265,6 +2251,7 @@
       "family without mother",
       "fantasy",
       "fate",
+      "female harem",
       "female protagonist",
       "femboy",
       "following one's dream",
@@ -2364,7 +2351,7 @@
       "zodiac"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1447/99827.jpg"
+    "picture": "https://myanimelist.net/images/anime/1447/99827.jpg"
   },
   {
     "title": "Fruits Basket 2nd Season",
@@ -2502,7 +2489,7 @@
       "zodiac"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg"
+    "picture": "https://myanimelist.net/images/anime/1972/111635.jpg"
   },
   {
     "title": "Fruits Basket: The Final",
@@ -2681,7 +2668,7 @@
       "wardrobe limited to school uniform"
     ],
     "year": 1995,
-    "picture": "https://cdn.myanimelist.net/images/anime/1281/101838.jpg"
+    "picture": "https://myanimelist.net/images/anime/1281/101838.jpg"
   },
   {
     "title": "Gakuen Handsome",
@@ -2825,6 +2812,7 @@
       "boys' love",
       "childhood promise",
       "comedy",
+      "cute boys doing cute things",
       "drama",
       "earth",
       "game",
@@ -3292,7 +3280,7 @@
       "war"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/71796.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/71796.jpg"
   },
   {
     "title": "Hakuouki OVA",
@@ -3380,7 +3368,7 @@
       "war"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1763/117761.jpg"
+    "picture": "https://myanimelist.net/images/anime/1763/117761.jpg"
   },
   {
     "title": "Hakuouki: Hekketsuroku",
@@ -3444,7 +3432,7 @@
       "war"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/71797.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/71797.jpg"
   },
   {
     "title": "Hakuouki: Hekketsuroku - Kyoto Kaisouroku",
@@ -3567,7 +3555,7 @@
       "war"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/71798.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/71798.jpg"
   },
   {
     "title": "Hakuouki: Reimeiroku OVA",
@@ -3876,7 +3864,7 @@
       "war"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/1094/116584.jpg"
+    "picture": "https://myanimelist.net/images/anime/1094/116584.jpg"
   },
   {
     "title": "Hanasakeru Seishounen Recaps",
@@ -3894,7 +3882,7 @@
       "shoujo"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/15465.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/15465.jpg"
   },
   {
     "title": "Hanayaka Nari, Waga Ichizoku: Kinetograph",
@@ -3936,13 +3924,13 @@
       "visual novel"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/45356.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/45356.jpg"
   },
   {
     "title": "Hanazakari no Kimitachi e",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "all-boys school",
       "athletics",
@@ -3986,7 +3974,7 @@
       "urban"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1506/155355.jpg"
+    "picture": "https://myanimelist.net/images/anime/1506/155355.jpg"
   },
   {
     "title": "Harukanaru Toki no Naka de 2: Shiroki Ryuu no Miko",
@@ -4103,7 +4091,7 @@
       "war"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/17245.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/17245.jpg"
   },
   {
     "title": "Harukanaru Toki no Naka de: Ajisai Yumegatari",
@@ -4339,7 +4327,7 @@
       "youkai"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/36925.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/36925.jpg"
   },
   {
     "title": "Hiiro no Kakera 2nd Season",
@@ -4516,7 +4504,7 @@
       "youkai"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1050/111687.jpg"
+    "picture": "https://myanimelist.net/images/anime/1050/111687.jpg"
   },
   {
     "title": "Jungle wa Itsumo Hare nochi Guu Deluxe",
@@ -4589,7 +4577,7 @@
       "wordplay"
     ],
     "year": 2002,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/10306.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/10306.jpg"
   },
   {
     "title": "Juuza Engi: Engetsu Sangokuden - Gaiden Youzhou Genya",
@@ -4648,7 +4636,7 @@
       "war"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/69969.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/69969.jpg"
   },
   {
     "title": "Kaichou wa Maid-sama!",
@@ -4678,6 +4666,7 @@
       "dialogue driven",
       "drama",
       "earth",
+      "ensemble cast",
       "episodic",
       "faceless background characters",
       "facial distortion",
@@ -4751,6 +4740,7 @@
       "tropes",
       "tsundere",
       "unrequited love",
+      "urban",
       "verbal comedy",
       "violence",
       "visible aura",
@@ -5206,7 +5196,7 @@
       "youkai"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/69187.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/69187.jpg"
   },
   {
     "title": "Kenka Banchou Otome: Girl Beats Boys",
@@ -5404,7 +5394,7 @@
       "visual novel"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1565/153275.jpg"
+    "picture": "https://myanimelist.net/images/anime/1565/153275.jpg"
   },
   {
     "title": "Kiniro no Corda: Primo Passo - Hitonatsu no Encore",
@@ -5485,7 +5475,7 @@
       "slice of life"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1487/99812.jpg"
+    "picture": "https://myanimelist.net/images/anime/1487/99812.jpg"
   },
   {
     "title": "Koi to Producer: EVOLxLOVE",
@@ -5534,7 +5524,7 @@
       "work life"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1623/111517.jpg"
+    "picture": "https://myanimelist.net/images/anime/1623/111517.jpg"
   },
   {
     "title": "Koisuru Tenshi Angelique: Kagayaki no Ashita",
@@ -5621,7 +5611,7 @@
       "visual novel"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1488/153479.jpg"
+    "picture": "https://myanimelist.net/images/anime/1488/153479.jpg"
   },
   {
     "title": "Kuro to Kin no Akanai Kagi.",
@@ -5657,7 +5647,7 @@
       "sister complex"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/80092.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/80092.jpg"
   },
   {
     "title": "Magic-kyun! First Live: Hoshinomori Summer Festa 2017 Encore Animation",
@@ -5872,6 +5862,7 @@
       "love triangle",
       "magic",
       "male harem",
+      "meiji era",
       "primarily male cast",
       "reverse harem",
       "romance",
@@ -6014,7 +6005,7 @@
       "youkai"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1207/140800.jpg"
+    "picture": "https://myanimelist.net/images/anime/1207/140800.jpg"
   },
   {
     "title": "Neo Angelique Abyss",
@@ -6094,7 +6085,7 @@
       "visual novel"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/27592.jpg"
+    "picture": "https://myanimelist.net/images/anime/1257/153478.jpg"
   },
   {
     "title": "Nil Admirari no Tenbin",
@@ -6777,7 +6768,7 @@
       "yakuza"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/71992.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/71992.jpg"
   },
   {
     "title": "Ozmafia!!",
@@ -6897,7 +6888,7 @@
       "youkai"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1156/93567.jpg"
+    "picture": "https://myanimelist.net/images/anime/1156/93567.jpg"
   },
   {
     "title": "Phantom in the Twilight Recap",
@@ -7254,7 +7245,7 @@
       "verbal comedy"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/85196.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/85196.jpg"
   },
   {
     "title": "Saiunkoku Monogatari",
@@ -7352,7 +7343,7 @@
       "work"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1976/139963.jpg"
+    "picture": "https://myanimelist.net/images/anime/1976/139963.jpg"
   },
   {
     "title": "Saiunkoku Monogatari 2nd Season",
@@ -7432,7 +7423,7 @@
       "shoujo"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/67033.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/67033.jpg"
   },
   {
     "title": "Saiyuuki (OVA)",
@@ -7486,13 +7477,15 @@
       "male harem",
       "manga",
       "music",
+      "musical theater",
       "performing arts",
+      "primarily adult cast",
       "reverse harem",
       "short episodes",
       "shoujo"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/42397.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/42397.jpg"
   },
   {
     "title": "Scared Rider Xechs",
@@ -7533,7 +7526,7 @@
       "tokusatsu"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/79983.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/79983.jpg"
   },
   {
     "title": "Seijo no Maryoku wa Bannou desu",
@@ -7624,7 +7617,7 @@
       "working life"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1947/114235.jpg"
+    "picture": "https://myanimelist.net/images/anime/1947/114235.jpg"
   },
   {
     "title": "Sengoku Night Blood",
@@ -8329,7 +8322,7 @@
       "weaponized paper fan"
     ],
     "year": 2002,
-    "picture": "https://cdn.myanimelist.net/images/anime/1644/131230.jpg"
+    "picture": "https://myanimelist.net/images/anime/1644/131230.jpg"
   },
   {
     "title": "The Third: Aoi Hitomi no Shoujo",
@@ -8435,7 +8428,7 @@
       "war"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/75545.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/75545.jpg"
   },
   {
     "title": "TO",
@@ -8501,7 +8494,7 @@
       "working life"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/18027.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/18027.jpg"
   },
   {
     "title": "Trick or Alice",
@@ -8529,7 +8522,7 @@
       "twins"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/85484.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/85484.jpg"
   },
   {
     "title": "Uta no☆Prince-sama♪ Maji Love 1000%",
@@ -8590,7 +8583,7 @@
       "visual novel"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/30248.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/30248.jpg"
   },
   {
     "title": "Uta no☆Prince-sama♪ Maji Love 2000%",
@@ -8615,6 +8608,7 @@
       "following one's dream",
       "game",
       "harem",
+      "heterosexual",
       "idol",
       "idols",
       "idols (male)",
@@ -9346,7 +9340,7 @@
       "tournament"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/1369/154654.jpg"
+    "picture": "https://myanimelist.net/images/anime/1369/154654.jpg"
   },
   {
     "title": "Yume-iro Pâtissière SP Professional",
@@ -9356,11 +9350,13 @@
     "tags": [
       "baking",
       "based on a manga",
+      "boarding school",
       "comedy",
       "coming of age",
       "contemporary fantasy",
       "cooking",
       "culinary school",
+      "fairy",
       "family friendly",
       "fantasy",
       "female protagonist",

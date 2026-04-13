@@ -426,7 +426,7 @@
       "zettai ryouiki"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/60781.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/60781.jpg"
   },
   {
     "title": "Chizu no Nai Bouken",
@@ -730,7 +730,7 @@
       "wordplay"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/89978.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/89978.jpg"
   },
   {
     "title": "Gochuumon wa Usagi desu ka?",
@@ -879,7 +879,7 @@
       "workplace"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1900/109179.jpg"
+    "picture": "https://myanimelist.net/images/anime/1900/109179.jpg"
   },
   {
     "title": "Gochuumon wa Usagi desu ka??",
@@ -1007,7 +1007,7 @@
       "workplace"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/88182.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/88182.jpg"
   },
   {
     "title": "Hai to Gensou no Grimgar",
@@ -1105,7 +1105,7 @@
       "zombie"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/77976.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/77976.jpg"
   },
   {
     "title": "HoneyWorks: The Third Pudding War",
@@ -1194,7 +1194,7 @@
       "violent retribution for accidental infringement"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1695/111486.jpg"
+    "picture": "https://myanimelist.net/images/anime/1695/111486.jpg"
   },
   {
     "title": "Isekai Yururi Kikou: Kosodate shinagara Boukensha shimasu",
@@ -1258,7 +1258,7 @@
       "violence"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1690/141987.jpg"
+    "picture": "https://myanimelist.net/images/anime/1690/141987.jpg"
   },
   {
     "title": "Jashin-chan Dropkick'",
@@ -1406,6 +1406,7 @@
       "dialogue driven",
       "drama",
       "earth",
+      "ensemble cast",
       "episodic",
       "faceless background characters",
       "facial distortion",
@@ -1479,6 +1480,7 @@
       "tropes",
       "tsundere",
       "unrequited love",
+      "urban",
       "verbal comedy",
       "violence",
       "visible aura",
@@ -1582,7 +1584,7 @@
       "violent retribution for accidental infringement"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/43361.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/43361.jpg"
   },
   {
     "title": "Kirakira☆Precure A La Mode",
@@ -1650,7 +1652,7 @@
       "work"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/88612.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/88612.jpg"
   },
   {
     "title": "Kirakira☆Precure A La Mode Movie: Paritto! Omoide no Mille-Feuille!",
@@ -2794,7 +2796,7 @@
       "unrequited love"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/69455.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/69455.jpg"
   },
   {
     "title": "Pan de Peace!",
@@ -2945,7 +2947,7 @@
       "stop motion"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/1464/91691.jpg"
+    "picture": "https://myanimelist.net/images/anime/1464/91691.jpg"
   },
   {
     "title": "Seiyou Kottou Yougashiten: Antique",
@@ -3306,7 +3308,7 @@
       "yuri"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1851/96154.jpg"
+    "picture": "https://myanimelist.net/images/anime/1851/96154.jpg"
   },
   {
     "title": "Venus Versus Virus",
@@ -3874,7 +3876,7 @@
       "tournament"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/1369/154654.jpg"
+    "picture": "https://myanimelist.net/images/anime/1369/154654.jpg"
   },
   {
     "title": "Yume-iro Pâtissière SP Professional",
@@ -3884,11 +3886,13 @@
     "tags": [
       "baking",
       "based on a manga",
+      "boarding school",
       "comedy",
       "coming of age",
       "contemporary fantasy",
       "cooking",
       "culinary school",
+      "fairy",
       "family friendly",
       "fantasy",
       "female protagonist",

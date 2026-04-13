@@ -92,7 +92,7 @@
       "violence"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/85963.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/85963.jpg"
   },
   {
     "title": "Akira",
@@ -333,7 +333,7 @@
       "youkai"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/75274.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/75274.jpg"
   },
   {
     "title": "Baraou no Souretsu",
@@ -696,7 +696,7 @@
       "war"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1104/145564.jpg"
+    "picture": "https://myanimelist.net/images/anime/1104/145564.jpg"
   },
   {
     "title": "Call Me Tonight",
@@ -814,6 +814,7 @@
       "lingerie",
       "love triangle",
       "magic",
+      "male protagonist",
       "management",
       "massacre",
       "medic",
@@ -865,7 +866,7 @@
       "winter"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1132/111619.jpg"
+    "picture": "https://myanimelist.net/images/anime/1132/111619.jpg"
   },
   {
     "title": "Cocoon: Aru Natsu no Shoujo-tachi yori",
@@ -922,7 +923,7 @@
       "world wars"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1056/151350.jpg"
+    "picture": "https://myanimelist.net/images/anime/1056/151350.jpg"
   },
   {
     "title": "Cop Craft",
@@ -1000,6 +1001,7 @@
       "science and magic coexist",
       "science fiction",
       "science-fiction",
+      "seinen",
       "sex",
       "sexual abuse",
       "sexual humour",
@@ -1467,7 +1469,7 @@
       "university"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1648/111422.jpg"
+    "picture": "https://myanimelist.net/images/anime/1648/111422.jpg"
   },
   {
     "title": "Gleipnir",
@@ -1913,7 +1915,7 @@
       "zashiki-warashi"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/88280.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/88280.jpg"
   },
   {
     "title": "Hyper Police",
@@ -2242,7 +2244,7 @@
       "video games"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1954/129158.jpg"
+    "picture": "https://myanimelist.net/images/anime/1954/129158.jpg"
   },
   {
     "title": "Kyochuu Rettou Movie",
@@ -2638,7 +2640,7 @@
       "yandere"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/30238.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/30238.jpg"
   },
   {
     "title": "Nozoki Ana",
@@ -2760,7 +2762,7 @@
       "visual novel"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1587/149982.jpg"
+    "picture": "https://myanimelist.net/images/anime/1587/149982.jpg"
   },
   {
     "title": "Onihei",
@@ -2892,7 +2894,7 @@
       "working life"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/1330/133826.jpg"
+    "picture": "https://myanimelist.net/images/anime/1330/133826.jpg"
   },
   {
     "title": "Oooku",
@@ -3022,7 +3024,7 @@
       "war-zone realities"
     ],
     "year": 1987,
-    "picture": "https://cdn.myanimelist.net/images/anime/1811/112663.jpg"
+    "picture": "https://myanimelist.net/images/anime/1811/112663.jpg"
   },
   {
     "title": "Paprika",
@@ -3113,7 +3115,7 @@
       "unrequited love"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1929/93629.jpg"
+    "picture": "https://myanimelist.net/images/anime/1929/93629.jpg"
   },
   {
     "title": "Pet",
@@ -3297,6 +3299,81 @@
     ],
     "year": 1993,
     "picture": "https://cdn.myanimelist.net/images/anime/7/31121.jpg"
+  },
+  {
+    "title": "Sakura Tsuushin",
+    "episodes": 12,
+    "type": "OVA",
+    "status": "FINISHED",
+    "tags": [
+      "adult cast",
+      "angst",
+      "asia",
+      "attempted rape",
+      "based on a manga",
+      "borderline porn",
+      "childhood memory",
+      "childhood promise",
+      "college",
+      "comedy",
+      "coming of age",
+      "confession",
+      "cooking",
+      "cram school",
+      "daily life",
+      "drama",
+      "earth",
+      "ecchi",
+      "ending",
+      "family life",
+      "first love",
+      "groping",
+      "heterosexual",
+      "high school",
+      "incest",
+      "japan",
+      "japanese production",
+      "kamakura",
+      "large breasts",
+      "lingerie",
+      "love polygon",
+      "love triangle",
+      "male protagonist",
+      "manga",
+      "masturbation",
+      "melodrama",
+      "nudity",
+      "open-ended",
+      "panels that require pausing",
+      "pantsu",
+      "parental abandonment",
+      "place",
+      "plot continuity",
+      "pornography",
+      "present",
+      "promise",
+      "prostitution",
+      "romance",
+      "school",
+      "school life",
+      "school swimsuit",
+      "seinen",
+      "sexual abuse",
+      "sexual fantasies",
+      "skimpy clothing",
+      "slice of life",
+      "slow when it comes to love",
+      "sudden girlfriend appearance",
+      "time",
+      "tragedy",
+      "tropes",
+      "under one roof",
+      "university",
+      "violence",
+      "watercolour style"
+    ],
+    "year": 1997,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/74961.jpg"
   },
   {
     "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
@@ -3635,7 +3712,7 @@
       "virtual world"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1993/93837.jpg"
+    "picture": "https://myanimelist.net/images/anime/1993/93837.jpg"
   },
   {
     "title": "Tsuihousha Shokudou e Youkoso!",
@@ -3737,7 +3814,7 @@
       "working life"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1313/149355.jpg"
+    "picture": "https://myanimelist.net/images/anime/1313/149355.jpg"
   },
   {
     "title": "Valkyrie Drive: Mermaid",

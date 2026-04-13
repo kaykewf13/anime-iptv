@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Royal Affairs
-# Total de animes na categoria: 157
+# Total de animes na categoria: 159
 # Exemplos: 0-saiji Start Dash Monogatari, 0-saiji Start Dash Monogatari Season 2, ACCA: 13-ku Kansatsu-ka, Akatsuki no Yona, Akujiki Reijou to Kyouketsu Koushaku, Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen, Akuyaku Reijou nanode Last Boss wo Kattemimashita, Akuyaku Reijou Tensei Ojisan, Alssongdalssong Catch! Tiniping, Andersen Douwa: Ningyohime
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Royal Affairs",Pluto TV Anime | Royal Affairs
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

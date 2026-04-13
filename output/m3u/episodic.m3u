@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Episodic
-# Total de animes na categoria: 1980
+# Total de animes na categoria: 1983
 # Exemplos: "Bungaku Shoujo" Memoire, #Compass, 009-1, 1+2=Paradise, 16bit Sensation: Another Layer, 18if, 29-sai Dokushin Chuuken Boukensha no Nichijou, 3 Choume no Tama: Uchi no Tama Shirimasen ka?, 3-nen D-gumi Glass no Kamen, 3Piece The Animation
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Episodic",Pluto TV Anime | Episodic
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

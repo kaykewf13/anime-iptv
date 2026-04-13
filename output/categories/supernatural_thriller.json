@@ -63,7 +63,7 @@
       "video games"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/77968.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/77968.jpg"
   },
   {
     "title": "Ajin",
@@ -417,7 +417,7 @@
       "yandere"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg"
+    "picture": "https://myanimelist.net/images/anime/1079/138100.jpg"
   },
   {
     "title": "Death Note Rewrite 1: Visions of a God",
@@ -720,7 +720,7 @@
       "yandere"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1862/95624.jpg"
+    "picture": "https://myanimelist.net/images/anime/1862/95624.jpg"
   },
   {
     "title": "Steins;Gate",
@@ -739,6 +739,7 @@
       "butterfly effect",
       "canon filler",
       "chuunibyou",
+      "clone",
       "comedy",
       "conspiracy",
       "cross-dressing",
@@ -938,7 +939,77 @@
       "violence"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1120/120796.jpg"
+    "picture": "https://myanimelist.net/images/anime/1120/120796.jpg"
+  },
+  {
+    "title": "Wasurenagumo",
+    "episodes": 1,
+    "type": "SPECIAL",
+    "status": "FINISHED",
+    "tags": [
+      "adoption",
+      "adventure",
+      "anime mirai",
+      "anime tamago",
+      "anthropomorphism",
+      "asia",
+      "beastman",
+      "biting",
+      "bookstore",
+      "comedy",
+      "contemporary fantasy",
+      "countryside",
+      "dark fantasy",
+      "demons",
+      "disaster",
+      "drama",
+      "earth",
+      "ensemble cast",
+      "female protagonist",
+      "fire",
+      "flashback",
+      "historical",
+      "horror",
+      "in medias res",
+      "japan",
+      "japanese production",
+      "josei",
+      "juujin",
+      "magic",
+      "male protagonist",
+      "mina",
+      "moe",
+      "monster",
+      "monster girl",
+      "multi-anime projects",
+      "mythology",
+      "new",
+      "original work",
+      "place",
+      "plot continuity",
+      "present",
+      "reluctant heroine",
+      "seinen",
+      "shapeshifting",
+      "shorts",
+      "show within a show",
+      "speculative fiction",
+      "stoic hero",
+      "supernatural",
+      "supernatural drama",
+      "supernatural thriller",
+      "swordplay",
+      "thriller",
+      "time",
+      "tragedy",
+      "tropes",
+      "violence",
+      "wakate animator ikusei project",
+      "watercolour style",
+      "youkai"
+    ],
+    "year": 2012,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/38877.jpg"
   },
   {
     "title": "Yakusoku no Neverland",
@@ -1036,6 +1107,6 @@
       "weekly shounen jump"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1830/118780.jpg"
+    "picture": "https://myanimelist.net/images/anime/1830/118780.jpg"
   }
 ]

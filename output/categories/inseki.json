@@ -582,7 +582,7 @@
       "slice of life"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1551/150517.jpg"
+    "picture": "https://myanimelist.net/images/anime/1551/150517.jpg"
   },
   {
     "title": "Kiss x Sis",
@@ -644,7 +644,7 @@
       "violent retribution for accidental infringement"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/1966/121554.jpg"
+    "picture": "https://myanimelist.net/images/anime/1966/121554.jpg"
   },
   {
     "title": "Kiss x Sis (TV)",
@@ -725,7 +725,7 @@
       "watersports"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/1660/121553.jpg"
+    "picture": "https://myanimelist.net/images/anime/1660/121553.jpg"
   },
   {
     "title": "Kuzu no Honkai",
@@ -1105,7 +1105,7 @@
       "yandere"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/30238.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/30238.jpg"
   },
   {
     "title": "Omoi, Omoware, Furi, Furare",
@@ -1417,7 +1417,7 @@
       "sports"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/36633.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/36633.jpg"
   },
   {
     "title": "Rock wa Lady no Tashinami deshite",
@@ -1454,6 +1454,7 @@
       "seinen",
       "slice of life",
       "slice of life comedy",
+      "sweat",
       "the arts",
       "time",
       "tropes",
@@ -1461,7 +1462,7 @@
       "yuri"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1781/150071.jpg"
+    "picture": "https://myanimelist.net/images/anime/1781/150071.jpg"
   },
   {
     "title": "Saikin, Imouto no Yousu ga Chotto Okashiinda ga.",
@@ -1555,7 +1556,33 @@
       "yuri"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/56589.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/56589.jpg"
+  },
+  {
+    "title": "Saioshi no Gikei Mederu Tame, Nagaikishimasu!",
+    "episodes": 12,
+    "type": "ONA",
+    "status": "FINISHED",
+    "tags": [
+      "adoption",
+      "age gap",
+      "age regression",
+      "boys' love",
+      "cute boys doing cute things",
+      "family life",
+      "fantasy",
+      "flash",
+      "inseki",
+      "isekai",
+      "lgbtq+ themes",
+      "magic",
+      "male protagonist",
+      "meta",
+      "primarily male cast",
+      "romance"
+    ],
+    "year": 2026,
+    "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199446-2jYnGrTItjyu.jpg"
   },
   {
     "title": "Schwarzesmarken",
@@ -1576,6 +1603,7 @@
       "betrayal",
       "cgi",
       "civil war",
+      "conspiracy",
       "disaster",
       "drama",
       "dystopian",
@@ -1629,7 +1657,7 @@
       "yandere"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/77386.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/77386.jpg"
   },
   {
     "title": "Shiunji-ke no Kodomotachi",
@@ -1680,6 +1708,7 @@
       "adult cast",
       "adult couples",
       "afterlife",
+      "age gap",
       "animeism",
       "apprenticeship",
       "based on a manga",
@@ -1698,6 +1727,7 @@
       "performance",
       "performing arts",
       "plot twists",
+      "pregnancy",
       "primarily adult cast",
       "rakugo",
       "sequel",
@@ -1962,6 +1992,7 @@
       "long time span",
       "lost civilization",
       "lost technology",
+      "mafia",
       "male protagonist",
       "marriage",
       "melodrama",
@@ -2079,6 +2110,6 @@
       "youkai"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1373/107550.jpg"
+    "picture": "https://myanimelist.net/images/anime/1373/107550.jpg"
   }
 ]

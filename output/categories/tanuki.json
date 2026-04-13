@@ -73,7 +73,7 @@
       "war"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/1880/133517.jpg"
+    "picture": "https://myanimelist.net/images/anime/1880/133517.jpg"
   },
   {
     "title": "Hal no Fue",
@@ -353,7 +353,23 @@
       "tanuki"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/89595.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/89595.jpg"
+  },
+  {
+    "title": "Tanuki to Kitsune (2026)",
+    "episodes": 0,
+    "type": "ONA",
+    "status": "UNKNOWN",
+    "tags": [
+      "animal protagonists",
+      "based on a manga",
+      "family friendly",
+      "foxes",
+      "non-human protagonists",
+      "tanuki"
+    ],
+    "year": 2026,
+    "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png"
   },
   {
     "title": "Tanuki to Kitsune Specials",

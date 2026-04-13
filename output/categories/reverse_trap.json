@@ -45,7 +45,7 @@
       "virtual world"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/23085.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/23085.jpg"
   },
   {
     "title": ".hack//Sign",
@@ -600,7 +600,7 @@
       "zettai ryouiki"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/17071.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/17071.jpg"
   },
   {
     "title": "B'T X",
@@ -656,7 +656,7 @@
       "war"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/1900/139246.jpg"
+    "picture": "https://myanimelist.net/images/anime/1900/139246.jpg"
   },
   {
     "title": "Basquash!",
@@ -918,7 +918,7 @@
       "video games"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/32873.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/32873.jpg"
   },
   {
     "title": "Buddy Go!",
@@ -1339,7 +1339,7 @@
       "youkai"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/21834.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/21834.jpg"
   },
   {
     "title": "Cowboy Bebop",
@@ -1906,6 +1906,7 @@
       "based on a manga",
       "comedy",
       "cross-dressing",
+      "crossdressing",
       "ecchi",
       "japanese production",
       "lgbtq+ themes",
@@ -1921,7 +1922,7 @@
       "tbs wonderful"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/24195.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/24195.jpg"
   },
   {
     "title": "Fuuun Ishin Dai☆Shougun",
@@ -2166,7 +2167,7 @@
       "yandere"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/80752.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/80752.jpg"
   },
   {
     "title": "High School DxD",
@@ -2888,7 +2889,7 @@
       "warrior"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/74045.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/74045.jpg"
   },
   {
     "title": "Ixion Saga DT",
@@ -2969,7 +2970,7 @@
       "visible aura"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/42863.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/42863.jpg"
   },
   {
     "title": "Juuni Kokuki",
@@ -3185,6 +3186,7 @@
       "dialogue driven",
       "drama",
       "earth",
+      "ensemble cast",
       "episodic",
       "faceless background characters",
       "facial distortion",
@@ -3258,6 +3260,7 @@
       "tropes",
       "tsundere",
       "unrequited love",
+      "urban",
       "verbal comedy",
       "violence",
       "visible aura",
@@ -3360,7 +3363,7 @@
       "urban fantasy"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/76297.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/76297.jpg"
   },
   {
     "title": "Kamisama Hajimemashita◎",
@@ -3479,7 +3482,7 @@
       "youkai"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/69187.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/69187.jpg"
   },
   {
     "title": "Kamisama no Memochou",
@@ -3965,7 +3968,7 @@
       "yuri"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/88431.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/88431.jpg"
   },
   {
     "title": "Kurau Phantom Memory",
@@ -4074,7 +4077,7 @@
       "violence"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/1997/106096.jpg"
+    "picture": "https://myanimelist.net/images/anime/1997/106096.jpg"
   },
   {
     "title": "Kurogane no Linebarrels",
@@ -4298,7 +4301,7 @@
       "war"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/21210.jpg"
+    "picture": "https://myanimelist.net/images/anime/1992/154425.jpg"
   },
   {
     "title": "Love Lab",
@@ -4699,7 +4702,6 @@
       "japanese production",
       "kuudere",
       "love polygon",
-      "male harem",
       "manga",
       "medium awareness",
       "middle school",
@@ -5289,21 +5291,30 @@
       "action drama",
       "alternate universe",
       "alternative world",
+      "anti-hero",
       "archery",
+      "arranged marriage",
       "asia",
       "betrayal",
       "bishounen",
+      "cgi",
       "christianity",
       "comedy",
       "conspiracy",
       "cross-dressing",
       "crossdressing",
+      "cultivation",
+      "cyborg",
       "disaster",
+      "dragons",
       "drama",
+      "drawing",
       "earth",
       "fantasy",
       "fantasy world",
+      "female protagonist",
       "fictional location",
+      "fugitive",
       "gainax bounce",
       "guns",
       "heterosexual",
@@ -5312,9 +5323,11 @@
       "japanese production",
       "love polygon",
       "love triangle",
+      "magic",
       "male protagonist",
       "manly",
       "mecha",
+      "military",
       "motifs",
       "new",
       "original work",
@@ -5324,6 +5337,7 @@
       "politics",
       "post-credits scene",
       "recycled animation -- to be split and deleted",
+      "reincarnation",
       "religion",
       "reverse trap",
       "robot",
@@ -5333,20 +5347,25 @@
       "sci-fi",
       "science fiction",
       "science-fiction",
+      "space opera",
       "space travel",
       "speculative fiction",
       "super robot",
       "super robots",
       "swordplay",
       "tarot",
+      "time skip",
       "torture",
       "tragedy",
       "tv censoring",
+      "twins",
+      "unrequited love",
       "violence",
-      "war"
+      "war",
+      "zombie"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/57803.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/57803.jpg"
   },
   {
     "title": "Nodame Cantabile",
@@ -5423,7 +5442,7 @@
       "university"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/11986.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/11986.jpg"
   },
   {
     "title": "Nyan Koi!",
@@ -5831,7 +5850,7 @@
       "yakuza"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/71992.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/71992.jpg"
   },
   {
     "title": "Ribbon no Kishi",
@@ -5873,7 +5892,7 @@
       "swordplay"
     ],
     "year": 1967,
-    "picture": "https://cdn.myanimelist.net/images/anime/1806/150475.jpg"
+    "picture": "https://myanimelist.net/images/anime/1806/150475.jpg"
   },
   {
     "title": "Romeo x Juliet",
@@ -5990,7 +6009,7 @@
       "violence"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/64061.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/64061.jpg"
   },
   {
     "title": "Shin Hakkenden",
@@ -6136,7 +6155,7 @@
       "world domination"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/49801.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/49801.jpg"
   },
   {
     "title": "Tate no Yuusha no Nariagari",
@@ -6356,7 +6375,7 @@
       "zombie"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1490/101365.jpg"
+    "picture": "https://myanimelist.net/images/anime/1490/101365.jpg"
   },
   {
     "title": "Teizokurei Daydream",
@@ -6468,7 +6487,7 @@
       "wooden horse"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/3784.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/3784.jpg"
   },
   {
     "title": "Tenpou Ibun: Ayakashi Ayashi",
@@ -6618,7 +6637,7 @@
       "youkai"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1122/133858.jpg"
+    "picture": "https://myanimelist.net/images/anime/1122/133858.jpg"
   },
   {
     "title": "Tokyo Ghoul:re",
@@ -6694,7 +6713,7 @@
       "violence"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1063/95086.jpg"
+    "picture": "https://myanimelist.net/images/anime/1063/95086.jpg"
   },
   {
     "title": "Tokyo Ravens",

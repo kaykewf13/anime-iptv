@@ -153,7 +153,7 @@
       "twins"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1845/134817.jpg"
+    "picture": "https://myanimelist.net/images/anime/1845/134817.jpg"
   },
   {
     "title": "Mononoke",
@@ -261,7 +261,7 @@
       "zashiki-warashi"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/20713.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/20713.jpg"
   },
   {
     "title": "Mousou Dairinin",
@@ -601,7 +601,7 @@
       "violence"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1492/113860.jpg"
+    "picture": "https://myanimelist.net/images/anime/1492/113860.jpg"
   },
   {
     "title": "Osomatsu-san: Hipipo-Zoku to Kagayaku Kajitsu",
@@ -670,5 +670,58 @@
     ],
     "year": 2023,
     "picture": "https://cdn.myanimelist.net/images/anime/1026/136351.jpg"
+  },
+  {
+    "title": "Shibou Yuugi de Meshi wo Kuu.",
+    "episodes": 11,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "achronological order",
+      "action",
+      "action drama",
+      "amputation",
+      "based on a light novel",
+      "battle royale",
+      "body horror",
+      "cgi",
+      "contemplation",
+      "cosmic horror",
+      "death game",
+      "drama",
+      "dystopian",
+      "fantasy",
+      "female protagonist",
+      "guns",
+      "high stakes game",
+      "high stakes games",
+      "high-stakes game",
+      "japanese production",
+      "kuudere",
+      "lgbtq+ themes",
+      "maids",
+      "mixed media",
+      "moral dilemma",
+      "mystery",
+      "non-linear narrative",
+      "novel",
+      "ojou-sama",
+      "philosophy",
+      "play or die",
+      "present",
+      "primarily female cast",
+      "psychological",
+      "shounen",
+      "suicide",
+      "surrealism",
+      "survival game",
+      "suspense",
+      "swords & co",
+      "thriller",
+      "tragedy",
+      "yuri"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1834/151169.jpg"
   }
 ]

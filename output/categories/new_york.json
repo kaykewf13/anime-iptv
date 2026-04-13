@@ -159,7 +159,7 @@
       "war"
     ],
     "year": 1985,
-    "picture": "https://cdn.myanimelist.net/images/anime/1106/91083.jpg"
+    "picture": "https://myanimelist.net/images/anime/1106/91083.jpg"
   },
   {
     "title": "Appleseed Alpha",
@@ -262,7 +262,7 @@
       "violence"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/1519/148684.jpg"
+    "picture": "https://myanimelist.net/images/anime/1519/148684.jpg"
   },
   {
     "title": "Back Street Girls: Gokudolls",
@@ -473,7 +473,7 @@
       "yaoi"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1190/93472.jpg"
+    "picture": "https://myanimelist.net/images/anime/1190/93472.jpg"
   },
   {
     "title": "Battle Spirits: Ryuuko no Ken",
@@ -666,7 +666,7 @@
       "work"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1300/133792.jpg"
+    "picture": "https://myanimelist.net/images/anime/1300/133792.jpg"
   },
   {
     "title": "BNA",
@@ -1095,7 +1095,7 @@
       "united states"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/81827.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/81827.jpg"
   },
   {
     "title": "Chousoku Henkei Gyrozetter",
@@ -1340,7 +1340,7 @@
       "violent retribution for accidental infringement"
     ],
     "year": 1989,
-    "picture": "https://cdn.myanimelist.net/images/anime/1367/107825.jpg"
+    "picture": "https://myanimelist.net/images/anime/1367/107825.jpg"
   },
   {
     "title": "Exper Zenon",
@@ -1551,7 +1551,7 @@
       "virtual world"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/88236.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/88236.jpg"
   },
   {
     "title": "Genma Taisen",
@@ -1669,7 +1669,7 @@
       "united states"
     ],
     "year": 1984,
-    "picture": "https://cdn.myanimelist.net/images/anime/1784/97034.jpg"
+    "picture": "https://myanimelist.net/images/anime/1784/97034.jpg"
   },
   {
     "title": "Godzilla: The Series",
@@ -2043,6 +2043,7 @@
     "type": "TV",
     "status": "FINISHED",
     "tags": [
+      "19th century",
       "action",
       "adventure",
       "americas",
@@ -2066,6 +2067,7 @@
       "death",
       "drama",
       "earth",
+      "england",
       "engrish",
       "epic fantasy",
       "europe",
@@ -2578,7 +2580,7 @@
       "yuri"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1252/115539.jpg"
+    "picture": "https://myanimelist.net/images/anime/1252/115539.jpg"
   },
   {
     "title": "Kyou kara Maou!",
@@ -2750,7 +2752,7 @@
       "violent retribution for accidental infringement"
     ],
     "year": 1989,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/82033.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/82033.jpg"
   },
   {
     "title": "Love Live! The School Idol Movie",
@@ -3062,11 +3064,11 @@
       "wardrobe malfunction"
     ],
     "year": 1990,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/67821.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/67821.jpg"
   },
   {
     "title": "Meitantei Conan",
-    "episodes": 1193,
+    "episodes": 1195,
     "type": "TV",
     "status": "ONGOING",
     "tags": [
@@ -3182,7 +3184,7 @@
       "work"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/75199.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/75199.jpg"
   },
   {
     "title": "Meitantei Conan Movie 19: Gouka no Himawari",
@@ -3349,7 +3351,7 @@
       "wardrobe malfunction"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/1543/134894.jpg"
+    "picture": "https://myanimelist.net/images/anime/1543/134894.jpg"
   },
   {
     "title": "Mutant Turtles: Choujin Densetsu-hen",
@@ -3411,7 +3413,7 @@
       "western comics"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/44255.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/44255.jpg"
   },
   {
     "title": "Ninja Ryuukenden",
@@ -4042,6 +4044,7 @@
       "place",
       "plot continuity",
       "present",
+      "primarily adult cast",
       "primarily male cast",
       "psi-powers",
       "psychological drama",
@@ -4091,6 +4094,7 @@
       "long time span",
       "middle east",
       "mina",
+      "modeling",
       "moscow",
       "new",
       "new york",
@@ -4106,6 +4110,7 @@
       "slice of life",
       "speculative fiction",
       "time",
+      "travel",
       "united kingdom",
       "united states"
     ],

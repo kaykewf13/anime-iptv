@@ -235,6 +235,7 @@
       "death",
       "delinquent",
       "demi-humans",
+      "demon",
       "disaster",
       "drama",
       "earth",
@@ -252,6 +253,7 @@
       "following one's dream",
       "gore",
       "harem",
+      "hero of strong character",
       "heterosexual",
       "hostage situation",
       "isekai",
@@ -269,6 +271,7 @@
       "medieval",
       "meta",
       "misleading beginning",
+      "monster",
       "mundane made awesome",
       "murder",
       "mutilation",
@@ -337,6 +340,7 @@
       "action",
       "action comedy",
       "alchemy",
+      "almighty hero",
       "alternate universe",
       "alternative world",
       "anti-hero",
@@ -348,7 +352,9 @@
       "contract killer / assassin",
       "cult",
       "dark fantasy",
+      "delinquent",
       "demi-humans",
+      "demon",
       "demons",
       "dragons",
       "drama",
@@ -360,6 +366,7 @@
       "female harem",
       "gore",
       "harem",
+      "hero of strong character",
       "isekai",
       "japanese production",
       "kemonomimi",
@@ -368,6 +375,7 @@
       "male protagonist",
       "medieval",
       "meta",
+      "monster",
       "nobleman",
       "nudity",
       "overpowered main characters",
@@ -388,6 +396,7 @@
       "tragedy",
       "trains",
       "transformations",
+      "tsundere",
       "vampire",
       "witch",
       "zombie"
@@ -439,6 +448,7 @@
       "place",
       "politician",
       "politics",
+      "prime video original",
       "real robot",
       "real robots",
       "robot",
@@ -829,7 +839,7 @@
       "violence"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/1656/137618.jpg"
+    "picture": "https://myanimelist.net/images/anime/1656/137618.jpg"
   },
   {
     "title": "Sanctuary",
@@ -888,7 +898,7 @@
       "yakuza"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/1795/105898.jpg"
+    "picture": "https://myanimelist.net/images/anime/1795/105898.jpg"
   },
   {
     "title": "Sango Shou Densetsu: Aoi Umi no Elfie",

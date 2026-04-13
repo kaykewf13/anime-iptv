@@ -241,7 +241,7 @@
       "war"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1109/154247.jpg"
+    "picture": "https://myanimelist.net/images/anime/1109/154247.jpg"
   },
   {
     "title": "Amagami-san Chi no Enmusubi",
@@ -574,7 +574,7 @@
       "zettai ryouiki"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/60781.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/60781.jpg"
   },
   {
     "title": "Charlotte",
@@ -671,7 +671,7 @@
       "yandere"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/1826/147276.jpg"
+    "picture": "https://myanimelist.net/images/anime/1826/147276.jpg"
   },
   {
     "title": "Days (Music)",
@@ -853,6 +853,7 @@
       "skimpy clothing",
       "slapstick",
       "slide show animation",
+      "snowscape",
       "speculative fiction",
       "super power",
       "super robot",
@@ -939,13 +940,13 @@
       "working life"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1603/111352.jpg"
+    "picture": "https://myanimelist.net/images/anime/1603/111352.jpg"
   },
   {
     "title": "Gnosia",
     "episodes": 21,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "achromatic",
       "agender",
@@ -962,12 +963,15 @@
       "clone",
       "cosmic horror",
       "death game",
+      "detective",
       "drama",
       "ensemble cast",
+      "fan service",
       "game",
       "gender bending",
       "ghost",
       "gods",
+      "gyaru",
       "heterosexual",
       "japanese production",
       "lgbtq+ themes",
@@ -987,14 +991,16 @@
       "struggle to survive",
       "suicide",
       "survival",
+      "survival game",
       "suspense",
+      "technology",
       "thriller",
       "time loop",
       "time travel",
       "visual novel"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1257/152352.jpg"
+    "picture": "https://myanimelist.net/images/anime/1257/152352.jpg"
   },
   {
     "title": "Hanada Shounen-shi",
@@ -1175,7 +1181,7 @@
       "war"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/3622.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/3622.jpg"
   },
   {
     "title": "Higurashi no Naku Koro ni",
@@ -1382,7 +1388,7 @@
       "yuri"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1716/111533.jpg"
+    "picture": "https://myanimelist.net/images/anime/1716/111533.jpg"
   },
   {
     "title": "Higurashi no Naku Koro ni Kai",
@@ -1702,7 +1708,7 @@
       "twisted story"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1104/112106.jpg"
+    "picture": "https://myanimelist.net/images/anime/1104/112106.jpg"
   },
   {
     "title": "Jinrui wa Suitai Shimashita",
@@ -3091,7 +3097,7 @@
       "yandere"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/33465.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/33465.jpg"
   },
   {
     "title": "Monochrome (2024)",
@@ -3376,7 +3382,7 @@
       "tomboy"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/37787.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/37787.jpg"
   },
   {
     "title": "Precure Miracle Leap Movie: Minna to no Fushigi na Ichinichi",
@@ -3704,7 +3710,7 @@
       "winter"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/74641.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/74641.jpg"
   },
   {
     "title": "RDG: Red Data Girl",
@@ -4028,7 +4034,7 @@
       "yandere"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1444/108005.jpg"
+    "picture": "https://myanimelist.net/images/anime/1444/108005.jpg"
   },
   {
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
@@ -4402,7 +4408,7 @@
       "winter"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1301/93586.jpg"
+    "picture": "https://myanimelist.net/images/anime/1301/93586.jpg"
   },
   {
     "title": "Sentai Daishikkaku 2nd Season",
@@ -4448,7 +4454,28 @@
       "work"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1405/147694.jpg"
+    "picture": "https://myanimelist.net/images/anime/1405/147694.jpg"
+  },
+  {
+    "title": "Shijian Zhizi",
+    "episodes": 1,
+    "type": "MOVIE",
+    "status": "FINISHED",
+    "tags": [
+      "adventure",
+      "amnesia",
+      "assassins",
+      "chinese animation",
+      "chinese production",
+      "fantasy",
+      "fugitive",
+      "original work",
+      "romance",
+      "time loop",
+      "time manipulation"
+    ],
+    "year": 2025,
+    "picture": "https://myanimelist.net/images/anime/1608/147803.jpg"
   },
   {
     "title": "Shikanoko Nokonoko Koshitantan",
@@ -4675,7 +4702,7 @@
       "yuri"
     ],
     "year": 1997,
-    "picture": "https://cdn.myanimelist.net/images/anime/1078/95285.jpg"
+    "picture": "https://myanimelist.net/images/anime/1078/95285.jpg"
   },
   {
     "title": "Shoujo☆Kageki Revue Starlight",
@@ -4773,7 +4800,7 @@
       "yuri"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1165/93552.jpg"
+    "picture": "https://myanimelist.net/images/anime/1165/93552.jpg"
   },
   {
     "title": "Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo",
@@ -4839,6 +4866,7 @@
       "butterfly effect",
       "canon filler",
       "chuunibyou",
+      "clone",
       "comedy",
       "conspiracy",
       "cross-dressing",
@@ -5088,7 +5116,7 @@
       "violence"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1120/120796.jpg"
+    "picture": "https://myanimelist.net/images/anime/1120/120796.jpg"
   },
   {
     "title": "Suzumiya Haruhi no Shoushitsu",
@@ -5239,7 +5267,6 @@
       "place",
       "plot continuity",
       "plot twists",
-      "pov",
       "present",
       "primarily child cast",
       "promise",
@@ -5742,7 +5769,7 @@
       "zombie"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1136/138410.jpg"
+    "picture": "https://myanimelist.net/images/anime/1136/138410.jpg"
   },
   {
     "title": "Unnamed Memory Act.2",
@@ -6185,6 +6212,6 @@
       "virtual world"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/76949.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/76949.jpg"
   }
 ]

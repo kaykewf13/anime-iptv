@@ -224,7 +224,7 @@
       "workplace"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/88286.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/88286.jpg"
   },
   {
     "title": "Bug Burger",
@@ -414,7 +414,7 @@
       "wrestling"
     ],
     "year": 1992,
-    "picture": "https://cdn.myanimelist.net/images/anime/1581/120955.jpg"
+    "picture": "https://myanimelist.net/images/anime/1581/120955.jpg"
   },
   {
     "title": "Dae Jang Geum: Jang Geum's Dream",
@@ -512,7 +512,7 @@
       "work"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/25501.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/25501.jpg"
   },
   {
     "title": "Deaimon",
@@ -899,7 +899,7 @@
       "united kingdom"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/80217.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/80217.jpg"
   },
   {
     "title": "Emiya-san Chi no Kyou no Gohan",
@@ -1188,7 +1188,7 @@
       "workplace"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1900/109179.jpg"
+    "picture": "https://myanimelist.net/images/anime/1900/109179.jpg"
   },
   {
     "title": "Gochuumon wa Usagi desu ka??",
@@ -1316,7 +1316,7 @@
       "workplace"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/88182.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/88182.jpg"
   },
   {
     "title": "Gochuumon wa Usagi desu ka?? Sing for You",
@@ -1435,6 +1435,7 @@
       "female protagonist",
       "food",
       "food preparation",
+      "iyashikei",
       "japanese production",
       "mina",
       "novel",
@@ -1634,7 +1635,7 @@
       "wordplay"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1221/148863.jpg"
+    "picture": "https://myanimelist.net/images/anime/1221/148863.jpg"
   },
   {
     "title": "Huangjin Tingyuan: Dongri Li de Xinnian Yuanwang",
@@ -1688,7 +1689,7 @@
       "stop motion animation"
     ],
     "year": 1959,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/77376.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/77376.jpg"
   },
   {
     "title": "Inko",
@@ -1806,7 +1807,7 @@
       "workplace"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1303/90909.jpg"
+    "picture": "https://myanimelist.net/images/anime/1303/90909.jpg"
   },
   {
     "title": "Isekai Shokudou",
@@ -2026,7 +2027,7 @@
       "workplace"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1777/117885.jpg"
+    "picture": "https://myanimelist.net/images/anime/1777/117885.jpg"
   },
   {
     "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
@@ -2048,6 +2049,7 @@
       "demi-humans",
       "dialogue driven",
       "dungeon",
+      "dungeons",
       "economics",
       "factions",
       "fantasy",
@@ -2058,8 +2060,10 @@
       "ingenuity",
       "isekai",
       "japanese production",
+      "knights",
       "language barrier",
       "magic",
+      "magical items",
       "male protagonist",
       "martial arts",
       "medieval",
@@ -2077,12 +2081,16 @@
       "shounen",
       "skeleton",
       "slice of life",
+      "sorcery",
       "storytelling",
+      "superpowers",
       "swordplay",
       "swords & co",
       "transformations",
+      "trauma",
       "twins",
       "violence",
+      "wizards",
       "zombie"
     ],
     "year": 2023,
@@ -2114,7 +2122,7 @@
       "youkai"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1584/142340.jpg"
+    "picture": "https://myanimelist.net/images/anime/1584/142340.jpg"
   },
   {
     "title": "Jintian Shao Zhu Bu Zaijia",
@@ -2426,7 +2434,7 @@
       "work"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/88612.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/88612.jpg"
   },
   {
     "title": "Kirakira☆Precure A La Mode Movie: Paritto! Omoide no Mille-Feuille!",
@@ -2869,7 +2877,7 @@
       "zombie"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/84004.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/84004.jpg"
   },
   {
     "title": "Log Horizon 2nd Season",
@@ -3118,6 +3126,19 @@
     ],
     "year": 2021,
     "picture": "https://cdn.myanimelist.net/images/anime/1510/108026.jpg"
+  },
+  {
+    "title": "Magokoro Musubi: Gyutto Komeru Omoi",
+    "episodes": 1,
+    "type": "ONA",
+    "status": "FINISHED",
+    "tags": [
+      "comedy",
+      "food preparation",
+      "present"
+    ],
+    "year": 2026,
+    "picture": "https://cdn.anisearch.com/images/anime/cover/21/21350_600.webp"
   },
   {
     "title": "Maiko-san Chi no Makanai-san",
@@ -3577,7 +3598,7 @@
       "super power"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/1047/91638.jpg"
+    "picture": "https://myanimelist.net/images/anime/1047/91638.jpg"
   },
   {
     "title": "Nekopara",
@@ -3783,7 +3804,7 @@
       "work"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1614/153337.jpg"
+    "picture": "https://myanimelist.net/images/anime/1614/153337.jpg"
   },
   {
     "title": "Nu Wushen de Canzhuo",
@@ -3926,7 +3947,7 @@
       "working life"
     ],
     "year": 1988,
-    "picture": "https://cdn.myanimelist.net/images/anime/1681/109663.jpg"
+    "picture": "https://myanimelist.net/images/anime/1681/109663.jpg"
   },
   {
     "title": "Okashi na Tensei",
@@ -4064,6 +4085,7 @@
       "henshin",
       "hero of strong character",
       "human enhancement",
+      "indigenous cultures",
       "japanese production",
       "journey",
       "kabuki",
@@ -4151,7 +4173,7 @@
       "zombie"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg"
+    "picture": "https://myanimelist.net/images/anime/1244/138851.jpg"
   },
   {
     "title": "One Piece Characters Log",
@@ -4586,7 +4608,7 @@
       "wordplay"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/77845.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/77845.jpg"
   },
   {
     "title": "Oshiete! Galko-chan: Natsuyasumi tte Hontou desu ka?",
@@ -5921,7 +5943,7 @@
       "weekly shounen jump"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/88434.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/88434.jpg"
   },
   {
     "title": "Shokugeki no Souma: San no Sara - Kyokuseiryou no Erina",
@@ -6144,7 +6166,7 @@
       "wordplay"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1360/119608.jpg"
+    "picture": "https://myanimelist.net/images/anime/1360/119608.jpg"
   },
   {
     "title": "Super Lovers",
@@ -6333,7 +6355,7 @@
       "work life"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/76236.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/76236.jpg"
   },
   {
     "title": "Tabi Machi Late Show",
@@ -6448,7 +6470,7 @@
       "zettai ryouiki"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/48841.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/48841.jpg"
   },
   {
     "title": "Tamako Market",
@@ -6594,15 +6616,20 @@
       "comedy",
       "cooking",
       "creature taming",
+      "demi-humans",
       "dragons",
       "dungeon",
       "dungeons",
+      "dwarves",
       "economics",
+      "educational",
       "elf",
+      "elves",
       "fantasy",
       "food",
       "food and beverage",
       "food preparation",
+      "food science",
       "found family",
       "game elements",
       "goblin",
@@ -6924,7 +6951,7 @@
       "working life"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1313/149355.jpg"
+    "picture": "https://myanimelist.net/images/anime/1313/149355.jpg"
   },
   {
     "title": "Tsukasa's♪Kitchen",
@@ -7055,7 +7082,7 @@
       "workplace"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/75262.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/75262.jpg"
   },
   {
     "title": "Working!!!",
@@ -7493,7 +7520,7 @@
       "tournament"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/1369/154654.jpg"
+    "picture": "https://myanimelist.net/images/anime/1369/154654.jpg"
   },
   {
     "title": "Yuru Camp△",

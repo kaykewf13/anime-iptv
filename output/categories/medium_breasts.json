@@ -137,7 +137,7 @@
       "violence"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/85963.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/85963.jpg"
   },
   {
     "title": "Benriya Saitou-san, Isekai ni Iku",
@@ -696,6 +696,7 @@
       "novel",
       "nudity",
       "paper clothes",
+      "place",
       "predominantly female cast",
       "primarily female cast",
       "revenge",
@@ -1122,6 +1123,7 @@
       "primarily female cast",
       "reincarnation",
       "rivalry",
+      "rural",
       "sake",
       "seinen",
       "shapeshifting",
@@ -1149,7 +1151,7 @@
       "working life"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1983/132329.jpg"
+    "picture": "https://myanimelist.net/images/anime/1983/132329.jpg"
   },
   {
     "title": "Isshun de Chiryou shiteita noni Yakutatazu to Tsuihou sareta Tensai Chiyushi, Yami Healer toshite Tanoshiku Ikiru",
@@ -1160,14 +1162,19 @@
       "action",
       "alcohol",
       "alternative world",
+      "aristocracy",
+      "banishment",
       "based on a light novel",
       "betrayal",
       "class struggle",
       "collateral damage",
       "comedy",
       "crime",
+      "demi-humans",
+      "drama",
       "dystopian",
       "elf",
+      "elves",
       "fantasy",
       "female harem",
       "friendship",
@@ -1189,13 +1196,17 @@
       "monster",
       "monster girl",
       "nekomimi",
+      "redemption",
       "revenge",
       "rivalry",
       "romance",
+      "royalty",
       "slavery",
       "small breasts",
+      "sorcery",
       "speculative fiction",
       "spellcasting",
+      "spirits",
       "stoic hero",
       "sudden naked girl appearance",
       "swords & co",
@@ -1368,7 +1379,7 @@
       "violence"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1224/132328.jpg"
+    "picture": "https://myanimelist.net/images/anime/1224/132328.jpg"
   },
   {
     "title": "Kaminaki Sekai no Kamisama Katsudou",
@@ -1614,7 +1625,7 @@
       "twins"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1452/139991.jpg"
+    "picture": "https://myanimelist.net/images/anime/1452/139991.jpg"
   },
   {
     "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
@@ -1722,16 +1733,18 @@
     "title": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "adventure",
       "alternative world",
+      "arranged marriage",
       "based on a light novel",
       "blackmail",
       "cheats",
       "civil war",
       "comedy",
+      "conspiracy",
       "crime",
       "curse",
       "death",
@@ -1747,6 +1760,7 @@
       "hostage situation",
       "isekai",
       "japanese production",
+      "kingdom management",
       "knight",
       "large breasts",
       "magic",
@@ -1781,7 +1795,7 @@
       "war"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1629/153722.jpg"
+    "picture": "https://myanimelist.net/images/anime/1629/153722.jpg"
   },
   {
     "title": "Kusuriya no Hitorigoto",
@@ -2007,7 +2021,7 @@
       "yuri"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1525/139345.jpg"
+    "picture": "https://myanimelist.net/images/anime/1525/139345.jpg"
   },
   {
     "title": "Meitou \"Isekai no Yu\" Kaitakuki: Around 40 Onsen Mania no Tensei Saki wa, Nonbiri Onsen Tengoku deshita",
@@ -2100,6 +2114,7 @@
       "small breasts",
       "supernatural",
       "swords & co",
+      "transgender",
       "tropes",
       "tsundere",
       "under one roof",
@@ -2163,7 +2178,7 @@
       "vampire"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1833/141321.jpg"
+    "picture": "https://myanimelist.net/images/anime/1833/141321.jpg"
   },
   {
     "title": "Oniichan wa Oshimai!",
@@ -2585,7 +2600,9 @@
       "anachronisms",
       "aristocracy",
       "aromantic",
+      "asexual",
       "autumn",
+      "award winning",
       "based on a manga",
       "boy meets girl",
       "calling your attacks",
@@ -2644,6 +2661,7 @@
       "kuudere",
       "large breasts",
       "large-scale war",
+      "lgbtq+ themes",
       "long time span",
       "magic",
       "magic circles",
@@ -2708,7 +2726,87 @@
       "winter"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg"
+    "picture": "https://myanimelist.net/images/anime/1015/138006.jpg"
+  },
+  {
+    "title": "Sousou no Frieren 2nd Season",
+    "episodes": 10,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "adventure",
+      "alcohol",
+      "anachronisms",
+      "aromantic",
+      "asexual",
+      "based on a manga",
+      "calling your attacks",
+      "coastal",
+      "comedy",
+      "death of a loved one",
+      "demons",
+      "dragons",
+      "drama",
+      "eating of humans",
+      "economics",
+      "elf",
+      "elves",
+      "fantasy",
+      "female protagonist",
+      "fictional location",
+      "fishing",
+      "flying",
+      "found family",
+      "funny expressions",
+      "helpful",
+      "high fantasy",
+      "historical",
+      "iyashikei",
+      "japanese production",
+      "jealousy",
+      "journey",
+      "long time span",
+      "magic",
+      "magic circles",
+      "manga",
+      "medieval",
+      "medieval european aesthetic",
+      "medium breasts",
+      "middle ages",
+      "mutilation",
+      "non-human protagonists",
+      "philosophy",
+      "place",
+      "running gag",
+      "rural",
+      "season",
+      "sequel",
+      "shounen",
+      "slice of life",
+      "slow-paced",
+      "small breasts",
+      "snowscape",
+      "speculative fiction",
+      "spellcasting",
+      "strong female lead",
+      "swordplay",
+      "swords & co",
+      "teamwork",
+      "the effects of time and distance on human relationships",
+      "time",
+      "time skip",
+      "tragedy",
+      "travel",
+      "tropes",
+      "urban",
+      "violence",
+      "visible aura",
+      "warrior",
+      "wilderness",
+      "winter"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1921/154528.jpg"
   },
   {
     "title": "Spaceship Agga Ruter",
@@ -2778,7 +2876,7 @@
       "violence"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/1399/111747.jpg"
+    "picture": "https://myanimelist.net/images/anime/1399/111747.jpg"
   },
   {
     "title": "Spy Kyoushitsu",
@@ -3105,7 +3203,7 @@
       "wardrobe malfunction"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/87158.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/87158.jpg"
   },
   {
     "title": "Tsuihousha Shokudou e Youkoso!",
@@ -3207,7 +3305,7 @@
       "working life"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1313/149355.jpg"
+    "picture": "https://myanimelist.net/images/anime/1313/149355.jpg"
   },
   {
     "title": "Zoku Gosenzo Sane",

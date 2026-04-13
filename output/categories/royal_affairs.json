@@ -811,7 +811,7 @@
       "warrior"
     ],
     "year": 1991,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/22254.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/22254.jpg"
   },
   {
     "title": "Arslan Senki (TV)",
@@ -1391,7 +1391,7 @@
       "war"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1427/147055.jpg"
+    "picture": "https://myanimelist.net/images/anime/1427/147055.jpg"
   },
   {
     "title": "Cheng He Titong",
@@ -1546,7 +1546,7 @@
       "yakuza"
     ],
     "year": 1988,
-    "picture": "https://cdn.myanimelist.net/images/anime/1272/138953.jpg"
+    "picture": "https://myanimelist.net/images/anime/1272/138953.jpg"
   },
   {
     "title": "Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita",
@@ -1603,7 +1603,7 @@
       "war"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/56243.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/56243.jpg"
   },
   {
     "title": "Code Geass: Boukoku no Akito 3 - Kagayaku Mono Ten yori Otsu",
@@ -1763,21 +1763,25 @@
   },
   {
     "title": "Eris no Seihai",
-    "episodes": 10,
+    "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "age gap",
       "anti-hero",
+      "aristocracy",
       "aristocrat",
       "arranged marriage",
       "based on a light novel",
+      "betrayal",
       "body swapping",
       "conspiracy",
+      "crime",
       "criminal organization",
       "detective",
       "drama",
       "drugs",
+      "ensemble cast",
       "fantasy",
       "female protagonist",
       "foreign",
@@ -1787,22 +1791,26 @@
       "heterosexual",
       "historical",
       "japanese production",
+      "medieval",
       "mystery",
       "nobility",
       "nobleman",
       "ojou-sama",
       "politics",
+      "possession",
       "revenge",
       "romance",
       "royal affairs",
       "shoujo",
+      "sorcery",
+      "spirits",
       "suicide",
       "supernatural",
       "tragedy",
       "villainess"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1404/154931.jpg"
+    "picture": "https://myanimelist.net/images/anime/1404/154931.jpg"
   },
   {
     "title": "Five Star Stories",
@@ -1853,7 +1861,7 @@
       "urban"
     ],
     "year": 1989,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/76054.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/76054.jpg"
   },
   {
     "title": "Fushigi no Umi no Nadia",
@@ -2011,7 +2019,7 @@
       "work"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1449/140344.jpg"
+    "picture": "https://myanimelist.net/images/anime/1449/140344.jpg"
   },
   {
     "title": "Genjitsu Shugi Yuusha no Oukoku Saikenki",
@@ -2564,7 +2572,7 @@
       "war"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/1094/116584.jpg"
+    "picture": "https://myanimelist.net/images/anime/1094/116584.jpg"
   },
   {
     "title": "Hateshinaki Scarlet",
@@ -2585,11 +2593,14 @@
       "full cgi",
       "heroine of strong character",
       "japanese production",
+      "philosophy",
       "psychological",
       "revenge",
       "royal affairs",
       "royalty",
+      "swordplay",
       "swords & co",
+      "time manipulation",
       "time travel",
       "tragedy"
     ],
@@ -2652,6 +2663,7 @@
     "type": "TV",
     "status": "FINISHED",
     "tags": [
+      "cgi",
       "drama",
       "fake relationship",
       "fantasy",
@@ -2779,6 +2791,66 @@
     ],
     "year": 2023,
     "picture": "https://cdn.myanimelist.net/images/anime/1032/137893.jpg"
+  },
+  {
+    "title": "Hirogaru Sky! Precure",
+    "episodes": 50,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "3d cg closing",
+      "action",
+      "animals",
+      "anthropomorphism",
+      "aviation",
+      "baseball",
+      "cute girls doing cute things",
+      "dragons",
+      "drawing",
+      "ensemble cast",
+      "episodic",
+      "family friendly",
+      "fantasy",
+      "female protagonist",
+      "found family",
+      "henshin",
+      "heroes",
+      "isekai",
+      "iyashikei",
+      "japanese production",
+      "kids",
+      "lgbtq+ themes",
+      "magic",
+      "magical boy",
+      "magical girl",
+      "mahou shoujo",
+      "makeup",
+      "male protagonist",
+      "martial arts",
+      "memory manipulation",
+      "monster boy",
+      "monster-of-the-week",
+      "parenthood",
+      "parkour",
+      "primarily female cast",
+      "reverse isekai",
+      "royal affairs",
+      "school",
+      "sequel",
+      "shapeshifting",
+      "shoujo",
+      "super power",
+      "superhero",
+      "teacher",
+      "time manipulation",
+      "tokusatsu",
+      "tomboy",
+      "urban",
+      "urban fantasy",
+      "yuri"
+    ],
+    "year": 2023,
+    "picture": "https://myanimelist.net/images/anime/1762/135268.jpg"
   },
   {
     "title": "Hitoribocchi no Isekai Kouryaku",
@@ -2952,6 +3024,39 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1041/153686.jpg"
   },
   {
+    "title": "Huyao Xiao Hongniang 3: Yue Hong Pian Part 2",
+    "episodes": 8,
+    "type": "ONA",
+    "status": "FINISHED",
+    "tags": [
+      "action",
+      "adventure",
+      "based on a manga",
+      "chinese animation",
+      "comedy",
+      "contemporary fantasy",
+      "cultivation",
+      "fantasy",
+      "female protagonist",
+      "heterosexual",
+      "historical",
+      "kemonomimi",
+      "magic",
+      "male protagonist",
+      "matchmaking",
+      "memory manipulation",
+      "non-human protagonists",
+      "reincarnation",
+      "romance",
+      "royal affairs",
+      "slavery",
+      "supernatural",
+      "youkai"
+    ],
+    "year": 2016,
+    "picture": "https://cdn.myanimelist.net/images/anime/1760/153690.jpg"
+  },
+  {
     "title": "IDOLiSH7 Third Beat! Part 2",
     "episodes": 17,
     "type": "TV",
@@ -2994,7 +3099,7 @@
       "work"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1458/125998.jpg"
+    "picture": "https://myanimelist.net/images/anime/1458/125998.jpg"
   },
   {
     "title": "Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu.",
@@ -3060,7 +3165,7 @@
     "title": "Isekai no Sata wa Shachiku Shidai",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "adult cast",
       "adult couples",
@@ -3095,6 +3200,7 @@
       "politics",
       "primarily adult cast",
       "psychoactive drugs",
+      "religion",
       "religious sect",
       "revenge",
       "romance",
@@ -3117,7 +3223,7 @@
       "yaoi"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1510/153806.jpg"
+    "picture": "https://myanimelist.net/images/anime/1510/153806.jpg"
   },
   {
     "title": "Isekai Shikkaku",
@@ -3655,7 +3761,7 @@
       "swordplay"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1084/142685.jpg"
+    "picture": "https://myanimelist.net/images/anime/1084/142685.jpg"
   },
   {
     "title": "Katachi",
@@ -3752,7 +3858,7 @@
       "twins"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1452/139991.jpg"
+    "picture": "https://myanimelist.net/images/anime/1452/139991.jpg"
   },
   {
     "title": "Kekkon Yubiwa Monogatari II",
@@ -3907,7 +4013,7 @@
       "warring states period"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/39511.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/39511.jpg"
   },
   {
     "title": "Kingdom 2nd Season",
@@ -3962,7 +4068,7 @@
       "warring states period"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/53589.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/53589.jpg"
   },
   {
     "title": "Kingdom 3rd Season",
@@ -4005,7 +4111,7 @@
       "warring states period"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1443/111830.jpg"
+    "picture": "https://myanimelist.net/images/anime/1443/111830.jpg"
   },
   {
     "title": "Kingdom 4th Season",
@@ -4046,7 +4152,7 @@
       "warring states period"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1566/122794.jpg"
+    "picture": "https://myanimelist.net/images/anime/1566/122794.jpg"
   },
   {
     "title": "Kisaki Kyouiku kara Nigetai Watashi",
@@ -4086,16 +4192,18 @@
     "title": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "adventure",
       "alternative world",
+      "arranged marriage",
       "based on a light novel",
       "blackmail",
       "cheats",
       "civil war",
       "comedy",
+      "conspiracy",
       "crime",
       "curse",
       "death",
@@ -4111,6 +4219,7 @@
       "hostage situation",
       "isekai",
       "japanese production",
+      "kingdom management",
       "knight",
       "large breasts",
       "magic",
@@ -4145,7 +4254,7 @@
       "war"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1629/153722.jpg"
+    "picture": "https://myanimelist.net/images/anime/1629/153722.jpg"
   },
   {
     "title": "Kizu darake Seijo yori Houfuku wo Komete",
@@ -5097,37 +5206,46 @@
       "wardrobe malfunction"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/42773.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/42773.jpg"
   },
   {
     "title": "Majutsushi Kunon wa Mieteiru",
     "episodes": 13,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "adventure",
       "age gap",
+      "agriculture",
       "arranged marriage",
       "based on a light novel",
+      "boarding school",
       "chuunibyou",
       "college",
       "coming of age",
+      "cross-dressing",
       "curse",
       "cute boys doing cute things",
       "disability",
+      "economics",
       "fantasy",
+      "femboy",
+      "food",
       "japanese production",
       "lgbtq+ themes",
       "magic",
       "maids",
       "male protagonist",
+      "primarily teen cast",
       "royal affairs",
       "seinen",
-      "surreal comedy"
+      "surreal comedy",
+      "swordplay",
+      "trap"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1704/154459.jpg"
+    "picture": "https://myanimelist.net/images/anime/1704/154459.jpg"
   },
   {
     "title": "Mofa Gongzhu de Xiao Fannao",
@@ -5187,6 +5305,7 @@
       "cosmic horror",
       "court politics",
       "demon",
+      "edo period",
       "exorcism",
       "exorcists",
       "fantasy",
@@ -5260,6 +5379,7 @@
       "original work",
       "politics",
       "pregnancy",
+      "primarily adult cast",
       "psychological",
       "psychological drama",
       "royal affairs",
@@ -5352,17 +5472,22 @@
   },
   {
     "title": "Neko Konogoro: Tenka Toitsu-hen",
-    "episodes": 0,
+    "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
+      "animal protagonists",
       "animals",
+      "anthropomorphic",
+      "cats",
       "comedy",
       "historical",
-      "royal affairs"
+      "non-human protagonists",
+      "royal affairs",
+      "short episodes"
     ],
     "year": 2025,
-    "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199486-KFraM4B7D8hY.jpg"
+    "picture": "https://myanimelist.net/images/anime/1896/150723.jpg"
   },
   {
     "title": "Neko no Ongaeshi",
@@ -5953,7 +6078,7 @@
       "verbal comedy"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1567/116866.jpg"
+    "picture": "https://myanimelist.net/images/anime/1567/116866.jpg"
   },
   {
     "title": "Outbreak Company",
@@ -6207,7 +6332,7 @@
       "urban"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1461/147981.jpg"
+    "picture": "https://myanimelist.net/images/anime/1461/147981.jpg"
   },
   {
     "title": "Puchi Pri*Yucie",
@@ -6703,7 +6828,7 @@
       "work"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1976/139963.jpg"
+    "picture": "https://myanimelist.net/images/anime/1976/139963.jpg"
   },
   {
     "title": "Saiunkoku Monogatari 2nd Season",
@@ -6855,7 +6980,7 @@
       "working life"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1947/114235.jpg"
+    "picture": "https://myanimelist.net/images/anime/1947/114235.jpg"
   },
   {
     "title": "Seijo no Maryoku wa Bannou desu Season 2",
@@ -6901,7 +7026,7 @@
       "swords & co"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1077/136855.jpg"
+    "picture": "https://myanimelist.net/images/anime/1077/136855.jpg"
   },
   {
     "title": "Sekai Meisaku Douwa: Aladdin to Mahou no Lamp",
@@ -6979,7 +7104,7 @@
       "time"
     ],
     "year": 1981,
-    "picture": "https://cdn.myanimelist.net/images/anime/1525/97099.jpg"
+    "picture": "https://myanimelist.net/images/anime/1525/97099.jpg"
   },
   {
     "title": "Sekai Meisaku Douwa: Hakuchou no Ouji",
@@ -7289,7 +7414,7 @@
       "war"
     ],
     "year": 1995,
-    "picture": "https://cdn.myanimelist.net/images/anime/1893/128632.jpg"
+    "picture": "https://myanimelist.net/images/anime/1893/128632.jpg"
   },
   {
     "title": "Shinpi no Sekai El-Hazard (TV)",
@@ -7768,7 +7893,7 @@
       "villainess"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1901/139910.jpg"
+    "picture": "https://myanimelist.net/images/anime/1901/139910.jpg"
   },
   {
     "title": "Tenkuu no Escaflowne",
@@ -8237,7 +8362,7 @@
       "youkai"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1570/135813.jpg"
+    "picture": "https://myanimelist.net/images/anime/1570/135813.jpg"
   },
   {
     "title": "Tezuka Osamu no Kyuuyaku Seisho Monogatari: In the Beginning",
@@ -8435,7 +8560,7 @@
       "wuxia"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1066/103049.jpg"
+    "picture": "https://myanimelist.net/images/anime/1066/103049.jpg"
   },
   {
     "title": "Tsuihousha Shokudou e Youkoso!",
@@ -8537,7 +8662,7 @@
       "working life"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1313/149355.jpg"
+    "picture": "https://myanimelist.net/images/anime/1313/149355.jpg"
   },
   {
     "title": "Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san",
@@ -8643,7 +8768,7 @@
       "witches"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1143/142439.jpg"
+    "picture": "https://myanimelist.net/images/anime/1143/142439.jpg"
   },
   {
     "title": "Unnamed Memory Act.2",
@@ -8809,7 +8934,7 @@
       "war"
     ],
     "year": 1979,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/57043.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/57043.jpg"
   },
   {
     "title": "Versailles no Bara (Movie)",
@@ -9001,7 +9126,7 @@
       "yuri"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1531/137711.jpg"
+    "picture": "https://myanimelist.net/images/anime/1531/137711.jpg"
   },
   {
     "title": "Watashi no Shiawase na Kekkon",

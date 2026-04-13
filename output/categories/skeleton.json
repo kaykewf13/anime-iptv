@@ -863,6 +863,7 @@
       "novel",
       "nudity",
       "paper clothes",
+      "place",
       "predominantly female cast",
       "primarily female cast",
       "revenge",
@@ -1065,6 +1066,91 @@
     "picture": "https://cdn.myanimelist.net/images/anime/12/67333.jpg"
   },
   {
+    "title": "Fate/strange Fake",
+    "episodes": 13,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "action",
+      "adventure",
+      "america",
+      "anachronism",
+      "animals",
+      "archery",
+      "assassins",
+      "based on a light novel",
+      "battle royale",
+      "body swapping",
+      "chimera",
+      "conspiracy",
+      "contemporary fantasy",
+      "curses",
+      "cyborg",
+      "dark fantasy",
+      "death game",
+      "demons",
+      "desert",
+      "dissociative identities",
+      "drama",
+      "ensemble cast",
+      "factions",
+      "fantasy",
+      "fighting",
+      "foreign",
+      "gambling",
+      "gender bending",
+      "gods",
+      "gore",
+      "government",
+      "guns",
+      "homunculi",
+      "idealism",
+      "japanese production",
+      "knights",
+      "legendary warriors",
+      "lgbtq+ themes",
+      "magic",
+      "magical items",
+      "medieval",
+      "memory manipulation",
+      "military",
+      "monsters",
+      "moral dilemma",
+      "mystery",
+      "mythology",
+      "necromancy",
+      "nun",
+      "police",
+      "proxy battles",
+      "psychological",
+      "religion",
+      "religious sect",
+      "secret organization",
+      "shapeshifting",
+      "skeleton",
+      "sorcery",
+      "spirits",
+      "supernatural",
+      "superpowers",
+      "survival game",
+      "swordplay",
+      "terrorism",
+      "thriller",
+      "tournament",
+      "tragedy",
+      "trauma",
+      "united states",
+      "urban",
+      "urban fantasy",
+      "vampire",
+      "vampires",
+      "war",
+      "werewolf"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1752/150192.jpg"
+  },
+  {
     "title": "Fresh Precure!",
     "episodes": 50,
     "type": "TV",
@@ -1128,7 +1214,7 @@
       "veterinarian"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/21267.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/21267.jpg"
   },
   {
     "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
@@ -1427,7 +1513,7 @@
       "tokusatsu"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/76029.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/76029.jpg"
   },
   {
     "title": "Gintama'",
@@ -2021,7 +2107,26 @@
       "zombie"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/47037.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/47037.jpg"
+  },
+  {
+    "title": "Inferno Cop Specials",
+    "episodes": 3,
+    "type": "SPECIAL",
+    "status": "FINISHED",
+    "tags": [
+      "action",
+      "comedy",
+      "crossover",
+      "gag",
+      "male protagonist",
+      "original work",
+      "parody",
+      "short episodes",
+      "skeleton"
+    ],
+    "year": 2015,
+    "picture": "https://cdn.myanimelist.net/images/anime/1169/152860.jpg"
   },
   {
     "title": "Inferno Cop: Fact Files",
@@ -2152,7 +2257,7 @@
       "zashiki-warashi"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/1760/98794.jpg"
+    "picture": "https://myanimelist.net/images/anime/1760/98794.jpg"
   },
   {
     "title": "Isekai Quartet",
@@ -2177,6 +2282,7 @@
       "ensemble cast",
       "fantasy",
       "female protagonist",
+      "flash",
       "flat chest jokes",
       "gods",
       "half-length episodes",
@@ -2218,7 +2324,7 @@
       "visible aura"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1965/99667.jpg"
+    "picture": "https://myanimelist.net/images/anime/1965/99667.jpg"
   },
   {
     "title": "Isekai Quartet 2",
@@ -2273,7 +2379,7 @@
       "visible aura"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1030/103383.jpg"
+    "picture": "https://myanimelist.net/images/anime/1030/103383.jpg"
   },
   {
     "title": "Isekai Suicide Squad",
@@ -2384,7 +2490,7 @@
       "war"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1364/140875.jpg"
+    "picture": "https://myanimelist.net/images/anime/1364/140875.jpg"
   },
   {
     "title": "Itoshi no Betty Mamonogatari",
@@ -2446,6 +2552,7 @@
       "demi-humans",
       "dialogue driven",
       "dungeon",
+      "dungeons",
       "economics",
       "factions",
       "fantasy",
@@ -2456,8 +2563,10 @@
       "ingenuity",
       "isekai",
       "japanese production",
+      "knights",
       "language barrier",
       "magic",
+      "magical items",
       "male protagonist",
       "martial arts",
       "medieval",
@@ -2475,12 +2584,16 @@
       "shounen",
       "skeleton",
       "slice of life",
+      "sorcery",
       "storytelling",
+      "superpowers",
       "swordplay",
       "swords & co",
       "transformations",
+      "trauma",
       "twins",
       "violence",
+      "wizards",
       "zombie"
     ],
     "year": 2023,
@@ -2903,7 +3016,7 @@
       "zettai ryouiki"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/1063/147270.jpg"
+    "picture": "https://myanimelist.net/images/anime/1063/147270.jpg"
   },
   {
     "title": "Kyou kara Maou!",
@@ -3231,7 +3344,7 @@
       "zombie"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/84004.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/84004.jpg"
   },
   {
     "title": "Made in Abyss Movie 1: Tabidachi no Yoake",
@@ -3278,7 +3391,7 @@
       "travel"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1173/95167.jpg"
+    "picture": "https://myanimelist.net/images/anime/1173/95167.jpg"
   },
   {
     "title": "Mahou Senshi Louie",
@@ -3691,7 +3804,7 @@
       "violence"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/80587.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/80587.jpg"
   },
   {
     "title": "Maoujou de Oyasumi",
@@ -3782,7 +3895,7 @@
       "wordplay"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1448/108514.jpg"
+    "picture": "https://myanimelist.net/images/anime/1448/108514.jpg"
   },
   {
     "title": "Monster Disco",
@@ -3876,7 +3989,7 @@
       "violent"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/19558.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/19558.jpg"
   },
   {
     "title": "Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga",
@@ -4120,6 +4233,7 @@
       "henshin",
       "hero of strong character",
       "human enhancement",
+      "indigenous cultures",
       "japanese production",
       "journey",
       "kabuki",
@@ -4207,7 +4321,7 @@
       "zombie"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg"
+    "picture": "https://myanimelist.net/images/anime/1244/138851.jpg"
   },
   {
     "title": "One Piece 3D: Mugiwara Chase",
@@ -4253,7 +4367,7 @@
       "swordplay"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/32455.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/32455.jpg"
   },
   {
     "title": "One Piece Fan Letter",
@@ -4287,7 +4401,7 @@
       "war"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1455/146229.jpg"
+    "picture": "https://myanimelist.net/images/anime/1455/146229.jpg"
   },
   {
     "title": "One Piece Film: Gold",
@@ -4603,7 +4717,7 @@
       "swordplay"
     ],
     "year": 2000,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/20923.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/20923.jpg"
   },
   {
     "title": "Ougon Bat",
@@ -5178,6 +5292,7 @@
       "demons",
       "elf",
       "fantasy",
+      "flash",
       "isekai",
       "kingdom management",
       "magic",
@@ -5926,7 +6041,7 @@
       "wardrobe malfunction"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1580/141243.jpg"
+    "picture": "https://myanimelist.net/images/anime/1580/141243.jpg"
   },
   {
     "title": "The New Gate",
@@ -6024,6 +6139,30 @@
     ],
     "year": 1997,
     "picture": "https://cdn.myanimelist.net/images/anime/8/28202.jpg"
+  },
+  {
+    "title": "Yami Shibai 16",
+    "episodes": 13,
+    "type": "TV",
+    "status": "ONGOING",
+    "tags": [
+      "avant garde",
+      "avant-garde",
+      "curses",
+      "episodic",
+      "ghost",
+      "ghost stories",
+      "horror",
+      "japanese production",
+      "original work",
+      "sequel",
+      "short episodes",
+      "skeleton",
+      "supernatural",
+      "urban legend"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1666/154215.jpg"
   },
   {
     "title": "Yuureisensen",

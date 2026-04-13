@@ -195,7 +195,7 @@
       "violence"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/50559.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/50559.jpg"
   },
   {
     "title": "Bakemonogatari",
@@ -338,7 +338,7 @@
       "youkai"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/75274.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/75274.jpg"
   },
   {
     "title": "Bishounen Tanteidan",
@@ -875,7 +875,7 @@
       "slice of life"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/82325.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/82325.jpg"
   },
   {
     "title": "Otona Joshi no Anime Time 2",
@@ -919,7 +919,6 @@
       "comedy",
       "coming of age",
       "cross-dressing",
-      "crossdressing",
       "daily life",
       "drama",
       "earth",
@@ -960,8 +959,10 @@
       "super deformed",
       "the arts",
       "time",
+      "time skip",
       "transgender",
       "university",
+      "unrequited love",
       "visual arts"
     ],
     "year": 2005,
@@ -1002,7 +1003,7 @@
       "virtual world"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/84611.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/84611.jpg"
   },
   {
     "title": "The Garden of Sinners",
@@ -1102,11 +1103,13 @@
     "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
     "episodes": 24,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
+      "absurdity",
       "action",
       "action comedy",
       "adult cast",
+      "aliens",
       "asia",
       "based on a manga",
       "brainwashing",
@@ -1122,6 +1125,7 @@
       "crime",
       "crunchyroll co-production",
       "cyborgs",
+      "dark comedy",
       "drama",
       "earth",
       "ecchi",
@@ -1133,12 +1137,15 @@
       "following one's dream",
       "gangs",
       "good vs evil",
+      "gore",
       "henshin",
       "hero of strong character",
       "heroine of strong character",
       "huge breasts",
       "human enhancement",
+      "idealism",
       "idol",
+      "idols",
       "insects of doom",
       "japan",
       "japanese production",
@@ -1147,6 +1154,7 @@
       "manga",
       "martial arts",
       "monster",
+      "monsters",
       "nostalgia",
       "nudity",
       "otaku culture",
@@ -1159,13 +1167,16 @@
       "preaired episodes",
       "predominantly adult cast",
       "present",
+      "psychological",
       "redemption",
       "revenge",
       "rivalry",
       "saving the world",
+      "science fiction",
       "secret organisation",
       "seinen",
       "self-parody",
+      "sentai",
       "sibling rivalry",
       "soft science fiction",
       "speculative fiction",
@@ -1177,6 +1188,8 @@
       "superhero",
       "superheroes",
       "supernatural drama",
+      "superpowers",
+      "supervillains",
       "surreal comedy",
       "teamwork",
       "the power of love",
@@ -1186,13 +1199,15 @@
       "tone changes",
       "tournament",
       "training",
+      "transformations",
       "tropes",
       "violence",
       "visible aura",
-      "world domination"
+      "world domination",
+      "yakuza"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1455/152139.jpg"
+    "picture": "https://myanimelist.net/images/anime/1455/152139.jpg"
   },
   {
     "title": "Urawa no Usagi-chan",
@@ -1235,7 +1250,7 @@
       "urban"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/86398.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/86398.jpg"
   },
   {
     "title": "Virtual-san wa Miteiru",

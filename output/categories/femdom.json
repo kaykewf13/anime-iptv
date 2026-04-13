@@ -82,6 +82,7 @@
       "in medias res",
       "japanese production",
       "kaiju",
+      "lgbtq+ themes",
       "lost civilization",
       "love polygon",
       "love triangle",
@@ -411,6 +412,7 @@
       "kuudere",
       "lgbtq+ themes",
       "male protagonist",
+      "manga",
       "mature romance",
       "nonsense-comedy",
       "nudity",
@@ -418,11 +420,13 @@
       "ojou-sama",
       "otaku",
       "otaku culture",
+      "pantsu",
       "present",
       "primarily adult cast",
       "romance",
       "sadism",
       "school club",
+      "school life",
       "scuba diving",
       "seinen",
       "sequel",
@@ -568,13 +572,13 @@
       "violence"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1114/140805.jpg"
+    "picture": "https://myanimelist.net/images/anime/1114/140805.jpg"
   },
   {
     "title": "Mato Seihei no Slave 2",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "adventure",
@@ -628,7 +632,7 @@
       "violence"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1668/148737.jpg"
+    "picture": "https://myanimelist.net/images/anime/1668/148737.jpg"
   },
   {
     "title": "Prison School",
@@ -890,7 +894,49 @@
       "yandere"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/75106.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/75106.jpg"
+  },
+  {
+    "title": "Shoushimin Series 2nd Season",
+    "episodes": 12,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "anti-hero",
+      "aromantic",
+      "based on a novel",
+      "conspiracy",
+      "countryside",
+      "crime",
+      "detective",
+      "ensemble cast",
+      "fake relationship",
+      "female protagonist",
+      "femdom",
+      "food",
+      "genius",
+      "high school",
+      "japanese production",
+      "male protagonist",
+      "mixed media",
+      "mystery",
+      "present",
+      "primarily teen cast",
+      "psychological",
+      "revenge",
+      "rural",
+      "school",
+      "school club",
+      "sequel",
+      "slice of life",
+      "stoic hero",
+      "suicide",
+      "supernatural drama",
+      "tragedy",
+      "unrequited love"
+    ],
+    "year": 2025,
+    "picture": "https://cdn.myanimelist.net/images/anime/1224/148321.jpg"
   },
   {
     "title": "Speed Grapher",
@@ -1021,7 +1067,7 @@
       "war-zone realities"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/12343.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/12343.jpg"
   },
   {
     "title": "Tokyo Ghoul:re",
@@ -1097,6 +1143,6 @@
       "violence"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1063/95086.jpg"
+    "picture": "https://myanimelist.net/images/anime/1063/95086.jpg"
   }
 ]

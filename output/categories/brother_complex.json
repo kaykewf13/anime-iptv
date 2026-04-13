@@ -152,6 +152,26 @@
     "picture": "https://cdn.myanimelist.net/images/anime/8/47377.jpg"
   },
   {
+    "title": "Do You Like Big Girls?",
+    "episodes": 0,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "based on a manga",
+      "brother complex",
+      "comedy",
+      "harem",
+      "playboys",
+      "romance",
+      "school life",
+      "sister complex",
+      "sports",
+      "volleyball"
+    ],
+    "year": 2026,
+    "picture": "https://cdn.anime-planet.com/anime/primary/do-you-like-big-girls-1.webp"
+  },
+  {
     "title": "Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita",
     "episodes": 12,
     "type": "TV",
@@ -277,7 +297,7 @@
       "violent retribution for accidental infringement"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/1966/121554.jpg"
+    "picture": "https://myanimelist.net/images/anime/1966/121554.jpg"
   },
   {
     "title": "Kiss x Sis (TV)",
@@ -358,7 +378,7 @@
       "watersports"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/1660/121553.jpg"
+    "picture": "https://myanimelist.net/images/anime/1660/121553.jpg"
   },
   {
     "title": "Magikano",
@@ -655,7 +675,7 @@
       "violence"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1322/114329.jpg"
+    "picture": "https://myanimelist.net/images/anime/1322/114329.jpg"
   },
   {
     "title": "Mahouka Koukou no Yuutousei",
@@ -1093,6 +1113,6 @@
       "visual novel"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/76216.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/76216.jpg"
   }
 ]

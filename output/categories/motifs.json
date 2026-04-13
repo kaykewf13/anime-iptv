@@ -81,7 +81,7 @@
       "yandere"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/73520.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/73520.jpg"
   },
   {
     "title": "Babel Nisei (2001)",
@@ -387,7 +387,7 @@
       "zettai ryouiki"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/60781.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/60781.jpg"
   },
   {
     "title": "Diabolik Lovers",
@@ -522,7 +522,7 @@
       "tragedy"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1519/109068.jpg"
+    "picture": "https://myanimelist.net/images/anime/1519/109068.jpg"
   },
   {
     "title": "Etotama",
@@ -705,7 +705,7 @@
       "work"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/18179.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/18179.jpg"
   },
   {
     "title": "Fairy Tail: 100-nen Quest",
@@ -754,7 +754,7 @@
       "western zodiac"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1087/144083.jpg"
+    "picture": "https://myanimelist.net/images/anime/1087/144083.jpg"
   },
   {
     "title": "Fate/kaleid liner Prisma☆Illya",
@@ -838,7 +838,7 @@
       "yuri"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/1773/121542.jpg"
+    "picture": "https://myanimelist.net/images/anime/1773/121542.jpg"
   },
   {
     "title": "Fate/kaleid liner Prisma☆Illya 2wei!",
@@ -929,7 +929,7 @@
       "yuri"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/64175.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/64175.jpg"
   },
   {
     "title": "Fruits Basket",
@@ -1067,6 +1067,7 @@
       "family without mother",
       "fantasy",
       "fate",
+      "female harem",
       "female protagonist",
       "femboy",
       "following one's dream",
@@ -1166,7 +1167,7 @@
       "zodiac"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1447/99827.jpg"
+    "picture": "https://myanimelist.net/images/anime/1447/99827.jpg"
   },
   {
     "title": "Fruits Basket 2nd Season",
@@ -1304,7 +1305,7 @@
       "zodiac"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg"
+    "picture": "https://myanimelist.net/images/anime/1972/111635.jpg"
   },
   {
     "title": "Fruits Basket: Prelude",
@@ -1361,7 +1362,7 @@
       "urban"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1034/120096.jpg"
+    "picture": "https://myanimelist.net/images/anime/1034/120096.jpg"
   },
   {
     "title": "Fruits Basket: The Final",
@@ -1707,6 +1708,7 @@
       "mutilation",
       "mystery",
       "necromancy",
+      "orphan",
       "philosopher's stone",
       "philosophy",
       "place",
@@ -2414,7 +2416,7 @@
       "work life"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/1230/98847.jpg"
+    "picture": "https://myanimelist.net/images/anime/1230/98847.jpg"
   },
   {
     "title": "Katekyou Hitman Reborn!",
@@ -2654,7 +2656,7 @@
       "twins"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1724/121343.jpg"
+    "picture": "https://myanimelist.net/images/anime/1724/121343.jpg"
   },
   {
     "title": "Kyoukaisenjou no Horizon",
@@ -3470,21 +3472,30 @@
       "action drama",
       "alternate universe",
       "alternative world",
+      "anti-hero",
       "archery",
+      "arranged marriage",
       "asia",
       "betrayal",
       "bishounen",
+      "cgi",
       "christianity",
       "comedy",
       "conspiracy",
       "cross-dressing",
       "crossdressing",
+      "cultivation",
+      "cyborg",
       "disaster",
+      "dragons",
       "drama",
+      "drawing",
       "earth",
       "fantasy",
       "fantasy world",
+      "female protagonist",
       "fictional location",
+      "fugitive",
       "gainax bounce",
       "guns",
       "heterosexual",
@@ -3493,9 +3504,11 @@
       "japanese production",
       "love polygon",
       "love triangle",
+      "magic",
       "male protagonist",
       "manly",
       "mecha",
+      "military",
       "motifs",
       "new",
       "original work",
@@ -3505,6 +3518,7 @@
       "politics",
       "post-credits scene",
       "recycled animation -- to be split and deleted",
+      "reincarnation",
       "religion",
       "reverse trap",
       "robot",
@@ -3514,20 +3528,25 @@
       "sci-fi",
       "science fiction",
       "science-fiction",
+      "space opera",
       "space travel",
       "speculative fiction",
       "super robot",
       "super robots",
       "swordplay",
       "tarot",
+      "time skip",
       "torture",
       "tragedy",
       "tv censoring",
+      "twins",
+      "unrequited love",
       "violence",
-      "war"
+      "war",
+      "zombie"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/57803.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/57803.jpg"
   },
   {
     "title": "Occultic;Nine",
@@ -3660,7 +3679,7 @@
       "water scarcity"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/1541/153291.jpg"
+    "picture": "https://myanimelist.net/images/anime/1541/153291.jpg"
   },
   {
     "title": "Persona 4 the Animation",
@@ -3950,7 +3969,7 @@
       "yandere"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1444/108005.jpg"
+    "picture": "https://myanimelist.net/images/anime/1444/108005.jpg"
   },
   {
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
@@ -4848,7 +4867,7 @@
       "yuri"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/86621.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/86621.jpg"
   },
   {
     "title": "Starry☆Sky",
@@ -5161,7 +5180,7 @@
       "wardrobe malfunction"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/67795.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/67795.jpg"
   },
   {
     "title": "Trinity Seven Movie 1: Eternity Library to Alchemic Girl",
@@ -5230,7 +5249,7 @@
       "wardrobe malfunction"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/1031/112821.jpg"
+    "picture": "https://myanimelist.net/images/anime/1031/112821.jpg"
   },
   {
     "title": "Trinity Seven Movie 2: Heavens Library to Crimson Lord",
@@ -5304,7 +5323,7 @@
       "wardrobe malfunction"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1215/100764.jpg"
+    "picture": "https://myanimelist.net/images/anime/1215/100764.jpg"
   },
   {
     "title": "Trinity Seven: Nanatsu no Taizai to Nana Madoushi",
@@ -5348,7 +5367,7 @@
       "violent retribution for accidental infringement"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/74066.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/74066.jpg"
   },
   {
     "title": "Umineko no Naku Koro ni",
@@ -5867,7 +5886,7 @@
       "war"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1872/140863.jpg"
+    "picture": "https://myanimelist.net/images/anime/1872/140863.jpg"
   },
   {
     "title": "Yuuki Yuuna wa Yuusha de Aru",
@@ -5966,6 +5985,6 @@
       "yuri"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/77057.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/77057.jpg"
   }
 ]

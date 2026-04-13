@@ -289,7 +289,7 @@
       "unrequited love"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/49993.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/49993.jpg"
   },
   {
     "title": "Antique Heart",
@@ -329,7 +329,7 @@
       "undead"
     ],
     "year": 1988,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/56121.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/56121.jpg"
   },
   {
     "title": "Aoi Blink",
@@ -446,7 +446,7 @@
       "war"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1790/149462.jpg"
+    "picture": "https://myanimelist.net/images/anime/1790/149462.jpg"
   },
   {
     "title": "Aru Tabibito no Nikki",
@@ -701,7 +701,7 @@
       "winter"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/1410/112994.jpg"
+    "picture": "https://myanimelist.net/images/anime/1410/112994.jpg"
   },
   {
     "title": "Chihayafuru",
@@ -832,7 +832,7 @@
       "wordplay"
     ],
     "year": 2001,
-    "picture": "https://cdn.myanimelist.net/images/anime/1824/94859.jpg"
+    "picture": "https://myanimelist.net/images/anime/1824/94859.jpg"
   },
   {
     "title": "Dagashi Kashi 2",
@@ -1168,7 +1168,7 @@
       "writing"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/1246/107820.jpg"
+    "picture": "https://myanimelist.net/images/anime/1246/107820.jpg"
   },
   {
     "title": "Eizouken ni wa Te wo Dasu na!",
@@ -1534,7 +1534,7 @@
       "winter"
     ],
     "year": 2002,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/13134.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/13134.jpg"
   },
   {
     "title": "Kaiba",
@@ -1847,6 +1847,7 @@
       "superpowers",
       "swordplay",
       "swords & co",
+      "taisho era",
       "taishou era",
       "taishou period",
       "teamwork",
@@ -1950,7 +1951,7 @@
       "weekly shounen jump"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1065/118763.jpg"
+    "picture": "https://myanimelist.net/images/anime/1065/118763.jpg"
   },
   {
     "title": "Kimi ga Nozomu Eien",
@@ -2415,7 +2416,7 @@
       "wardrobe malfunction"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1376/100562.jpg"
+    "picture": "https://myanimelist.net/images/anime/1376/100562.jpg"
   },
   {
     "title": "Lupin the Third: Mine Fujiko to Iu Onna",
@@ -2506,7 +2507,7 @@
       "yuri"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/1482/133813.jpg"
+    "picture": "https://myanimelist.net/images/anime/1482/133813.jpg"
   },
   {
     "title": "Macross Flash Back 2012",
@@ -2684,7 +2685,7 @@
       "yandere"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/30238.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/30238.jpg"
   },
   {
     "title": "McDull: Boluo You Wang Zi",
@@ -2722,7 +2723,7 @@
       "tsukkomi"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/1200/112734.jpg"
+    "picture": "https://myanimelist.net/images/anime/1200/112734.jpg"
   },
   {
     "title": "Mind Game",
@@ -3424,7 +3425,7 @@
       "yuri"
     ],
     "year": 1997,
-    "picture": "https://cdn.myanimelist.net/images/anime/1078/95285.jpg"
+    "picture": "https://myanimelist.net/images/anime/1078/95285.jpg"
   },
   {
     "title": "Sousou no Frieren",
@@ -3440,7 +3441,9 @@
       "anachronisms",
       "aristocracy",
       "aromantic",
+      "asexual",
       "autumn",
+      "award winning",
       "based on a manga",
       "boy meets girl",
       "calling your attacks",
@@ -3499,6 +3502,7 @@
       "kuudere",
       "large breasts",
       "large-scale war",
+      "lgbtq+ themes",
       "long time span",
       "magic",
       "magic circles",
@@ -3563,7 +3567,7 @@
       "winter"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg"
+    "picture": "https://myanimelist.net/images/anime/1015/138006.jpg"
   },
   {
     "title": "Sugar Sugar Rune",
@@ -3691,11 +3695,13 @@
     "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
     "episodes": 24,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
+      "absurdity",
       "action",
       "action comedy",
       "adult cast",
+      "aliens",
       "asia",
       "based on a manga",
       "brainwashing",
@@ -3711,6 +3717,7 @@
       "crime",
       "crunchyroll co-production",
       "cyborgs",
+      "dark comedy",
       "drama",
       "earth",
       "ecchi",
@@ -3722,12 +3729,15 @@
       "following one's dream",
       "gangs",
       "good vs evil",
+      "gore",
       "henshin",
       "hero of strong character",
       "heroine of strong character",
       "huge breasts",
       "human enhancement",
+      "idealism",
       "idol",
+      "idols",
       "insects of doom",
       "japan",
       "japanese production",
@@ -3736,6 +3746,7 @@
       "manga",
       "martial arts",
       "monster",
+      "monsters",
       "nostalgia",
       "nudity",
       "otaku culture",
@@ -3748,13 +3759,16 @@
       "preaired episodes",
       "predominantly adult cast",
       "present",
+      "psychological",
       "redemption",
       "revenge",
       "rivalry",
       "saving the world",
+      "science fiction",
       "secret organisation",
       "seinen",
       "self-parody",
+      "sentai",
       "sibling rivalry",
       "soft science fiction",
       "speculative fiction",
@@ -3766,6 +3780,8 @@
       "superhero",
       "superheroes",
       "supernatural drama",
+      "superpowers",
+      "supervillains",
       "surreal comedy",
       "teamwork",
       "the power of love",
@@ -3775,13 +3791,15 @@
       "tone changes",
       "tournament",
       "training",
+      "transformations",
       "tropes",
       "violence",
       "visible aura",
-      "world domination"
+      "world domination",
+      "yakuza"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1455/152139.jpg"
+    "picture": "https://myanimelist.net/images/anime/1455/152139.jpg"
   },
   {
     "title": "Tsumiki no Ie",

@@ -62,7 +62,7 @@
       "watercolour style"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/78321.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/78321.jpg"
   },
   {
     "title": "Ai Tenshi Densetsu Wedding Peach DX",
@@ -129,7 +129,7 @@
       "violence"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/28128.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/28128.jpg"
   },
   {
     "title": "Arakawa Under the Bridge x Bridge",
@@ -204,7 +204,7 @@
       "weaponized paper fan"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/1851/98621.jpg"
+    "picture": "https://myanimelist.net/images/anime/1851/98621.jpg"
   },
   {
     "title": "Asobi ni Iku yo!",
@@ -411,7 +411,7 @@
       "weekly shounen jump"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/28013.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/28013.jpg"
   },
   {
     "title": "Binzume Yousei",
@@ -544,7 +544,7 @@
       "work"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1300/133792.jpg"
+    "picture": "https://myanimelist.net/images/anime/1300/133792.jpg"
   },
   {
     "title": "Bokusatsu Tenshi Dokuro-chan",
@@ -767,7 +767,7 @@
       "zettai ryouiki"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/60781.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/60781.jpg"
   },
   {
     "title": "Cardcaptor Sakura Movie 1",
@@ -875,7 +875,7 @@
       "urban fantasy"
     ],
     "year": 2000,
-    "picture": "https://cdn.myanimelist.net/images/anime/1652/90326.jpg"
+    "picture": "https://myanimelist.net/images/anime/1652/90326.jpg"
   },
   {
     "title": "Carnival Phantasm",
@@ -1195,7 +1195,7 @@
       "visual novel"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/75650.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/75650.jpg"
   },
   {
     "title": "Clannad: After Story",
@@ -1729,7 +1729,7 @@
       "virtual world"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/28688.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/28688.jpg"
   },
   {
     "title": "Dr. Slump",
@@ -1767,7 +1767,7 @@
       "weekly shounen jump"
     ],
     "year": 1997,
-    "picture": "https://cdn.myanimelist.net/images/anime/1475/116861.jpg"
+    "picture": "https://myanimelist.net/images/anime/1475/116861.jpg"
   },
   {
     "title": "Futari wa Precure: Max Heart",
@@ -1964,7 +1964,7 @@
       "yakuza"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/73274.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/73274.jpg"
   },
   {
     "title": "Girls Bravo: First Season",
@@ -2440,6 +2440,7 @@
       "demi-humans",
       "dialogue driven",
       "dungeon",
+      "dungeons",
       "economics",
       "factions",
       "fantasy",
@@ -2450,8 +2451,10 @@
       "ingenuity",
       "isekai",
       "japanese production",
+      "knights",
       "language barrier",
       "magic",
+      "magical items",
       "male protagonist",
       "martial arts",
       "medieval",
@@ -2469,12 +2472,16 @@
       "shounen",
       "skeleton",
       "slice of life",
+      "sorcery",
       "storytelling",
+      "superpowers",
       "swordplay",
       "swords & co",
       "transformations",
+      "trauma",
       "twins",
       "violence",
+      "wizards",
       "zombie"
     ],
     "year": 2023,
@@ -2735,7 +2742,7 @@
       "werewolf"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/27643.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/27643.jpg"
   },
   {
     "title": "Kanojo ga Flag wo Oraretara",
@@ -3682,7 +3689,7 @@
       "visual arts"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/50903.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/50903.jpg"
   },
   {
     "title": "Mahou Sensei Negima!",
@@ -3753,7 +3760,7 @@
       "vampire"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/89535.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/89535.jpg"
   },
   {
     "title": "Makai Senki Disgaea",
@@ -3967,7 +3974,7 @@
       "wrestling"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/1386/120773.jpg"
+    "picture": "https://myanimelist.net/images/anime/1386/120773.jpg"
   },
   {
     "title": "Matantei Loki Ragnarok",
@@ -4023,7 +4030,7 @@
       "youkai"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/75300.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/75300.jpg"
   },
   {
     "title": "Mayoi Neko Overrun!",
@@ -4556,7 +4563,7 @@
       "tokyo skytree"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/60199.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/60199.jpg"
   },
   {
     "title": "Negima!?",
@@ -4733,7 +4740,7 @@
       "university"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/11986.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/11986.jpg"
   },
   {
     "title": "Nodame Cantabile Finale",
@@ -5105,7 +5112,7 @@
       "vampires"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/46147.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/46147.jpg"
   },
   {
     "title": "Nyoro-n Churuya-san",
@@ -5117,7 +5124,6 @@
       "absurdist humour",
       "asia",
       "catchphrase",
-      "cgi",
       "chibi",
       "chibi style",
       "comedy",
@@ -5151,7 +5157,7 @@
       "unrequited love"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/1888/112345.jpg"
+    "picture": "https://myanimelist.net/images/anime/1888/112345.jpg"
   },
   {
     "title": "Ontama!",
@@ -5369,7 +5375,6 @@
       "furo scene",
       "gainax bounce",
       "game",
-      "harem",
       "high school",
       "hot springs visit",
       "japanese production",
@@ -5538,7 +5543,7 @@
       "zettai ryouiki"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/27241.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/27241.jpg"
   },
   {
     "title": "Rikujou Bouei-tai Mao-chan",
@@ -5793,7 +5798,7 @@
       "weekly shounen jump"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/1346/119505.jpg"
+    "picture": "https://myanimelist.net/images/anime/1346/119505.jpg"
   },
   {
     "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Shin Kyoto-hen",
@@ -7219,7 +7224,7 @@
       "swordplay"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/45953.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/45953.jpg"
   },
   {
     "title": "Tsubasa: Tokyo Revelations",
@@ -7492,7 +7497,7 @@
       "violence"
     ],
     "year": 2002,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/23643.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/23643.jpg"
   },
   {
     "title": "Vandread: Taidou-hen",
@@ -7545,7 +7550,7 @@
       "violence"
     ],
     "year": 2001,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/75448.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/75448.jpg"
   },
   {
     "title": "Vandread: The Second Stage",
@@ -8029,7 +8034,7 @@
       "tournament"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/1369/154654.jpg"
+    "picture": "https://myanimelist.net/images/anime/1369/154654.jpg"
   },
   {
     "title": "Yumeria",
@@ -8199,7 +8204,6 @@
       "meta",
       "middle school",
       "moe",
-      "otaku",
       "place",
       "predominantly female cast",
       "present",
@@ -8237,7 +8241,7 @@
       "yuri"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/75173.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/75173.jpg"
   },
   {
     "title": "Yuru Yuri♪♪",
@@ -8282,6 +8286,7 @@
       "meta",
       "middle school",
       "moe",
+      "otaku",
       "parody",
       "past",
       "performance",
@@ -8402,7 +8407,7 @@
       "yuri"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/48747.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/48747.jpg"
   },
   {
     "title": "Z/X: Ignition",
@@ -8461,6 +8466,6 @@
       "violence"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/56797.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/56797.jpg"
   }
 ]

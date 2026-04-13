@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Parody
-# Total de animes na categoria: 1899
+# Total de animes na categoria: 1902
 # Exemplos: "Kinako" Movie x Mameshiba, "Kiss Dekiru Gyouza" Movie x Mameshiba, .hack//G.U. Trilogy: Parody Mode, .hack//Gift, 11eyes: Momoiro Genmutan, 3-nen D-gumi Glass no Kamen, 3-nen D-gumi Glass no Kamen: Tobidase! Watashitachi no Victory Road, 3-nen Z-gumi Ginpachi-sensei, 3-nen Z-gumi Ginpachi-sensei Announcement Special, 3-pun de Wakaru Koizumi Yakumo no Kaidan
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Parody",Pluto TV Anime | Parody
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

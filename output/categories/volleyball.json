@@ -352,7 +352,7 @@
       "winter sports"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/1336/102231.jpg"
+    "picture": "https://myanimelist.net/images/anime/1336/102231.jpg"
   },
   {
     "title": "Anime Document: München e no Michi",
@@ -781,7 +781,7 @@
       "weekly shounen jump"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/28013.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/28013.jpg"
   },
   {
     "title": "Binkan Athlete",
@@ -1065,7 +1065,7 @@
       "volleyball"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/42655.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/42655.jpg"
   },
   {
     "title": "Classroom☆Crisis",
@@ -1157,7 +1157,7 @@
       "volleyball"
     ],
     "year": 2000,
-    "picture": "https://cdn.myanimelist.net/images/anime/1596/113226.jpg"
+    "picture": "https://myanimelist.net/images/anime/1596/113226.jpg"
   },
   {
     "title": "Date A Live II",
@@ -1241,7 +1241,7 @@
       "yandere"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/1690/141818.jpg"
+    "picture": "https://myanimelist.net/images/anime/1690/141818.jpg"
   },
   {
     "title": "Dirty Pair Flash",
@@ -1310,6 +1310,26 @@
     ],
     "year": 1994,
     "picture": "https://cdn.anime-planet.com/anime/primary/dirty-pair-flash-1.jpg"
+  },
+  {
+    "title": "Do You Like Big Girls?",
+    "episodes": 0,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "based on a manga",
+      "brother complex",
+      "comedy",
+      "harem",
+      "playboys",
+      "romance",
+      "school life",
+      "sister complex",
+      "sports",
+      "volleyball"
+    ],
+    "year": 2026,
+    "picture": "https://cdn.anime-planet.com/anime/primary/do-you-like-big-girls-1.webp"
   },
   {
     "title": "Emiya-san Chi no Kyou no Gohan",
@@ -1391,7 +1411,7 @@
       "volleyball"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1413/121836.jpg"
+    "picture": "https://myanimelist.net/images/anime/1413/121836.jpg"
   },
   {
     "title": "Ganbare-bu Next!",
@@ -1600,7 +1620,6 @@
       "school club",
       "school clubs",
       "school life",
-      "seinen",
       "ships",
       "slapstick",
       "slice of life",
@@ -1828,7 +1847,7 @@
       "manga",
       "married life",
       "multi-segment episodes",
-      "netflix original",
+      "only on netflix",
       "organized crime",
       "parody",
       "present",
@@ -1954,7 +1973,7 @@
       "weekly shounen jump"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/76014.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/76014.jpg"
   },
   {
     "title": "Haikyuu!! (OVA)",
@@ -1976,7 +1995,7 @@
       "volleyball"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1618/102929.jpg"
+    "picture": "https://myanimelist.net/images/anime/1618/102929.jpg"
   },
   {
     "title": "Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou",
@@ -2027,7 +2046,7 @@
       "weekly shounen jump"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/81992.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/81992.jpg"
   },
   {
     "title": "Haikyuu!! Lev Genzan!",
@@ -2053,7 +2072,7 @@
       "volleyball"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/1498/96643.jpg"
+    "picture": "https://myanimelist.net/images/anime/1498/96643.jpg"
   },
   {
     "title": "Haikyuu!! Movie 1: Owari to Hajimari",
@@ -2264,7 +2283,7 @@
       "weekly shounen jump"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1527/102671.jpg"
+    "picture": "https://myanimelist.net/images/anime/1527/102671.jpg"
   },
   {
     "title": "Haikyuu!! Second Season",
@@ -2279,6 +2298,7 @@
       "comedy",
       "coming of age",
       "competition",
+      "cute boys doing cute things",
       "drama",
       "earth",
       "ensemble cast",
@@ -2416,7 +2436,7 @@
       "weekly shounen jump"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1453/106768.jpg"
+    "picture": "https://myanimelist.net/images/anime/1453/106768.jpg"
   },
   {
     "title": "Haikyuu!! Tokushuu! Haru-kou Volley ni Kaketa Seishun",
@@ -2618,7 +2638,7 @@
       "volleyball"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/48953.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/48953.jpg"
   },
   {
     "title": "Hayate no Gotoku!!: Atsu ga Natsuize - Mizugi-hen!",
@@ -3023,6 +3043,52 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1499/113230.jpg"
   },
   {
+    "title": "Kirei ni Shitemoraemasu ka.",
+    "episodes": 12,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "age gap",
+      "alcohol",
+      "amnesia",
+      "asia",
+      "based on a manga",
+      "coastal",
+      "comedy",
+      "daily life",
+      "earth",
+      "educational",
+      "fan service",
+      "female protagonist",
+      "iyashi-kei",
+      "iyashikei",
+      "japan",
+      "japanese production",
+      "laundromat",
+      "laundry",
+      "manga",
+      "nudity",
+      "ocean",
+      "panels that require pausing",
+      "place",
+      "plot continuity",
+      "present",
+      "romance",
+      "seinen",
+      "slice of life",
+      "small town",
+      "social media",
+      "time",
+      "volleyball",
+      "work",
+      "work life",
+      "working life",
+      "workplace"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1940/154234.jpg"
+  },
+  {
     "title": "Komori-san wa Kotowarenai!",
     "episodes": 12,
     "type": "TV",
@@ -3072,7 +3138,7 @@
       "winter"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/78082.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/78082.jpg"
   },
   {
     "title": "Kougyou Aika Volley Boys",
@@ -3206,7 +3272,6 @@
       "japanese production",
       "kuudere",
       "love polygon",
-      "male harem",
       "manga",
       "medium awareness",
       "middle school",
@@ -3296,7 +3361,7 @@
       "volleyball"
     ],
     "year": 1993,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/21213.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/21213.jpg"
   },
   {
     "title": "Natsu ga Hajimaru.",
@@ -3410,6 +3475,32 @@
     "picture": "https://cdn.myanimelist.net/images/anime/10/76792.jpg"
   },
   {
+    "title": "Ookii Onnanoko wa Suki desu ka?",
+    "episodes": 8,
+    "type": "ONA",
+    "status": "ONGOING",
+    "tags": [
+      "adult audience only",
+      "club",
+      "comedy",
+      "eroticism",
+      "harem",
+      "hentai",
+      "present",
+      "romance",
+      "romantic comedy",
+      "seinen",
+      "sports",
+      "team sport",
+      "team sports",
+      "tomboy",
+      "university",
+      "volleyball"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1482/155539.jpg"
+  },
+  {
     "title": "PriPri Chii-chan!!",
     "episodes": 36,
     "type": "TV",
@@ -3520,7 +3611,7 @@
       "winter sports"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1420/118569.jpg"
+    "picture": "https://myanimelist.net/images/anime/1420/118569.jpg"
   },
   {
     "title": "Queen's Blade: Utsukushiki Toushi-tachi",
@@ -3639,7 +3730,7 @@
       "work"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/82149.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/82149.jpg"
   },
   {
     "title": "Sawaranaide Kotesashi-kun",
@@ -3748,7 +3839,7 @@
       "winter"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/65565.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/65565.jpg"
   },
   {
     "title": "Shoujo Fight: Norainu-tachi no Odekake",
@@ -3770,7 +3861,7 @@
       "volleyball"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/1135/150180.jpg"
+    "picture": "https://myanimelist.net/images/anime/1135/150180.jpg"
   },
   {
     "title": "Smile Precure!",
@@ -4177,7 +4268,7 @@
       "weekly shounen jump"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/10572.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/10572.jpg"
   },
   {
     "title": "Tokyo Great Bears Opening Movie",
@@ -4403,7 +4494,7 @@
       "workplace"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1892/111383.jpg"
+    "picture": "https://myanimelist.net/images/anime/1892/111383.jpg"
   },
   {
     "title": "Yuru Yuri San☆Hai!",
@@ -4490,7 +4581,7 @@
       "yuri"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/76667.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/76667.jpg"
   },
   {
     "title": "Zoku Attacker You! Kin Medal e no Michi",

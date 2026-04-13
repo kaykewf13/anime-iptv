@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Modeling
-# Total de animes na categoria: 10
-# Exemplos: Beatless, Esper Mami, Fujimoto Tatsuki 17-26, Ore no Imouto ga Konnani Kawaii Wake ga Nai, Paradise Kiss, Runway de Waratte, Shiguang Dailiren: Yingdu Pian, Sono Bisque Doll wa Koi wo Suru, Sono Bisque Doll wa Koi wo Suru Season 2, Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)
+# Total de animes na categoria: 11
+# Exemplos: Beatless, Esper Mami, Fujimoto Tatsuki 17-26, Ore no Imouto ga Konnani Kawaii Wake ga Nai, Paradise Kiss, Runway de Waratte, Shiguang Dailiren: Yingdu Pian, Sono Bisque Doll wa Koi wo Suru, Sono Bisque Doll wa Koi wo Suru Season 2, Tabisuru Nuigurumi: Traveling Daru
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Modeling",Pluto TV Anime | Modeling
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
 #EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Modeling",Anime World | Modeling

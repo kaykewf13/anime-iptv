@@ -720,7 +720,7 @@
       "writing"
     ],
     "year": 1995,
-    "picture": "https://cdn.myanimelist.net/images/anime/1600/92253.jpg"
+    "picture": "https://myanimelist.net/images/anime/1600/92253.jpg"
   },
   {
     "title": "Bishoujo Senshi Sailor Moon: Sailor Stars",
@@ -817,7 +817,7 @@
       "yuri"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/1645/105992.jpg"
+    "picture": "https://myanimelist.net/images/anime/1645/105992.jpg"
   },
   {
     "title": "Blue Seed",
@@ -1173,7 +1173,7 @@
       "zettai ryouiki"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/60781.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/60781.jpg"
   },
   {
     "title": "Cat's♥Eye",
@@ -1316,6 +1316,8 @@
       "fashion",
       "fast-paced",
       "female protagonist",
+      "fictional location",
+      "floating island",
       "fugitive",
       "gambling",
       "game",
@@ -1328,12 +1330,14 @@
       "japanese production",
       "journalism",
       "law and order",
+      "lingerie",
       "mafia",
       "male protagonist",
       "manga",
       "martial arts",
       "mystery",
       "occupation and career",
+      "ocean",
       "parental abandonment",
       "place",
       "police",
@@ -1364,7 +1368,7 @@
       "weekly shounen jump"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1347/151708.jpg"
+    "picture": "https://myanimelist.net/images/anime/1347/151708.jpg"
   },
   {
     "title": "Cat's♥Eye 2nd Season",
@@ -1854,7 +1858,7 @@
       "yandere"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1346/138731.jpg"
+    "picture": "https://myanimelist.net/images/anime/1346/138731.jpg"
   },
   {
     "title": "Delicious Party♡Precure",
@@ -1901,7 +1905,7 @@
       "urban fantasy"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1332/120430.jpg"
+    "picture": "https://myanimelist.net/images/anime/1332/120430.jpg"
   },
   {
     "title": "Dororo",
@@ -1921,6 +1925,7 @@
       "based on a manga",
       "black and white",
       "body horror",
+      "body image",
       "buddhism",
       "cannibalism",
       "child protagonists",
@@ -2342,7 +2347,7 @@
       "weekly shounen jump"
     ],
     "year": 1989,
-    "picture": "https://cdn.myanimelist.net/images/anime/1277/142022.jpg"
+    "picture": "https://myanimelist.net/images/anime/1277/142022.jpg"
   },
   {
     "title": "Dragon Crisis!",
@@ -2685,6 +2690,7 @@
       "gotta catch them all",
       "heart-warming",
       "japanese production",
+      "kemonomimi",
       "kuudere",
       "magic",
       "magic card",
@@ -2693,10 +2699,12 @@
       "master-servant relationship",
       "middle school",
       "moe",
+      "monster girl",
       "original work",
       "predominantly female cast",
       "present",
       "primarily female cast",
+      "primarily teen cast",
       "proxy battles",
       "school",
       "sci fi",
@@ -2794,7 +2802,7 @@
       "yuri"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/1773/121542.jpg"
+    "picture": "https://myanimelist.net/images/anime/1773/121542.jpg"
   },
   {
     "title": "Fate/kaleid liner Prisma☆Illya 2wei Herz!",
@@ -2976,7 +2984,7 @@
       "yuri"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/64175.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/64175.jpg"
   },
   {
     "title": "Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai",
@@ -3052,7 +3060,7 @@
       "zero to hero"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/1996/93042.jpg"
+    "picture": "https://myanimelist.net/images/anime/1996/93042.jpg"
   },
   {
     "title": "Flip Flappers",
@@ -3146,6 +3154,7 @@
       "skimpy clothing",
       "slapstick",
       "slide show animation",
+      "snowscape",
       "speculative fiction",
       "super power",
       "super robot",
@@ -3428,7 +3437,7 @@
       "super robots"
     ],
     "year": 2000,
-    "picture": "https://cdn.myanimelist.net/images/anime/1665/154597.jpg"
+    "picture": "https://myanimelist.net/images/anime/1665/154597.jpg"
   },
   {
     "title": "Gekkan Mousou Kagaku",
@@ -3755,7 +3764,7 @@
       "winter"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1145/90880.jpg"
+    "picture": "https://myanimelist.net/images/anime/1145/90880.jpg"
   },
   {
     "title": "Golden Kamuy 2nd Season",
@@ -3968,7 +3977,7 @@
   },
   {
     "title": "Golden Kamuy: The Bodyguards of Barato/Terror! The Mysterious Giant Bird",
-    "episodes": 4,
+    "episodes": 5,
     "type": "OVA",
     "status": "FINISHED",
     "tags": [
@@ -4209,7 +4218,7 @@
       "urban fantasy"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/25915.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/25915.jpg"
   },
   {
     "title": "Hime Chen! Otogi Chikku Idol Lilpri",
@@ -4552,7 +4561,7 @@
       "winter"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/47741.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/47741.jpg"
   },
   {
     "title": "Houkago no Pleiades (TV)",
@@ -4708,7 +4717,7 @@
       "wardrobe malfunction"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1216/111637.jpg"
+    "picture": "https://myanimelist.net/images/anime/1216/111637.jpg"
   },
   {
     "title": "Houma Hunter Lime",
@@ -4764,7 +4773,7 @@
       "visual novel"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/1936/93963.jpg"
+    "picture": "https://myanimelist.net/images/anime/1936/93963.jpg"
   },
   {
     "title": "Hunter x Hunter (2011)",
@@ -4777,6 +4786,7 @@
       "adventure",
       "alternative present",
       "alternative world",
+      "amnesia",
       "animals",
       "anthropomorphism",
       "anti-hero",
@@ -5563,7 +5573,7 @@
       "violent retribution for accidental infringement"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/43361.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/43361.jpg"
   },
   {
     "title": "Kami nomi zo Shiru Sekai II",
@@ -5642,7 +5652,7 @@
       "wrestling"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/30030.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/30030.jpg"
   },
   {
     "title": "Kami nomi zo Shiru Sekai: Megami-hen",
@@ -5804,7 +5814,7 @@
       "video games"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/43359.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/43359.jpg"
   },
   {
     "title": "Kamikaze Kaitou Jeanne",
@@ -5980,7 +5990,7 @@
       "verbal comedy"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/1112/119225.jpg"
+    "picture": "https://myanimelist.net/images/anime/1112/119225.jpg"
   },
   {
     "title": "Kekkon Yubiwa Monogatari",
@@ -6058,7 +6068,7 @@
       "twins"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1452/139991.jpg"
+    "picture": "https://myanimelist.net/images/anime/1452/139991.jpg"
   },
   {
     "title": "Kenja no Deshi wo Nanoru Kenja",
@@ -6317,7 +6327,7 @@
       "world wars"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/75397.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/75397.jpg"
   },
   {
     "title": "Leadale no Daichi nite",
@@ -6398,7 +6408,7 @@
       "zombie"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1099/122005.jpg"
+    "picture": "https://myanimelist.net/images/anime/1099/122005.jpg"
   },
   {
     "title": "Licca-chan Fushigi na Mahou no Ring",
@@ -6721,7 +6731,7 @@
       "yuri"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/1058/94433.jpg"
+    "picture": "https://myanimelist.net/images/anime/1058/94433.jpg"
   },
   {
     "title": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's",
@@ -7280,7 +7290,7 @@
       "violence"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1180/150596.jpg"
+    "picture": "https://myanimelist.net/images/anime/1180/150596.jpg"
   },
   {
     "title": "NG Knight Ramune & 40",
@@ -7290,18 +7300,27 @@
     "tags": [
       "action",
       "adventure",
+      "age regression",
       "blimp",
       "comedy",
       "contemporary fantasy",
+      "cosmic horror",
+      "desert",
+      "episodic",
       "fairy tale",
       "fantasy",
       "fantasy world",
       "fictional location",
       "folklore",
       "gotta catch them all",
+      "heterosexual",
       "isekai",
       "japanese production",
+      "kaiju",
+      "magic",
       "mecha",
+      "memory manipulation",
+      "meta",
       "multi-anime projects",
       "new",
       "original work",
@@ -7315,10 +7334,14 @@
       "science-fiction",
       "sexual humour",
       "shounen",
+      "slapstick",
+      "space",
       "speculative fiction",
       "stereotypes",
       "super robot",
       "super robot wars",
+      "torture",
+      "travel",
       "wordplay"
     ],
     "year": 1990,
@@ -8052,7 +8075,7 @@
       "storytelling"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/1904/140254.jpg"
+    "picture": "https://myanimelist.net/images/anime/1904/140254.jpg"
   },
   {
     "title": "Pokemon Diamond & Pearl",
@@ -8191,7 +8214,7 @@
       "wilderness"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/53701.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/53701.jpg"
   },
   {
     "title": "Princess Tutu",
@@ -8282,6 +8305,7 @@
       "shapeshifting",
       "short episodes",
       "shoujo",
+      "shounen",
       "speculative fiction",
       "star-crossed lovers",
       "storytelling",
@@ -8518,7 +8542,7 @@
       "work life"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/1718/153287.jpg"
+    "picture": "https://myanimelist.net/images/anime/1718/153287.jpg"
   },
   {
     "title": "Rolling☆Girls",
@@ -8742,7 +8766,7 @@
       "visible aura"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/30218.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/30218.jpg"
   },
   {
     "title": "Sengoku Collection",
@@ -9292,7 +9316,7 @@
       "urban fantasy"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/32129.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/32129.jpg"
   },
   {
     "title": "Tantei Kageki Milky Holmes TD",
@@ -9725,7 +9749,7 @@
       "witches"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/53571.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/53571.jpg"
   },
   {
     "title": "Youkai Watch",
@@ -9842,7 +9866,7 @@
       "zero to hero"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/40295.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/40295.jpg"
   },
   {
     "title": "Yu☆Gi☆Oh! Zexal Second",

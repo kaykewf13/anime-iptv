@@ -223,7 +223,7 @@
       "warrior"
     ],
     "year": 1991,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/22254.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/22254.jpg"
   },
   {
     "title": "Ashita no Nadja",
@@ -785,6 +785,7 @@
       "bullying",
       "castaway",
       "cgi",
+      "class struggle",
       "colour coded",
       "concentration camp",
       "corrupt nobility",
@@ -973,21 +974,25 @@
   },
   {
     "title": "Eris no Seihai",
-    "episodes": 10,
+    "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "age gap",
       "anti-hero",
+      "aristocracy",
       "aristocrat",
       "arranged marriage",
       "based on a light novel",
+      "betrayal",
       "body swapping",
       "conspiracy",
+      "crime",
       "criminal organization",
       "detective",
       "drama",
       "drugs",
+      "ensemble cast",
       "fantasy",
       "female protagonist",
       "foreign",
@@ -997,22 +1002,26 @@
       "heterosexual",
       "historical",
       "japanese production",
+      "medieval",
       "mystery",
       "nobility",
       "nobleman",
       "ojou-sama",
       "politics",
+      "possession",
       "revenge",
       "romance",
       "royal affairs",
       "shoujo",
+      "sorcery",
+      "spirits",
       "suicide",
       "supernatural",
       "tragedy",
       "villainess"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1404/154931.jpg"
+    "picture": "https://myanimelist.net/images/anime/1404/154931.jpg"
   },
   {
     "title": "Fate/Zero 2nd Season",
@@ -1107,7 +1116,7 @@
       "zombie"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/1522/117645.jpg"
+    "picture": "https://myanimelist.net/images/anime/1522/117645.jpg"
   },
   {
     "title": "Gankutsuou",
@@ -1293,7 +1302,7 @@
       "work"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1449/140344.jpg"
+    "picture": "https://myanimelist.net/images/anime/1449/140344.jpg"
   },
   {
     "title": "Hakushaku to Yousei",
@@ -1431,7 +1440,7 @@
       "zettai ryouiki"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/20345.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/20345.jpg"
   },
   {
     "title": "Jitsu wa Ore, Saikyou deshita?",
@@ -1651,7 +1660,7 @@
       "violent retribution for accidental infringement"
     ],
     "year": 1989,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/82033.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/82033.jpg"
   },
   {
     "title": "Mushikaburi-hime",
@@ -2133,7 +2142,7 @@
       "wardrobe malfunction"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1836/116060.jpg"
+    "picture": "https://myanimelist.net/images/anime/1836/116060.jpg"
   },
   {
     "title": "Seirei Gensouki 2",
@@ -2233,7 +2242,7 @@
       "time"
     ],
     "year": 1981,
-    "picture": "https://cdn.myanimelist.net/images/anime/1525/97099.jpg"
+    "picture": "https://myanimelist.net/images/anime/1525/97099.jpg"
   },
   {
     "title": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
@@ -2313,7 +2322,7 @@
       "villainess"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1901/139910.jpg"
+    "picture": "https://myanimelist.net/images/anime/1901/139910.jpg"
   },
   {
     "title": "Tenchi Muyou! Ryououki",
@@ -2499,7 +2508,7 @@
       "youkai"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1570/135813.jpg"
+    "picture": "https://myanimelist.net/images/anime/1570/135813.jpg"
   },
   {
     "title": "Tytania",

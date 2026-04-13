@@ -109,7 +109,7 @@
       "staff missing"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1587/132056.jpg"
+    "picture": "https://myanimelist.net/images/anime/1587/132056.jpg"
   },
   {
     "title": "Hanamaru Youchien",
@@ -215,27 +215,32 @@
       "youkai"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/49439.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/49439.jpg"
   },
   {
     "title": "Kaya-chan wa Kowakunai",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
+      "action",
       "anti-hero",
       "based on a manga",
       "body horror",
       "child protagonists",
+      "childcare",
       "comedy",
       "contemporary fantasy",
       "cosmic horror",
       "curses",
+      "drama",
+      "educational",
       "episodic",
       "exorcism",
       "fantasy",
       "female protagonist",
       "ghost",
+      "ghosts",
       "horror",
       "japanese production",
       "kindergarten",
@@ -244,20 +249,26 @@
       "pregnancy",
       "present",
       "primarily child cast",
+      "psychics",
+      "psychological",
+      "revenge",
       "school",
       "school life",
       "seinen",
       "slice of life",
+      "social stigma",
       "speculative fiction",
+      "spirits",
       "storytelling",
       "super power",
       "supernatural",
+      "superpowers",
       "urban fantasy",
       "violence",
       "work"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1194/153705.jpg"
+    "picture": "https://myanimelist.net/images/anime/1194/153705.jpg"
   },
   {
     "title": "Kobo-chan",
@@ -360,7 +371,7 @@
       "working life"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/1460/98853.jpg"
+    "picture": "https://myanimelist.net/images/anime/1460/98853.jpg"
   },
   {
     "title": "Xiaolu Xingren Er",

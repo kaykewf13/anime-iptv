@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Anachronism
-# Total de animes na categoria: 162
+# Total de animes na categoria: 164
 # Exemplos: #Compass 2.0: Sentou Setsuri Kaiseki System, 16bit Sensation: Another Layer, Afro Samurai, Afro Samurai: Resurrection, Aikatsu!: Nerawareta Mahou no Aikatsu! Card, Akai Ito, Akiba Meido Sensou, Alexander Senki, Angelique, Apfelland Monogatari
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Anachronism",Pluto TV Anime | Anachronism
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

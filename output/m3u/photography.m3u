@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Photography
-# Total de animes na categoria: 146
+# Total de animes na categoria: 147
 # Exemplos: "Anata wo Hitokoto de Arawashite Kudasai" no Shitsumon ga Nigate da., 100-nichikan Ikita Wani, 2.5-jigen no Ririsa, ACCA: 13-ku Kansatsu-ka, Akebi-chan no Sailor-fuku, Ame wo Matsu,, Ame wo Tsugeru Hyouryuu Danchi, Ame-iro Cocoa: Rainy Color e Youkoso!, Anime to Susume!, Ano Natsu de Matteru
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Photography",Pluto TV Anime | Photography
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

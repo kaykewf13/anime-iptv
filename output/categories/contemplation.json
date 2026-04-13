@@ -313,7 +313,7 @@
       "zashiki-warashi"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/20713.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/20713.jpg"
   },
   {
     "title": "Monster",
@@ -821,26 +821,57 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1021/138568.jpg"
   },
   {
-    "title": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
-    "episodes": 8,
+    "title": "Shibou Yuugi de Meshi wo Kuu.",
+    "episodes": 11,
     "type": "TV",
     "status": "FINISHED",
     "tags": [
+      "achronological order",
       "action",
+      "action drama",
+      "amputation",
+      "based on a light novel",
+      "battle royale",
+      "body horror",
+      "cgi",
       "contemplation",
+      "cosmic horror",
+      "death game",
       "drama",
       "dystopian",
+      "fantasy",
+      "female protagonist",
+      "guns",
+      "high stakes game",
+      "high stakes games",
+      "high-stakes game",
+      "japanese production",
+      "kuudere",
+      "lgbtq+ themes",
       "maids",
+      "mixed media",
       "moral dilemma",
       "mystery",
       "non-linear narrative",
+      "novel",
+      "ojou-sama",
+      "philosophy",
+      "play or die",
+      "present",
+      "primarily female cast",
       "psychological",
+      "shounen",
+      "suicide",
+      "surrealism",
       "survival game",
+      "suspense",
+      "swords & co",
       "thriller",
-      "tragedy"
+      "tragedy",
+      "yuri"
     ],
     "year": 2026,
-    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33452-2280255223.1767558454.jpg"
+    "picture": "https://myanimelist.net/images/anime/1834/151169.jpg"
   },
   {
     "title": "Sousou no Frieren",
@@ -856,7 +887,9 @@
       "anachronisms",
       "aristocracy",
       "aromantic",
+      "asexual",
       "autumn",
+      "award winning",
       "based on a manga",
       "boy meets girl",
       "calling your attacks",
@@ -915,6 +948,7 @@
       "kuudere",
       "large breasts",
       "large-scale war",
+      "lgbtq+ themes",
       "long time span",
       "magic",
       "magic circles",
@@ -979,7 +1013,7 @@
       "winter"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg"
+    "picture": "https://myanimelist.net/images/anime/1015/138006.jpg"
   },
   {
     "title": "The Darwin Incident",
@@ -1203,7 +1237,7 @@
       "writing"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1667/112943.jpg"
+    "picture": "https://myanimelist.net/images/anime/1667/112943.jpg"
   },
   {
     "title": "Violet Evergarden Movie",
@@ -1277,6 +1311,6 @@
       "writing"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1825/110716.jpg"
+    "picture": "https://myanimelist.net/images/anime/1825/110716.jpg"
   }
 ]

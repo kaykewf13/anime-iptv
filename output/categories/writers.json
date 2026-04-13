@@ -171,7 +171,7 @@
       "writing"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/34923.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/34923.jpg"
   },
   {
     "title": "Bakuman. 2nd Season Special",
@@ -255,7 +255,7 @@
       "writing"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/41845.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/41845.jpg"
   },
   {
     "title": "Bakuman. Deraman.",
@@ -495,7 +495,7 @@
       "yuri"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1444/140760.jpg"
+    "picture": "https://myanimelist.net/images/anime/1444/140760.jpg"
   },
   {
     "title": "Comic Party",
@@ -563,7 +563,7 @@
       "zettai ryouiki"
     ],
     "year": 2001,
-    "picture": "https://cdn.myanimelist.net/images/anime/1809/130426.jpg"
+    "picture": "https://myanimelist.net/images/anime/1809/130426.jpg"
   },
   {
     "title": "Comic Party Revolution",
@@ -915,6 +915,7 @@
       "boys' love",
       "comedy",
       "crossdressing",
+      "cute boys doing cute things",
       "drama",
       "earth",
       "entertainment industry",
@@ -1009,7 +1010,7 @@
     "title": "Ikoku Nikki",
     "episodes": 13,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "adoption",
       "based on a manga",
@@ -1024,24 +1025,23 @@
       "hikikomori",
       "japanese production",
       "josei",
-      "lgbtq+ themes",
       "lifestyle change",
       "orphan",
       "orphans",
       "parenthood",
       "parenting",
       "present",
+      "primarily female cast",
       "psychological",
       "slice of life",
       "slice of life drama",
       "tragedy",
       "urban",
       "writers",
-      "writing",
-      "yuri"
+      "writing"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1791/154233.jpg"
+    "picture": "https://myanimelist.net/images/anime/1791/154233.jpg"
   },
   {
     "title": "Inu to Hasami wa Tsukaiyou",
@@ -1538,7 +1538,7 @@
       "yaoi"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/31421.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/31421.jpg"
   },
   {
     "title": "Kitsutsuki Tanteidokoro",
@@ -2262,6 +2262,6 @@
       "writers"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/1647/116402.jpg"
+    "picture": "https://myanimelist.net/images/anime/1647/116402.jpg"
   }
 ]

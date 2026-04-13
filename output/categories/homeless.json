@@ -43,7 +43,7 @@
       "workplace"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1321/132900.jpg"
+    "picture": "https://myanimelist.net/images/anime/1321/132900.jpg"
   },
   {
     "title": "Ai Shoujo Pollyanna Story",
@@ -102,7 +102,7 @@
       "world masterpiece theater"
     ],
     "year": 1986,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/71674.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/71674.jpg"
   },
   {
     "title": "Air",
@@ -210,7 +210,6 @@
       "coming of age",
       "conspiracy",
       "crime",
-      "cute girls doing cute things",
       "death",
       "disability",
       "drama",
@@ -240,7 +239,6 @@
       "murder",
       "new",
       "ninja",
-      "nudity",
       "organized crime",
       "original work",
       "orphan",
@@ -259,7 +257,6 @@
       "splatter",
       "spring",
       "surreal comedy",
-      "tanned skin",
       "thriller",
       "time",
       "time skip",
@@ -438,7 +435,7 @@
       "weaponized paper fan"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/1851/98621.jpg"
+    "picture": "https://myanimelist.net/images/anime/1851/98621.jpg"
   },
   {
     "title": "Ashita no Joe",
@@ -860,7 +857,7 @@
       "zombies"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg"
+    "picture": "https://myanimelist.net/images/anime/1806/126216.jpg"
   },
   {
     "title": "Eikoku Koi Monogatari Emma",
@@ -1001,6 +998,7 @@
       "family without mother",
       "fantasy",
       "fate",
+      "female harem",
       "female protagonist",
       "femboy",
       "following one's dream",
@@ -1100,7 +1098,7 @@
       "zodiac"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1447/99827.jpg"
+    "picture": "https://myanimelist.net/images/anime/1447/99827.jpg"
   },
   {
     "title": "Gantz",
@@ -1197,7 +1195,7 @@
       "violence"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/23247.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/23247.jpg"
   },
   {
     "title": "Gegege no Kitarou (2018)",
@@ -1516,7 +1514,7 @@
       "yakuza"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/73274.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/73274.jpg"
   },
   {
     "title": "Gintama on Theater 2D: Kintama-hen",
@@ -1549,6 +1547,59 @@
     ],
     "year": 2024,
     "picture": "https://cdn.myanimelist.net/images/anime/1185/145136.jpg"
+  },
+  {
+    "title": "Hadashi no Gen 2",
+    "episodes": 1,
+    "type": "MOVIE",
+    "status": "FINISHED",
+    "tags": [
+      "angst",
+      "anti-war",
+      "asia",
+      "autobiographical",
+      "based on a manga",
+      "coming of age",
+      "crime",
+      "daily life",
+      "disaster",
+      "drama",
+      "dystopian",
+      "earth",
+      "educational",
+      "elementary school",
+      "family",
+      "found family",
+      "hiroshima",
+      "historical",
+      "homeless",
+      "japan",
+      "japanese production",
+      "male protagonist",
+      "melodrama",
+      "mina",
+      "orphan",
+      "past",
+      "place",
+      "post-war",
+      "present",
+      "primarily child cast",
+      "school life",
+      "shounen",
+      "slice of life",
+      "slice of life drama",
+      "speculative fiction",
+      "thievery",
+      "time",
+      "tragedy",
+      "war",
+      "weekly shounen jump",
+      "world war 2",
+      "world war ii",
+      "world wars"
+    ],
+    "year": 1986,
+    "picture": "https://myanimelist.net/images/anime/1238/154907.jpg"
   },
   {
     "title": "Hakaba Kitarou",
@@ -1681,7 +1732,7 @@
       "witches"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1610/138189.jpg"
+    "picture": "https://myanimelist.net/images/anime/1610/138189.jpg"
   },
   {
     "title": "Henjin no Salad Bowl",
@@ -1742,7 +1793,7 @@
       "urban fantasy"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1861/141482.jpg"
+    "picture": "https://myanimelist.net/images/anime/1861/141482.jpg"
   },
   {
     "title": "Hinamatsuri",
@@ -2171,6 +2222,7 @@
       "secret agent",
       "secret organization",
       "seinen",
+      "shounen",
       "suspense",
       "technology",
       "thriller",
@@ -2450,7 +2502,7 @@
       "yaoi"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/75557.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/75557.jpg"
   },
   {
     "title": "Sekai Seifuku: Bouryaku no Zvezda",
@@ -2812,7 +2864,7 @@
       "urban"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1773/132313.jpg"
+    "picture": "https://myanimelist.net/images/anime/1773/132313.jpg"
   },
   {
     "title": "Tom Sawyer no Bouken",

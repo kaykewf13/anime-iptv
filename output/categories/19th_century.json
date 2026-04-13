@@ -224,7 +224,7 @@
       "switzerland"
     ],
     "year": 1967,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/29867.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/29867.jpg"
   },
   {
     "title": "Anne Shirley",
@@ -352,16 +352,18 @@
   },
   {
     "title": "Ao no Miburo: Serizawa Ansatsu-hen",
-    "episodes": 11,
+    "episodes": 14,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "19th century",
       "action",
       "action drama",
+      "adoption",
       "based on a manga",
       "drama",
       "edo period",
+      "found family",
       "historical",
       "japanese production",
       "male protagonist",
@@ -376,7 +378,7 @@
       "swords & co"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1393/151603.jpg"
+    "picture": "https://myanimelist.net/images/anime/1393/151603.jpg"
   },
   {
     "title": "Appare-Ranman!",
@@ -479,7 +481,7 @@
       "visual novel"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1764/95110.jpg"
+    "picture": "https://myanimelist.net/images/anime/1764/95110.jpg"
   },
   {
     "title": "Bakumatsu Crisis",
@@ -526,7 +528,7 @@
       "visual novel"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1979/100451.jpg"
+    "picture": "https://myanimelist.net/images/anime/1979/100451.jpg"
   },
   {
     "title": "Bakumatsu Gijinden Roman",
@@ -578,7 +580,7 @@
       "vigilantes"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/43673.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/43673.jpg"
   },
   {
     "title": "Bakumatsu Kikansetsu Irohanihoheto",
@@ -645,7 +647,7 @@
       "war"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/56037.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/56037.jpg"
   },
   {
     "title": "Bakumatsu Rock",
@@ -723,74 +725,6 @@
     ],
     "year": 2022,
     "picture": "https://cdn.myanimelist.net/images/anime/1729/141091.jpg"
-  },
-  {
-    "title": "Chika Gentou Gekiga: Shoujo Tsubaki",
-    "episodes": 1,
-    "type": "MOVIE",
-    "status": "FINISHED",
-    "tags": [
-      "19th century",
-      "abstract",
-      "adapted into japanese movie",
-      "adapted into other media",
-      "adult audience only",
-      "age difference romance",
-      "age gap",
-      "amnesia",
-      "angst",
-      "animal abuse",
-      "asia",
-      "based on a manga",
-      "bdsm",
-      "brainwashing",
-      "bullying",
-      "child abuse",
-      "child protagonists",
-      "circus",
-      "coming of age",
-      "cooking",
-      "cross-dressing",
-      "daily life",
-      "death",
-      "drama",
-      "earth",
-      "excessive violence",
-      "eyeball licking",
-      "gore",
-      "guro",
-      "historical",
-      "horror",
-      "japan",
-      "japanese production",
-      "manga",
-      "murder",
-      "nudity",
-      "obsessive love",
-      "orphan",
-      "past",
-      "performance",
-      "place",
-      "plot continuity",
-      "pornography",
-      "present",
-      "psychological drama",
-      "romance",
-      "seinen",
-      "sex",
-      "sexual abuse",
-      "sexual abuse -- to be split and deleted",
-      "speculative fiction",
-      "splatter",
-      "stand-alone movie",
-      "the arts",
-      "time",
-      "tragedy",
-      "trap",
-      "violence"
-    ],
-    "year": 1992,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/77662.jpg"
   },
   {
     "title": "Chiruran: Nibun no Ichi",
@@ -1026,7 +960,7 @@
       "violence"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/1661/114954.jpg"
+    "picture": "https://myanimelist.net/images/anime/1661/114954.jpg"
   },
   {
     "title": "Donten ni Warau Gaiden: Ketsubetsu, Yamainu no Chikai",
@@ -1091,7 +1025,7 @@
       "twins"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1013/93320.jpg"
+    "picture": "https://myanimelist.net/images/anime/1013/93320.jpg"
   },
   {
     "title": "Eikoku Koi Monogatari Emma",
@@ -1606,7 +1540,7 @@
       "world masterpiece theater"
     ],
     "year": 1976,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/80523.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/80523.jpg"
   },
   {
     "title": "Haha wo Tazunete Sanzenri (Movie)",
@@ -1796,7 +1730,7 @@
       "war"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/71796.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/71796.jpg"
   },
   {
     "title": "Hakuouki: Hekketsuroku",
@@ -1860,7 +1794,7 @@
       "war"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/71797.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/71797.jpg"
   },
   {
     "title": "Hakuouki: Hekketsuroku - Kyoto Kaisouroku",
@@ -1948,7 +1882,7 @@
       "war"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/71798.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/71798.jpg"
   },
   {
     "title": "Hakuouki: Reimeiroku OVA",
@@ -2204,7 +2138,7 @@
       "war"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/1/2252.jpg"
+    "picture": "https://myanimelist.net/images/anime/1/2252.jpg"
   },
   {
     "title": "Huckleberry Finn Monogatari",
@@ -2363,7 +2297,7 @@
       "slice of life"
     ],
     "year": 1980,
-    "picture": "https://cdn.myanimelist.net/images/anime/1135/135330.jpg"
+    "picture": "https://myanimelist.net/images/anime/1135/135330.jpg"
   },
   {
     "title": "Ie Naki Ko Remy",
@@ -2622,7 +2556,124 @@
       "world masterpiece theater"
     ],
     "year": 1979,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/30211.jpg"
+    "picture": "https://myanimelist.net/images/anime/1618/156117.jpg"
+  },
+  {
+    "title": "JoJo no Kimyou na Bouken (TV)",
+    "episodes": 26,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "19th century",
+      "action",
+      "adventure",
+      "americas",
+      "amputation",
+      "animal abuse",
+      "awards",
+      "based on a manga",
+      "bionic powers",
+      "body horror",
+      "bullet time",
+      "bullying",
+      "call my name",
+      "calling your attacks",
+      "canon filler",
+      "chimera",
+      "comedy",
+      "coming of age",
+      "crossdressing",
+      "cultivation",
+      "cyborg",
+      "death",
+      "drama",
+      "earth",
+      "england",
+      "engrish",
+      "epic fantasy",
+      "europe",
+      "excessive violence",
+      "fantasy",
+      "fighting",
+      "fighting-shounen",
+      "foreign",
+      "friendship",
+      "good vs evil",
+      "gore",
+      "groping",
+      "hand to hand combat",
+      "hero of strong character",
+      "heterosexual",
+      "historical",
+      "horror",
+      "immortality",
+      "industrialisation",
+      "italy",
+      "japanese production",
+      "london",
+      "love polygon",
+      "male protagonist",
+      "manga",
+      "manly",
+      "martial arts",
+      "mexico",
+      "murder",
+      "narration",
+      "new york",
+      "newtype anime award",
+      "nudity",
+      "parricide",
+      "past",
+      "philosophy",
+      "place",
+      "plot continuity",
+      "predominantly male cast",
+      "primarily adult cast",
+      "primarily male cast",
+      "psychological sexual abuse",
+      "racism",
+      "revenge",
+      "romance",
+      "rome",
+      "rugby",
+      "sexual abuse",
+      "shounen",
+      "slapstick",
+      "speculative fiction",
+      "splatter",
+      "storytelling",
+      "strong male lead",
+      "struggle to survive",
+      "super power",
+      "supernatural",
+      "supernatural drama",
+      "surreal comedy",
+      "switzerland",
+      "talking is a free action",
+      "thriller",
+      "time",
+      "time skip",
+      "tragedy",
+      "training",
+      "travel",
+      "tropes",
+      "tv censoring",
+      "undead",
+      "united kingdom",
+      "united states",
+      "urban fantasy",
+      "vampire",
+      "venice",
+      "victorian period",
+      "violence",
+      "violence censoring",
+      "visible aura",
+      "world war ii",
+      "world wars",
+      "zombie"
+    ],
+    "year": 2012,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/40409.jpg"
   },
   {
     "title": "Kamui no Ken",
@@ -2867,7 +2918,7 @@
       "world masterpiece theater"
     ],
     "year": 1981,
-    "picture": "https://cdn.myanimelist.net/images/anime/1191/98626.jpg"
+    "picture": "https://myanimelist.net/images/anime/1191/98626.jpg"
   },
   {
     "title": "Kazoku Robinson Hyouryuuki: Fushigi na Shima no Flone Specials",
@@ -3176,7 +3227,7 @@
       "violence"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/1467/137783.jpg"
+    "picture": "https://myanimelist.net/images/anime/1467/137783.jpg"
   },
   {
     "title": "Kuroshitsuji II",
@@ -3373,7 +3424,7 @@
       "zombies"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/85792.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/85792.jpg"
   },
   {
     "title": "Kuroshitsuji Picture Drama",
@@ -3399,7 +3450,7 @@
       "valentine's day"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/70997.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/70997.jpg"
   },
   {
     "title": "Kuroshitsuji Recap",
@@ -3438,7 +3489,7 @@
       "victorian era"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/1056/152890.jpg"
+    "picture": "https://myanimelist.net/images/anime/1056/152890.jpg"
   },
   {
     "title": "Kuroshitsuji: Book of Circus",
@@ -3566,7 +3617,7 @@
       "zombie"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/74392.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/74392.jpg"
   },
   {
     "title": "Kuroshitsuji: Kishuku Gakkou-hen",
@@ -3699,7 +3750,7 @@
       "witch"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1517/148292.jpg"
+    "picture": "https://myanimelist.net/images/anime/1517/148292.jpg"
   },
   {
     "title": "Kuroshitsuji: Sono Shitsuji, Kougyou",
@@ -3920,7 +3971,7 @@
       "world masterpiece theater"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/1479/154965.jpg"
+    "picture": "https://myanimelist.net/images/anime/1479/154965.jpg"
   },
   {
     "title": "Les Misérables: Shoujo Cosette Specials",
@@ -4069,7 +4120,7 @@
       "romance"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/13677.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/13677.jpg"
   },
   {
     "title": "Marco: Haha wo Tazunete Sanzenri",
@@ -4150,7 +4201,7 @@
       "yakuza"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1538/140687.jpg"
+    "picture": "https://myanimelist.net/images/anime/1538/140687.jpg"
   },
   {
     "title": "Meiken Lassie Specials",
@@ -4274,7 +4325,7 @@
       "world masterpiece theater"
     ],
     "year": 1982,
-    "picture": "https://cdn.myanimelist.net/images/anime/1769/102083.jpg"
+    "picture": "https://myanimelist.net/images/anime/1769/102083.jpg"
   },
   {
     "title": "Minami no Niji no Lucy Specials",
@@ -4356,7 +4407,7 @@
       "travel"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/14630.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/14630.jpg"
   },
   {
     "title": "Nokemono-tachi no Yoru",
@@ -4405,7 +4456,7 @@
       "victorian period"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1087/129002.jpg"
+    "picture": "https://myanimelist.net/images/anime/1087/129002.jpg"
   },
   {
     "title": "Oh! Edo Rocket",
@@ -4635,7 +4686,7 @@
       "violence"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/77408.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/77408.jpg"
   },
   {
     "title": "Peace Maker Kurogane Movie 1: Omou Michi",
@@ -4662,7 +4713,7 @@
       "war"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1379/91338.jpg"
+    "picture": "https://myanimelist.net/images/anime/1379/91338.jpg"
   },
   {
     "title": "Peace Maker Kurogane Special",
@@ -4730,7 +4781,7 @@
       "world masterpiece theater"
     ],
     "year": 1978,
-    "picture": "https://cdn.myanimelist.net/images/anime/1206/137104.jpg"
+    "picture": "https://myanimelist.net/images/anime/1206/137104.jpg"
   },
   {
     "title": "Perrine Monogatari Movie",
@@ -4763,17 +4814,14 @@
     "tags": [
       "19th century",
       "based on a novel",
-      "classic literature",
       "countryside",
       "drama",
       "europe",
-      "foreign",
       "historical",
       "japanese production",
       "kids",
       "novel",
       "recap",
-      "shoujo",
       "slice of life",
       "slice of life drama"
     ],
@@ -4876,7 +4924,7 @@
       "yuri"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/86768.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/86768.jpg"
   },
   {
     "title": "Princess Principal: Crown Handler 1 - Busy Easy Money",
@@ -5050,7 +5098,7 @@
       "wakate animator ikusei project"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1190/106238.jpg"
+    "picture": "https://myanimelist.net/images/anime/1190/106238.jpg"
   },
   {
     "title": "Romeo no Aoi Sora",
@@ -5227,7 +5275,7 @@
       "weekly shounen jump"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/1346/119505.jpg"
+    "picture": "https://myanimelist.net/images/anime/1346/119505.jpg"
   },
   {
     "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
@@ -5555,7 +5603,7 @@
       "violence"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/1656/137618.jpg"
+    "picture": "https://myanimelist.net/images/anime/1656/137618.jpg"
   },
   {
     "title": "Ryo",
@@ -5880,7 +5928,7 @@
       "zombies"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/75468.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/75468.jpg"
   },
   {
     "title": "Shoukoushi Cedie",
@@ -5960,7 +6008,7 @@
       "slice of life"
     ],
     "year": 1975,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/44648.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/44648.jpg"
   },
   {
     "title": "Spirit of Wonder: China-san no Yuuutsu",
@@ -6012,7 +6060,74 @@
       "violence"
     ],
     "year": 1992,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/57935.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/57935.jpg"
+  },
+  {
+    "title": "Steel Ball Run: JoJo no Kimyou na Bouken",
+    "episodes": 12,
+    "type": "ONA",
+    "status": "ONGOING",
+    "tags": [
+      "19th century",
+      "action",
+      "adventure",
+      "alternate universe",
+      "america",
+      "angels",
+      "based on a manga",
+      "coastal",
+      "coming of age",
+      "conspiracy",
+      "cowboys",
+      "desert",
+      "dinosaurs",
+      "disability",
+      "drama",
+      "epic fantasy",
+      "excessive violence",
+      "fantasy",
+      "foreign",
+      "ganbatte",
+      "gods",
+      "gore",
+      "gunfights",
+      "hero of strong character",
+      "heterosexual",
+      "historical",
+      "horror",
+      "indigenous cultures",
+      "male protagonist",
+      "manga",
+      "mystery",
+      "nun",
+      "only on netflix",
+      "philosophy",
+      "politics",
+      "pregnancy",
+      "primarily adult cast",
+      "primarily male cast",
+      "psi-powers",
+      "racing",
+      "rehabilitation",
+      "religion",
+      "seinen",
+      "shounen",
+      "splatter",
+      "struggle to survive",
+      "super power",
+      "supernatural",
+      "supernatural drama",
+      "thriller",
+      "time manipulation",
+      "torture",
+      "tragedy",
+      "trains",
+      "travel",
+      "united states",
+      "wilderness"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1448/154111.jpg"
   },
   {
     "title": "The Man Who Has Changed the History: A Drannage of Lake Biwa",
@@ -6107,7 +6222,7 @@
       "world masterpiece theater"
     ],
     "year": 2001,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/64129.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/64129.jpg"
   },
   {
     "title": "Undead Girl Murder Farce",
@@ -6196,7 +6311,7 @@
       "youkai"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1946/136661.jpg"
+    "picture": "https://myanimelist.net/images/anime/1946/136661.jpg"
   },
   {
     "title": "Vanitas no Karte",
@@ -6267,7 +6382,7 @@
       "vampires"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1401/118483.jpg"
+    "picture": "https://myanimelist.net/images/anime/1401/118483.jpg"
   },
   {
     "title": "Vanitas no Karte Part 2",

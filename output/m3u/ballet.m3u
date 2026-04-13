@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Ballet
-# Total de animes na categoria: 12
-# Exemplos: Dance Dance Danseur, Gigi Goegoe Sunghyungsoo, Hana to Alice: Satsujin Jiken, Happiness Charge Precure! Movie: Ningyou no Kuni no Ballerina, Kimi no Iro, Mahou Shoujo Madoka★Magica: Concept Movie, Mujaki no Rakuen, Princess Tutu, RideBack, Shugo Chara!
+# Total de animes na categoria: 13
+# Exemplos: Dance Dance Danseur, Gigi Goegoe Sunghyungsoo, Hana to Alice: Satsujin Jiken, Happiness Charge Precure! Movie: Ningyou no Kuni no Ballerina, Kimi no Iro, Mahou Shoujo Madoka★Magica: Concept Movie, Mujaki no Rakuen, Paris ni Saku Etoile, Princess Tutu, RideBack
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Ballet",Pluto TV Anime | Ballet
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
 #EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Ballet",Anime World | Ballet

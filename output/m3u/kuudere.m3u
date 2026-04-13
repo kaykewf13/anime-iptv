@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Kuudere
-# Total de animes na categoria: 1369
+# Total de animes na categoria: 1370
 # Exemplos: 100% Pascal-sensei (TV), 11eyes, 11eyes Picture Drama, 11eyes: Momoiro Genmutan, 30-sai no Hoken Taiiku, 30-sai no Hoken Taiiku Specials, 5-toubun no Hanayome, 5-toubun no Hanayome Movie, 5-toubun no Hanayome ∬, 5-toubun no Hanayome∽
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Kuudere",Pluto TV Anime | Kuudere
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

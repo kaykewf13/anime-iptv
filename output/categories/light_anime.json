@@ -3,7 +3,7 @@
     "title": "#Kanagawa ni Sunderu Elf",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "comedy",
       "contemporary fantasy",
@@ -19,7 +19,7 @@
       "urban fantasy"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1194/152817.jpg"
+    "picture": "https://myanimelist.net/images/anime/1194/152817.jpg"
   },
   {
     "title": "Genkai OL Kirigiri Giriko",
@@ -43,6 +43,7 @@
     "type": "TV",
     "status": "FINISHED",
     "tags": [
+      "cgi",
       "drama",
       "fake relationship",
       "fantasy",
@@ -185,9 +186,13 @@
       "food",
       "light anime",
       "nurses",
+      "parody",
       "primarily adult cast",
       "romance",
+      "romantic comedy",
       "short episodes",
+      "slapstick",
+      "slice of life",
       "urban",
       "work"
     ],
@@ -218,10 +223,12 @@
     "type": "TV",
     "status": "FINISHED",
     "tags": [
+      "action",
       "based on a webtoon",
       "detective",
       "drama",
       "fantasy",
+      "gender bending",
       "isekai",
       "japanese production",
       "light anime",
@@ -229,16 +236,17 @@
       "reincarnation",
       "romance",
       "school life",
-      "short episodes"
+      "short episodes",
+      "supernatural drama"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1769/144658.jpg"
+    "picture": "https://myanimelist.net/images/anime/1769/144658.jpg"
   },
   {
     "title": "Omae wa Mada Gunma wo Shiranai: Reiwa-ban",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "comedy",
       "japanese production",
@@ -250,7 +258,7 @@
       "supernatural drama"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1156/153079.jpg"
+    "picture": "https://myanimelist.net/images/anime/1156/153079.jpg"
   },
   {
     "title": "Potion, Wagami wo Tasukeru",
@@ -291,19 +299,20 @@
   },
   {
     "title": "Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu!",
-    "episodes": 0,
+    "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "balloon label",
       "boys love",
       "boys' love",
       "fantasy",
       "isekai",
+      "japanese production",
       "light anime",
       "reincarnation"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1115/152470.jpg"
+    "picture": "https://myanimelist.net/images/anime/1115/152470.jpg"
   }
 ]

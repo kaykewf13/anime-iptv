@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Knights
-# Total de animes na categoria: 14
-# Exemplos: Berserk of Gluttony, Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha, Fate/strange Fake, Fate/strange Fake: Whispers of Dawn, Isekai no Sata wa Shachiku Shidai, Jack-of-All-Trades, Party of None, Katainaka no Ossan, Kensei ni Naru, Kono Healer, Mendokusai, Mizu Zokusei no Mahoutsukai, Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega
+# Total de animes na categoria: 15
+# Exemplos: Berserk of Gluttony, Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha, Fate/strange Fake, Fate/strange Fake: Whispers of Dawn, Isekai no Sata wa Shachiku Shidai, Jack-of-All-Trades, Party of None, Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou, Katainaka no Ossan, Kensei ni Naru, Kono Healer, Mendokusai, Mizu Zokusei no Mahoutsukai
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Knights",Pluto TV Anime | Knights
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
 #EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Knights",Anime World | Knights

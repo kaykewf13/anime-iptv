@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Elf
-# Total de animes na categoria: 370
+# Total de animes na categoria: 371
 # Exemplos: #Kanagawa ni Sunderu Elf, ** Kouhai, 1001 Nights, 29-sai Dokushin Chuuken Boukensha no Nichijou, A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu., Alternative Days, Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga, Arifureta Shokugyou de Sekai Saikyou Season 3, Astarotte no Omocha!, Astarotte no Omocha! EX
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Elf",Pluto TV Anime | Elf
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

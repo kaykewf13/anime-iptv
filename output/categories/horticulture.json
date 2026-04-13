@@ -336,6 +336,52 @@
     "picture": "https://cdn.myanimelist.net/images/anime/5/25035.jpg"
   },
   {
+    "title": "Champignon no Majo",
+    "episodes": 12,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "adoption",
+      "adventure",
+      "age regression",
+      "angst",
+      "animals",
+      "anthropomorphism",
+      "anthropomorphs",
+      "based on a manga",
+      "conspiracy",
+      "curses",
+      "drama",
+      "elf",
+      "fairy",
+      "fantasy",
+      "female protagonist",
+      "heterosexual",
+      "horticulture",
+      "japanese production",
+      "magic",
+      "medicine",
+      "medieval",
+      "memory manipulation",
+      "romance",
+      "rural",
+      "shapeshifting",
+      "shoujo",
+      "small town",
+      "social stigma",
+      "sorcery",
+      "spirits",
+      "supernatural",
+      "tragedy",
+      "unrequited love",
+      "wilderness",
+      "witch",
+      "witches"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1499/152613.jpg"
+  },
+  {
     "title": "Clannad",
     "episodes": 23,
     "type": "TV",
@@ -469,7 +515,7 @@
       "work"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1429/150067.jpg"
+    "picture": "https://myanimelist.net/images/anime/1429/150067.jpg"
   },
   {
     "title": "Doubutsu no Mori",
@@ -741,7 +787,7 @@
       "urban fantasy"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/25915.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/25915.jpg"
   },
   {
     "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
@@ -917,6 +963,7 @@
       "primarily female cast",
       "reincarnation",
       "rivalry",
+      "rural",
       "sake",
       "seinen",
       "shapeshifting",
@@ -944,7 +991,7 @@
       "working life"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1983/132329.jpg"
+    "picture": "https://myanimelist.net/images/anime/1983/132329.jpg"
   },
   {
     "title": "Kaguya-hime no Monogatari",
@@ -1149,7 +1196,7 @@
       "war"
     ],
     "year": 1984,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/75914.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/75914.jpg"
   },
   {
     "title": "Kimi no Hikari: Asagao to Kase-san.",
@@ -1472,7 +1519,7 @@
       "unrequited love"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/38181.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/38181.jpg"
   },
   {
     "title": "Omoide Poroporo",
@@ -1558,7 +1605,7 @@
       "swordplay"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/41415.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/41415.jpg"
   },
   {
     "title": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...",
@@ -1806,7 +1853,7 @@
       "working life"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1947/114235.jpg"
+    "picture": "https://myanimelist.net/images/anime/1947/114235.jpg"
   },
   {
     "title": "Shibai Taroka",
@@ -1830,7 +1877,7 @@
       "shounen"
     ],
     "year": 1993,
-    "picture": "https://cdn.myanimelist.net/images/anime/1792/137946.jpg"
+    "picture": "https://myanimelist.net/images/anime/1792/137946.jpg"
   },
   {
     "title": "Shikanoko Nokonoko Koshitantan",
@@ -2117,7 +2164,7 @@
       "visible aura"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/1551/112732.jpg"
+    "picture": "https://myanimelist.net/images/anime/1551/112732.jpg"
   },
   {
     "title": "Sousou no Frieren",
@@ -2133,7 +2180,9 @@
       "anachronisms",
       "aristocracy",
       "aromantic",
+      "asexual",
       "autumn",
+      "award winning",
       "based on a manga",
       "boy meets girl",
       "calling your attacks",
@@ -2192,6 +2241,7 @@
       "kuudere",
       "large breasts",
       "large-scale war",
+      "lgbtq+ themes",
       "long time span",
       "magic",
       "magic circles",
@@ -2256,7 +2306,7 @@
       "winter"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg"
+    "picture": "https://myanimelist.net/images/anime/1015/138006.jpg"
   },
   {
     "title": "Tensui no Sakuna-hime",
@@ -2321,21 +2371,28 @@
       "agriculture",
       "alternative world",
       "based on a video game",
+      "cgi",
       "comedy",
+      "demons",
       "drama",
+      "educational",
       "fantasy",
       "female protagonist",
+      "found family",
       "gods",
       "horticulture",
       "japanese production",
       "magic",
       "monster",
       "mythology",
+      "robots",
+      "rural",
       "sequel",
-      "swords & co"
+      "swords & co",
+      "writing"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1260/155016.jpg"
+    "picture": "https://myanimelist.net/images/anime/1260/155016.jpg"
   },
   {
     "title": "the life of the weed",

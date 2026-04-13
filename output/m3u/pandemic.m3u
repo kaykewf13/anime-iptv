@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Pandemic
-# Total de animes na categoria: 85
+# Total de animes na categoria: 86
 # Exemplos: Alice in Deadly School, Apocalypse Hotel, Arknights Anime PVs, Arknights: Perish in Frost, Arknights: Prelude to Dawn, Arknights: Rise from Ember, Biohazard 4: Incubate, Biohazard 4D-Executer, Biohazard: Damnation, Biohazard: Death Island
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Pandemic",Pluto TV Anime | Pandemic
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

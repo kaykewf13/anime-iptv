@@ -349,7 +349,7 @@
       "warrior"
     ],
     "year": 1991,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/22254.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/22254.jpg"
   },
   {
     "title": "Arslan Senki (TV)",
@@ -847,6 +847,7 @@
       "bullying",
       "castaway",
       "cgi",
+      "class struggle",
       "colour coded",
       "concentration camp",
       "corrupt nobility",
@@ -1111,7 +1112,7 @@
       "war"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/1141/97770.jpg"
+    "picture": "https://myanimelist.net/images/anime/1141/97770.jpg"
   },
   {
     "title": "Drifters: The Outlandish Knight",
@@ -1136,7 +1137,7 @@
       "seinen"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1987/97778.jpg"
+    "picture": "https://myanimelist.net/images/anime/1987/97778.jpg"
   },
   {
     "title": "Glass no Kantai: La Legende du Vent de l'Univers",
@@ -1746,7 +1747,7 @@
       "warring states period"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/39511.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/39511.jpg"
   },
   {
     "title": "Kingdom 2nd Season",
@@ -1801,7 +1802,7 @@
       "warring states period"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/53589.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/53589.jpg"
   },
   {
     "title": "Kumo no You ni Kaze no You ni",
@@ -1857,7 +1858,7 @@
       "war"
     ],
     "year": 1990,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/43205.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/43205.jpg"
   },
   {
     "title": "Mo Dao Zu Shi",
@@ -1960,13 +1961,19 @@
       "action",
       "action drama",
       "adventure",
+      "amnesia",
       "artificial intelligence",
+      "bionic powers",
       "cgi",
+      "conspiracy",
+      "cyberpunk",
+      "cyborg",
       "drama",
       "dystopia",
       "dystopian",
       "fantasy",
       "guns",
+      "hero of strong character",
       "japanese production",
       "love triangle",
       "male protagonist",
@@ -1977,13 +1984,14 @@
       "original work",
       "orphan",
       "outer space",
+      "prisoner",
       "rebellions",
       "robots",
+      "robots & android",
       "sci fi",
       "sci-fi",
       "science fiction",
       "science-fiction",
-      "shounen",
       "space",
       "time skip",
       "tragedy",
@@ -2183,7 +2191,7 @@
       "watercolour style"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1651/91110.jpg"
+    "picture": "https://myanimelist.net/images/anime/1651/91110.jpg"
   },
   {
     "title": "Nobunaga no Shinobi: Ise Kanegasaki-hen",
@@ -2399,7 +2407,7 @@
       "war"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/21760.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/21760.jpg"
   },
   {
     "title": "RideBack",
@@ -2467,7 +2475,7 @@
       "war"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/1834/133855.jpg"
+    "picture": "https://myanimelist.net/images/anime/1834/133855.jpg"
   },
   {
     "title": "Saikyou Bushouden: Sangoku Engi",
@@ -2618,7 +2626,7 @@
       "war"
     ],
     "year": 1986,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/72949.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/72949.jpg"
   },
   {
     "title": "Shangri-La",
@@ -2893,7 +2901,7 @@
       "war"
     ],
     "year": 1986,
-    "picture": "https://cdn.myanimelist.net/images/anime/1920/112411.jpg"
+    "picture": "https://myanimelist.net/images/anime/1920/112411.jpg"
   },
   {
     "title": "Utawarerumono",
@@ -3053,6 +3061,6 @@
       "war-zone realities"
     ],
     "year": 1991,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/76348.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/76348.jpg"
   }
 ]

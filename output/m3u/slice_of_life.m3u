@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Slice Of Life
-# Total de animes na categoria: 6054
+# Total de animes na categoria: 6064
 # Exemplos: "Anata wo Hitokoto de Arawashite Kudasai" no Shitsumon ga Nigate da., "Bungaku Shoujo" Kyou no Oyatsu: Hatsukoi, "Bungaku Shoujo" Memoire, "Eiyuu" Kaitai, "Hataraku" no 100-nenshi, "Hitori de Ikirare Sou" tte Sore tte Nee, Homete Iru no?, "Odekake Kozame" Kurashiki-shi Collaboration Movie, "Omae Gotoki ga Maou ni Kateru to Omouna" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai, "Parade" de Satie, #AdVSJus Motion Comic
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Slice Of Life",Pluto TV Anime | Slice Of Life
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

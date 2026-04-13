@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: War
-# Total de animes na categoria: 1519
+# Total de animes na categoria: 1522
 # Exemplos: 0-sen Hayato, 0-sen Hayato Pilot, 009 Re:Cyborg, 009-1, 009-1: R&B, 100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season, 100-man-nen Chikyuu no Tabi: Bander Book, 24-pun de Wakaru: Sengoku Youko - Sen Ma Konton-hen - Zenhan, 5-fun de Wakaru! Kingdom: Gou Juugun-hen, 5-fun de Wakaru: Violet Evergarden
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 War",Pluto TV Anime | War
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

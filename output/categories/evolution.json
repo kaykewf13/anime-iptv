@@ -453,7 +453,7 @@
       "yuri"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/1288/154436.jpg"
+    "picture": "https://myanimelist.net/images/anime/1288/154436.jpg"
   },
   {
     "title": "Digimon Adventure",
@@ -537,11 +537,12 @@
       "travel",
       "tropes",
       "urban",
+      "vampire",
       "virtual world",
       "wilderness"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/1471/99249.jpg"
+    "picture": "https://myanimelist.net/images/anime/1471/99249.jpg"
   },
   {
     "title": "Digimon Adventure 02",
@@ -666,7 +667,7 @@
       "virtual world"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1415/100541.jpg"
+    "picture": "https://myanimelist.net/images/anime/1415/100541.jpg"
   },
   {
     "title": "Digimon Savers the Movie: Kyuukyoku Power! Burst Mode Hatsudou!!",
@@ -794,7 +795,7 @@
       "virtual world"
     ],
     "year": 2001,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/73696.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/73696.jpg"
   },
   {
     "title": "Digimon Tamers: Boukensha-tachi no Tatakai",
@@ -892,7 +893,7 @@
       "trains"
     ],
     "year": 2002,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/4418.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/4418.jpg"
   },
   {
     "title": "Digimon X-Evolution",
@@ -1048,7 +1049,7 @@
       "violence"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1664/103275.jpg"
+    "picture": "https://myanimelist.net/images/anime/1664/103275.jpg"
   },
   {
     "title": "Hunter x Hunter (2011)",
@@ -1061,6 +1062,7 @@
       "adventure",
       "alternative present",
       "alternative world",
+      "amnesia",
       "animals",
       "anthropomorphism",
       "anti-hero",
@@ -1468,7 +1470,7 @@
       "weak to strong"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1523/141680.jpg"
+    "picture": "https://myanimelist.net/images/anime/1523/141680.jpg"
   },
   {
     "title": "Serial Experiments Lain",
@@ -1577,7 +1579,7 @@
       "zombie"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/1718/91550.jpg"
+    "picture": "https://myanimelist.net/images/anime/1718/91550.jpg"
   },
   {
     "title": "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
@@ -1795,7 +1797,6 @@
       "multi-anime projects",
       "nearly almighty protagonist",
       "new",
-      "nudity",
       "off-model animation",
       "original work",
       "other planet",
@@ -1851,7 +1852,7 @@
       "wardrobe malfunction"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/5123.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/5123.jpg"
   },
   {
     "title": "Tengen Toppa Gurren Lagann Movie 2: Lagann-hen",
@@ -2032,6 +2033,6 @@
       "war"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/1027/131977.jpg"
+    "picture": "https://myanimelist.net/images/anime/1027/131977.jpg"
   }
 ]

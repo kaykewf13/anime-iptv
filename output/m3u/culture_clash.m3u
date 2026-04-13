@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Culture Clash
 # Total de animes na categoria: 7
-# Exemplos: Golden Kamuy, Golden Kamuy 2nd Season, Golden Kamuy 3rd Season, Golden Kamuy 4th Season, Golden Kamuy Final Season, Golden Kamuy: Sapporo Beer Koujou-hen, Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru
+# Exemplos: Golden Kamuy, Golden Kamuy 2nd Season, Golden Kamuy 3rd Season, Golden Kamuy 4th Season, Golden Kamuy: Saishuushou, Golden Kamuy: Sapporo Beer Koujou-hen, Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Culture Clash",Pluto TV Anime | Culture Clash
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
 #EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Culture Clash",Anime World | Culture Clash

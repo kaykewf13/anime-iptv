@@ -290,6 +290,42 @@
     "picture": "https://cdn.myanimelist.net/images/anime/8/77966.jpg"
   },
   {
+    "title": "Ansatsu Kyoushitsu Movie: Minna no Jikan",
+    "episodes": 1,
+    "type": "MOVIE",
+    "status": "FINISHED",
+    "tags": [
+      "action",
+      "action comedy",
+      "assassin",
+      "assassins",
+      "based on a manga",
+      "bullying",
+      "comedy",
+      "contract killer / assassin",
+      "drama",
+      "japanese production",
+      "male protagonist",
+      "martial arts",
+      "middle school",
+      "non-human protagonists",
+      "overpowered main characters",
+      "present",
+      "school",
+      "school life",
+      "sci-fi",
+      "science fiction",
+      "science-fiction",
+      "shounen",
+      "splatter",
+      "supernatural",
+      "supernatural drama",
+      "swords & co"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1198/154288.jpg"
+  },
+  {
     "title": "Buddy Daddies",
     "episodes": 12,
     "type": "TV",
@@ -518,6 +554,7 @@
       "death",
       "delinquent",
       "demi-humans",
+      "demon",
       "disaster",
       "drama",
       "earth",
@@ -535,6 +572,7 @@
       "following one's dream",
       "gore",
       "harem",
+      "hero of strong character",
       "heterosexual",
       "hostage situation",
       "isekai",
@@ -552,6 +590,7 @@
       "medieval",
       "meta",
       "misleading beginning",
+      "monster",
       "mundane made awesome",
       "murder",
       "mutilation",
@@ -620,6 +659,7 @@
       "action",
       "action comedy",
       "alchemy",
+      "almighty hero",
       "alternate universe",
       "alternative world",
       "anti-hero",
@@ -631,7 +671,9 @@
       "contract killer / assassin",
       "cult",
       "dark fantasy",
+      "delinquent",
       "demi-humans",
+      "demon",
       "demons",
       "dragons",
       "drama",
@@ -643,6 +685,7 @@
       "female harem",
       "gore",
       "harem",
+      "hero of strong character",
       "isekai",
       "japanese production",
       "kemonomimi",
@@ -651,6 +694,7 @@
       "male protagonist",
       "medieval",
       "meta",
+      "monster",
       "nobleman",
       "nudity",
       "overpowered main characters",
@@ -671,6 +715,7 @@
       "tragedy",
       "trains",
       "transformations",
+      "tsundere",
       "vampire",
       "witch",
       "zombie"
@@ -895,7 +940,7 @@
   },
   {
     "title": "MILGЯAM",
-    "episodes": 33,
+    "episodes": 34,
     "type": "SPECIAL",
     "status": "ONGOING",
     "tags": [
@@ -922,7 +967,7 @@
       "tragedy"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1497/112023.jpg"
+    "picture": "https://myanimelist.net/images/anime/1497/112023.jpg"
   },
   {
     "title": "Ninja to Koroshiya no Futarigurashi",
@@ -953,6 +998,7 @@
       "family life",
       "fantasy",
       "female protagonist",
+      "food",
       "fugitive",
       "ghost",
       "high school",
@@ -963,6 +1009,7 @@
       "martial arts",
       "murder",
       "ninja",
+      "photography",
       "predominantly female cast",
       "present",
       "primarily female cast",
@@ -1322,7 +1369,7 @@
       "travel"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/74374.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/74374.jpg"
   },
   {
     "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen",
@@ -1392,7 +1439,7 @@
       "violence"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/1656/137618.jpg"
+    "picture": "https://myanimelist.net/images/anime/1656/137618.jpg"
   },
   {
     "title": "Seirei no Moribito",
@@ -2391,6 +2438,6 @@
       "work life"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1369/123738.jpg"
+    "picture": "https://myanimelist.net/images/anime/1369/123738.jpg"
   }
 ]

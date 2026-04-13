@@ -299,7 +299,7 @@
       "war"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1427/147055.jpg"
+    "picture": "https://myanimelist.net/images/anime/1427/147055.jpg"
   },
   {
     "title": "Dr. Stone",
@@ -473,7 +473,7 @@
       "weekly shounen jump"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1711/110614.jpg"
+    "picture": "https://myanimelist.net/images/anime/1711/110614.jpg"
   },
   {
     "title": "Dungeon no Naka no Hito",
@@ -526,7 +526,44 @@
       "zombie"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1026/143505.jpg"
+    "picture": "https://myanimelist.net/images/anime/1026/143505.jpg"
+  },
+  {
+    "title": "Fangkai Nage Nuwu",
+    "episodes": 8,
+    "type": "ONA",
+    "status": "ONGOING",
+    "tags": [
+      "action",
+      "adventure",
+      "alternative world",
+      "anachronism",
+      "chinese production",
+      "demon",
+      "economics",
+      "epic fantasy",
+      "fantasy",
+      "female harem",
+      "harem",
+      "heterosexual",
+      "historical",
+      "isekai",
+      "kingdom management",
+      "love triangle",
+      "magic",
+      "male protagonist",
+      "medieval",
+      "military",
+      "monster",
+      "novel",
+      "politics",
+      "primarily adult cast",
+      "romance",
+      "war",
+      "witch"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1381/153536.jpg"
   },
   {
     "title": "Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram",
@@ -1149,7 +1186,7 @@
       "mythology"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/83608.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/83608.jpg"
   },
   {
     "title": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
@@ -1201,7 +1238,7 @@
     "title": "Isekai no Sata wa Shachiku Shidai",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "adult cast",
       "adult couples",
@@ -1236,6 +1273,7 @@
       "politics",
       "primarily adult cast",
       "psychoactive drugs",
+      "religion",
       "religious sect",
       "revenge",
       "romance",
@@ -1258,7 +1296,7 @@
       "yaoi"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1510/153806.jpg"
+    "picture": "https://myanimelist.net/images/anime/1510/153806.jpg"
   },
   {
     "title": "Isekai Nonbiri Nouka",
@@ -1354,6 +1392,7 @@
       "primarily female cast",
       "reincarnation",
       "rivalry",
+      "rural",
       "sake",
       "seinen",
       "shapeshifting",
@@ -1381,7 +1420,7 @@
       "working life"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1983/132329.jpg"
+    "picture": "https://myanimelist.net/images/anime/1983/132329.jpg"
   },
   {
     "title": "Isekai wa Smartphone to Tomo ni. 2",
@@ -1566,11 +1605,14 @@
       "alchemy",
       "alternative world",
       "animals",
+      "aristocracy",
       "aromantic",
+      "banishment",
       "based on a light novel",
       "cheats",
       "cohabitation",
       "comedy",
+      "conspiracy",
       "creature taming",
       "crime",
       "curses",
@@ -1585,14 +1627,18 @@
       "magic",
       "male protagonist",
       "medieval",
+      "misunderstandings",
       "nearly almighty protagonist",
       "novel",
       "overpowered main characters",
       "place",
+      "royalty",
       "rural",
+      "science fiction",
       "seinen",
       "shounen",
       "slapstick",
+      "sorcery",
       "speculative fiction",
       "super power",
       "swordplay",
@@ -1601,7 +1647,75 @@
       "work"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1743/148272.jpg"
+    "picture": "https://myanimelist.net/images/anime/1743/148272.jpg"
+  },
+  {
+    "title": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
+    "episodes": 12,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "action",
+      "adventure",
+      "alternative world",
+      "arranged marriage",
+      "based on a light novel",
+      "blackmail",
+      "cheats",
+      "civil war",
+      "comedy",
+      "conspiracy",
+      "crime",
+      "curse",
+      "death",
+      "disaster",
+      "drama",
+      "fantasy",
+      "fictional location",
+      "fighting",
+      "game elements",
+      "gangs",
+      "groping",
+      "guerilla warfare",
+      "hostage situation",
+      "isekai",
+      "japanese production",
+      "kingdom management",
+      "knight",
+      "large breasts",
+      "magic",
+      "magic weapons",
+      "maid",
+      "maids",
+      "male protagonist",
+      "medium breasts",
+      "murder",
+      "nobility",
+      "nobleman",
+      "novel",
+      "overpowered main characters",
+      "palace",
+      "place",
+      "politics",
+      "psychoactive drugs",
+      "rebellion",
+      "reincarnation",
+      "romance",
+      "royal affairs",
+      "sexual abuse",
+      "shounen",
+      "slavery",
+      "slum",
+      "speculative fiction",
+      "strong male lead",
+      "swordplay",
+      "swords & co",
+      "time skip",
+      "violence",
+      "war"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1629/153722.jpg"
   },
   {
     "title": "Kizu darake Seijo yori Houfuku wo Komete",
@@ -1796,7 +1910,7 @@
       "zombie"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/84004.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/84004.jpg"
   },
   {
     "title": "Magi: The Labyrinth of Magic",
@@ -1913,7 +2027,7 @@
       "wardrobe malfunction"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/42773.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/42773.jpg"
   },
   {
     "title": "Maoyuu Maou Yuusha",
@@ -2193,14 +2307,18 @@
     "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "adventure",
       "alternative world",
+      "aristocracy",
+      "banishment",
       "based on a light novel",
       "class struggle",
       "comedy",
+      "cute boys doing cute things",
+      "drama",
       "dungeon",
       "estranged family",
       "fantasy",
@@ -2213,17 +2331,20 @@
       "male protagonist",
       "management",
       "medieval",
+      "mermaid",
       "nobility",
       "person in a strange world",
       "reincarnation",
+      "romance",
       "rural",
       "shounen",
       "slavery",
+      "sorcery",
       "swords & co",
       "time skip"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1264/153908.jpg"
+    "picture": "https://myanimelist.net/images/anime/1264/153908.jpg"
   },
   {
     "title": "One Piece: Gyojin Tou-hen",
@@ -2678,6 +2799,7 @@
       "demons",
       "elf",
       "fantasy",
+      "flash",
       "isekai",
       "kingdom management",
       "magic",
@@ -2937,7 +3059,7 @@
       "work"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1976/139963.jpg"
+    "picture": "https://myanimelist.net/images/anime/1976/139963.jpg"
   },
   {
     "title": "Saiunkoku Monogatari 2nd Season",
@@ -3236,7 +3358,7 @@
       "villainess"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1901/139910.jpg"
+    "picture": "https://myanimelist.net/images/anime/1901/139910.jpg"
   },
   {
     "title": "Tensai Ouji no Akaji Kokka Saisei Jutsu",
@@ -3726,6 +3848,46 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1211/143476.jpg"
   },
   {
+    "title": "Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen",
+    "episodes": 1,
+    "type": "MOVIE",
+    "status": "FINISHED",
+    "tags": [
+      "action",
+      "adventure",
+      "agender",
+      "alternative world",
+      "based on a manga",
+      "cheats",
+      "comedy",
+      "demons",
+      "fantasy",
+      "femboy",
+      "game elements",
+      "isekai",
+      "japanese production",
+      "kingdom management",
+      "magic",
+      "male protagonist",
+      "medieval",
+      "modern knowledge",
+      "monster",
+      "monster boy",
+      "monster girl",
+      "monsters",
+      "novel",
+      "person in a strange world",
+      "reincarnation",
+      "sequel",
+      "shounen",
+      "slimes",
+      "speculative fiction",
+      "swords & co"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1447/153665.jpg"
+  },
+  {
     "title": "Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen",
     "episodes": 1,
     "type": "MOVIE",
@@ -3941,7 +4103,7 @@
       "winter"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1458/117607.jpg"
+    "picture": "https://myanimelist.net/images/anime/1458/117607.jpg"
   },
   {
     "title": "Tezuka Osamu no Kyuuyaku Seisho Monogatari: In the Beginning",

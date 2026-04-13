@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Swords & Co
-# Total de animes na categoria: 1415
+# Total de animes na categoria: 1418
 # Exemplos: "Omae Gotoki ga Maou ni Kateru to Omouna" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai, #Compass 2.0: Sentou Setsuri Kaiseki System, .hack//Gift, .hack//Intermezzo, .hack//Quantum, .hack//Sign, .hack//Tasogare no Udewa Densetsu, .hack//Tasogare no Udewa Densetsu: Offline de Aimashou, .hack//Unison, 100-man no Inochi no Ue ni Ore wa Tatteiru
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Swords & Co",Pluto TV Anime | Swords & Co
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

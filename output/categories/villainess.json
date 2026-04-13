@@ -318,12 +318,13 @@
     "title": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "alternative world",
       "aristocracy",
       "based on a light novel",
       "drama",
+      "fairy",
       "fantasy",
       "female protagonist",
       "heterosexual",
@@ -346,7 +347,7 @@
       "villainess"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1383/151284.jpg"
+    "picture": "https://myanimelist.net/images/anime/1383/151284.jpg"
   },
   {
     "title": "Akuyaku Reijō no Tsuihōgo! Kyōkai Kaikaku Gohan de Yũyũ Sister-gurashi",
@@ -464,7 +465,7 @@
       "zombies"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1159/93477.jpg"
+    "picture": "https://myanimelist.net/images/anime/1159/93477.jpg"
   },
   {
     "title": "Bishoujo Senshi Sailor Moon: Sailor Stars",
@@ -561,7 +562,7 @@
       "yuri"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/1645/105992.jpg"
+    "picture": "https://myanimelist.net/images/anime/1645/105992.jpg"
   },
   {
     "title": "Chuan Shu Zijiu Zhinan",
@@ -863,7 +864,7 @@
       "villainess"
     ],
     "year": 2001,
-    "picture": "https://cdn.myanimelist.net/images/anime/1633/135405.jpg"
+    "picture": "https://myanimelist.net/images/anime/1633/135405.jpg"
   },
   {
     "title": "Di Gi Charat Summer Special 2000",
@@ -1097,21 +1098,25 @@
   },
   {
     "title": "Eris no Seihai",
-    "episodes": 10,
+    "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "age gap",
       "anti-hero",
+      "aristocracy",
       "aristocrat",
       "arranged marriage",
       "based on a light novel",
+      "betrayal",
       "body swapping",
       "conspiracy",
+      "crime",
       "criminal organization",
       "detective",
       "drama",
       "drugs",
+      "ensemble cast",
       "fantasy",
       "female protagonist",
       "foreign",
@@ -1121,22 +1126,26 @@
       "heterosexual",
       "historical",
       "japanese production",
+      "medieval",
       "mystery",
       "nobility",
       "nobleman",
       "ojou-sama",
       "politics",
+      "possession",
       "revenge",
       "romance",
       "royal affairs",
       "shoujo",
+      "sorcery",
+      "spirits",
       "suicide",
       "supernatural",
       "tragedy",
       "villainess"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1404/154931.jpg"
+    "picture": "https://myanimelist.net/images/anime/1404/154931.jpg"
   },
   {
     "title": "Fate/Grand Order: Zettai Majuu Sensen Babylonia",
@@ -1516,7 +1525,7 @@
       "work"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1449/140344.jpg"
+    "picture": "https://myanimelist.net/images/anime/1449/140344.jpg"
   },
   {
     "title": "Grancrest Senki",
@@ -1855,7 +1864,7 @@
       "villainess"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1764/106659.jpg"
+    "picture": "https://myanimelist.net/images/anime/1764/106659.jpg"
   },
   {
     "title": "Kakegurui",
@@ -1969,8 +1978,8 @@
       "manga",
       "mind games",
       "mystery",
-      "netflix original",
       "ojou-sama",
+      "only on netflix",
       "place",
       "present",
       "primarily female cast",
@@ -2080,6 +2089,7 @@
       "female protagonist",
       "flash",
       "isekai",
+      "medieval",
       "primarily female cast",
       "reincarnation",
       "short episodes",
@@ -2101,13 +2111,14 @@
       "comedy",
       "fantasy",
       "isekai",
+      "medieval",
       "reincarnation",
       "short episodes",
       "super deformed",
       "villainess"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1722/116827.jpg"
+    "picture": "https://myanimelist.net/images/anime/1722/116827.jpg"
   },
   {
     "title": "Kill la Kill",
@@ -2534,7 +2545,7 @@
       "yuri"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1525/139345.jpg"
+    "picture": "https://myanimelist.net/images/anime/1525/139345.jpg"
   },
   {
     "title": "Mahou Yuugi 2D",
@@ -2577,7 +2588,7 @@
       "virtual world"
     ],
     "year": 2001,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/80722.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/80722.jpg"
   },
   {
     "title": "Mahou Yuugi 3D",
@@ -2705,7 +2716,7 @@
       "wordplay"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1448/108514.jpg"
+    "picture": "https://myanimelist.net/images/anime/1448/108514.jpg"
   },
   {
     "title": "Meikyuu Black Company",
@@ -3945,7 +3956,7 @@
       "yandere"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1973/95616.jpg"
+    "picture": "https://myanimelist.net/images/anime/1973/95616.jpg"
   },
   {
     "title": "Tate no Yuusha no Nariagari",
@@ -4165,7 +4176,7 @@
       "zombie"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1490/101365.jpg"
+    "picture": "https://myanimelist.net/images/anime/1490/101365.jpg"
   },
   {
     "title": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
@@ -4245,7 +4256,7 @@
       "villainess"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1901/139910.jpg"
+    "picture": "https://myanimelist.net/images/anime/1901/139910.jpg"
   },
   {
     "title": "Tensei Akujo no Kuro Rekishi",
@@ -4348,7 +4359,20 @@
       "witch"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/1671/94180.jpg"
+    "picture": "https://myanimelist.net/images/anime/1671/94180.jpg"
+  },
+  {
+    "title": "The Condemned Villainess Goes Back in Time",
+    "episodes": 0,
+    "type": "TV",
+    "status": "UNKNOWN",
+    "tags": [
+      "revenge",
+      "time travel",
+      "villainess"
+    ],
+    "year": null,
+    "picture": "https://raw.githubusercontent.com/manami-project/anime-offline-database/master/pics/no_pic.png"
   },
   {
     "title": "The Final-Boss Prince is Somehow Obsessed with the Chubby Villainess",
@@ -4362,31 +4386,6 @@
     ],
     "year": null,
     "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38469-1240596201.1771027650.jpg"
-  },
-  {
-    "title": "The Holy Grail of Eris",
-    "episodes": 7,
-    "type": "TV",
-    "status": "FINISHED",
-    "tags": [
-      "aristocracy",
-      "betrayal",
-      "conspiracy",
-      "crime",
-      "detective",
-      "drama",
-      "fantasy",
-      "ghosts",
-      "medieval",
-      "mystery",
-      "possession",
-      "revenge",
-      "sorcery",
-      "spirits",
-      "villainess"
-    ],
-    "year": 2026,
-    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33782-2693427720.1770168758.jpg"
   },
   {
     "title": "Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san",
@@ -4553,7 +4552,7 @@
       "yuri"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1531/137711.jpg"
+    "picture": "https://myanimelist.net/images/anime/1531/137711.jpg"
   },
   {
     "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",

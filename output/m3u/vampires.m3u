@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Vampires
-# Total de animes na categoria: 196
+# Total de animes na categoria: 195
 # Exemplos: Akiba's Trip The Animation, Amagami, Arne no Jikenbo, Babanbabanban Vampire, Bad Habits, Bakemonogatari, Black Blood Brothers, Blade, Blood Lad, Blood Lad: Kanketsu Kinen
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Vampires",Pluto TV Anime | Vampires
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

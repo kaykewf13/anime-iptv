@@ -86,7 +86,7 @@
       "winter"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/1/303.jpg"
+    "picture": "https://myanimelist.net/images/anime/1/303.jpg"
   },
   {
     "title": "Alice to Zouroku",
@@ -280,7 +280,7 @@
       "violence"
     ],
     "year": 1989,
-    "picture": "https://cdn.myanimelist.net/images/anime/1377/110296.jpg"
+    "picture": "https://myanimelist.net/images/anime/1377/110296.jpg"
   },
   {
     "title": "Ao no Strada",
@@ -2096,7 +2096,7 @@
       "yakuza"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/19570.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/19570.jpg"
   },
   {
     "title": "Dosanko Gal wa Namara Menkoi",
@@ -2635,7 +2635,7 @@
       "zombies"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/1798/91548.jpg"
+    "picture": "https://myanimelist.net/images/anime/1798/91548.jpg"
   },
   {
     "title": "Gamers!",
@@ -2847,7 +2847,7 @@
       "wordplay"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/45995.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/45995.jpg"
   },
   {
     "title": "Gosenzo-sama Banbanzai!",
@@ -3251,11 +3251,11 @@
       "winter"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/75086.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/75086.jpg"
   },
   {
     "title": "Holo no Graffiti",
-    "episodes": 356,
+    "episodes": 359,
     "type": "ONA",
     "status": "ONGOING",
     "tags": [
@@ -3343,11 +3343,10 @@
       "vtubers",
       "witch",
       "wordplay",
-      "working life",
-      "yuri"
+      "working life"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1259/110227.jpg"
+    "picture": "https://myanimelist.net/images/anime/1259/110227.jpg"
   },
   {
     "title": "Houkago Midnighters",
@@ -3452,7 +3451,7 @@
       "winter"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/47741.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/47741.jpg"
   },
   {
     "title": "Houkago no Pleiades (TV)",
@@ -3560,6 +3559,7 @@
       "earth",
       "football",
       "ganbatte",
+      "heterosexual",
       "high school",
       "japan",
       "japanese production",
@@ -3567,6 +3567,7 @@
       "place",
       "present",
       "primarily male cast",
+      "primarily teen cast",
       "product placement",
       "school",
       "school club",
@@ -3795,7 +3796,7 @@
       "workplace"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1303/90909.jpg"
+    "picture": "https://myanimelist.net/images/anime/1303/90909.jpg"
   },
   {
     "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
@@ -3945,7 +3946,7 @@
       "violent retribution for accidental infringement"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/43361.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/43361.jpg"
   },
   {
     "title": "Kannagi",
@@ -4033,7 +4034,7 @@
       "wordplay"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/19724.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/19724.jpg"
   },
   {
     "title": "Kite Liberator",
@@ -4204,6 +4205,7 @@
       "artificial intelligence",
       "based on a manga",
       "bionic powers",
+      "cars",
       "cg animation",
       "cg-anime",
       "cgi",
@@ -4235,8 +4237,8 @@
       "mecha",
       "military",
       "mystery",
-      "netflix original",
       "nudity",
+      "only on netflix",
       "orphan",
       "philosophy",
       "place",
@@ -4277,7 +4279,7 @@
       "war"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1213/106702.jpg"
+    "picture": "https://myanimelist.net/images/anime/1213/106702.jpg"
   },
   {
     "title": "Kuma Miko",
@@ -4382,7 +4384,7 @@
       "tragedy"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/82289.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/82289.jpg"
   },
   {
     "title": "Lucky☆Star: Original na Visual to Animation",
@@ -4523,7 +4525,7 @@
       "yuri"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/75206.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/75206.jpg"
   },
   {
     "title": "MF Ghost",
@@ -4597,6 +4599,45 @@
     ],
     "year": 2023,
     "picture": "https://cdn.myanimelist.net/images/anime/1249/132348.jpg"
+  },
+  {
+    "title": "MF Ghost 3rd Season",
+    "episodes": 13,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "action",
+      "asia",
+      "based on a manga",
+      "cars",
+      "cgi",
+      "crunchyroll co-production",
+      "daily life",
+      "drama",
+      "drifting",
+      "earth",
+      "ganbatte",
+      "heterosexual",
+      "japan",
+      "japanese production",
+      "male protagonist",
+      "manga",
+      "motorsport",
+      "place",
+      "present",
+      "primarily adult cast",
+      "primarily male cast",
+      "product placement",
+      "racing",
+      "seinen",
+      "sequel",
+      "skimpy clothing",
+      "slice of life",
+      "sports",
+      "time"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1419/154458.jpg"
   },
   {
     "title": "Minami Kamakura Koukou Joshi Jitensha-bu",
@@ -4826,7 +4867,7 @@
       "zombies"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1634/116782.jpg"
+    "picture": "https://myanimelist.net/images/anime/1634/116782.jpg"
   },
   {
     "title": "Mo Dao Zu Shi: Xian Yun Pian",
@@ -4905,7 +4946,7 @@
       "zombies"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1404/106707.jpg"
+    "picture": "https://myanimelist.net/images/anime/1404/106707.jpg"
   },
   {
     "title": "Next A-Class",
@@ -5049,7 +5090,7 @@
       "wordplay"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/75617.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/75617.jpg"
   },
   {
     "title": "Nodame Cantabile",
@@ -5126,7 +5167,7 @@
       "university"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/11986.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/11986.jpg"
   },
   {
     "title": "Non-Human",
@@ -5350,7 +5391,7 @@
       "unidentified flying object"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/39245.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/39245.jpg"
   },
   {
     "title": "Poputepipikku",
@@ -5421,7 +5462,7 @@
       "wordplay"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/88816.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/88816.jpg"
   },
   {
     "title": "RDG: Red Data Girl",
@@ -5798,6 +5839,7 @@
       "monster",
       "novel",
       "open-ended",
+      "parenthood",
       "parenting",
       "place",
       "plot twists",
@@ -5828,6 +5870,7 @@
       "teamwork",
       "time",
       "tragedy",
+      "transgender",
       "tropes",
       "underground",
       "video games",
@@ -6016,7 +6059,7 @@
       "winter"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/1405/143284.jpg"
+    "picture": "https://myanimelist.net/images/anime/1405/143284.jpg"
   },
   {
     "title": "SKET Dance",
@@ -6447,7 +6490,7 @@
       "virtual world"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/74071.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/74071.jpg"
   },
   {
     "title": "Steins;Gate",
@@ -6466,6 +6509,7 @@
       "butterfly effect",
       "canon filler",
       "chuunibyou",
+      "clone",
       "comedy",
       "conspiracy",
       "cross-dressing",
@@ -6841,7 +6885,7 @@
       "urban fantasy"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1598/128450.jpg"
+    "picture": "https://myanimelist.net/images/anime/1598/128450.jpg"
   },
   {
     "title": "Tada-kun wa Koi wo Shinai",
@@ -7037,7 +7081,7 @@
       "working life"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1869/95731.jpg"
+    "picture": "https://myanimelist.net/images/anime/1869/95731.jpg"
   },
   {
     "title": "The Chocolate Panic Picture Show",
@@ -7252,7 +7296,7 @@
       "working life"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/1682/142758.jpg"
+    "picture": "https://myanimelist.net/images/anime/1682/142758.jpg"
   },
   {
     "title": "Tiger & Bunny",
@@ -7470,7 +7514,7 @@
       "yuri"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/1099/106939.jpg"
+    "picture": "https://myanimelist.net/images/anime/1099/106939.jpg"
   },
   {
     "title": "Tokyo Magnitude 8.0",
@@ -7565,15 +7609,20 @@
       "comedy",
       "cooking",
       "creature taming",
+      "demi-humans",
       "dragons",
       "dungeon",
       "dungeons",
+      "dwarves",
       "economics",
+      "educational",
       "elf",
+      "elves",
       "fantasy",
       "food",
       "food and beverage",
       "food preparation",
+      "food science",
       "found family",
       "game elements",
       "goblin",

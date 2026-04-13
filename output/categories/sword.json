@@ -402,7 +402,7 @@
       "zettai ryouiki"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/17071.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/17071.jpg"
   },
   {
     "title": "Asura Cryin' 2",
@@ -837,7 +837,7 @@
       "yuri"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/1159/94216.jpg"
+    "picture": "https://myanimelist.net/images/anime/1159/94216.jpg"
   },
   {
     "title": "Busou Shinki Moon Angel",
@@ -852,8 +852,10 @@
       "android",
       "androids",
       "angst",
+      "artificial intelligence",
       "asia",
       "boy meets girl",
+      "brainwashing",
       "collateral damage",
       "coming of age",
       "conspiracy",
@@ -862,6 +864,7 @@
       "drama",
       "earth",
       "ending",
+      "fugitive",
       "future",
       "greek mythology",
       "gun - to be split and deleted",
@@ -882,6 +885,7 @@
       "place",
       "plot continuity",
       "primarily female cast",
+      "proxy battle",
       "proxy battles",
       "remastered version available",
       "robot",
@@ -899,6 +903,7 @@
       "swordplay",
       "time",
       "transfer student",
+      "urban",
       "violence",
       "virtual world"
     ],
@@ -954,7 +959,7 @@
       "war"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1104/145564.jpg"
+    "picture": "https://myanimelist.net/images/anime/1104/145564.jpg"
   },
   {
     "title": "Campione! Matsurowanu Kamigami to Kamigoroshi no Maou",
@@ -1138,10 +1143,11 @@
       "visual novel",
       "waitress",
       "war",
-      "war-zone realities"
+      "war-zone realities",
+      "yuri"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/75789.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/75789.jpg"
   },
   {
     "title": "Catblue: Dynamite",
@@ -1308,7 +1314,7 @@
       "youkai"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/21834.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/21834.jpg"
   },
   {
     "title": "Darker than Black: Ryuusei no Gemini",
@@ -1431,7 +1437,7 @@
       "whale"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/1189/134110.jpg"
+    "picture": "https://myanimelist.net/images/anime/1189/134110.jpg"
   },
   {
     "title": "Date A Live",
@@ -2416,7 +2422,7 @@
       "zettai ryouiki"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/20345.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/20345.jpg"
   },
   {
     "title": "Juushin Liger",
@@ -2647,7 +2653,7 @@
       "weak to strong"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1517/125496.jpg"
+    "picture": "https://myanimelist.net/images/anime/1517/125496.jpg"
   },
   {
     "title": "Kurogane Communication",
@@ -2738,7 +2744,7 @@
       "watercolour style"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/1266/133852.jpg"
+    "picture": "https://myanimelist.net/images/anime/1266/133852.jpg"
   },
   {
     "title": "Kämpfer",
@@ -3038,7 +3044,7 @@
       "violent retribution for accidental infringement"
     ],
     "year": 2002,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/10289.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/10289.jpg"
   },
   {
     "title": "Magic Knight Rayearth",
@@ -3224,7 +3230,7 @@
       "youkai"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/22525.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/22525.jpg"
   },
   {
     "title": "Puella Magi Madoka Magica the Movie",
@@ -3469,7 +3475,7 @@
       "zombie"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1825/91514.jpg"
+    "picture": "https://myanimelist.net/images/anime/1825/91514.jpg"
   },
   {
     "title": "Queen's Blade OVA",
@@ -3982,7 +3988,7 @@
       "war"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/1768/100631.jpg"
+    "picture": "https://myanimelist.net/images/anime/1768/100631.jpg"
   },
   {
     "title": "Silent Möbius: The Motion Picture",
@@ -4441,7 +4447,7 @@
       "war"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/75545.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/75545.jpg"
   },
   {
     "title": "Vanquished Queens",
@@ -4663,6 +4669,66 @@
       "youkai"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/74266.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/74266.jpg"
+  },
+  {
+    "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+    "episodes": 12,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "action",
+      "action drama",
+      "adventure",
+      "anti-hero",
+      "aristocracy",
+      "based on a light novel",
+      "betrayal",
+      "body horror",
+      "cgi",
+      "comedy",
+      "conspiracy",
+      "cosmic horror",
+      "crime",
+      "dark fantasy",
+      "deity",
+      "demon",
+      "demons",
+      "disaster",
+      "dragons",
+      "drama",
+      "explosions",
+      "factions",
+      "fantasy",
+      "goddesses",
+      "gods",
+      "gore",
+      "isekai",
+      "japanese production",
+      "knights",
+      "magic",
+      "male protagonist",
+      "medieval",
+      "military",
+      "monsters",
+      "novel",
+      "prison",
+      "religious sect",
+      "resurrection",
+      "revenge",
+      "social stigma",
+      "sorcery",
+      "speculative fiction",
+      "superpowers",
+      "sword",
+      "swordplay",
+      "swords & co",
+      "tragedy",
+      "trauma",
+      "tsundere",
+      "war"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1062/151911.jpg"
   }
 ]

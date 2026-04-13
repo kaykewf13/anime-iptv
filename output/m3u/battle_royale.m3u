@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Battle Royale
-# Total de animes na categoria: 182
+# Total de animes na categoria: 184
 # Exemplos: Abunai Sisters: Koko & Mika, Afro Samurai, Akuma no Riddle, Akuma no Riddle: Shousha wa Dare? Nukiuchi Test, Alien Stage, Angel Beats! Specials, Arakawa Under the Bridge x Bridge, Arcade Gamer Fubuki, Arifureta Shokugyou de Sekai Saikyou, Assassins Pride
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Battle Royale",Pluto TV Anime | Battle Royale
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

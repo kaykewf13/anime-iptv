@@ -166,7 +166,6 @@
       "splatter",
       "swordplay",
       "swords & co",
-      "tanned skin",
       "the arts",
       "there can be only one",
       "time",
@@ -225,6 +224,7 @@
     "type": "SPECIAL",
     "status": "FINISHED",
     "tags": [
+      "achromatic",
       "action",
       "based on a doujinshi",
       "black and white",
@@ -239,7 +239,7 @@
       "swords & co"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/1508/149710.jpg"
+    "picture": "https://myanimelist.net/images/anime/1508/149710.jpg"
   },
   {
     "title": "Afro Samurai: Resurrection",
@@ -812,7 +812,7 @@
       "youkai"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/1729/135900.jpg"
+    "picture": "https://myanimelist.net/images/anime/1729/135900.jpg"
   },
   {
     "title": "Getsuyoubi no Tawawa",
@@ -968,7 +968,7 @@
       "yandere"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1359/118532.jpg"
+    "picture": "https://myanimelist.net/images/anime/1359/118532.jpg"
   },
   {
     "title": "Giji Harem",
@@ -984,6 +984,7 @@
       "club",
       "college",
       "comedy",
+      "dissociative identities",
       "earth",
       "episodic",
       "female protagonist",
@@ -1020,7 +1021,7 @@
       "verbal comedy"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1607/143547.jpg"
+    "picture": "https://myanimelist.net/images/anime/1607/143547.jpg"
   },
   {
     "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
@@ -1164,7 +1165,7 @@
       "winter"
     ],
     "year": 2002,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/13134.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/13134.jpg"
   },
   {
     "title": "Halloween Pajama",
@@ -1187,7 +1188,7 @@
       "supernatural"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1531/150636.jpg"
+    "picture": "https://myanimelist.net/images/anime/1531/150636.jpg"
   },
   {
     "title": "Hifuu Katsudou Kiroku: The Sealed Esoteric History",
@@ -1219,7 +1220,7 @@
       "youkai"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/88676.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/88676.jpg"
   },
   {
     "title": "Iya na Kao sare nagara Opantsu Misete Moraitai",
@@ -1312,7 +1313,7 @@
       "seinen"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1137/136423.jpg"
+    "picture": "https://myanimelist.net/images/anime/1137/136423.jpg"
   },
   {
     "title": "Kimi wa Meido-sama.",
@@ -1486,12 +1487,11 @@
     "title": "Nmeneko",
     "episodes": 48,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "animal protagonists",
       "animals",
       "anthropomorphic",
-      "anthropomorphism",
       "based on a doujinshi",
       "cats",
       "chibi",
@@ -1504,10 +1504,11 @@
       "non-human protagonists",
       "primarily animal cast",
       "short episodes",
-      "slice of life"
+      "slice of life",
+      "work"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1989/149978.jpg"
+    "picture": "https://myanimelist.net/images/anime/1989/149978.jpg"
   },
   {
     "title": "Nyanpire The Animation",
@@ -1568,7 +1569,7 @@
       "vampires"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/46147.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/46147.jpg"
   },
   {
     "title": "Oide yo Mahou Shoujo Mura (Fuhou Senkyo)",
@@ -1599,7 +1600,7 @@
       "urban"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1223/154182.jpg"
+    "picture": "https://myanimelist.net/images/anime/1223/154182.jpg"
   },
   {
     "title": "Oniichan wa Oshimai!",
@@ -1783,7 +1784,7 @@
       "youkai"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/27302.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/27302.jpg"
   },
   {
     "title": "Touhou Niji Sousaku Doujin Anime: Musou Kakyou Special",
@@ -1800,7 +1801,7 @@
       "short episodes"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/1682/90320.jpg"
+    "picture": "https://myanimelist.net/images/anime/1682/90320.jpg"
   },
   {
     "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi",
@@ -1871,7 +1872,7 @@
       "workplace"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1984/136274.jpg"
+    "picture": "https://myanimelist.net/images/anime/1984/136274.jpg"
   },
   {
     "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi Mini Anime",
@@ -1934,6 +1935,7 @@
       "episodic",
       "family",
       "family life",
+      "flash",
       "iyashikei",
       "japanese production",
       "male protagonist",
@@ -1959,6 +1961,7 @@
       "comedy",
       "episodic",
       "family",
+      "flash",
       "iyashikei",
       "japanese production",
       "pets",

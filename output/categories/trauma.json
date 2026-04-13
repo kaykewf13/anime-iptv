@@ -63,14 +63,18 @@
     "title": "29-sai Dokushin Chuuken Boukensha no Nichijou",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "adventure",
-      "age regression",
+      "anthropomorphs",
       "based on a manga",
       "beastman",
+      "black humour",
+      "catastrophic gadgets",
       "childcare",
       "comedy",
+      "creature taming",
+      "daily life",
       "demi-humans",
       "demon",
       "demons",
@@ -79,9 +83,12 @@
       "elf",
       "elves",
       "episodic",
+      "facial distortion",
       "family life",
       "fantasy",
       "fictional location",
+      "fighting",
+      "funny expressions",
       "gore",
       "guilds",
       "hero of strong character",
@@ -94,25 +101,34 @@
       "medieval",
       "monster",
       "monsters",
+      "mutilation",
       "orphans",
       "parenting",
       "place",
       "rural",
       "sexual humour",
       "shounen",
+      "skimpy clothing",
+      "slapstick",
       "slice of life",
       "sorcery",
       "speculative fiction",
       "succubus",
+      "super deformed",
       "survival",
+      "swordplay",
       "swords & co",
       "transformations",
       "trauma",
       "vampire",
-      "witch"
+      "violence",
+      "violent retribution for accidental infringement",
+      "witch",
+      "wordplay",
+      "working life"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1765/154087.jpg"
+    "picture": "https://myanimelist.net/images/anime/1765/154087.jpg"
   },
   {
     "title": "[Oshi no Ko]",
@@ -142,6 +158,7 @@
       "detective",
       "dialogue driven",
       "drama",
+      "educational",
       "ensemble cast",
       "entertainment industry",
       "episodic",
@@ -236,7 +253,6 @@
       "coming of age",
       "coming-of-age",
       "conspiracy",
-      "cosplay",
       "crime",
       "daily life",
       "dancing",
@@ -311,6 +327,76 @@
     ],
     "year": 2024,
     "picture": "https://cdn.myanimelist.net/images/anime/1006/143302.jpg"
+  },
+  {
+    "title": "[Oshi no Ko] 3rd Season",
+    "episodes": 11,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "acting",
+      "anti-hero",
+      "asia",
+      "based on a manga",
+      "bullying",
+      "comedy",
+      "coming-of-age",
+      "conspiracy",
+      "cosplay",
+      "crime",
+      "detective",
+      "drama",
+      "earth",
+      "educational",
+      "ensemble cast",
+      "entertainment industry",
+      "female protagonist",
+      "filmmaking",
+      "heterosexual",
+      "idol",
+      "idols",
+      "inspiration",
+      "japan",
+      "japanese production",
+      "male protagonist",
+      "manga",
+      "mental health",
+      "music",
+      "mystery",
+      "non-linear narrative",
+      "otaku culture",
+      "performing arts",
+      "place",
+      "plot continuity",
+      "politics",
+      "present",
+      "psychological",
+      "reincarnation",
+      "revenge",
+      "school",
+      "seinen",
+      "self-discovery",
+      "sequel",
+      "showbiz",
+      "siblings",
+      "slice of life",
+      "social commentary",
+      "social media",
+      "social stigma",
+      "supernatural",
+      "the arts",
+      "time",
+      "tragedy",
+      "trauma",
+      "tsundere",
+      "twins",
+      "urban fantasy",
+      "vtuber",
+      "workplace",
+      "writing"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1979/153329.jpg"
   },
   {
     "title": "Ai Shimai: Futari no Kajitsu",
@@ -557,7 +643,7 @@
       "unrequited love"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/49993.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/49993.jpg"
   },
   {
     "title": "Bamboo Blade",
@@ -731,6 +817,7 @@
       "immature",
       "japan",
       "japanese production",
+      "lgbtq+ themes",
       "love polygon",
       "love triangle",
       "manga",
@@ -1017,7 +1104,7 @@
       "visual novel"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/74076.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/74076.jpg"
   },
   {
     "title": "Chance Triangle Session",
@@ -1061,7 +1148,7 @@
       "urban"
     ],
     "year": 2001,
-    "picture": "https://cdn.myanimelist.net/images/anime/1821/128740.jpg"
+    "picture": "https://myanimelist.net/images/anime/1821/128740.jpg"
   },
   {
     "title": "Code Geass: Hangyaku no Lelouch",
@@ -1459,48 +1546,88 @@
   },
   {
     "title": "Fate/strange Fake",
-    "episodes": 0,
+    "episodes": 13,
     "type": "TV",
     "status": "FINISHED",
     "tags": [
       "action",
+      "adventure",
+      "america",
+      "anachronism",
+      "animals",
+      "archery",
+      "assassins",
+      "based on a light novel",
+      "battle royale",
+      "body swapping",
+      "chimera",
       "conspiracy",
+      "contemporary fantasy",
+      "curses",
+      "cyborg",
       "dark fantasy",
+      "death game",
+      "demons",
+      "desert",
+      "dissociative identities",
       "drama",
+      "ensemble cast",
       "factions",
+      "fantasy",
       "fighting",
+      "foreign",
+      "gambling",
+      "gender bending",
+      "gods",
       "gore",
       "government",
+      "guns",
+      "homunculi",
       "idealism",
+      "japanese production",
       "knights",
       "legendary warriors",
+      "lgbtq+ themes",
       "magic",
       "magical items",
+      "medieval",
+      "memory manipulation",
       "military",
       "monsters",
       "moral dilemma",
       "mystery",
       "mythology",
+      "necromancy",
+      "nun",
       "police",
+      "proxy battles",
       "psychological",
+      "religion",
       "religious sect",
       "secret organization",
+      "shapeshifting",
+      "skeleton",
       "sorcery",
       "spirits",
+      "supernatural",
       "superpowers",
       "survival game",
       "swordplay",
+      "terrorism",
       "thriller",
       "tournament",
       "tragedy",
       "trauma",
       "united states",
+      "urban",
       "urban fantasy",
+      "vampire",
       "vampires",
-      "war"
+      "war",
+      "werewolf"
     ],
-    "year": 2024,
-    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A28887-1802597937.1770167686.jpg"
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1752/150192.jpg"
   },
   {
     "title": "Fate/strange Fake: Whispers of Dawn",
@@ -1550,6 +1677,7 @@
       "shapeshifting",
       "sorcery",
       "spirits",
+      "super power",
       "supernatural",
       "superpowers",
       "survival game",
@@ -1703,7 +1831,7 @@
       "zodiac"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg"
+    "picture": "https://myanimelist.net/images/anime/1972/111635.jpg"
   },
   {
     "title": "Ga-Rei: Zero",
@@ -2050,7 +2178,7 @@
       "winter"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1145/90880.jpg"
+    "picture": "https://myanimelist.net/images/anime/1145/90880.jpg"
   },
   {
     "title": "Golden Kamuy 2nd Season",
@@ -2347,43 +2475,67 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1855/128059.jpg"
   },
   {
-    "title": "Golden Kamuy Final Season",
-    "episodes": 0,
+    "title": "Golden Kamuy: Saishuushou",
+    "episodes": 13,
     "type": "TV",
     "status": "FINISHED",
     "tags": [
       "action",
+      "adult cast",
+      "adventure",
       "ainu",
+      "archery",
+      "based on a manga",
       "chases",
+      "coastal",
       "comedy",
       "conspiracy",
       "culture clash",
       "dark comedy",
       "drama",
+      "ensemble cast",
       "factions",
+      "female protagonist",
+      "fugitive",
       "gore",
       "gunplay",
+      "guns",
+      "hero of strong character",
       "historical",
+      "hokkaido",
       "idealism",
+      "indigenous cultures",
+      "japan",
+      "japanese production",
+      "male protagonist",
       "meiji era",
       "military",
       "moral dilemma",
       "mystery",
+      "primarily adult cast",
       "psychological",
       "revenge",
+      "rural",
+      "seinen",
+      "sequel",
       "shinsengumi",
       "spiritualism",
+      "stoic heroine",
+      "swords & co",
       "thriller",
       "torture",
       "tragedy",
+      "trains",
       "trauma",
+      "treasure hunters",
       "treasure hunting",
+      "urban",
       "war",
       "western",
       "wilderness"
     ],
     "year": 2026,
-    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37046-1012401904.1767411011.jpg"
+    "picture": "https://myanimelist.net/images/anime/1288/154763.jpg"
   },
   {
     "title": "Golden Kamuy: Sapporo Beer Koujou-hen",
@@ -2980,7 +3132,7 @@
       "zettai ryouiki"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/1783/98630.jpg"
+    "picture": "https://myanimelist.net/images/anime/1783/98630.jpg"
   },
   {
     "title": "Hitsuji no Uta",
@@ -3036,7 +3188,7 @@
       "vampires"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/18066.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/18066.jpg"
   },
   {
     "title": "Ibara no Ou",
@@ -3141,6 +3293,73 @@
     "picture": "https://cdn.myanimelist.net/images/anime/9/87056.jpg"
   },
   {
+    "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "episodes": 12,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "adventure",
+      "alternative world",
+      "anthropomorphism",
+      "anthropomorphs",
+      "archery",
+      "aristocracy",
+      "based on a light novel",
+      "catchphrase",
+      "character driven",
+      "cohabitation",
+      "comedy",
+      "demi-humans",
+      "dialogue driven",
+      "dungeon",
+      "dungeons",
+      "economics",
+      "factions",
+      "fantasy",
+      "female harem",
+      "female protagonist",
+      "food",
+      "food preparation",
+      "ingenuity",
+      "isekai",
+      "japanese production",
+      "knights",
+      "language barrier",
+      "magic",
+      "magical items",
+      "male protagonist",
+      "martial arts",
+      "medieval",
+      "monsters",
+      "non-human protagonists",
+      "novel",
+      "ojou-sama",
+      "parody",
+      "person in a strange world",
+      "plot continuity",
+      "primarily adult cast",
+      "reincarnation",
+      "romance",
+      "sentient machine",
+      "shounen",
+      "skeleton",
+      "slice of life",
+      "sorcery",
+      "storytelling",
+      "superpowers",
+      "swordplay",
+      "swords & co",
+      "transformations",
+      "trauma",
+      "twins",
+      "violence",
+      "wizards",
+      "zombie"
+    ],
+    "year": 2023,
+    "picture": "https://cdn.myanimelist.net/images/anime/1653/136097.jpg"
+  },
+  {
     "title": "Jingai Kyoushitsu no Ningengirai Kyoushi",
     "episodes": 13,
     "type": "TV",
@@ -3150,6 +3369,7 @@
       "based on a light novel",
       "comedy",
       "contemporary fantasy",
+      "cute girls doing cute things",
       "demi-humans",
       "dissociative identities",
       "drama",
@@ -3181,7 +3401,7 @@
       "workplace"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1387/154934.jpg"
+    "picture": "https://myanimelist.net/images/anime/1387/154934.jpg"
   },
   {
     "title": "Journal with Witch",
@@ -3489,7 +3709,7 @@
       "working life"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/22508.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/22508.jpg"
   },
   {
     "title": "Kino no Tabi: The Beautiful World",
@@ -3711,7 +3931,7 @@
       "yakuza"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/18386.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/18386.jpg"
   },
   {
     "title": "Mardock Scramble",
@@ -4374,7 +4594,7 @@
       "violent"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/34045.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/34045.jpg"
   },
   {
     "title": "Phi Brain: Kami no Puzzle - Orpheus Order-hen",
@@ -4627,41 +4847,6 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1424/108431.jpg"
   },
   {
-    "title": "Sentenced to Be a Hero",
-    "episodes": 7,
-    "type": "TV",
-    "status": "FINISHED",
-    "tags": [
-      "action",
-      "aristocracy",
-      "betrayal",
-      "conspiracy",
-      "crime",
-      "dark fantasy",
-      "demons",
-      "dragons",
-      "drama",
-      "explosions",
-      "factions",
-      "fantasy",
-      "goddesses",
-      "gore",
-      "knights",
-      "medieval",
-      "military",
-      "monsters",
-      "religious sect",
-      "resurrection",
-      "revenge",
-      "social stigma",
-      "sorcery",
-      "superpowers",
-      "trauma"
-    ],
-    "year": 2026,
-    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A29058-2748034787.1770167879.jpg"
-  },
-  {
     "title": "Shigatsu wa Kimi no Uso",
     "episodes": 22,
     "type": "TV",
@@ -4750,7 +4935,7 @@
       "winter"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/1405/143284.jpg"
+    "picture": "https://myanimelist.net/images/anime/1405/143284.jpg"
   },
   {
     "title": "Shigatsu wa Kimi no Uso: Moments",
@@ -4865,7 +5050,7 @@
       "visual novel"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/1610/95574.jpg"
+    "picture": "https://myanimelist.net/images/anime/1610/95574.jpg"
   },
   {
     "title": "Sin in the Rain",
@@ -5075,6 +5260,76 @@
     ],
     "year": 2022,
     "picture": "https://cdn.myanimelist.net/images/anime/1179/119897.jpg"
+  },
+  {
+    "title": "Sono Bisque Doll wa Koi wo Suru Season 2",
+    "episodes": 12,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "asia",
+      "barefoot",
+      "based on a manga",
+      "body image",
+      "cgi",
+      "chibi",
+      "comedy",
+      "coming-of-age",
+      "cosplay",
+      "cosplaying",
+      "cross-dressing",
+      "crossdressing",
+      "earth",
+      "ecchi",
+      "educational",
+      "fashion",
+      "female protagonist",
+      "femboy",
+      "foot fetish",
+      "gender bending",
+      "gyaru",
+      "heart-warming",
+      "heroine of strong character",
+      "heterosexual",
+      "high school",
+      "ikebukuro",
+      "inspiration",
+      "iyashikei",
+      "japan",
+      "japanese production",
+      "makeup",
+      "male protagonist",
+      "manga",
+      "mixed media",
+      "modeling",
+      "nudity",
+      "otaku",
+      "otaku culture",
+      "photography",
+      "place",
+      "present",
+      "romance",
+      "romantic comedy",
+      "rotoscoping",
+      "school",
+      "school life",
+      "seinen",
+      "self-discovery",
+      "sequel",
+      "slapstick",
+      "slice of life",
+      "slide show animation",
+      "social anxiety",
+      "teamwork",
+      "time",
+      "tokyo",
+      "trauma",
+      "unrequited love",
+      "urban",
+      "verbal comedy"
+    ],
+    "year": 2025,
+    "picture": "https://cdn.myanimelist.net/images/anime/1024/150787.jpg"
   },
   {
     "title": "Spriggan",
@@ -5307,7 +5562,7 @@
       "virtual world"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/1223/121999.jpg"
+    "picture": "https://myanimelist.net/images/anime/1223/121999.jpg"
   },
   {
     "title": "Takopi's Original Sin",
@@ -5384,7 +5639,6 @@
       "place",
       "plot continuity",
       "plot twists",
-      "pov",
       "present",
       "primarily child cast",
       "promise",
@@ -5537,7 +5791,7 @@
       "wooden horse"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/3784.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/3784.jpg"
   },
   {
     "title": "Tsuihousha Shokudou e Youkoso!",
@@ -5639,7 +5893,7 @@
       "working life"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1313/149355.jpg"
+    "picture": "https://myanimelist.net/images/anime/1313/149355.jpg"
   },
   {
     "title": "Violet Evergarden",
@@ -5835,7 +6089,7 @@
       "writing"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1667/112943.jpg"
+    "picture": "https://myanimelist.net/images/anime/1667/112943.jpg"
   },
   {
     "title": "Violet Evergarden Movie",
@@ -5909,7 +6163,7 @@
       "writing"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1825/110716.jpg"
+    "picture": "https://myanimelist.net/images/anime/1825/110716.jpg"
   },
   {
     "title": "Wind: A Breath of Heart OVA",
@@ -6304,6 +6558,66 @@
       "youkai"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/74266.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/74266.jpg"
+  },
+  {
+    "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+    "episodes": 12,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "action",
+      "action drama",
+      "adventure",
+      "anti-hero",
+      "aristocracy",
+      "based on a light novel",
+      "betrayal",
+      "body horror",
+      "cgi",
+      "comedy",
+      "conspiracy",
+      "cosmic horror",
+      "crime",
+      "dark fantasy",
+      "deity",
+      "demon",
+      "demons",
+      "disaster",
+      "dragons",
+      "drama",
+      "explosions",
+      "factions",
+      "fantasy",
+      "goddesses",
+      "gods",
+      "gore",
+      "isekai",
+      "japanese production",
+      "knights",
+      "magic",
+      "male protagonist",
+      "medieval",
+      "military",
+      "monsters",
+      "novel",
+      "prison",
+      "religious sect",
+      "resurrection",
+      "revenge",
+      "social stigma",
+      "sorcery",
+      "speculative fiction",
+      "superpowers",
+      "sword",
+      "swordplay",
+      "swords & co",
+      "tragedy",
+      "trauma",
+      "tsundere",
+      "war"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1062/151911.jpg"
   }
 ]

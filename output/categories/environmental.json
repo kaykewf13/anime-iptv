@@ -155,7 +155,7 @@
       "josei",
       "manga",
       "mystery",
-      "netflix original",
+      "only on netflix",
       "outdoor activities",
       "person in a strange world",
       "place",
@@ -486,6 +486,22 @@
     "picture": "https://cdn.myanimelist.net/images/anime/3/20750.jpg"
   },
   {
+    "title": "Aoi Triton",
+    "episodes": 1,
+    "type": "SPECIAL",
+    "status": "FINISHED",
+    "tags": [
+      "environmental",
+      "fantasy",
+      "male protagonist",
+      "shounen",
+      "super power",
+      "travel"
+    ],
+    "year": 2002,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/87373.jpg"
+  },
+  {
     "title": "Apocalypse Hotel",
     "episodes": 12,
     "type": "TV",
@@ -554,7 +570,7 @@
       "work"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1511/148642.jpg"
+    "picture": "https://myanimelist.net/images/anime/1511/148642.jpg"
   },
   {
     "title": "Arjuna: Before Birth",
@@ -748,7 +764,7 @@
       "red pandas"
     ],
     "year": 1997,
-    "picture": "https://cdn.myanimelist.net/images/anime/1358/132164.jpg"
+    "picture": "https://myanimelist.net/images/anime/1358/132164.jpg"
   },
   {
     "title": "Barbapapa",
@@ -855,7 +871,7 @@
       "tokusatsu"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/1090/95417.jpg"
+    "picture": "https://myanimelist.net/images/anime/1090/95417.jpg"
   },
   {
     "title": "Birthday Wonderland",
@@ -1360,6 +1376,47 @@
     "picture": "https://cdn.myanimelist.net/images/anime/12/28049.jpg"
   },
   {
+    "title": "Bullbuster",
+    "episodes": 12,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "3d cg animation",
+      "action",
+      "action drama",
+      "adult cast",
+      "adventure",
+      "based on a light novel",
+      "cgi",
+      "coastal",
+      "conspiracy",
+      "drama",
+      "economics",
+      "ensemble cast",
+      "environmental",
+      "island",
+      "japanese production",
+      "kaiju",
+      "male protagonist",
+      "mecha",
+      "monsters",
+      "office lady",
+      "primarily adult cast",
+      "real robot",
+      "real robots",
+      "rural",
+      "sci fi",
+      "sci-fi",
+      "science-fiction",
+      "super robot",
+      "work",
+      "working life",
+      "workplace"
+    ],
+    "year": 2023,
+    "picture": "https://cdn.myanimelist.net/images/anime/1074/138192.jpg"
+  },
+  {
     "title": "Byoudoku no Denpa",
     "episodes": 1,
     "type": "MOVIE",
@@ -1469,7 +1526,7 @@
       "school"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1334/151528.jpg"
+    "picture": "https://myanimelist.net/images/anime/1334/151528.jpg"
   },
   {
     "title": "Chikyuu Shoujo Arjuna",
@@ -1730,7 +1787,7 @@
       "supernatural"
     ],
     "year": 1993,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/74516.jpg"
+    "picture": "https://myanimelist.net/images/anime/1494/156244.jpg"
   },
   {
     "title": "Coluboccoro",
@@ -1754,7 +1811,7 @@
       "tomboy"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/1341/112356.jpg"
+    "picture": "https://myanimelist.net/images/anime/1341/112356.jpg"
   },
   {
     "title": "Coppelion",
@@ -1871,7 +1928,7 @@
       "world domination"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/75543.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/75543.jpg"
   },
   {
     "title": "Da Yu Hai Tang (Movie)",
@@ -2011,6 +2068,39 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1953/145139.jpg"
   },
   {
+    "title": "Daisougen no Chiisana Tenshi: Bush Baby",
+    "episodes": 40,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "adventure",
+      "africa",
+      "based on a novel",
+      "classic literature",
+      "drama",
+      "earth",
+      "environmental",
+      "family friendly",
+      "female protagonist",
+      "foreign",
+      "forest",
+      "historical",
+      "japanese production",
+      "jungle",
+      "multi-anime projects",
+      "novel",
+      "place",
+      "present",
+      "rural",
+      "sekai meisaku gekijou",
+      "slice of life",
+      "travel",
+      "world masterpiece theater"
+    ],
+    "year": 1992,
+    "picture": "https://cdn.myanimelist.net/images/anime/1447/98818.jpg"
+  },
+  {
     "title": "Darling in the FranXX",
     "episodes": 24,
     "type": "TV",
@@ -2079,6 +2169,7 @@
       "in medias res",
       "japanese production",
       "kaiju",
+      "lgbtq+ themes",
       "lost civilization",
       "love polygon",
       "love triangle",
@@ -2159,9 +2250,9 @@
   },
   {
     "title": "Darwin Jihen",
-    "episodes": 10,
+    "episodes": 13,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "adoption",
@@ -2169,12 +2260,15 @@
       "animals",
       "anthropomorphism",
       "based on a manga",
+      "cgi",
       "coming of age",
       "criminal organization",
       "drama",
       "eco-horror",
       "environmental",
+      "gore",
       "guns",
+      "heterosexual",
       "japanese production",
       "male protagonist",
       "non-human protagonists",
@@ -2193,7 +2287,7 @@
       "thriller"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1341/152829.jpg"
+    "picture": "https://myanimelist.net/images/anime/1341/152829.jpg"
   },
   {
     "title": "Doosan: Delightful Life",
@@ -2534,7 +2628,7 @@
       "weekly shounen jump"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1711/110614.jpg"
+    "picture": "https://myanimelist.net/images/anime/1711/110614.jpg"
   },
   {
     "title": "DT Eightron",
@@ -2905,7 +2999,7 @@
       "war"
     ],
     "year": 1980,
-    "picture": "https://cdn.myanimelist.net/images/anime/1496/147713.jpg"
+    "picture": "https://myanimelist.net/images/anime/1496/147713.jpg"
   },
   {
     "title": "Fushigi no Umi no Nadia",
@@ -3056,7 +3150,7 @@
       "urban fantasy"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/7534.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/7534.jpg"
   },
   {
     "title": "Future Kid Takara",
@@ -3078,7 +3172,7 @@
       "time travel"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1424/151473.jpg"
+    "picture": "https://myanimelist.net/images/anime/1424/151473.jpg"
   },
   {
     "title": "Gake no Ue no Ponyo",
@@ -3493,7 +3587,7 @@
       "violence"
     ],
     "year": 1978,
-    "picture": "https://cdn.myanimelist.net/images/anime/1685/104554.jpg"
+    "picture": "https://myanimelist.net/images/anime/1685/104554.jpg"
   },
   {
     "title": "Giniro no Kami no Agito",
@@ -3566,7 +3660,7 @@
       "water scarcity"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/83824.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/83824.jpg"
   },
   {
     "title": "Glass no Chikyuu wo Sukue Unico Special",
@@ -3681,7 +3775,7 @@
       "unrequited love"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/1847/93081.jpg"
+    "picture": "https://myanimelist.net/images/anime/1847/93081.jpg"
   },
   {
     "title": "Godzilla 2: Kessen Kidou Zoushoku Toshi",
@@ -3750,7 +3844,7 @@
       "tokusatsu"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1556/93690.jpg"
+    "picture": "https://myanimelist.net/images/anime/1556/93690.jpg"
   },
   {
     "title": "Golden Kamuy 4th Season",
@@ -3993,7 +4087,7 @@
       "working life"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1063/98597.jpg"
+    "picture": "https://myanimelist.net/images/anime/1063/98597.jpg"
   },
   {
     "title": "Hachidori no Hito Shizuku: Watashi ni Dekiru koto",
@@ -4170,7 +4264,7 @@
       "veterinarian"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1401/105084.jpg"
+    "picture": "https://myanimelist.net/images/anime/1401/105084.jpg"
   },
   {
     "title": "Heisei Tanuki Gassen Ponpoko",
@@ -4487,7 +4581,7 @@
       "wardrobe malfunction"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1216/111637.jpg"
+    "picture": "https://myanimelist.net/images/anime/1216/111637.jpg"
   },
   {
     "title": "Hunter x Hunter (2011)",
@@ -4500,6 +4594,7 @@
       "adventure",
       "alternative present",
       "alternative world",
+      "amnesia",
       "animals",
       "anthropomorphism",
       "anti-hero",
@@ -5030,7 +5125,7 @@
       "zettai ryouiki"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/14079.jpg"
+    "picture": "https://myanimelist.net/images/anime/1355/115472.jpg"
   },
   {
     "title": "Kagaku x Bouken Survival!",
@@ -5055,7 +5150,7 @@
       "survival"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1798/150102.jpg"
+    "picture": "https://myanimelist.net/images/anime/1798/150102.jpg"
   },
   {
     "title": "Kaguya-hime no Monogatari",
@@ -5156,6 +5251,7 @@
       "ocean",
       "philosophy",
       "place",
+      "present",
       "primarily child cast",
       "school",
       "season",
@@ -5282,7 +5378,7 @@
       "yuri"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/1739/148496.jpg"
+    "picture": "https://myanimelist.net/images/anime/1739/148496.jpg"
   },
   {
     "title": "Kappa no Coo to Natsuyasumi",
@@ -5351,7 +5447,7 @@
       "youkai"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/4001.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/4001.jpg"
   },
   {
     "title": "Kawa no Hikari",
@@ -5472,7 +5568,7 @@
       "war"
     ],
     "year": 1984,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/75914.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/75914.jpg"
   },
   {
     "title": "Kemono no Souja Erin",
@@ -5856,7 +5952,7 @@
       "zaku"
     ],
     "year": 1979,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/88524.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/88524.jpg"
   },
   {
     "title": "Kidou Senshi Gundam 00",
@@ -6071,7 +6167,7 @@
       "war"
     ],
     "year": 1982,
-    "picture": "https://cdn.myanimelist.net/images/anime/1375/134587.jpg"
+    "picture": "https://myanimelist.net/images/anime/1375/134587.jpg"
   },
   {
     "title": "Kimi no Na wa.",
@@ -6389,7 +6485,7 @@
       "violence"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/1107/153262.jpg"
+    "picture": "https://myanimelist.net/images/anime/1107/153262.jpg"
   },
   {
     "title": "Kouchou-sensei to Kujira",
@@ -6748,6 +6844,7 @@
       "secret agent",
       "secret organization",
       "seinen",
+      "shounen",
       "suspense",
       "technology",
       "thriller",
@@ -6793,7 +6890,7 @@
       "thriller"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1980/150040.jpg"
+    "picture": "https://myanimelist.net/images/anime/1980/150040.jpg"
   },
   {
     "title": "Ling Long: Incarnation",
@@ -6964,7 +7061,7 @@
       "urban fantasy"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1583/108598.jpg"
+    "picture": "https://myanimelist.net/images/anime/1583/108598.jpg"
   },
   {
     "title": "Macross Zero",
@@ -7245,7 +7342,7 @@
       "travel"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1173/95167.jpg"
+    "picture": "https://myanimelist.net/images/anime/1173/95167.jpg"
   },
   {
     "title": "Made in Abyss Movie 2: Hourou Suru Tasogare",
@@ -7783,7 +7880,7 @@
       "zashiki-warashi"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/22725.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/22725.jpg"
   },
   {
     "title": "Mononoke Hime",
@@ -8028,7 +8125,7 @@
       "slice of life"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1652/108053.jpg"
+    "picture": "https://myanimelist.net/images/anime/1652/108053.jpg"
   },
   {
     "title": "Mudazumo Naki Kaikaku: The Legend of Koizumi",
@@ -8216,7 +8313,7 @@
       "winter"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/46859.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/46859.jpg"
   },
   {
     "title": "Mushishi",
@@ -8507,7 +8604,7 @@
       "youkai"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/63539.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/63539.jpg"
   },
   {
     "title": "Mushishi Zoku Shou: Suzu no Shizuku",
@@ -8576,7 +8673,7 @@
       "youkai"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/72689.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/72689.jpg"
   },
   {
     "title": "Mushishi: Hihamukage",
@@ -8676,7 +8773,7 @@
       "slice of life"
     ],
     "year": 1992,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/3984.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/3984.jpg"
   },
   {
     "title": "Nagagutsu wo Haita Neko: 80-nichikan Sekai Isshuu",
@@ -8739,7 +8836,7 @@
       "world war ii"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/1579/112922.jpg"
+    "picture": "https://myanimelist.net/images/anime/1579/112922.jpg"
   },
   {
     "title": "Nagi no Asu kara",
@@ -8899,7 +8996,7 @@
       "travel"
     ],
     "year": 1980,
-    "picture": "https://cdn.myanimelist.net/images/anime/1/2296.jpg"
+    "picture": "https://myanimelist.net/images/anime/1/2296.jpg"
   },
   {
     "title": "No Littering",
@@ -8968,7 +9065,7 @@
       "time"
     ],
     "year": 1980,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/26508.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/26508.jpg"
   },
   {
     "title": "Noragami",
@@ -9143,7 +9240,7 @@
       "working life"
     ],
     "year": 1992,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/24464.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/24464.jpg"
   },
   {
     "title": "Ometeotl Hero",
@@ -9537,7 +9634,7 @@
       "war-zone realities"
     ],
     "year": 1987,
-    "picture": "https://cdn.myanimelist.net/images/anime/1811/112663.jpg"
+    "picture": "https://myanimelist.net/images/anime/1811/112663.jpg"
   },
   {
     "title": "Ozma",
@@ -9600,7 +9697,7 @@
       "water scarcity"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/1541/153291.jpg"
+    "picture": "https://myanimelist.net/images/anime/1541/153291.jpg"
   },
   {
     "title": "Pale Cocoon",
@@ -9995,6 +10092,7 @@
       "philosophy",
       "slapstick",
       "slice of life",
+      "speculative fiction",
       "stop motion",
       "stop motion animation",
       "stop-motion animation",
@@ -10031,6 +10129,7 @@
       "philosophy",
       "slapstick",
       "slice of life",
+      "speculative fiction",
       "stop motion",
       "stop motion animation",
       "stop-motion animation",
@@ -10183,7 +10282,7 @@
       "speculative fiction"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/75733.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/75733.jpg"
   },
   {
     "title": "Pokemon Movie 13: Genei no Hasha Zoroark",
@@ -10223,7 +10322,7 @@
       "urban fantasy"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/26915.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/26915.jpg"
   },
   {
     "title": "Pokemon Movie 21: Minna no Monogatari",
@@ -10803,7 +10902,7 @@
       "working life"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/18929.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/18929.jpg"
   },
   {
     "title": "Rewrite",
@@ -11015,6 +11114,7 @@
       "the great outdoors",
       "time",
       "treasure hunting",
+      "university",
       "wilderness",
       "work"
     ],
@@ -11046,7 +11146,7 @@
       "travel"
     ],
     "year": 2001,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/61377.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/61377.jpg"
   },
   {
     "title": "Sabikui Bisco",
@@ -11784,7 +11884,7 @@
       "yuri"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/1549/136389.jpg"
+    "picture": "https://myanimelist.net/images/anime/1549/136389.jpg"
   },
   {
     "title": "Shiroi Suna no Aquatope",
@@ -12004,7 +12104,43 @@
       "world war ii"
     ],
     "year": 1983,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/75322.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/75322.jpg"
+  },
+  {
+    "title": "Shunkashuutou Daikousha: Haru no Mai",
+    "episodes": 14,
+    "type": "TV",
+    "status": "ONGOING",
+    "tags": [
+      "action",
+      "age gap",
+      "based on a light novel",
+      "crime",
+      "disability",
+      "dissociative identities",
+      "drama",
+      "ensemble cast",
+      "environmental",
+      "fantasy",
+      "gods",
+      "heterosexual",
+      "japanese production",
+      "kamis",
+      "mythology",
+      "politics",
+      "rehabilitation",
+      "romance",
+      "shoujo",
+      "super power",
+      "swordplay",
+      "swords & co",
+      "torture",
+      "tragedy",
+      "twins",
+      "urban fantasy"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1993/156385.jpg"
   },
   {
     "title": "Sidonia no Kishi",
@@ -12165,7 +12301,7 @@
       "superpowers"
     ],
     "year": 1990,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/56227.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/56227.jpg"
   },
   {
     "title": "SpoGomi: Machi no Kizunazukuri-hen",
@@ -12195,7 +12331,7 @@
       "sports"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1467/121515.jpg"
+    "picture": "https://myanimelist.net/images/anime/1467/121515.jpg"
   },
   {
     "title": "Spriggan",
@@ -12311,7 +12447,7 @@
       "work"
     ],
     "year": 1992,
-    "picture": "https://cdn.myanimelist.net/images/anime/1858/132574.jpg"
+    "picture": "https://myanimelist.net/images/anime/1858/132574.jpg"
   },
   {
     "title": "Star Night Snow",
@@ -12531,7 +12667,7 @@
       "urban fantasy"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1598/128450.jpg"
+    "picture": "https://myanimelist.net/images/anime/1598/128450.jpg"
   },
   {
     "title": "Taneyamagahara no Yoru",
@@ -12779,7 +12915,6 @@
       "sci-fi",
       "science fiction",
       "science-fiction",
-      "shounen",
       "speculative fiction",
       "stand-alone movie",
       "steampunk",
@@ -12806,7 +12941,7 @@
       "original work"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/74919.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/74919.jpg"
   },
   {
     "title": "Tezuka Productions x Timberland: Hi no Tori - Earthkeepers-hen",
@@ -12942,7 +13077,7 @@
       "zombie"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1576/133934.jpg"
+    "picture": "https://myanimelist.net/images/anime/1576/133934.jpg"
   },
   {
     "title": "Tian Xin Ge Ge: Huanbao Xilie",
@@ -13197,7 +13332,7 @@
       "urban fantasy"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1001/116687.jpg"
+    "picture": "https://myanimelist.net/images/anime/1001/116687.jpg"
   },
   {
     "title": "Tokyo Mew Mew New ♡ 2nd Season",
@@ -13619,7 +13754,7 @@
       "war"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/78330.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/78330.jpg"
   },
   {
     "title": "Uchuu Senshi Baldios",
@@ -13965,7 +14100,7 @@
       "yuri"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1852/140786.jpg"
+    "picture": "https://myanimelist.net/images/anime/1852/140786.jpg"
   },
   {
     "title": "X",
@@ -14175,7 +14310,7 @@
       "work"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/78678.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/78678.jpg"
   },
   {
     "title": "Yasashii March",
@@ -14272,7 +14407,7 @@
       "the great outdoors"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1542/115070.jpg"
+    "picture": "https://myanimelist.net/images/anime/1542/115070.jpg"
   },
   {
     "title": "Zetsuen no Tempest",

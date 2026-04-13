@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Robots & Android
-# Total de animes na categoria: 533
+# Total de animes na categoria: 537
 # Exemplos: 009 Re:Cyborg, 009-1, 009-1: R&B, A Tang Qi Yu, AD Police, AI no Idenshi, Ai no Utagoe wo Kikasete, Ai Tenchi Muyou!, Akai Kiba: Blue Sonnet, Akiko
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Robots & Android",Pluto TV Anime | Robots & Android
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Childhood Friends
-# Total de animes na categoria: 81
+# Total de animes na categoria: 82
 # Exemplos: 1+2=Paradise, 19 Tian, 2.43: Seiin Koukou Danshi Volley-bu, 40meterP: Hachigatsu no Kaze, Abenobashi Mahou☆Shoutengai, Akkun to Kanojo, Ame wo Tsugeru Hyouryuu Danchi, Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai., Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie, Ano Hi no Kokoro wo Toraete
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Childhood Friends",Pluto TV Anime | Childhood Friends
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

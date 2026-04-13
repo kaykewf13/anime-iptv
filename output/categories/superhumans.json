@@ -253,7 +253,7 @@
       "zombies"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg"
+    "picture": "https://myanimelist.net/images/anime/1806/126216.jpg"
   },
   {
     "title": "Chainsaw Man Movie: Reze-hen",
@@ -323,6 +323,7 @@
       "shounen",
       "spearplay",
       "speculative fiction",
+      "super power",
       "superhumans",
       "supernatural",
       "superpowers",
@@ -614,7 +615,7 @@
       "whale"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/1189/134110.jpg"
+    "picture": "https://myanimelist.net/images/anime/1189/134110.jpg"
   },
   {
     "title": "Giant Robo the Animation: Chikyuu ga Seishi Suru Hi",
@@ -801,13 +802,13 @@
       "violence"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1114/140805.jpg"
+    "picture": "https://myanimelist.net/images/anime/1114/140805.jpg"
   },
   {
     "title": "Mato Seihei no Slave 2",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "adventure",
@@ -861,7 +862,7 @@
       "violence"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1668/148737.jpg"
+    "picture": "https://myanimelist.net/images/anime/1668/148737.jpg"
   },
   {
     "title": "Speed Grapher",
@@ -992,7 +993,7 @@
       "war-zone realities"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/12343.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/12343.jpg"
   },
   {
     "title": "Trigun Stampede",
@@ -1086,42 +1087,74 @@
       "western"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1426/129194.jpg"
+    "picture": "https://myanimelist.net/images/anime/1426/129194.jpg"
   },
   {
     "title": "Trigun Stargaze",
-    "episodes": 0,
+    "episodes": 12,
     "type": "TV",
     "status": "FINISHED",
     "tags": [
       "action",
+      "action comedy",
+      "adult cast",
+      "adventure",
+      "alternative world",
+      "amnesia",
+      "apocalyptic fiction",
       "atonement",
+      "based on a manga",
+      "bionic powers",
+      "bounty hunter",
       "bounty hunters",
+      "cg-anime",
+      "cgi",
       "chases",
+      "comedy",
+      "cyborg",
+      "desert",
       "desert punk",
+      "dissociative identities",
       "drama",
       "dystopian",
       "extremism",
+      "full cgi",
       "future",
       "gore",
       "gunplay",
+      "guns",
       "idealism",
+      "japanese production",
+      "male protagonist",
       "mercenaries",
+      "non-human protagonists",
       "non-linear narrative",
+      "overpowered main characters",
       "post-apocalyptic",
+      "primarily adult cast",
+      "psi-powers",
       "psychological",
       "redemption",
       "revenge",
+      "sci fi",
+      "sci-fi",
       "science fiction",
+      "science-fiction",
+      "sequel",
+      "shounen",
       "social stigma",
+      "space",
       "space western",
+      "steampunk",
       "superhumans",
       "superpowers",
       "technology",
-      "tragedy"
+      "time skip",
+      "tragedy",
+      "western"
     ],
     "year": 2026,
-    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32872-2575513131.1767562145.jpg"
+    "picture": "https://myanimelist.net/images/anime/1219/154541.jpg"
   },
   {
     "title": "Undead Girl Murder Farce",
@@ -1210,6 +1243,6 @@
       "youkai"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1946/136661.jpg"
+    "picture": "https://myanimelist.net/images/anime/1946/136661.jpg"
   }
 ]

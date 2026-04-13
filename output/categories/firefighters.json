@@ -160,7 +160,7 @@
       "violence"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1664/103275.jpg"
+    "picture": "https://myanimelist.net/images/anime/1664/103275.jpg"
   },
   {
     "title": "Enen no Shouboutai Mini Anime",
@@ -338,7 +338,7 @@
       "urban fantasy"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1527/146836.jpg"
+    "picture": "https://myanimelist.net/images/anime/1527/146836.jpg"
   },
   {
     "title": "Enen no Shouboutai: San no Shou Part 2",
@@ -353,6 +353,7 @@
       "comedy",
       "cosmic horror",
       "crunchyroll co-production",
+      "cult",
       "demons",
       "disaster",
       "drama",
@@ -371,10 +372,12 @@
       "male protagonist",
       "manga",
       "martial arts",
+      "meta",
       "mixed media",
       "nekomimi",
       "nun",
       "parallel world",
+      "philosophy",
       "place",
       "post-apocalyptic",
       "primarily adult cast",
@@ -393,11 +396,11 @@
       "urban fantasy"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1508/152472.jpg"
+    "picture": "https://myanimelist.net/images/anime/1508/152472.jpg"
   },
   {
     "title": "Hikuidori: Ushuu Boro Tobi-gumi",
-    "episodes": 8,
+    "episodes": 12,
     "type": "TV",
     "status": "ONGOING",
     "tags": [
@@ -415,7 +418,7 @@
       "samurai"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1129/151615.jpg"
+    "picture": "https://myanimelist.net/images/anime/1129/151615.jpg"
   },
   {
     "title": "Kachikachi Yama no Shouboutai",
@@ -508,7 +511,7 @@
       "wrestling"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/30030.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/30030.jpg"
   },
   {
     "title": "Kami nomi zo Shiru Sekai: Megami-hen",
@@ -652,7 +655,7 @@
       "work"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1893/99701.jpg"
+    "picture": "https://myanimelist.net/images/anime/1893/99701.jpg"
   },
   {
     "title": "Kogitsune no Shouboutai",
@@ -766,7 +769,7 @@
       "workplace"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1146/140566.jpg"
+    "picture": "https://myanimelist.net/images/anime/1146/140566.jpg"
   },
   {
     "title": "Nine 2: Koibito Sengen",
@@ -800,7 +803,7 @@
       "team sports"
     ],
     "year": 1983,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/25620.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/25620.jpg"
   },
   {
     "title": "Nyanta no Otanjoubi wa Kaji Sawagi!",
@@ -1080,6 +1083,24 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1607/126601.jpg"
   },
   {
+    "title": "TOMICA & TOM",
+    "episodes": 0,
+    "type": "TV",
+    "status": "ONGOING",
+    "tags": [
+      "advertisement",
+      "animals",
+      "anthropomorphism",
+      "cars",
+      "firefighters",
+      "kids",
+      "primarily animal cast",
+      "slice of life"
+    ],
+    "year": 2025,
+    "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196227-B9kbcrGihskA.png"
+  },
+  {
     "title": "Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu",
     "episodes": 37,
     "type": "TV",
@@ -1116,24 +1137,6 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1385/95682.jpg"
   },
   {
-    "title": "Tomica to Tom",
-    "episodes": 12,
-    "type": "TV",
-    "status": "ONGOING",
-    "tags": [
-      "advertisement",
-      "animals",
-      "anthropomorphism",
-      "cars",
-      "firefighters",
-      "kids",
-      "primarily animal cast",
-      "slice of life"
-    ],
-    "year": 2025,
-    "picture": "https://cdn.anisearch.com/images/anime/cover/20/20660_600.webp"
-  },
-  {
     "title": "Xiang Huo Er Sheng",
     "episodes": 6,
     "type": "ONA",
@@ -1160,7 +1163,7 @@
       "work"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1115/147537.jpg"
+    "picture": "https://myanimelist.net/images/anime/1126/155910.jpg"
   },
   {
     "title": "Yubisaki kara Honki no Netsujou 2: Koibito wa Shouboushi",
@@ -1183,7 +1186,7 @@
       "tl"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1082/115693.jpg"
+    "picture": "https://myanimelist.net/images/anime/1082/115693.jpg"
   },
   {
     "title": "Yubisaki kara Honki no Netsujou: Osananajimi wa Shouboushi",

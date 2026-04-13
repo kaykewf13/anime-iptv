@@ -159,7 +159,7 @@
       "war"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1790/149462.jpg"
+    "picture": "https://myanimelist.net/images/anime/1790/149462.jpg"
   },
   {
     "title": "Boku no Kokoro no Yabai Yatsu 2nd Season",
@@ -333,7 +333,7 @@
       "violence"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1319/140965.jpg"
+    "picture": "https://myanimelist.net/images/anime/1319/140965.jpg"
   },
   {
     "title": "Butten Monogatari",
@@ -489,7 +489,7 @@
       "world domination"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/75543.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/75543.jpg"
   },
   {
     "title": "Cossette no Shouzou",
@@ -556,7 +556,7 @@
       "visual arts"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/77004.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/77004.jpg"
   },
   {
     "title": "Debu to Love to Ayamachi to!",
@@ -1243,6 +1243,7 @@
       "mutilation",
       "mystery",
       "necromancy",
+      "orphan",
       "philosopher's stone",
       "philosophy",
       "place",
@@ -1637,7 +1638,7 @@
       "winter"
     ],
     "year": 2002,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/13134.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/13134.jpg"
   },
   {
     "title": "Hunter x Hunter (2011)",
@@ -1650,6 +1651,7 @@
       "adventure",
       "alternative present",
       "alternative world",
+      "amnesia",
       "animals",
       "anthropomorphism",
       "anti-hero",
@@ -1805,6 +1807,72 @@
     ],
     "year": 2011,
     "picture": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg"
+  },
+  {
+    "title": "Isshun de Chiryou shiteita noni Yakutatazu to Tsuihou sareta Tensai Chiyushi, Yami Healer toshite Tanoshiku Ikiru",
+    "episodes": 12,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "action",
+      "alcohol",
+      "alternative world",
+      "aristocracy",
+      "banishment",
+      "based on a light novel",
+      "betrayal",
+      "class struggle",
+      "collateral damage",
+      "comedy",
+      "crime",
+      "demi-humans",
+      "drama",
+      "dystopian",
+      "elf",
+      "elves",
+      "fantasy",
+      "female harem",
+      "friendship",
+      "ghost",
+      "guns",
+      "harem",
+      "japanese production",
+      "juujin",
+      "kemonomimi",
+      "kidnapping",
+      "knight",
+      "magic",
+      "magic circles",
+      "male protagonist",
+      "medic",
+      "medical",
+      "medicine",
+      "medium breasts",
+      "monster",
+      "monster girl",
+      "nekomimi",
+      "redemption",
+      "revenge",
+      "rivalry",
+      "romance",
+      "royalty",
+      "slavery",
+      "small breasts",
+      "sorcery",
+      "speculative fiction",
+      "spellcasting",
+      "spirits",
+      "stoic hero",
+      "sudden naked girl appearance",
+      "swords & co",
+      "tropes",
+      "undead",
+      "under one roof",
+      "violence",
+      "werewolf"
+    ],
+    "year": 2025,
+    "picture": "https://cdn.myanimelist.net/images/anime/1211/147335.jpg"
   },
   {
     "title": "Juushinki Pandora",
@@ -1968,7 +2036,7 @@
       "yakuza"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/75879.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/75879.jpg"
   },
   {
     "title": "Kikansha no Mahou wa Tokubetsu desu",
@@ -2377,7 +2445,7 @@
       "zombies"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1749/99713.jpg"
+    "picture": "https://myanimelist.net/images/anime/1749/99713.jpg"
   },
   {
     "title": "Kuromukuro",
@@ -2620,7 +2688,7 @@
       "world masterpiece theater"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/1479/154965.jpg"
+    "picture": "https://myanimelist.net/images/anime/1479/154965.jpg"
   },
   {
     "title": "Log Horizon 2nd Season",
@@ -2813,6 +2881,7 @@
       "female teacher",
       "found family",
       "gainax bounce",
+      "go",
       "harem",
       "heart-warming",
       "heterosexual",
@@ -3166,7 +3235,7 @@
       "zashiki-warashi"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/20713.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/20713.jpg"
   },
   {
     "title": "Monster",
@@ -3723,7 +3792,7 @@
       "working life"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/1330/133826.jpg"
+    "picture": "https://myanimelist.net/images/anime/1330/133826.jpg"
   },
   {
     "title": "Ooi! Tonbo",
@@ -3924,7 +3993,7 @@
       "zettai ryouiki"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/75449.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/75449.jpg"
   },
   {
     "title": "Ousama Ranking",
@@ -4233,7 +4302,7 @@
       "weekly shounen jump"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/1346/119505.jpg"
+    "picture": "https://myanimelist.net/images/anime/1346/119505.jpg"
   },
   {
     "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
@@ -4479,7 +4548,7 @@
       "violence"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/1773/94167.jpg"
+    "picture": "https://myanimelist.net/images/anime/1773/94167.jpg"
   },
   {
     "title": "Salaryman Kintarou",
@@ -4902,7 +4971,7 @@
       "youkai"
     ],
     "year": 1979,
-    "picture": "https://cdn.myanimelist.net/images/anime/1874/112893.jpg"
+    "picture": "https://myanimelist.net/images/anime/1874/112893.jpg"
   },
   {
     "title": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
@@ -4982,7 +5051,7 @@
       "villainess"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1901/139910.jpg"
+    "picture": "https://myanimelist.net/images/anime/1901/139910.jpg"
   },
   {
     "title": "The Beginning After The End",
@@ -5001,31 +5070,6 @@
     ],
     "year": 2025,
     "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33779-2750753442.1747589059.jpg"
-  },
-  {
-    "title": "The Brilliant Healer's New Life in the Shadows",
-    "episodes": 0,
-    "type": "TV",
-    "status": "FINISHED",
-    "tags": [
-      "aristocracy",
-      "banishment",
-      "betrayal",
-      "comedy",
-      "demi-humans",
-      "drama",
-      "elves",
-      "fantasy",
-      "harem",
-      "medicine",
-      "redemption",
-      "royalty",
-      "slavery",
-      "sorcery",
-      "spirits"
-    ],
-    "year": 2025,
-    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32386-1130395540.1747587524.jpg"
   },
   {
     "title": "Tokyo Godfathers",
@@ -5109,11 +5153,13 @@
     "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
     "episodes": 24,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
+      "absurdity",
       "action",
       "action comedy",
       "adult cast",
+      "aliens",
       "asia",
       "based on a manga",
       "brainwashing",
@@ -5129,6 +5175,7 @@
       "crime",
       "crunchyroll co-production",
       "cyborgs",
+      "dark comedy",
       "drama",
       "earth",
       "ecchi",
@@ -5140,12 +5187,15 @@
       "following one's dream",
       "gangs",
       "good vs evil",
+      "gore",
       "henshin",
       "hero of strong character",
       "heroine of strong character",
       "huge breasts",
       "human enhancement",
+      "idealism",
       "idol",
+      "idols",
       "insects of doom",
       "japan",
       "japanese production",
@@ -5154,6 +5204,7 @@
       "manga",
       "martial arts",
       "monster",
+      "monsters",
       "nostalgia",
       "nudity",
       "otaku culture",
@@ -5166,13 +5217,16 @@
       "preaired episodes",
       "predominantly adult cast",
       "present",
+      "psychological",
       "redemption",
       "revenge",
       "rivalry",
       "saving the world",
+      "science fiction",
       "secret organisation",
       "seinen",
       "self-parody",
+      "sentai",
       "sibling rivalry",
       "soft science fiction",
       "speculative fiction",
@@ -5184,6 +5238,8 @@
       "superhero",
       "superheroes",
       "supernatural drama",
+      "superpowers",
+      "supervillains",
       "surreal comedy",
       "teamwork",
       "the power of love",
@@ -5193,13 +5249,15 @@
       "tone changes",
       "tournament",
       "training",
+      "transformations",
       "tropes",
       "violence",
       "visible aura",
-      "world domination"
+      "world domination",
+      "yakuza"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1455/152139.jpg"
+    "picture": "https://myanimelist.net/images/anime/1455/152139.jpg"
   },
   {
     "title": "Trigun Stampede",
@@ -5293,42 +5351,74 @@
       "western"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1426/129194.jpg"
+    "picture": "https://myanimelist.net/images/anime/1426/129194.jpg"
   },
   {
     "title": "Trigun Stargaze",
-    "episodes": 0,
+    "episodes": 12,
     "type": "TV",
     "status": "FINISHED",
     "tags": [
       "action",
+      "action comedy",
+      "adult cast",
+      "adventure",
+      "alternative world",
+      "amnesia",
+      "apocalyptic fiction",
       "atonement",
+      "based on a manga",
+      "bionic powers",
+      "bounty hunter",
       "bounty hunters",
+      "cg-anime",
+      "cgi",
       "chases",
+      "comedy",
+      "cyborg",
+      "desert",
       "desert punk",
+      "dissociative identities",
       "drama",
       "dystopian",
       "extremism",
+      "full cgi",
       "future",
       "gore",
       "gunplay",
+      "guns",
       "idealism",
+      "japanese production",
+      "male protagonist",
       "mercenaries",
+      "non-human protagonists",
       "non-linear narrative",
+      "overpowered main characters",
       "post-apocalyptic",
+      "primarily adult cast",
+      "psi-powers",
       "psychological",
       "redemption",
       "revenge",
+      "sci fi",
+      "sci-fi",
       "science fiction",
+      "science-fiction",
+      "sequel",
+      "shounen",
       "social stigma",
+      "space",
       "space western",
+      "steampunk",
       "superhumans",
       "superpowers",
       "technology",
-      "tragedy"
+      "time skip",
+      "tragedy",
+      "western"
     ],
     "year": 2026,
-    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32872-2575513131.1767562145.jpg"
+    "picture": "https://myanimelist.net/images/anime/1219/154541.jpg"
   },
   {
     "title": "Vexille: 2077 Nihon Sakoku",
@@ -5435,7 +5525,7 @@
       "winter"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/79923.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/79923.jpg"
   },
   {
     "title": "Vinland Saga Season 2",
@@ -5701,7 +5791,7 @@
       "writing"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1667/112943.jpg"
+    "picture": "https://myanimelist.net/images/anime/1667/112943.jpg"
   },
   {
     "title": "Violet Evergarden Movie",
@@ -5775,7 +5865,7 @@
       "writing"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1825/110716.jpg"
+    "picture": "https://myanimelist.net/images/anime/1825/110716.jpg"
   },
   {
     "title": "Wellber no Monogatari: Kanashimi no Senshi Galahad no Banka",

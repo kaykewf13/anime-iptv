@@ -290,7 +290,7 @@
       "tokusatsu"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/1090/95417.jpg"
+    "picture": "https://myanimelist.net/images/anime/1090/95417.jpg"
   },
   {
     "title": "BNA",
@@ -774,7 +774,7 @@
       "violence"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1664/103275.jpg"
+    "picture": "https://myanimelist.net/images/anime/1664/103275.jpg"
   },
   {
     "title": "Enen no Shouboutai: San no Shou",
@@ -849,7 +849,7 @@
       "urban fantasy"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1527/146836.jpg"
+    "picture": "https://myanimelist.net/images/anime/1527/146836.jpg"
   },
   {
     "title": "Freezing",
@@ -990,7 +990,7 @@
       "vulgar"
     ],
     "year": 1992,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/89881.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/89881.jpg"
   },
   {
     "title": "Gundam Build Divers",
@@ -1213,7 +1213,7 @@
       "yamagata"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1677/106540.jpg"
+    "picture": "https://myanimelist.net/images/anime/1677/106540.jpg"
   },
   {
     "title": "Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
@@ -1476,7 +1476,7 @@
       "yuri"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1655/111626.jpg"
+    "picture": "https://myanimelist.net/images/anime/1655/111626.jpg"
   },
   {
     "title": "Kandagawa Jet Girls: Koko kara Hajimaru Tokyo Girls Promotion",
@@ -1609,7 +1609,7 @@
       "war"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/1472/93813.jpg"
+    "picture": "https://myanimelist.net/images/anime/1472/93813.jpg"
   },
   {
     "title": "Metallic Rouge",
@@ -1692,7 +1692,7 @@
       "violence"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1859/140210.jpg"
+    "picture": "https://myanimelist.net/images/anime/1859/140210.jpg"
   },
   {
     "title": "My Daemon",
@@ -1852,7 +1852,7 @@
       "unrequited love"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1929/93629.jpg"
+    "picture": "https://myanimelist.net/images/anime/1929/93629.jpg"
   },
   {
     "title": "Sentou Mecha Xabungle",
@@ -1903,7 +1903,7 @@
       "western"
     ],
     "year": 1982,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/51455.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/51455.jpg"
   },
   {
     "title": "Shiyan Pin Jiating",
@@ -2059,7 +2059,6 @@
       "multi-anime projects",
       "nearly almighty protagonist",
       "new",
-      "nudity",
       "off-model animation",
       "original work",
       "other planet",
@@ -2115,7 +2114,7 @@
       "wardrobe malfunction"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/5123.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/5123.jpg"
   },
   {
     "title": "Tengen Toppa Gurren Lagann Movie 1: Gurren-hen",
@@ -2186,7 +2185,7 @@
       "violence"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/1270/115752.jpg"
+    "picture": "https://myanimelist.net/images/anime/1270/115752.jpg"
   },
   {
     "title": "Tengen Toppa Gurren Lagann Movie 2: Lagann-hen",
@@ -2321,11 +2320,13 @@
     "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
     "episodes": 24,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
+      "absurdity",
       "action",
       "action comedy",
       "adult cast",
+      "aliens",
       "asia",
       "based on a manga",
       "brainwashing",
@@ -2341,6 +2342,7 @@
       "crime",
       "crunchyroll co-production",
       "cyborgs",
+      "dark comedy",
       "drama",
       "earth",
       "ecchi",
@@ -2352,12 +2354,15 @@
       "following one's dream",
       "gangs",
       "good vs evil",
+      "gore",
       "henshin",
       "hero of strong character",
       "heroine of strong character",
       "huge breasts",
       "human enhancement",
+      "idealism",
       "idol",
+      "idols",
       "insects of doom",
       "japan",
       "japanese production",
@@ -2366,6 +2371,7 @@
       "manga",
       "martial arts",
       "monster",
+      "monsters",
       "nostalgia",
       "nudity",
       "otaku culture",
@@ -2378,13 +2384,16 @@
       "preaired episodes",
       "predominantly adult cast",
       "present",
+      "psychological",
       "redemption",
       "revenge",
       "rivalry",
       "saving the world",
+      "science fiction",
       "secret organisation",
       "seinen",
       "self-parody",
+      "sentai",
       "sibling rivalry",
       "soft science fiction",
       "speculative fiction",
@@ -2396,6 +2405,8 @@
       "superhero",
       "superheroes",
       "supernatural drama",
+      "superpowers",
+      "supervillains",
       "surreal comedy",
       "teamwork",
       "the power of love",
@@ -2405,13 +2416,15 @@
       "tone changes",
       "tournament",
       "training",
+      "transformations",
       "tropes",
       "violence",
       "visible aura",
-      "world domination"
+      "world domination",
+      "yakuza"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1455/152139.jpg"
+    "picture": "https://myanimelist.net/images/anime/1455/152139.jpg"
   },
   {
     "title": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki desu ka?",
@@ -2783,7 +2796,7 @@
       "werewolf"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1523/101986.jpg"
+    "picture": "https://myanimelist.net/images/anime/1523/101986.jpg"
   },
   {
     "title": "Zoku Gosenzo Sane",

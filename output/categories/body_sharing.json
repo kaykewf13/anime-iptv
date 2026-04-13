@@ -48,7 +48,7 @@
       "violence"
     ],
     "year": 1991,
-    "picture": "https://cdn.myanimelist.net/images/anime/1926/94933.jpg"
+    "picture": "https://myanimelist.net/images/anime/1926/94933.jpg"
   },
   {
     "title": "Alien 9",
@@ -357,7 +357,7 @@
       "war"
     ],
     "year": 1997,
-    "picture": "https://cdn.myanimelist.net/images/anime/1426/100501.jpg"
+    "picture": "https://myanimelist.net/images/anime/1426/100501.jpg"
   },
   {
     "title": "Cinderella Boy",
@@ -1285,7 +1285,7 @@
       "zashiki-warashi"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/88280.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/88280.jpg"
   },
   {
     "title": "Jigoku Shoujo Mitsuganae",
@@ -1581,13 +1581,13 @@
       "violence"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1190/137716.jpg"
+    "picture": "https://myanimelist.net/images/anime/1190/137716.jpg"
   },
   {
     "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "angst",
@@ -1595,12 +1595,10 @@
       "battle royale",
       "bisexual",
       "body sharing",
-      "boys' love",
       "comedy",
       "contemporary fantasy",
       "curse",
       "curses",
-      "cute boys doing cute things",
       "dark fantasy",
       "death game",
       "demon",
@@ -1609,40 +1607,49 @@
       "ensemble cast",
       "exorcism",
       "exorcists",
+      "factions",
       "fantasy",
-      "femboy",
       "gambling",
       "gore",
       "horror",
       "japan",
       "japanese production",
-      "lgbtq+ themes",
       "magic",
       "male protagonist",
       "martial arts",
       "monster",
       "monsters",
+      "mystery",
+      "nudity",
       "philosophy",
       "present",
+      "primarily male cast",
       "primarily teen cast",
+      "psychological",
       "rotoscoping",
       "school",
-      "school life",
       "sequel",
       "shounen",
+      "sorcery",
+      "spirits",
       "super power",
       "supernatural",
+      "superpowers",
+      "surreal comedy",
       "survival",
       "swordplay",
       "swords & co",
+      "thriller",
+      "tournament",
       "tragedy",
+      "transformations",
       "transgender",
       "urban",
       "urban fantasy",
       "violence"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1659/154920.jpg"
+    "picture": "https://myanimelist.net/images/anime/1659/154920.jpg"
   },
   {
     "title": "Kiseijuu: Sei no Kakuritsu",
@@ -2248,7 +2255,7 @@
       "wartime propaganda"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/75181.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/75181.jpg"
   },
   {
     "title": "RDG: Red Data Girl",
@@ -2766,7 +2773,7 @@
       "tokusatsu"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/79983.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/79983.jpg"
   },
   {
     "title": "Tetsuwan Birdy",
@@ -2826,7 +2833,7 @@
       "visiting alien superhero"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/1635/118380.jpg"
+    "picture": "https://myanimelist.net/images/anime/1635/118380.jpg"
   },
   {
     "title": "Tetsuwan Birdy Decode",
@@ -3323,7 +3330,7 @@
       "zombie"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1136/138410.jpg"
+    "picture": "https://myanimelist.net/images/anime/1136/138410.jpg"
   },
   {
     "title": "Usagi-chan de Cue!!",
@@ -3463,7 +3470,7 @@
       "zombie"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1040/112897.jpg"
+    "picture": "https://myanimelist.net/images/anime/1040/112897.jpg"
   },
   {
     "title": "Wan Sheng Jie 3",
@@ -3926,6 +3933,6 @@
       "wardrobe limited to school uniform"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/82348.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/82348.jpg"
   }
 ]

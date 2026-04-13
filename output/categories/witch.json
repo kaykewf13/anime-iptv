@@ -3,11 +3,12 @@
     "title": "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "action drama",
       "adventure",
+      "age gap",
       "alternative world",
       "based on a light novel",
       "betrayal",
@@ -24,6 +25,7 @@
       "fantasy",
       "female protagonist",
       "foreign",
+      "found family",
       "game elements",
       "girls love",
       "girls' love",
@@ -37,6 +39,7 @@
       "master-servant relationship",
       "medieval",
       "monsters",
+      "post-apocalyptic",
       "prophecy",
       "religion",
       "revenge",
@@ -44,16 +47,18 @@
       "slavery",
       "slice of life",
       "sorcery",
+      "spearplay",
       "superpowers",
       "swordplay",
       "swords & co",
+      "tragedy",
       "werewolf",
       "witch",
       "yuri",
       "zombie"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1360/153435.jpg"
+    "picture": "https://myanimelist.net/images/anime/1360/153435.jpg"
   },
   {
     "title": "11eyes",
@@ -137,7 +142,7 @@
       "yandere"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/73520.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/73520.jpg"
   },
   {
     "title": "18if",
@@ -198,20 +203,24 @@
       "witch"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/86743.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/86743.jpg"
   },
   {
     "title": "29-sai Dokushin Chuuken Boukensha no Nichijou",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "adventure",
-      "age regression",
+      "anthropomorphs",
       "based on a manga",
       "beastman",
+      "black humour",
+      "catastrophic gadgets",
       "childcare",
       "comedy",
+      "creature taming",
+      "daily life",
       "demi-humans",
       "demon",
       "demons",
@@ -220,9 +229,12 @@
       "elf",
       "elves",
       "episodic",
+      "facial distortion",
       "family life",
       "fantasy",
       "fictional location",
+      "fighting",
+      "funny expressions",
       "gore",
       "guilds",
       "hero of strong character",
@@ -235,25 +247,34 @@
       "medieval",
       "monster",
       "monsters",
+      "mutilation",
       "orphans",
       "parenting",
       "place",
       "rural",
       "sexual humour",
       "shounen",
+      "skimpy clothing",
+      "slapstick",
       "slice of life",
       "sorcery",
       "speculative fiction",
       "succubus",
+      "super deformed",
       "survival",
+      "swordplay",
       "swords & co",
       "transformations",
       "trauma",
       "vampire",
-      "witch"
+      "violence",
+      "violent retribution for accidental infringement",
+      "witch",
+      "wordplay",
+      "working life"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1765/154087.jpg"
+    "picture": "https://myanimelist.net/images/anime/1765/154087.jpg"
   },
   {
     "title": "3Ping Lovers!☆Ippu Nisai no Sekai e Youkoso♪ The Animation",
@@ -290,7 +311,7 @@
       "witch"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1321/145689.jpg"
+    "picture": "https://myanimelist.net/images/anime/1321/145689.jpg"
   },
   {
     "title": "Aikatsu!: Nerawareta Mahou no Aikatsu! Card",
@@ -521,13 +542,13 @@
       "zettai ryouiki"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/47093.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/47093.jpg"
   },
   {
     "title": "Arne no Jikenbo",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "adventure",
       "age regression",
@@ -555,7 +576,7 @@
       "zombie"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1440/154894.jpg"
+    "picture": "https://myanimelist.net/images/anime/1440/154894.jpg"
   },
   {
     "title": "Artiswitch",
@@ -773,7 +794,7 @@
       "yuri"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1001/147451.jpg"
+    "picture": "https://myanimelist.net/images/anime/1001/147451.jpg"
   },
   {
     "title": "Berserk 2nd Season",
@@ -896,7 +917,7 @@
       "witch"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/10104.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/10104.jpg"
   },
   {
     "title": "Binghuo Mochu 2",
@@ -1199,7 +1220,7 @@
       "work"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1993/108967.jpg"
+    "picture": "https://myanimelist.net/images/anime/1993/108967.jpg"
   },
   {
     "title": "Burn the Witch #0.8",
@@ -1263,35 +1284,50 @@
     "title": "Champignon no Majo",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
+      "adoption",
       "adventure",
       "age regression",
+      "angst",
       "animals",
+      "anthropomorphism",
+      "anthropomorphs",
       "based on a manga",
       "conspiracy",
+      "curses",
       "drama",
+      "elf",
       "fairy",
       "fantasy",
       "female protagonist",
       "heterosexual",
+      "horticulture",
       "japanese production",
       "magic",
       "medicine",
       "medieval",
+      "memory manipulation",
       "romance",
       "rural",
+      "shapeshifting",
       "shoujo",
+      "small town",
+      "social stigma",
+      "sorcery",
+      "spirits",
       "supernatural",
       "tragedy",
+      "unrequited love",
+      "wilderness",
       "witch",
       "witches"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1499/152613.jpg"
+    "picture": "https://myanimelist.net/images/anime/1499/152613.jpg"
   },
   {
-    "title": "Chiring Chiring Secret Jouju (Season 1)",
+    "title": "Chiring Chiring Secret Jouju",
     "episodes": 6,
     "type": "TV",
     "status": "FINISHED",
@@ -1592,7 +1628,7 @@
       "witch"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/80943.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/80943.jpg"
   },
   {
     "title": "Dai Mahou Touge",
@@ -1912,7 +1948,7 @@
       "witch"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1152/134859.jpg"
+    "picture": "https://myanimelist.net/images/anime/1152/134859.jpg"
   },
   {
     "title": "Dorei Maid Princess",
@@ -2078,7 +2114,7 @@
       "yuri"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/1446/98891.jpg"
+    "picture": "https://myanimelist.net/images/anime/1446/98891.jpg"
   },
   {
     "title": "Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi",
@@ -2135,6 +2171,43 @@
     "picture": "https://cdn.myanimelist.net/images/anime/2/61733.jpg"
   },
   {
+    "title": "Fangkai Nage Nuwu",
+    "episodes": 8,
+    "type": "ONA",
+    "status": "ONGOING",
+    "tags": [
+      "action",
+      "adventure",
+      "alternative world",
+      "anachronism",
+      "chinese production",
+      "demon",
+      "economics",
+      "epic fantasy",
+      "fantasy",
+      "female harem",
+      "harem",
+      "heterosexual",
+      "historical",
+      "isekai",
+      "kingdom management",
+      "love triangle",
+      "magic",
+      "male protagonist",
+      "medieval",
+      "military",
+      "monster",
+      "novel",
+      "politics",
+      "primarily adult cast",
+      "romance",
+      "war",
+      "witch"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1381/153536.jpg"
+  },
+  {
     "title": "Fate/Grand Order",
     "episodes": 80,
     "type": "SPECIAL",
@@ -2186,7 +2259,7 @@
       "witch"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/1554/110198.jpg"
+    "picture": "https://myanimelist.net/images/anime/1554/110198.jpg"
   },
   {
     "title": "Fate/kaleid liner Prisma☆Illya",
@@ -2270,7 +2343,7 @@
       "yuri"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/1773/121542.jpg"
+    "picture": "https://myanimelist.net/images/anime/1773/121542.jpg"
   },
   {
     "title": "Fate/stay night",
@@ -2678,7 +2751,7 @@
       "witch"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/1881/124810.jpg"
+    "picture": "https://myanimelist.net/images/anime/1881/124810.jpg"
   },
   {
     "title": "Flying Witch",
@@ -3285,8 +3358,8 @@
       "japanese production",
       "magic",
       "male protagonist",
-      "netflix original",
       "nudity",
+      "only on netflix",
       "post-apocalyptic",
       "psychological",
       "rape",
@@ -3309,7 +3382,7 @@
       "yandere"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1095/142224.jpg"
+    "picture": "https://myanimelist.net/images/anime/1095/142224.jpg"
   },
   {
     "title": "Grimm Meisaku Gekijou",
@@ -3469,7 +3542,7 @@
       "witches"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1610/138189.jpg"
+    "picture": "https://myanimelist.net/images/anime/1610/138189.jpg"
   },
   {
     "title": "Hazure Skill \"Kinomi Master\": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite",
@@ -3680,7 +3753,7 @@
       "yuri"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1716/111533.jpg"
+    "picture": "https://myanimelist.net/images/anime/1716/111533.jpg"
   },
   {
     "title": "Higurashi no Naku Koro ni Sotsu",
@@ -3832,11 +3905,11 @@
       "witch"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/84071.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/84071.jpg"
   },
   {
     "title": "Holo no Graffiti",
-    "episodes": 356,
+    "episodes": 359,
     "type": "ONA",
     "status": "ONGOING",
     "tags": [
@@ -3924,11 +3997,10 @@
       "vtubers",
       "witch",
       "wordplay",
-      "working life",
-      "yuri"
+      "working life"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1259/110227.jpg"
+    "picture": "https://myanimelist.net/images/anime/1259/110227.jpg"
   },
   {
     "title": "Hololive Alternative",
@@ -3966,7 +4038,7 @@
       "witch"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1692/112088.jpg"
+    "picture": "https://myanimelist.net/images/anime/1692/112088.jpg"
   },
   {
     "title": "Howl no Ugoku Shiro",
@@ -4169,7 +4241,7 @@
       "witch"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/75554.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/75554.jpg"
   },
   {
     "title": "Ichinan",
@@ -4364,6 +4436,7 @@
     "tags": [
       "action",
       "alternative world",
+      "anthropomorphism",
       "based on a manga",
       "comedy",
       "countryside",
@@ -4397,7 +4470,7 @@
       "witch"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1998/105349.jpg"
+    "picture": "https://myanimelist.net/images/anime/1998/105349.jpg"
   },
   {
     "title": "Itoshi no Betty Mamonogatari",
@@ -4674,7 +4747,7 @@
       "zero to hero"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/1905/155309.jpg"
+    "picture": "https://myanimelist.net/images/anime/1905/155309.jpg"
   },
   {
     "title": "Jewelpet Twinkle☆",
@@ -4828,6 +4901,7 @@
       "death",
       "delinquent",
       "demi-humans",
+      "demon",
       "disaster",
       "drama",
       "earth",
@@ -4845,6 +4919,7 @@
       "following one's dream",
       "gore",
       "harem",
+      "hero of strong character",
       "heterosexual",
       "hostage situation",
       "isekai",
@@ -4862,6 +4937,7 @@
       "medieval",
       "meta",
       "misleading beginning",
+      "monster",
       "mundane made awesome",
       "murder",
       "mutilation",
@@ -4930,6 +5006,7 @@
       "action",
       "action comedy",
       "alchemy",
+      "almighty hero",
       "alternate universe",
       "alternative world",
       "anti-hero",
@@ -4941,7 +5018,9 @@
       "contract killer / assassin",
       "cult",
       "dark fantasy",
+      "delinquent",
       "demi-humans",
+      "demon",
       "demons",
       "dragons",
       "drama",
@@ -4953,6 +5032,7 @@
       "female harem",
       "gore",
       "harem",
+      "hero of strong character",
       "isekai",
       "japanese production",
       "kemonomimi",
@@ -4961,6 +5041,7 @@
       "male protagonist",
       "medieval",
       "meta",
+      "monster",
       "nobleman",
       "nudity",
       "overpowered main characters",
@@ -4981,6 +5062,7 @@
       "tragedy",
       "trains",
       "transformations",
+      "tsundere",
       "vampire",
       "witch",
       "zombie"
@@ -5236,7 +5318,7 @@
       "yuri"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1440/127624.jpg"
+    "picture": "https://myanimelist.net/images/anime/1440/127624.jpg"
   },
   {
     "title": "Kidou Senshi Gundam: Suisei no Majo - Prologue",
@@ -5272,7 +5354,7 @@
       "witch"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1870/124666.jpg"
+    "picture": "https://myanimelist.net/images/anime/1870/124666.jpg"
   },
   {
     "title": "Kidou Senshi Gundam: Suisei no Majo Season 2",
@@ -5447,7 +5529,7 @@
       "witch"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1660/143460.jpg"
+    "picture": "https://myanimelist.net/images/anime/1660/143460.jpg"
   },
   {
     "title": "Kkomimanyeo Lara",
@@ -5661,7 +5743,7 @@
       "witch"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1517/148292.jpg"
+    "picture": "https://myanimelist.net/images/anime/1517/148292.jpg"
   },
   {
     "title": "Kyoukaisenjou no Horizon",
@@ -6253,7 +6335,7 @@
       "witch"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1629/123605.jpg"
+    "picture": "https://myanimelist.net/images/anime/1629/123605.jpg"
   },
   {
     "title": "Maebashi Witches",
@@ -6276,13 +6358,13 @@
       "henshin",
       "idol",
       "idols",
-      "isekai",
       "japanese production",
       "lgbtq+ themes",
       "magic",
       "magical girl",
       "mahou shoujo",
       "memory manipulation",
+      "meta",
       "music",
       "mysterious shop",
       "new",
@@ -6293,10 +6375,14 @@
       "primarily teen cast",
       "slice of life",
       "supernatural",
+      "time manipulation",
       "tsundere",
+      "unrequited love",
       "urban",
       "urban fantasy",
-      "witch"
+      "witch",
+      "work",
+      "yuri"
     ],
     "year": 2025,
     "picture": "https://cdn.myanimelist.net/images/anime/1907/148540.jpg"
@@ -6312,6 +6398,7 @@
       "alien",
       "alternate universe",
       "amnesia",
+      "angst",
       "artificial intelligence",
       "asia",
       "based on a mobile game",
@@ -6372,7 +6459,7 @@
       "witches"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1786/104783.jpg"
+    "picture": "https://myanimelist.net/images/anime/1786/104783.jpg"
   },
   {
     "title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd Season - Kakusei Zenya",
@@ -6638,7 +6725,7 @@
       "witch"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/1694/116119.jpg"
+    "picture": "https://myanimelist.net/images/anime/1694/116119.jpg"
   },
   {
     "title": "Mahou no Princess Minky Momo: Yume wo Dakishimete",
@@ -7170,7 +7257,7 @@
       "yuri"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/54231.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/54231.jpg"
   },
   {
     "title": "Mahou Shoujo Nante Mou Ii desu kara. Second Season",
@@ -7257,6 +7344,7 @@
       "cardiopulmonary resuscitation",
       "child abuse",
       "contemporary fantasy",
+      "crossdressing",
       "dark fantasy",
       "death",
       "drama",
@@ -7296,6 +7384,7 @@
       "suspense",
       "thriller",
       "time manipulation",
+      "torture",
       "tragedy",
       "transgender",
       "urban fantasy",
@@ -7842,7 +7931,7 @@
       "witch"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1801/138944.jpg"
+    "picture": "https://myanimelist.net/images/anime/1576/153341.jpg"
   },
   {
     "title": "Mahoutsukai Precure!",
@@ -8085,7 +8174,7 @@
       "witches"
     ],
     "year": 1967,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/67001.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/67001.jpg"
   },
   {
     "title": "Mahoutsukai Sally (Movie)",
@@ -8112,7 +8201,7 @@
       "witches"
     ],
     "year": 1990,
-    "picture": "https://cdn.myanimelist.net/images/anime/1559/98764.jpg"
+    "picture": "https://myanimelist.net/images/anime/1559/98764.jpg"
   },
   {
     "title": "Mahoutsukai Sally 2",
@@ -8147,7 +8236,7 @@
       "witches"
     ],
     "year": 1989,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/6929.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/6929.jpg"
   },
   {
     "title": "Mahoutsukai Tai!",
@@ -8404,7 +8493,7 @@
       "witches"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1937/110713.jpg"
+    "picture": "https://myanimelist.net/images/anime/1937/110713.jpg"
   },
   {
     "title": "Majo no Tabitabi",
@@ -8493,7 +8582,7 @@
       "yuri"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1802/108501.jpg"
+    "picture": "https://myanimelist.net/images/anime/1802/108501.jpg"
   },
   {
     "title": "Majo no Takkyuubin",
@@ -8627,7 +8716,7 @@
       "zombie"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1380/139745.jpg"
+    "picture": "https://myanimelist.net/images/anime/1380/139745.jpg"
   },
   {
     "title": "Majokko Shimai no Yoyo to Nene",
@@ -8679,7 +8768,7 @@
       "work"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/1598/94444.jpg"
+    "picture": "https://myanimelist.net/images/anime/1598/94444.jpg"
   },
   {
     "title": "Majokko Tickle",
@@ -8712,6 +8801,7 @@
       "antihero",
       "based on a manga",
       "bionic powers",
+      "chibi",
       "claymation",
       "comedy",
       "countryside",
@@ -8748,9 +8838,11 @@
       "slapstick",
       "slice of life",
       "speculative fiction",
+      "stop motion",
       "summoning",
       "surreal comedy",
       "the arts",
+      "time manipulation",
       "time travel",
       "violence",
       "witch",
@@ -8831,7 +8923,7 @@
       "world domination"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1814/143744.jpg"
+    "picture": "https://myanimelist.net/images/anime/1814/143744.jpg"
   },
   {
     "title": "Mary to Majo no Hana",
@@ -9385,7 +9477,7 @@
       "working life"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1530/117776.jpg"
+    "picture": "https://myanimelist.net/images/anime/1530/117776.jpg"
   },
   {
     "title": "MÄR",
@@ -9437,7 +9529,7 @@
       "zombie"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/38383.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/38383.jpg"
   },
   {
     "title": "Märchen Mädchen",
@@ -10032,6 +10124,7 @@
       "aliens",
       "alternative world",
       "based on a video game",
+      "body swapping",
       "bullying",
       "butler",
       "cg animation",
@@ -10046,6 +10139,7 @@
       "game",
       "ghost",
       "ghosts",
+      "gods",
       "heterosexual",
       "japanese production",
       "kids",
@@ -10070,10 +10164,11 @@
       "vampire",
       "video games",
       "war",
-      "witch"
+      "witch",
+      "zombie"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/75298.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/75298.jpg"
   },
   {
     "title": "Pandane to Tamago-hime",
@@ -10216,7 +10311,7 @@
       "witch"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/1539/94597.jpg"
+    "picture": "https://myanimelist.net/images/anime/1539/94597.jpg"
   },
   {
     "title": "Precure All Stars Movie: Minna de Utau♪ - Kiseki no Mahou",
@@ -10867,7 +10962,7 @@
       "yandere"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1444/108005.jpg"
+    "picture": "https://myanimelist.net/images/anime/1444/108005.jpg"
   },
   {
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
@@ -11253,7 +11348,7 @@
       "witch"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/74299.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/74299.jpg"
   },
   {
     "title": "Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches",
@@ -11615,7 +11710,7 @@
       "zombie"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/75257.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/75257.jpg"
   },
   {
     "title": "Sekai Meisaku Douwa",
@@ -11706,7 +11801,7 @@
       "witch"
     ],
     "year": 1995,
-    "picture": "https://cdn.myanimelist.net/images/anime/1714/153523.jpg"
+    "picture": "https://myanimelist.net/images/anime/1714/153523.jpg"
   },
   {
     "title": "Sen to Chihiro no Kamikakushi",
@@ -11842,6 +11937,7 @@
       "music",
       "mythology",
       "new",
+      "nudity",
       "open-ended",
       "original work",
       "orphan",
@@ -11877,7 +11973,7 @@
       "yuri"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/86681.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/86681.jpg"
   },
   {
     "title": "Shimajirou no Wow! Movie 6: Mahou no Shima no Daibouken",
@@ -12094,7 +12190,7 @@
       "witch"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1988/142714.jpg"
+    "picture": "https://myanimelist.net/images/anime/1988/142714.jpg"
   },
   {
     "title": "Shoujo Kakumei Utena",
@@ -12234,7 +12330,7 @@
       "yuri"
     ],
     "year": 1997,
-    "picture": "https://cdn.myanimelist.net/images/anime/1078/95285.jpg"
+    "picture": "https://myanimelist.net/images/anime/1078/95285.jpg"
   },
   {
     "title": "Shounen Jack to Mahoutsukai",
@@ -12474,7 +12570,7 @@
       "witch"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1668/151912.jpg"
+    "picture": "https://myanimelist.net/images/anime/1668/151912.jpg"
   },
   {
     "title": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita",
@@ -12504,6 +12600,7 @@
       "dialogue driven",
       "dragon",
       "dragons",
+      "dungeon",
       "elf",
       "ending",
       "episodic",
@@ -12529,6 +12626,7 @@
       "japanese production",
       "jungle",
       "juujin",
+      "kemonomimi",
       "magic",
       "magic circles",
       "magical girl",
@@ -12852,7 +12950,7 @@
   },
   {
     "title": "Sore Ike! Anpanman",
-    "episodes": 1727,
+    "episodes": 1728,
     "type": "TV",
     "status": "ONGOING",
     "tags": [
@@ -12889,7 +12987,7 @@
       "witch"
     ],
     "year": 1988,
-    "picture": "https://cdn.myanimelist.net/images/anime/1902/111797.jpg"
+    "picture": "https://myanimelist.net/images/anime/1902/111797.jpg"
   },
   {
     "title": "Sore Ike! Anpanman: Lyrical☆Magical Mahou no Gakkou",
@@ -13119,7 +13217,7 @@
       "witches"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/63563.jpg"
+    "picture": "https://myanimelist.net/images/anime/1401/153016.jpg"
   },
   {
     "title": "Soul Eater: Late Night Show",
@@ -13149,7 +13247,7 @@
       "witch"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/60791.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/60791.jpg"
   },
   {
     "title": "Strike the Blood",
@@ -13476,7 +13574,7 @@
       "witch"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1635/153788.jpg"
+    "picture": "https://myanimelist.net/images/anime/1635/153788.jpg"
   },
   {
     "title": "Sumikko Gurashi Movie 2: Aoi Tsukiyo no Mahou no Ko",
@@ -13772,7 +13870,7 @@
       "writing"
     ],
     "year": 1990,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/26765.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/26765.jpg"
   },
   {
     "title": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
@@ -13881,7 +13979,7 @@
       "yandere"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1512/111549.jpg"
+    "picture": "https://myanimelist.net/images/anime/1512/111549.jpg"
   },
   {
     "title": "Tenshi ni Narumon!",
@@ -13951,7 +14049,7 @@
       "witch"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/1671/94180.jpg"
+    "picture": "https://myanimelist.net/images/anime/1671/94180.jpg"
   },
   {
     "title": "The Witcher: Nightmare of the Wolf",
@@ -14110,7 +14208,7 @@
       "youkai"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/27302.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/27302.jpg"
   },
   {
     "title": "Tsubasa Chronicle",
@@ -14470,7 +14568,7 @@
       "witches"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1143/142439.jpg"
+    "picture": "https://myanimelist.net/images/anime/1143/142439.jpg"
   },
   {
     "title": "Unnamed Memory Act.2",
@@ -14592,7 +14690,7 @@
       "witch"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/89673.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/89673.jpg"
   },
   {
     "title": "Urara Meirochou",
@@ -14641,7 +14739,7 @@
       "yuri"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/84119.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/84119.jpg"
   },
   {
     "title": "Vanitas no Karte Part 2",
@@ -14842,7 +14940,7 @@
       "witches"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/1949/112982.jpg"
+    "picture": "https://myanimelist.net/images/anime/1949/112982.jpg"
   },
   {
     "title": "Witch Craft Works Specials",
@@ -14888,7 +14986,7 @@
       "witches"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/1685/112971.jpg"
+    "picture": "https://myanimelist.net/images/anime/1685/112971.jpg"
   },
   {
     "title": "Witch Hunter Robin",
@@ -15103,7 +15201,7 @@
       "youkai"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1526/150689.jpg"
+    "picture": "https://myanimelist.net/images/anime/1526/150689.jpg"
   },
   {
     "title": "Wizard Girl Ambitious",
@@ -15196,6 +15294,33 @@
     ],
     "year": 2023,
     "picture": "https://cdn.myanimelist.net/images/anime/1386/136705.jpg"
+  },
+  {
+    "title": "Wu Nao Monu 2nd Season",
+    "episodes": 15,
+    "type": "ONA",
+    "status": "FINISHED",
+    "tags": [
+      "based on a manga",
+      "china",
+      "chinese animation",
+      "chinese production",
+      "comedy",
+      "demon",
+      "drama",
+      "fantasy",
+      "fantasy world",
+      "friendship",
+      "ghost",
+      "magic",
+      "plot continuity",
+      "short episodes",
+      "slice of life",
+      "witch",
+      "witches"
+    ],
+    "year": 2024,
+    "picture": "https://myanimelist.net/images/anime/1503/150231.jpg"
   },
   {
     "title": "xxxHOLiC",
@@ -15727,7 +15852,7 @@
       "witches"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/85224.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/85224.jpg"
   },
   {
     "title": "Zetsuen no Tempest",

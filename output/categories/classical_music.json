@@ -31,7 +31,7 @@
       "thriller"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/1714/102585.jpg"
+    "picture": "https://myanimelist.net/images/anime/1714/102585.jpg"
   },
   {
     "title": "A.D. Police (TV)",
@@ -147,13 +147,13 @@
       "slice of life"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1832/133754.jpg"
+    "picture": "https://myanimelist.net/images/anime/1832/133754.jpg"
   },
   {
     "title": "Ao no Orchestra Season 2",
     "episodes": 21,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "band",
       "based on a manga",
@@ -172,6 +172,7 @@
       "primarily teen cast",
       "school",
       "school club",
+      "school clubs",
       "school life",
       "sequel",
       "shounen",
@@ -179,7 +180,7 @@
       "unrequited love"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1078/151796.jpg"
+    "picture": "https://myanimelist.net/images/anime/1078/151796.jpg"
   },
   {
     "title": "Ashita no Nadja",
@@ -302,7 +303,7 @@
       "war"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1104/145564.jpg"
+    "picture": "https://myanimelist.net/images/anime/1104/145564.jpg"
   },
   {
     "title": "Bye Bye, Earth 2nd Season",
@@ -385,7 +386,7 @@
       "urban fantasy"
     ],
     "year": 1982,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/36627.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/36627.jpg"
   },
   {
     "title": "Cello Hiki no Gauche (OVA)",
@@ -464,7 +465,7 @@
       "world wars"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/1696/112292.jpg"
+    "picture": "https://myanimelist.net/images/anime/1696/112292.jpg"
   },
   {
     "title": "ClassicaLoid",
@@ -495,7 +496,7 @@
       "the arts"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/82320.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/82320.jpg"
   },
   {
     "title": "ClassicaLoid 2nd Season",
@@ -543,7 +544,7 @@
       "transfer students"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1564/148380.jpg"
+    "picture": "https://myanimelist.net/images/anime/1564/148380.jpg"
   },
   {
     "title": "D.C.",
@@ -582,10 +583,11 @@
       "robots & android",
       "sci fi",
       "sci-fi",
+      "science-fiction",
       "shounen"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1009/140131.jpg"
+    "picture": "https://myanimelist.net/images/anime/1009/140131.jpg"
   },
   {
     "title": "ef: A Tale of Melodies.",
@@ -1005,7 +1007,7 @@
       "university"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1648/111422.jpg"
+    "picture": "https://myanimelist.net/images/anime/1648/111422.jpg"
   },
   {
     "title": "Guilty Crown: Lost Christmas - An Episode of Port Town",
@@ -1055,7 +1057,7 @@
       "visual novel"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/80010.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/80010.jpg"
   },
   {
     "title": "Hakubo",
@@ -1153,6 +1155,28 @@
     ],
     "year": 1996,
     "picture": "https://cdn.myanimelist.net/images/anime/7/20972.jpg"
+  },
+  {
+    "title": "Hamelin no Violin Hiki: The Movie",
+    "episodes": 1,
+    "type": "MOVIE",
+    "status": "FINISHED",
+    "tags": [
+      "adventure",
+      "classical music",
+      "comedy",
+      "demon",
+      "demons",
+      "fantasy",
+      "japanese production",
+      "magic",
+      "shounen",
+      "slapstick",
+      "speculative fiction",
+      "stand-alone movie"
+    ],
+    "year": 1996,
+    "picture": "https://myanimelist.net/images/anime/1260/94835.jpg"
   },
   {
     "title": "Hametsu no Mars",
@@ -1440,7 +1464,6 @@
       "earth",
       "female protagonist",
       "following one's dream",
-      "heterosexual",
       "high school",
       "japan",
       "japanese production",
@@ -1514,7 +1537,7 @@
       "time"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/81156.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/81156.jpg"
   },
   {
     "title": "Hibike! Euphonium Movie 2: Todoketai Melody",
@@ -1649,7 +1672,7 @@
       "training"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1952/135162.jpg"
+    "picture": "https://myanimelist.net/images/anime/1952/135162.jpg"
   },
   {
     "title": "Hibike! Euphonium: Kakedasu Monaka",
@@ -1844,6 +1867,7 @@
       "death",
       "delinquent",
       "demi-humans",
+      "demon",
       "disaster",
       "drama",
       "earth",
@@ -1861,6 +1885,7 @@
       "following one's dream",
       "gore",
       "harem",
+      "hero of strong character",
       "heterosexual",
       "hostage situation",
       "isekai",
@@ -1878,6 +1903,7 @@
       "medieval",
       "meta",
       "misleading beginning",
+      "monster",
       "mundane made awesome",
       "murder",
       "mutilation",
@@ -2022,7 +2048,7 @@
       "visual novel"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1565/153275.jpg"
+    "picture": "https://myanimelist.net/images/anime/1565/153275.jpg"
   },
   {
     "title": "Kiniro no Corda: Primo Passo - Hitonatsu no Encore",
@@ -2147,7 +2173,7 @@
       "tragic past"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/1245/112628.jpg"
+    "picture": "https://myanimelist.net/images/anime/1245/112628.jpg"
   },
   {
     "title": "Liz to Aoi Tori",
@@ -2522,7 +2548,7 @@
       "time"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/22766.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/22766.jpg"
   },
   {
     "title": "Memories Off 3.5",
@@ -2661,7 +2687,7 @@
       "youkai"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/43807.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/43807.jpg"
   },
   {
     "title": "Nodame Cantabile",
@@ -2738,7 +2764,7 @@
       "university"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/11986.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/11986.jpg"
   },
   {
     "title": "Nodame Cantabile",
@@ -2849,7 +2875,7 @@
       "slapstick"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/1492/119100.jpg"
+    "picture": "https://myanimelist.net/images/anime/1492/119100.jpg"
   },
   {
     "title": "Nodame Cantabile: Finale - Mine to Kiyora no Saikai",
@@ -2879,7 +2905,7 @@
       "work"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/19590.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/19590.jpg"
   },
   {
     "title": "Nodame Cantabile: Paris-hen",
@@ -3182,7 +3208,7 @@
       "urban"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1501/91916.jpg"
+    "picture": "https://myanimelist.net/images/anime/1501/91916.jpg"
   },
   {
     "title": "Piano no Mori (TV) 2nd Season",
@@ -3384,6 +3410,7 @@
       "shapeshifting",
       "short episodes",
       "shoujo",
+      "shounen",
       "speculative fiction",
       "star-crossed lovers",
       "storytelling",
@@ -3657,7 +3684,7 @@
       "winter"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/1604/98654.jpg"
+    "picture": "https://myanimelist.net/images/anime/1604/98654.jpg"
   },
   {
     "title": "Sekai Meisaku Douwa: Hakuchou no Mizuumi",
@@ -3702,7 +3729,7 @@
       "time"
     ],
     "year": 1981,
-    "picture": "https://cdn.myanimelist.net/images/anime/1525/97099.jpg"
+    "picture": "https://myanimelist.net/images/anime/1525/97099.jpg"
   },
   {
     "title": "Sengoku Majin Goushougun",
@@ -3854,7 +3881,7 @@
       "winter"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/1405/143284.jpg"
+    "picture": "https://myanimelist.net/images/anime/1405/143284.jpg"
   },
   {
     "title": "Shigatsu wa Kimi no Uso: Moments",
@@ -3969,7 +3996,7 @@
       "visual novel"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/1610/95574.jpg"
+    "picture": "https://myanimelist.net/images/anime/1610/95574.jpg"
   },
   {
     "title": "Shinrei Tantei Yakumo",
@@ -4060,7 +4087,7 @@
       "violence"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/35829.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/35829.jpg"
   },
   {
     "title": "Suite Precure♪",
@@ -4138,7 +4165,7 @@
       "urban fantasy"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/32129.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/32129.jpg"
   },
   {
     "title": "Sweat Punch",
@@ -4748,7 +4775,7 @@
       "war"
     ],
     "year": 1979,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/57043.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/57043.jpg"
   },
   {
     "title": "Watashi to Watashi: Futari no Lotte",

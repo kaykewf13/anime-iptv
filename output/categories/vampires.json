@@ -58,7 +58,7 @@
       "wrestling"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/83185.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/83185.jpg"
   },
   {
     "title": "Amagami",
@@ -82,7 +82,7 @@
     "title": "Arne no Jikenbo",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "adventure",
       "age regression",
@@ -110,7 +110,7 @@
       "zombie"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1440/154894.jpg"
+    "picture": "https://myanimelist.net/images/anime/1440/154894.jpg"
   },
   {
     "title": "Babanbabanban Vampire",
@@ -324,7 +324,7 @@
       "youkai"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/75274.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/75274.jpg"
   },
   {
     "title": "Black Blood Brothers",
@@ -385,7 +385,7 @@
       "war"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/13804.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/13804.jpg"
   },
   {
     "title": "Blade",
@@ -924,7 +924,7 @@
       "yuri"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/1159/94216.jpg"
+    "picture": "https://myanimelist.net/images/anime/1159/94216.jpg"
   },
   {
     "title": "Blood: The Last Vampire",
@@ -1314,7 +1314,7 @@
       "vtubers"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1425/137411.jpg"
+    "picture": "https://myanimelist.net/images/anime/1425/137411.jpg"
   },
   {
     "title": "Dance in the Vampire Bund",
@@ -1541,38 +1541,20 @@
     "picture": "https://cdn.myanimelist.net/images/anime/2/86240.jpg"
   },
   {
-    "title": "Dark Moon: The Blood Altar",
-    "episodes": 0,
-    "type": "TV",
-    "status": "FINISHED",
-    "tags": [
-      "bishounen",
-      "comedy",
-      "drama",
-      "reverse harem",
-      "romance",
-      "school",
-      "social stigma",
-      "supernatural",
-      "superpowers",
-      "vampires",
-      "werewolves"
-    ],
-    "year": 2026,
-    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33548-1062377704.1767560537.jpg"
-  },
-  {
     "title": "Dark Moon: Tsuki no Saidan",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "based on a webtoon",
       "bishounen",
+      "comedy",
       "crunchyroll co-production",
+      "drama",
       "ensemble cast",
       "fantasy",
       "female protagonist",
+      "gore",
       "idol",
       "interspecies relationship",
       "japanese production",
@@ -1581,15 +1563,18 @@
       "non-human protagonists",
       "orphans",
       "primarily male cast",
+      "reincarnation",
       "reverse harem",
       "romance",
       "school",
       "school life",
       "shoujo",
+      "social stigma",
       "speculative fiction",
       "super power",
       "supernatural",
       "superpowers",
+      "time manipulation",
       "transfer students",
       "undead",
       "vampire",
@@ -1598,7 +1583,7 @@
       "werewolves"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1559/154695.jpg"
+    "picture": "https://myanimelist.net/images/anime/1559/154695.jpg"
   },
   {
     "title": "Delico's Nursery",
@@ -1811,7 +1796,7 @@
       "vampires"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/88769.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/88769.jpg"
   },
   {
     "title": "Devils Line",
@@ -1873,7 +1858,7 @@
       "violence"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1053/98838.jpg"
+    "picture": "https://myanimelist.net/images/anime/1053/98838.jpg"
   },
   {
     "title": "Devils Line: Anytime Anywhere",
@@ -2076,7 +2061,7 @@
       "vampires"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/74238.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/74238.jpg"
   },
   {
     "title": "Diabolik Lovers Recap",
@@ -2106,48 +2091,88 @@
   },
   {
     "title": "Fate/strange Fake",
-    "episodes": 0,
+    "episodes": 13,
     "type": "TV",
     "status": "FINISHED",
     "tags": [
       "action",
+      "adventure",
+      "america",
+      "anachronism",
+      "animals",
+      "archery",
+      "assassins",
+      "based on a light novel",
+      "battle royale",
+      "body swapping",
+      "chimera",
       "conspiracy",
+      "contemporary fantasy",
+      "curses",
+      "cyborg",
       "dark fantasy",
+      "death game",
+      "demons",
+      "desert",
+      "dissociative identities",
       "drama",
+      "ensemble cast",
       "factions",
+      "fantasy",
       "fighting",
+      "foreign",
+      "gambling",
+      "gender bending",
+      "gods",
       "gore",
       "government",
+      "guns",
+      "homunculi",
       "idealism",
+      "japanese production",
       "knights",
       "legendary warriors",
+      "lgbtq+ themes",
       "magic",
       "magical items",
+      "medieval",
+      "memory manipulation",
       "military",
       "monsters",
       "moral dilemma",
       "mystery",
       "mythology",
+      "necromancy",
+      "nun",
       "police",
+      "proxy battles",
       "psychological",
+      "religion",
       "religious sect",
       "secret organization",
+      "shapeshifting",
+      "skeleton",
       "sorcery",
       "spirits",
+      "supernatural",
       "superpowers",
       "survival game",
       "swordplay",
+      "terrorism",
       "thriller",
       "tournament",
       "tragedy",
       "trauma",
       "united states",
+      "urban",
       "urban fantasy",
+      "vampire",
       "vampires",
-      "war"
+      "war",
+      "werewolf"
     ],
-    "year": 2024,
-    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A28887-1802597937.1770167686.jpg"
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1752/150192.jpg"
   },
   {
     "title": "Forsaken",
@@ -2278,6 +2303,7 @@
       "heterosexual",
       "interspecies relationship",
       "japanese production",
+      "kaiju",
       "language barrier",
       "lgbtq+ themes",
       "magic",
@@ -2538,7 +2564,7 @@
       "vampires"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/26935.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/26935.jpg"
   },
   {
     "title": "Hellsing: Psalm of the Darkness",
@@ -2619,7 +2645,7 @@
       "vampires"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/82352.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/82352.jpg"
   },
   {
     "title": "Hikikomari Kyuuketsuki no Monmon",
@@ -2696,7 +2722,7 @@
       "zombie"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/46765.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/46765.jpg"
   },
   {
     "title": "Hipira-kun ONA",
@@ -2812,7 +2838,7 @@
       "vampires"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/18066.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/18066.jpg"
   },
   {
     "title": "Holy Knight",
@@ -3005,6 +3031,7 @@
       "primarily female cast",
       "reincarnation",
       "rivalry",
+      "rural",
       "sake",
       "seinen",
       "shapeshifting",
@@ -3032,7 +3059,7 @@
       "working life"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1983/132329.jpg"
+    "picture": "https://myanimelist.net/images/anime/1983/132329.jpg"
   },
   {
     "title": "Itsuka Tenma no Kuro Usagi",
@@ -3223,7 +3250,7 @@
       "youkai"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/74042.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/74042.jpg"
   },
   {
     "title": "Joruzin: The Tale of A Man Who Became Drăculea",
@@ -3600,11 +3627,13 @@
       "alternate universe",
       "based on a manga",
       "comedy",
+      "contemporary fantasy",
       "drama",
       "fantasy",
       "foreign",
       "japanese production",
       "male protagonist",
+      "manga",
       "primarily adult cast",
       "sci fi",
       "science fiction",
@@ -3614,7 +3643,8 @@
       "supernatural",
       "superpowers",
       "vampire",
-      "vampires"
+      "vampires",
+      "violence"
     ],
     "year": 2018,
     "picture": "https://cdn.myanimelist.net/images/anime/1874/96668.jpg"
@@ -3776,7 +3806,7 @@
       "vampires"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/1981/112812.jpg"
+    "picture": "https://myanimelist.net/images/anime/1981/112812.jpg"
   },
   {
     "title": "Kizumonogatari III: Reiketsu-hen",
@@ -4190,7 +4220,7 @@
       "video games"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1892/117151.jpg"
+    "picture": "https://myanimelist.net/images/anime/1892/117151.jpg"
   },
   {
     "title": "Kyuuketsuki Sugu Shinu 2",
@@ -4223,7 +4253,7 @@
       "vampires"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1254/131832.jpg"
+    "picture": "https://myanimelist.net/images/anime/1254/131832.jpg"
   },
   {
     "title": "Legend of Duo",
@@ -4317,7 +4347,7 @@
       "vampires"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1212/113448.jpg"
+    "picture": "https://myanimelist.net/images/anime/1212/113448.jpg"
   },
   {
     "title": "Master Mosquiton",
@@ -4518,7 +4548,7 @@
       "yuri"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1700/143395.jpg"
+    "picture": "https://myanimelist.net/images/anime/1700/143395.jpg"
   },
   {
     "title": "Mayonaka Punch Short Anime",
@@ -4633,6 +4663,7 @@
     "type": "ONA",
     "status": "FINISHED",
     "tags": [
+      "achronological order",
       "afterlife",
       "alternating animation style",
       "alternative past",
@@ -4659,6 +4690,7 @@
       "fantasy",
       "female protagonist",
       "fishing",
+      "ghost",
       "ghost stories",
       "god is a girl",
       "gods",
@@ -4673,6 +4705,7 @@
       "medieval",
       "medium awareness",
       "meta",
+      "monster girl",
       "mutilation",
       "mystery",
       "narration",
@@ -4702,6 +4735,7 @@
       "supernatural",
       "the arts",
       "time",
+      "travel",
       "tropes",
       "tv censoring",
       "undead",
@@ -4878,7 +4912,7 @@
       "zombies"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/68521.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/68521.jpg"
   },
   {
     "title": "Mu Guang Xiawu Cha",
@@ -4991,7 +5025,7 @@
       "zombie"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/31985.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/31985.jpg"
   },
   {
     "title": "Nisemonogatari",
@@ -5330,7 +5364,7 @@
       "vampires"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/46147.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/46147.jpg"
   },
   {
     "title": "Owari no Seraph",
@@ -5598,7 +5632,7 @@
       "youkai"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1156/93567.jpg"
+    "picture": "https://myanimelist.net/images/anime/1156/93567.jpg"
   },
   {
     "title": "Phantom in the Twilight Recap",
@@ -6191,7 +6225,7 @@
       "vampires"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/83960.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/83960.jpg"
   },
   {
     "title": "She is a Vampire!",
@@ -6425,7 +6459,7 @@
       "vampires"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/1411/116149.jpg"
+    "picture": "https://myanimelist.net/images/anime/1411/116149.jpg"
   },
   {
     "title": "Sirius",
@@ -6455,8 +6489,8 @@
       "martial arts",
       "military",
       "monster",
-      "netflix original",
       "new",
+      "only on netflix",
       "original work",
       "past",
       "place",
@@ -6481,7 +6515,7 @@
       "werewolves"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1456/94897.jpg"
+    "picture": "https://myanimelist.net/images/anime/1456/94897.jpg"
   },
   {
     "title": "Slayers Excellent",
@@ -6795,7 +6829,7 @@
       "wardrobe malfunction"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/1600/111675.jpg"
+    "picture": "https://myanimelist.net/images/anime/1600/111675.jpg"
   },
   {
     "title": "Strike The Blood III",
@@ -6851,7 +6885,7 @@
       "vampires"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1768/111676.jpg"
+    "picture": "https://myanimelist.net/images/anime/1768/111676.jpg"
   },
   {
     "title": "Strike The Blood IV",
@@ -7159,7 +7193,7 @@
       "witch"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/1671/94180.jpg"
+    "picture": "https://myanimelist.net/images/anime/1671/94180.jpg"
   },
   {
     "title": "Tezuka Osamu no Don Dracula",
@@ -7306,7 +7340,7 @@
       "violence"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1438/110587.jpg"
+    "picture": "https://myanimelist.net/images/anime/1438/110587.jpg"
   },
   {
     "title": "Tokimeki Tonight",
@@ -7361,7 +7395,7 @@
       "yakuza"
     ],
     "year": 1982,
-    "picture": "https://cdn.myanimelist.net/images/anime/1272/104468.jpg"
+    "picture": "https://myanimelist.net/images/anime/1272/104468.jpg"
   },
   {
     "title": "Tonari no Kyuuketsuki-san",
@@ -7450,7 +7484,7 @@
       "yuri"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1851/96154.jpg"
+    "picture": "https://myanimelist.net/images/anime/1851/96154.jpg"
   },
   {
     "title": "Tragic Silence: Shoujo Yugi",
@@ -7974,7 +8008,7 @@
       "youkai"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1946/136661.jpg"
+    "picture": "https://myanimelist.net/images/anime/1946/136661.jpg"
   },
   {
     "title": "UQ Holder! Mahou Sensei Negima! 2",
@@ -8169,7 +8203,7 @@
       "witch"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/89673.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/89673.jpg"
   },
   {
     "title": "Urmă (Zanzou)",
@@ -8750,7 +8784,7 @@
       "vampires"
     ],
     "year": 2001,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/22088.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/22088.jpg"
   },
   {
     "title": "Vampiyan Kids Promotion",
@@ -8768,7 +8802,7 @@
       "vampires"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/65119.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/65119.jpg"
   },
   {
     "title": "Vampiyan Kids: Pilot",
@@ -8856,7 +8890,7 @@
       "vampires"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1401/118483.jpg"
+    "picture": "https://myanimelist.net/images/anime/1401/118483.jpg"
   },
   {
     "title": "Vanitas no Karte Part 2",
@@ -9128,7 +9162,7 @@
       "vampires"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1143/117924.jpg"
+    "picture": "https://myanimelist.net/images/anime/1143/117924.jpg"
   },
   {
     "title": "Vlad Love",
@@ -9242,7 +9276,7 @@
       "watercolour style"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1796/110394.jpg"
+    "picture": "https://myanimelist.net/images/anime/1796/110394.jpg"
   },
   {
     "title": "Wan Sheng Jie",
@@ -9305,7 +9339,7 @@
       "winter"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1854/106930.jpg"
+    "picture": "https://myanimelist.net/images/anime/1854/106930.jpg"
   },
   {
     "title": "Wan Sheng Jie 2",
@@ -9380,7 +9414,7 @@
       "zombie"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1040/112897.jpg"
+    "picture": "https://myanimelist.net/images/anime/1040/112897.jpg"
   },
   {
     "title": "Wan Sheng Jie 3",
@@ -9524,7 +9558,7 @@
       "zombie"
     ],
     "year": 1980,
-    "picture": "https://cdn.myanimelist.net/images/anime/1349/100882.jpg"
+    "picture": "https://myanimelist.net/images/anime/1349/100882.jpg"
   },
   {
     "title": "Yi Ren Zhi Xia 2",
@@ -9559,7 +9593,7 @@
       "zombie"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/89941.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/89941.jpg"
   },
   {
     "title": "Yi Ren Zhi Xia 3: Rushi Pian",
@@ -9591,7 +9625,7 @@
       "wuxia"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1197/106650.jpg"
+    "picture": "https://myanimelist.net/images/anime/1197/106650.jpg"
   },
   {
     "title": "Yi Ren Zhi Xia 4",
@@ -9821,6 +9855,6 @@
       "verbal comedy"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1509/148453.jpg"
+    "picture": "https://myanimelist.net/images/anime/1509/148453.jpg"
   }
 ]

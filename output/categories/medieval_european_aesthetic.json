@@ -139,7 +139,7 @@
       "zombie"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1563/139990.jpg"
+    "picture": "https://myanimelist.net/images/anime/1563/139990.jpg"
   },
   {
     "title": "Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita",
@@ -544,13 +544,13 @@
       "work"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1449/140344.jpg"
+    "picture": "https://myanimelist.net/images/anime/1449/140344.jpg"
   },
   {
     "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "action comedy",
@@ -558,9 +558,11 @@
       "alternative world",
       "asia",
       "based on a light novel",
+      "cgi",
       "class struggle",
       "comedy",
       "creature taming",
+      "demons",
       "earth",
       "fantasy",
       "fictional location",
@@ -579,11 +581,14 @@
       "speculative fiction",
       "storytelling",
       "summoning",
+      "swordplay",
       "swords & co",
-      "violence"
+      "video games",
+      "violence",
+      "war"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1151/152479.jpg"
+    "picture": "https://myanimelist.net/images/anime/1151/152479.jpg"
   },
   {
     "title": "Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru",
@@ -873,7 +878,7 @@
       "violence"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/1467/137783.jpg"
+    "picture": "https://myanimelist.net/images/anime/1467/137783.jpg"
   },
   {
     "title": "Kuroshitsuji II",
@@ -1039,7 +1044,7 @@
       "zombie"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/74392.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/74392.jpg"
   },
   {
     "title": "Kuroshitsuji: Kishuku Gakkou-hen",
@@ -1172,13 +1177,13 @@
       "witch"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1517/148292.jpg"
+    "picture": "https://myanimelist.net/images/anime/1517/148292.jpg"
   },
   {
     "title": "Odayaka Kizoku no Kyuuka no Susume.",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "adventure",
       "aristocracy",
@@ -1196,10 +1201,13 @@
       "friendship",
       "game elements",
       "guilds",
+      "guns",
       "isekai",
+      "iyashikei",
       "japanese production",
       "josei",
       "lgbtq+ themes",
+      "love triangle",
       "male protagonist",
       "medieval",
       "medieval european aesthetic",
@@ -1210,13 +1218,15 @@
       "primarily male cast",
       "royalty",
       "shoujo",
+      "shounen ai",
       "slice of life",
       "sorcery",
       "speculative fiction",
+      "swordplay",
       "traveling"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1968/152396.jpg"
+    "picture": "https://myanimelist.net/images/anime/1968/152396.jpg"
   },
   {
     "title": "Ookami to Koushinryou",
@@ -1300,7 +1310,7 @@
       "work"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/59401.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/59401.jpg"
   },
   {
     "title": "Ookami to Koushinryou II",
@@ -1400,6 +1410,7 @@
       "europe",
       "european stylised",
       "fantasy",
+      "female protagonist",
       "fictional location",
       "foreign",
       "god-human relationship",
@@ -1436,7 +1447,7 @@
       "verbal comedy"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/13070.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/13070.jpg"
   },
   {
     "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
@@ -1593,7 +1604,7 @@
       "working life"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1182/138184.jpg"
+    "picture": "https://myanimelist.net/images/anime/1182/138184.jpg"
   },
   {
     "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega",
@@ -1799,7 +1810,7 @@
       "violence"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1132/120388.jpg"
+    "picture": "https://myanimelist.net/images/anime/1132/120388.jpg"
   },
   {
     "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd",
@@ -1878,6 +1889,7 @@
       "estranged family",
       "family life",
       "fantasy",
+      "female protagonist",
       "fictional location",
       "gods",
       "hero of strong character",
@@ -1907,6 +1919,86 @@
     ],
     "year": 2025,
     "picture": "https://cdn.myanimelist.net/images/anime/1231/149888.jpg"
+  },
+  {
+    "title": "Sousou no Frieren 2nd Season",
+    "episodes": 10,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "adventure",
+      "alcohol",
+      "anachronisms",
+      "aromantic",
+      "asexual",
+      "based on a manga",
+      "calling your attacks",
+      "coastal",
+      "comedy",
+      "death of a loved one",
+      "demons",
+      "dragons",
+      "drama",
+      "eating of humans",
+      "economics",
+      "elf",
+      "elves",
+      "fantasy",
+      "female protagonist",
+      "fictional location",
+      "fishing",
+      "flying",
+      "found family",
+      "funny expressions",
+      "helpful",
+      "high fantasy",
+      "historical",
+      "iyashikei",
+      "japanese production",
+      "jealousy",
+      "journey",
+      "long time span",
+      "magic",
+      "magic circles",
+      "manga",
+      "medieval",
+      "medieval european aesthetic",
+      "medium breasts",
+      "middle ages",
+      "mutilation",
+      "non-human protagonists",
+      "philosophy",
+      "place",
+      "running gag",
+      "rural",
+      "season",
+      "sequel",
+      "shounen",
+      "slice of life",
+      "slow-paced",
+      "small breasts",
+      "snowscape",
+      "speculative fiction",
+      "spellcasting",
+      "strong female lead",
+      "swordplay",
+      "swords & co",
+      "teamwork",
+      "the effects of time and distance on human relationships",
+      "time",
+      "time skip",
+      "tragedy",
+      "travel",
+      "tropes",
+      "urban",
+      "violence",
+      "visible aura",
+      "warrior",
+      "wilderness",
+      "winter"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1921/154528.jpg"
   },
   {
     "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
@@ -2065,7 +2157,7 @@
       "wardrobe malfunction"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1580/141243.jpg"
+    "picture": "https://myanimelist.net/images/anime/1580/141243.jpg"
   },
   {
     "title": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",

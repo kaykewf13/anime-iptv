@@ -68,7 +68,7 @@
       "yandere"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg"
+    "picture": "https://myanimelist.net/images/anime/1468/109172.jpg"
   },
   {
     "title": "Appleseed Alpha",
@@ -171,7 +171,7 @@
       "violence"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/1519/148684.jpg"
+    "picture": "https://myanimelist.net/images/anime/1519/148684.jpg"
   },
   {
     "title": "Ar Tonelico: Sekai no Owari de Utai Tsuzukeru Shoujo",
@@ -334,7 +334,7 @@
       "yuri"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/22647.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/22647.jpg"
   },
   {
     "title": "Bakuretsu Tenshi: Infinity",
@@ -563,7 +563,7 @@
       "violence"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/84535.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/84535.jpg"
   },
   {
     "title": "Berserk: Ougon Jidai-hen - Memorial Edition",
@@ -615,7 +615,7 @@
       "war"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1607/127730.jpg"
+    "picture": "https://myanimelist.net/images/anime/1607/127730.jpg"
   },
   {
     "title": "Berserk: Ougon Jidai-hen I - Haou no Tamago",
@@ -841,7 +841,7 @@
       "violent"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1906/121592.jpg"
+    "picture": "https://myanimelist.net/images/anime/1906/121592.jpg"
   },
   {
     "title": "Black Lagoon: Roberta's Blood Trail",
@@ -1268,7 +1268,7 @@
       "violence"
     ],
     "year": 1997,
-    "picture": "https://cdn.myanimelist.net/images/anime/1171/95124.jpg"
+    "picture": "https://myanimelist.net/images/anime/1171/95124.jpg"
   },
   {
     "title": "Eat-Man '98",
@@ -1401,7 +1401,7 @@
       "zombie"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/75724.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/75724.jpg"
   },
   {
     "title": "Hitsugi no Chaika",
@@ -1702,7 +1702,7 @@
       "weapons"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/73280.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/73280.jpg"
   },
   {
     "title": "Jormungand: Perfect Order",
@@ -1776,7 +1776,7 @@
       "weapons"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/73278.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/73278.jpg"
   },
   {
     "title": "Jormungand: Perfect Order Recap",
@@ -1951,7 +1951,6 @@
       "award winning",
       "based on a manga",
       "bionic powers",
-      "bisexual",
       "body swapping",
       "car chases",
       "cgi",
@@ -2137,7 +2136,7 @@
       "war"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/1646/135390.jpg"
+    "picture": "https://myanimelist.net/images/anime/1646/135390.jpg"
   },
   {
     "title": "Melty Lancer",
@@ -2573,7 +2572,7 @@
       "war"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/1602/97126.jpg"
+    "picture": "https://myanimelist.net/images/anime/1602/97126.jpg"
   },
   {
     "title": "Revenger",
@@ -2645,7 +2644,7 @@
       "violence"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1884/131748.jpg"
+    "picture": "https://myanimelist.net/images/anime/1884/131748.jpg"
   },
   {
     "title": "Seihou Bukyou Outlaw Star",
@@ -2771,7 +2770,7 @@
       "violence"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/1868/145122.jpg"
+    "picture": "https://myanimelist.net/images/anime/1868/145122.jpg"
   },
   {
     "title": "Seihou Tenshi Angel Links",
@@ -2992,7 +2991,7 @@
       "water scarcity"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/75536.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/75536.jpg"
   },
   {
     "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
@@ -3266,42 +3265,74 @@
       "western"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1426/129194.jpg"
+    "picture": "https://myanimelist.net/images/anime/1426/129194.jpg"
   },
   {
     "title": "Trigun Stargaze",
-    "episodes": 0,
+    "episodes": 12,
     "type": "TV",
     "status": "FINISHED",
     "tags": [
       "action",
+      "action comedy",
+      "adult cast",
+      "adventure",
+      "alternative world",
+      "amnesia",
+      "apocalyptic fiction",
       "atonement",
+      "based on a manga",
+      "bionic powers",
+      "bounty hunter",
       "bounty hunters",
+      "cg-anime",
+      "cgi",
       "chases",
+      "comedy",
+      "cyborg",
+      "desert",
       "desert punk",
+      "dissociative identities",
       "drama",
       "dystopian",
       "extremism",
+      "full cgi",
       "future",
       "gore",
       "gunplay",
+      "guns",
       "idealism",
+      "japanese production",
+      "male protagonist",
       "mercenaries",
+      "non-human protagonists",
       "non-linear narrative",
+      "overpowered main characters",
       "post-apocalyptic",
+      "primarily adult cast",
+      "psi-powers",
       "psychological",
       "redemption",
       "revenge",
+      "sci fi",
+      "sci-fi",
       "science fiction",
+      "science-fiction",
+      "sequel",
+      "shounen",
       "social stigma",
+      "space",
       "space western",
+      "steampunk",
       "superhumans",
       "superpowers",
       "technology",
-      "tragedy"
+      "time skip",
+      "tragedy",
+      "western"
     ],
     "year": 2026,
-    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32872-2575513131.1767562145.jpg"
+    "picture": "https://myanimelist.net/images/anime/1219/154541.jpg"
   },
   {
     "title": "Vampire Hunter D (2000)",
@@ -3540,6 +3571,6 @@
       "witches"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/85224.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/85224.jpg"
   }
 ]

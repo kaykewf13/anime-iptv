@@ -203,7 +203,7 @@
       "work"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/80341.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/80341.jpg"
   },
   {
     "title": "Azumanga Daiou The Animation",
@@ -404,7 +404,7 @@
       "yuri"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/22647.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/22647.jpg"
   },
   {
     "title": "Chainsaw Man",
@@ -528,7 +528,7 @@
       "zombies"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg"
+    "picture": "https://myanimelist.net/images/anime/1806/126216.jpg"
   },
   {
     "title": "Chainsaw Man Recap",
@@ -571,7 +571,7 @@
       "violence"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1929/151717.jpg"
+    "picture": "https://myanimelist.net/images/anime/1929/151717.jpg"
   },
   {
     "title": "Compiler",
@@ -646,7 +646,7 @@
       "wordplay"
     ],
     "year": 1994,
-    "picture": "https://cdn.myanimelist.net/images/anime/1989/94225.jpg"
+    "picture": "https://myanimelist.net/images/anime/1989/94225.jpg"
   },
   {
     "title": "Coppelion",
@@ -763,7 +763,7 @@
       "world domination"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/75543.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/75543.jpg"
   },
   {
     "title": "Devil Survivor 2 The Animation",
@@ -946,7 +946,7 @@
       "working life"
     ],
     "year": 1988,
-    "picture": "https://cdn.myanimelist.net/images/anime/1450/110634.jpg"
+    "picture": "https://myanimelist.net/images/anime/1450/110634.jpg"
   },
   {
     "title": "Gantz:O",
@@ -1023,7 +1023,7 @@
       "youkai"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/81255.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/81255.jpg"
   },
   {
     "title": "Hand Shakers",
@@ -1415,7 +1415,7 @@
       "working life"
     ],
     "year": 1991,
-    "picture": "https://cdn.myanimelist.net/images/anime/1501/111468.jpg"
+    "picture": "https://myanimelist.net/images/anime/1501/111468.jpg"
   },
   {
     "title": "Jarinko Chie",
@@ -1466,7 +1466,7 @@
       "yakuza"
     ],
     "year": 1981,
-    "picture": "https://cdn.myanimelist.net/images/anime/1398/112401.jpg"
+    "picture": "https://myanimelist.net/images/anime/1398/112401.jpg"
   },
   {
     "title": "Josee to Tora to Sakana-tachi",
@@ -1479,7 +1479,6 @@
       "adult cast",
       "asia",
       "based on a novel",
-      "cgi",
       "coastal",
       "college",
       "coming of age",
@@ -1760,7 +1759,7 @@
   },
   {
     "title": "Meitantei Conan",
-    "episodes": 1193,
+    "episodes": 1195,
     "type": "TV",
     "status": "ONGOING",
     "tags": [
@@ -1876,7 +1875,7 @@
       "work"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/75199.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/75199.jpg"
   },
   {
     "title": "Meitantei Conan Magic File 4: Osaka Okonomiyaki Odyssey",
@@ -2133,7 +2132,7 @@
       "tropes"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/72319.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/72319.jpg"
   },
   {
     "title": "Miss Monochrome The Animation 3",
@@ -2459,7 +2458,7 @@
       "wardrobe malfunction"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/1543/134894.jpg"
+    "picture": "https://myanimelist.net/images/anime/1543/134894.jpg"
   },
   {
     "title": "Moonlight Mile 2nd Season: Touch Down",
@@ -2779,7 +2778,7 @@
       "weekly shounen jump"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/1346/119505.jpg"
+    "picture": "https://myanimelist.net/images/anime/1346/119505.jpg"
   },
   {
     "title": "Ryuuou no Oshigoto!",
@@ -2942,7 +2941,68 @@
       "tokugawa period"
     ],
     "year": 1968,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/30805.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/30805.jpg"
+  },
+  {
+    "title": "Seihantai na Kimi to Boku",
+    "episodes": 12,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "asia",
+      "based on a manga",
+      "character driven",
+      "chibi",
+      "comedy",
+      "coming of age",
+      "coming-of-age",
+      "daily life",
+      "drama",
+      "earth",
+      "female protagonist",
+      "first love",
+      "friendship",
+      "funny expressions",
+      "gyaru",
+      "heterosexual",
+      "high school",
+      "iyashikei",
+      "japan",
+      "japanese production",
+      "kuudere",
+      "kyoto",
+      "male protagonist",
+      "manga",
+      "middle school",
+      "misunderstandings",
+      "mixed media",
+      "multiple couples",
+      "nara",
+      "opposites attract",
+      "osaka",
+      "photography",
+      "place",
+      "plot continuity",
+      "preaired episodes",
+      "present",
+      "primarily teen cast",
+      "romance",
+      "romantic comedy",
+      "school",
+      "school life",
+      "shounen",
+      "slapstick",
+      "slice of life",
+      "social anxiety",
+      "stoic hero",
+      "super deformed",
+      "the arts",
+      "time",
+      "urban",
+      "verbal comedy"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1140/154457.jpg"
   },
   {
     "title": "Tatsumi",

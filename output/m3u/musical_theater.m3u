@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Musical Theater
-# Total de animes na categoria: 246
+# Total de animes na categoria: 248
 # Exemplos: 39 Music!, A New Journey, Aa! Megami-sama! (2011), Afuregu!: Aufregendes Leben Animation PV, Aggressive Retsuko (ONA) 2nd Season, Ai no Utagoe wo Kikasete, Aikatsu Friends!: Kagayaki no Jewel, Aikatsu Stars!, Aikatsu Stars! Hoshi no Tsubasa, Aikatsu! Music Award: Minna de Shou wo MoracchaimaShow!
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Musical Theater",Pluto TV Anime | Musical Theater
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

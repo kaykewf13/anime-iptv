@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Bionic Powers
-# Total de animes na categoria: 730
+# Total de animes na categoria: 731
 # Exemplos: .hack//Roots, 07-Ghost, A-Ko The Versus, A.I.C.O. Incarnation, Aa! Megami-sama!, Aa! Megami-sama!: Chichaitte Koto wa Benri da ne, Aachi wa Ssipak, Abashiri Ikka, About the Girl, Absolute Duo
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Bionic Powers",Pluto TV Anime | Bionic Powers
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

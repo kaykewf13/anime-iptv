@@ -482,8 +482,8 @@
       "japanese production",
       "live-action film",
       "magic",
-      "netflix original",
       "oiran",
+      "only on netflix",
       "past",
       "samurai",
       "speculative fiction",
@@ -613,7 +613,7 @@
       "zettai ryouiki"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/3368.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/3368.jpg"
   },
   {
     "title": "CLAMP in Wonderland",
@@ -646,7 +646,7 @@
       "time travel"
     ],
     "year": 1994,
-    "picture": "https://cdn.myanimelist.net/images/anime/1449/112563.jpg"
+    "picture": "https://myanimelist.net/images/anime/1449/112563.jpg"
   },
   {
     "title": "CLAMP in Wonderland 2",
@@ -1029,7 +1029,7 @@
       "violent retribution for accidental infringement"
     ],
     "year": 1992,
-    "picture": "https://cdn.myanimelist.net/images/anime/1094/99278.jpg"
+    "picture": "https://myanimelist.net/images/anime/1094/99278.jpg"
   },
   {
     "title": "Dragon's Dogma",
@@ -1080,7 +1080,7 @@
       "tragedy"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1519/109068.jpg"
+    "picture": "https://myanimelist.net/images/anime/1519/109068.jpg"
   },
   {
     "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
@@ -2445,7 +2445,7 @@
       "weak to strong"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1517/125496.jpg"
+    "picture": "https://myanimelist.net/images/anime/1517/125496.jpg"
   },
   {
     "title": "Legend of Lemnear: Kyokuguro no Tsubasa Valkisas",
@@ -2951,7 +2951,7 @@
       "working life"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1530/117776.jpg"
+    "picture": "https://myanimelist.net/images/anime/1530/117776.jpg"
   },
   {
     "title": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
@@ -3331,7 +3331,7 @@
       "war-zone realities"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/1085/90759.jpg"
+    "picture": "https://myanimelist.net/images/anime/1085/90759.jpg"
   },
   {
     "title": "Ooyukiumi no Kaina",
@@ -3682,7 +3682,7 @@
       "yuri"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/75171.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/75171.jpg"
   },
   {
     "title": "Queen's Blade: Rebellion",
@@ -4681,53 +4681,87 @@
       "violence"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/20938.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/20938.jpg"
   },
   {
     "title": "Sousou no Frieren 2nd Season",
     "episodes": 10,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "adventure",
+      "alcohol",
+      "anachronisms",
       "aromantic",
       "asexual",
       "based on a manga",
+      "calling your attacks",
+      "coastal",
       "comedy",
       "death of a loved one",
+      "demons",
       "dragons",
       "drama",
+      "eating of humans",
+      "economics",
       "elf",
       "elves",
-      "episodic",
       "fantasy",
       "female protagonist",
       "fictional location",
       "fishing",
+      "flying",
       "found family",
-      "heterosexual",
+      "funny expressions",
+      "helpful",
       "high fantasy",
       "historical",
       "iyashikei",
       "japanese production",
+      "jealousy",
+      "journey",
+      "long time span",
       "magic",
+      "magic circles",
       "manga",
       "medieval",
+      "medieval european aesthetic",
+      "medium breasts",
       "middle ages",
+      "mutilation",
       "non-human protagonists",
       "philosophy",
       "place",
+      "running gag",
+      "rural",
+      "season",
       "sequel",
       "shounen",
       "slice of life",
+      "slow-paced",
+      "small breasts",
+      "snowscape",
       "speculative fiction",
+      "spellcasting",
+      "strong female lead",
       "swordplay",
       "swords & co",
+      "teamwork",
+      "the effects of time and distance on human relationships",
+      "time",
       "time skip",
-      "travel"
+      "tragedy",
+      "travel",
+      "tropes",
+      "urban",
+      "violence",
+      "visible aura",
+      "warrior",
+      "wilderness",
+      "winter"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1921/154528.jpg"
+    "picture": "https://myanimelist.net/images/anime/1921/154528.jpg"
   },
   {
     "title": "Sword Art Online",
@@ -4892,7 +4926,7 @@
       "yggdrasil"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/1927/121997.jpg"
+    "picture": "https://myanimelist.net/images/anime/1927/121997.jpg"
   },
   {
     "title": "Tales of Phantasia The Animation",
@@ -5186,7 +5220,7 @@
       "war"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/21243.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/21243.jpg"
   },
   {
     "title": "Tales of Zestiria the Cross",
@@ -6030,7 +6064,7 @@
       "the arts"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/24065.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/24065.jpg"
   },
   {
     "title": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki desu ka?",
@@ -6336,7 +6370,7 @@
       "wartime propaganda"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/75968.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/75968.jpg"
   },
   {
     "title": "Waza no Tabibito",

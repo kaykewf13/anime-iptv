@@ -591,7 +591,7 @@
       "war"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1790/149462.jpg"
+    "picture": "https://myanimelist.net/images/anime/1790/149462.jpg"
   },
   {
     "title": "Black Cat",
@@ -744,7 +744,7 @@
       "violent"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1906/121592.jpg"
+    "picture": "https://myanimelist.net/images/anime/1906/121592.jpg"
   },
   {
     "title": "Black Lagoon: Roberta's Blood Trail",
@@ -1058,7 +1058,6 @@
       "sci-fi",
       "science fiction",
       "science-fiction",
-      "seinen",
       "shounen",
       "slapstick",
       "special squads",
@@ -1180,7 +1179,7 @@
       "zettai ryouiki"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/3368.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/3368.jpg"
   },
   {
     "title": "Cike Wu Liuqi",
@@ -1225,7 +1224,7 @@
       "urban"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1620/94968.jpg"
+    "picture": "https://myanimelist.net/images/anime/1620/94968.jpg"
   },
   {
     "title": "City Hunter",
@@ -1422,7 +1421,7 @@
       "yakuza"
     ],
     "year": 1988,
-    "picture": "https://cdn.myanimelist.net/images/anime/1272/138953.jpg"
+    "picture": "https://myanimelist.net/images/anime/1272/138953.jpg"
   },
   {
     "title": "Cobra The Animation",
@@ -1532,7 +1531,7 @@
       "weekly shounen jump"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/18900.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/18900.jpg"
   },
   {
     "title": "Cobra The Animation: The Psycho-Gun",
@@ -1604,7 +1603,7 @@
       "weekly shounen jump"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/1592/96818.jpg"
+    "picture": "https://myanimelist.net/images/anime/1592/96818.jpg"
   },
   {
     "title": "Comedy Skit 1989",
@@ -1890,7 +1889,7 @@
       "space"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/54341.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/54341.jpg"
   },
   {
     "title": "D.Gray-man",
@@ -2435,7 +2434,7 @@
       "violent retribution for accidental infringement"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/86304.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/86304.jpg"
   },
   {
     "title": "Dirty Pair",
@@ -2650,7 +2649,7 @@
       "violent retribution for accidental infringement"
     ],
     "year": 1987,
-    "picture": "https://cdn.myanimelist.net/images/anime/1855/92685.jpg"
+    "picture": "https://myanimelist.net/images/anime/1855/92685.jpg"
   },
   {
     "title": "Dogs: Bullets & Carnage",
@@ -2788,6 +2787,7 @@
       "novel",
       "nudity",
       "paper clothes",
+      "place",
       "predominantly female cast",
       "primarily female cast",
       "revenge",
@@ -2874,7 +2874,7 @@
       "yuri"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/1446/98891.jpg"
+    "picture": "https://myanimelist.net/images/anime/1446/98891.jpg"
   },
   {
     "title": "Final Fantasy",
@@ -3024,7 +3024,7 @@
       "violence"
     ],
     "year": 1978,
-    "picture": "https://cdn.myanimelist.net/images/anime/1685/104554.jpg"
+    "picture": "https://myanimelist.net/images/anime/1685/104554.jpg"
   },
   {
     "title": "Ginga Tetsudou Monogatari",
@@ -3227,7 +3227,7 @@
       "yakuza"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/73274.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/73274.jpg"
   },
   {
     "title": "GS Mikami: Gokuraku Daisakusen!!",
@@ -3353,7 +3353,7 @@
       "working life"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1063/98597.jpg"
+    "picture": "https://myanimelist.net/images/anime/1063/98597.jpg"
   },
   {
     "title": "Gunnm",
@@ -3584,7 +3584,7 @@
       "zombie"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/77976.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/77976.jpg"
   },
   {
     "title": "Hikari to Mizu no Daphne",
@@ -3649,7 +3649,7 @@
       "underwater"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/49131.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/49131.jpg"
   },
   {
     "title": "Hikari to Mizu no Daphne Specials",
@@ -3671,7 +3671,7 @@
       "swimming"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/44073.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/44073.jpg"
   },
   {
     "title": "Hitoribocchi no Isekai Kouryaku",
@@ -3774,6 +3774,7 @@
       "adventure",
       "alternative present",
       "alternative world",
+      "amnesia",
       "animals",
       "anthropomorphism",
       "anti-hero",
@@ -4381,7 +4382,7 @@
       "yandere"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1485/119329.jpg"
+    "picture": "https://myanimelist.net/images/anime/1485/119329.jpg"
   },
   {
     "title": "Koukyoushihen Eureka Seven",
@@ -4756,7 +4757,7 @@
       "work life"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/73931.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/73931.jpg"
   },
   {
     "title": "Mezzo DSA",
@@ -4832,7 +4833,7 @@
       "virtual world"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/3235.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/3235.jpg"
   },
   {
     "title": "Mujigen Hunter Fandora",
@@ -4867,7 +4868,7 @@
       "swordplay"
     ],
     "year": 1985,
-    "picture": "https://cdn.myanimelist.net/images/anime/1596/94006.jpg"
+    "picture": "https://myanimelist.net/images/anime/1596/94006.jpg"
   },
   {
     "title": "Murder Princess",
@@ -4947,7 +4948,7 @@
       "violent"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/19558.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/19558.jpg"
   },
   {
     "title": "My Daemon",
@@ -5078,7 +5079,7 @@
       "violence"
     ],
     "year": 2001,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/22210.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/22210.jpg"
   },
   {
     "title": "Nora",
@@ -5179,6 +5180,7 @@
       "henshin",
       "hero of strong character",
       "human enhancement",
+      "indigenous cultures",
       "japanese production",
       "journey",
       "kabuki",
@@ -5266,7 +5268,7 @@
       "zombie"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg"
+    "picture": "https://myanimelist.net/images/anime/1244/138851.jpg"
   },
   {
     "title": "One Piece: Barto no Himitsu no Heya!",
@@ -5367,7 +5369,7 @@
       "watercolour style"
     ],
     "year": 1995,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/73451.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/73451.jpg"
   },
   {
     "title": "Red Garden: Dead Girls",
@@ -5513,7 +5515,7 @@
       "violence"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1884/131748.jpg"
+    "picture": "https://myanimelist.net/images/anime/1884/131748.jpg"
   },
   {
     "title": "S-Rank Monster no \"Behemoth\" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu",
@@ -5719,7 +5721,7 @@
       "yakuza"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1026/146459.jpg"
+    "picture": "https://myanimelist.net/images/anime/1026/146459.jpg"
   },
   {
     "title": "Sakamoto Days Part 2",
@@ -5999,7 +6001,7 @@
       "violence"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/1868/145122.jpg"
+    "picture": "https://myanimelist.net/images/anime/1868/145122.jpg"
   },
   {
     "title": "Shingeki no Bahamut: Genesis",
@@ -6156,7 +6158,7 @@
       "swords & co"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/68709.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/68709.jpg"
   },
   {
     "title": "Shingeki no Bahamut: Virgin Soul",
@@ -6766,7 +6768,7 @@
       "water scarcity"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/75536.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/75536.jpg"
   },
   {
     "title": "Tales of Eternia The Animation",
@@ -6803,7 +6805,7 @@
       "swords & co"
     ],
     "year": 2001,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/42089.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/42089.jpg"
   },
   {
     "title": "Tenchi Muyou!",
@@ -7092,13 +7094,13 @@
       "western"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1426/129194.jpg"
+    "picture": "https://myanimelist.net/images/anime/1426/129194.jpg"
   },
   {
     "title": "Trigun Stargaze",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "action comedy",
@@ -7107,38 +7109,59 @@
       "alternative world",
       "amnesia",
       "apocalyptic fiction",
+      "atonement",
       "based on a manga",
       "bionic powers",
       "bounty hunter",
+      "bounty hunters",
       "cg-anime",
       "cgi",
+      "chases",
       "comedy",
       "cyborg",
       "desert",
+      "desert punk",
+      "dissociative identities",
       "drama",
       "dystopian",
+      "extremism",
       "full cgi",
+      "future",
+      "gore",
+      "gunplay",
       "guns",
+      "idealism",
       "japanese production",
       "male protagonist",
+      "mercenaries",
       "non-human protagonists",
+      "non-linear narrative",
       "overpowered main characters",
+      "post-apocalyptic",
       "primarily adult cast",
       "psi-powers",
+      "psychological",
+      "redemption",
+      "revenge",
       "sci fi",
       "sci-fi",
       "science fiction",
       "science-fiction",
       "sequel",
       "shounen",
+      "social stigma",
       "space",
+      "space western",
       "steampunk",
+      "superhumans",
+      "superpowers",
+      "technology",
       "time skip",
       "tragedy",
       "western"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1219/154541.jpg"
+    "picture": "https://myanimelist.net/images/anime/1219/154541.jpg"
   },
   {
     "title": "Trigun: Badlands Rumble",
@@ -7210,7 +7233,7 @@
       "western"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/1930/116400.jpg"
+    "picture": "https://myanimelist.net/images/anime/1930/116400.jpg"
   },
   {
     "title": "Twinkle Nora Rock Me!",
@@ -7483,7 +7506,7 @@
       "zombie"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1136/138410.jpg"
+    "picture": "https://myanimelist.net/images/anime/1136/138410.jpg"
   },
   {
     "title": "Under the Dog",
@@ -7992,6 +8015,6 @@
       "zombies"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/1269/153278.jpg"
+    "picture": "https://myanimelist.net/images/anime/1269/153278.jpg"
   }
 ]

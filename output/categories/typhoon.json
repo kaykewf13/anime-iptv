@@ -262,6 +262,7 @@
     "status": "FINISHED",
     "tags": [
       "action",
+      "adoption",
       "adventure",
       "air combat",
       "aliens",
@@ -269,6 +270,8 @@
       "angel",
       "angels",
       "angst",
+      "anthropomorphism",
+      "arranged marriage",
       "boy meets girl",
       "call my name",
       "car chases",
@@ -282,10 +285,14 @@
       "european stylised",
       "fantasy",
       "female protagonist",
+      "fugitive",
       "gunfights",
+      "guns",
       "japanese production",
+      "kaiju",
       "kidnapping",
       "lost technology",
+      "love triangle",
       "magic",
       "male protagonist",
       "mecha",
@@ -298,6 +305,7 @@
       "place",
       "plot twists",
       "power suit",
+      "primarily teen cast",
       "real robot",
       "real robots",
       "robots",
@@ -313,6 +321,7 @@
       "steampunk",
       "super robots",
       "the power of love",
+      "travel",
       "tropes",
       "typhoon",
       "under one roof",
@@ -1373,6 +1382,7 @@
       "genderbending",
       "gore",
       "henshin",
+      "heterosexual",
       "human enhancement",
       "idol",
       "idols",
@@ -1767,7 +1777,7 @@
       "unidentified flying object"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/39245.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/39245.jpg"
   },
   {
     "title": "Robinson Crusoe: Mujintou no Bouken",
@@ -1941,7 +1951,7 @@
       "work"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/1734/118930.jpg"
+    "picture": "https://myanimelist.net/images/anime/1734/118930.jpg"
   },
   {
     "title": "Shiroi Suna no Aquatope",
@@ -2219,7 +2229,7 @@
       "violence"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/73450.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/73450.jpg"
   },
   {
     "title": "Uzumaki",
@@ -2673,6 +2683,6 @@
       "yuri"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/76667.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/76667.jpg"
   }
 ]

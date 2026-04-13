@@ -146,7 +146,7 @@
       "thriller"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/1714/102585.jpg"
+    "picture": "https://myanimelist.net/images/anime/1714/102585.jpg"
   },
   {
     "title": ".hack//Intermezzo",
@@ -629,7 +629,7 @@
       "witch"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/86743.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/86743.jpg"
   },
   {
     "title": "20-pun de Oitsukeru: Attack on Titan",
@@ -701,7 +701,7 @@
       "tokyo"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1485/108385.jpg"
+    "picture": "https://myanimelist.net/images/anime/1485/108385.jpg"
   },
   {
     "title": "25-pun de Oitsukeru: Shingeki no Kyojin",
@@ -833,7 +833,7 @@
       "josei",
       "manga",
       "mystery",
-      "netflix original",
+      "only on netflix",
       "outdoor activities",
       "person in a strange world",
       "place",
@@ -915,7 +915,7 @@
       "time travel"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1692/151675.jpg"
+    "picture": "https://myanimelist.net/images/anime/1692/151675.jpg"
   },
   {
     "title": "[Oshi no Ko]",
@@ -945,6 +945,7 @@
       "detective",
       "dialogue driven",
       "drama",
+      "educational",
       "ensemble cast",
       "entertainment industry",
       "episodic",
@@ -1039,7 +1040,6 @@
       "coming of age",
       "coming-of-age",
       "conspiracy",
-      "cosplay",
       "crime",
       "daily life",
       "dancing",
@@ -1119,50 +1119,71 @@
     "title": "[Oshi no Ko] 3rd Season",
     "episodes": 11,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "acting",
       "anti-hero",
       "asia",
       "based on a manga",
+      "bullying",
+      "comedy",
+      "coming-of-age",
+      "conspiracy",
       "cosplay",
+      "crime",
+      "detective",
       "drama",
       "earth",
+      "educational",
       "ensemble cast",
+      "entertainment industry",
       "female protagonist",
+      "filmmaking",
       "heterosexual",
       "idol",
       "idols",
+      "inspiration",
       "japan",
       "japanese production",
       "male protagonist",
       "manga",
+      "mental health",
       "music",
       "mystery",
+      "non-linear narrative",
       "otaku culture",
+      "performing arts",
       "place",
       "plot continuity",
+      "politics",
       "present",
       "psychological",
       "reincarnation",
       "revenge",
+      "school",
       "seinen",
+      "self-discovery",
       "sequel",
       "showbiz",
       "siblings",
       "slice of life",
+      "social commentary",
       "social media",
+      "social stigma",
       "supernatural",
       "the arts",
       "time",
       "tragedy",
+      "trauma",
       "tsundere",
       "twins",
       "urban fantasy",
-      "vtuber"
+      "vtuber",
+      "workplace",
+      "writing"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1979/153329.jpg"
+    "picture": "https://myanimelist.net/images/anime/1979/153329.jpg"
   },
   {
     "title": "Acca-kun no ACCA Kouza",
@@ -1266,7 +1287,7 @@
       "work"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1878/101560.jpg"
+    "picture": "https://myanimelist.net/images/anime/1878/101560.jpg"
   },
   {
     "title": "Actors: Songs Connection",
@@ -1393,7 +1414,7 @@
       "violence"
     ],
     "year": 1990,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/2851.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/2851.jpg"
   },
   {
     "title": "Aeon Flux Season 1",
@@ -1552,7 +1573,7 @@
       "witch"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1321/145689.jpg"
+    "picture": "https://myanimelist.net/images/anime/1321/145689.jpg"
   },
   {
     "title": "Aiyou de Mishi",
@@ -1652,7 +1673,7 @@
       "video games"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/77968.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/77968.jpg"
   },
   {
     "title": "Ajin",
@@ -1774,7 +1795,7 @@
       "urban fantasy"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/1038/112814.jpg"
+    "picture": "https://myanimelist.net/images/anime/1038/112814.jpg"
   },
   {
     "title": "Ajin Part 2",
@@ -1877,7 +1898,7 @@
       "supernatural"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/1987/112815.jpg"
+    "picture": "https://myanimelist.net/images/anime/1987/112815.jpg"
   },
   {
     "title": "Ajin Part 3: Shougeki",
@@ -1950,7 +1971,7 @@
       "swords & co"
     ],
     "year": 2000,
-    "picture": "https://cdn.myanimelist.net/images/anime/1831/95687.jpg"
+    "picture": "https://myanimelist.net/images/anime/1831/95687.jpg"
   },
   {
     "title": "Alice Tantei Kyoku",
@@ -2309,7 +2330,7 @@
       "yandere"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/1311/128738.jpg"
+    "picture": "https://myanimelist.net/images/anime/1311/128738.jpg"
   },
   {
     "title": "Amrita no Kyouen",
@@ -2406,7 +2427,7 @@
       "war"
     ],
     "year": 1982,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/75156.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/75156.jpg"
   },
   {
     "title": "Angel Heart",
@@ -2636,7 +2657,7 @@
       "youkai"
     ],
     "year": 1990,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/57439.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/57439.jpg"
   },
   {
     "title": "Another",
@@ -2718,7 +2739,7 @@
       "violence censoring"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/75509.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/75509.jpg"
   },
   {
     "title": "Another: The Other - Inga",
@@ -2806,7 +2827,7 @@
       "undead"
     ],
     "year": 1988,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/56121.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/56121.jpg"
   },
   {
     "title": "Ao Oni The Animation",
@@ -3231,7 +3252,7 @@
       "work"
     ],
     "year": 2002,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/21141.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/21141.jpg"
   },
   {
     "title": "Aragne no Mushikago",
@@ -3404,7 +3425,7 @@
       "urban"
     ],
     "year": 1995,
-    "picture": "https://cdn.myanimelist.net/images/anime/1398/94072.jpg"
+    "picture": "https://myanimelist.net/images/anime/1398/94072.jpg"
   },
   {
     "title": "Armitage III: Dual-Matrix",
@@ -3542,13 +3563,13 @@
       "wings"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/2859.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/2859.jpg"
   },
   {
     "title": "Arne no Jikenbo",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "adventure",
       "age regression",
@@ -3576,7 +3597,7 @@
       "zombie"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1440/154894.jpg"
+    "picture": "https://myanimelist.net/images/anime/1440/154894.jpg"
   },
   {
     "title": "Aruhi no Clamp Gakuen Tanteidan",
@@ -3659,7 +3680,7 @@
       "wakate animator ikusei project"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/43343.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/43343.jpg"
   },
   {
     "title": "Assassins Pride",
@@ -3876,7 +3897,7 @@
       "zettai ryouiki"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/17071.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/17071.jpg"
   },
   {
     "title": "Attraction",
@@ -4046,8 +4067,8 @@
       "mutilation",
       "mystery",
       "nearly almighty protagonist",
-      "netflix original",
       "new",
+      "only on netflix",
       "original work",
       "past",
       "place",
@@ -4130,8 +4151,8 @@
       "mutilation",
       "mystery",
       "nearly almighty protagonist",
-      "netflix original",
       "new",
+      "only on netflix",
       "open-ended",
       "original work",
       "past",
@@ -4163,7 +4184,7 @@
       "violence"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1409/112177.jpg"
+    "picture": "https://myanimelist.net/images/anime/1409/112177.jpg"
   },
   {
     "title": "Babel Nisei (2001)",
@@ -4464,7 +4485,7 @@
       "romance"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1448/140857.jpg"
+    "picture": "https://myanimelist.net/images/anime/1448/140857.jpg"
   },
   {
     "title": "Bai Yao Pu",
@@ -4534,7 +4555,7 @@
       "youkai"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1898/115957.jpg"
+    "picture": "https://myanimelist.net/images/anime/1898/115957.jpg"
   },
   {
     "title": "Bai Yao Pu: Jingshi Pian",
@@ -4565,7 +4586,7 @@
       "supernatural drama"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1889/119939.jpg"
+    "picture": "https://myanimelist.net/images/anime/1889/119939.jpg"
   },
   {
     "title": "Bai Yao Pu: Luoyang Pian",
@@ -4758,7 +4779,7 @@
       "youkai"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/75274.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/75274.jpg"
   },
   {
     "title": "Bakemonogatari Recap",
@@ -4852,7 +4873,7 @@
       "war"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/56037.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/56037.jpg"
   },
   {
     "title": "Bakumatsu Rock: Mystery! Onsen Kaijiken ze yo!!",
@@ -4875,7 +4896,7 @@
       "shoujo"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/64137.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/64137.jpg"
   },
   {
     "title": "Banana Fish",
@@ -4970,7 +4991,7 @@
       "yaoi"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1190/93472.jpg"
+    "picture": "https://myanimelist.net/images/anime/1190/93472.jpg"
   },
   {
     "title": "Batman Beyond",
@@ -5050,7 +5071,6 @@
       "cg-anime",
       "cgi",
       "character driven",
-      "class struggle",
       "club",
       "comedy",
       "coming of age",
@@ -5115,9 +5135,9 @@
       "talking animals",
       "the arts",
       "theater",
+      "unrequited love",
       "urban",
       "violence",
-      "vore",
       "wolves"
     ],
     "year": 2019,
@@ -5223,7 +5243,7 @@
       "wolves"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1097/109646.jpg"
+    "picture": "https://myanimelist.net/images/anime/1097/109646.jpg"
   },
   {
     "title": "Beastars Final Season",
@@ -5258,6 +5278,7 @@
       "mystery",
       "non-human protagonists",
       "only on netflix",
+      "philosophy",
       "primarily animal cast",
       "primarily teen cast",
       "psychological",
@@ -5274,7 +5295,52 @@
       "urban"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1699/142187.jpg"
+    "picture": "https://myanimelist.net/images/anime/1699/142187.jpg"
+  },
+  {
+    "title": "Beastars Final Season Part 2",
+    "episodes": 12,
+    "type": "ONA",
+    "status": "FINISHED",
+    "tags": [
+      "action",
+      "animal protagonists",
+      "animals",
+      "anthropomorphic",
+      "anthropomorphism",
+      "based on a manga",
+      "beastman",
+      "cg animation",
+      "cgi",
+      "club",
+      "comedy",
+      "coming of age",
+      "drama",
+      "fantasy",
+      "full cgi",
+      "guns",
+      "hero of strong character",
+      "heterosexual",
+      "high school",
+      "male protagonist",
+      "mystery",
+      "non-human protagonists",
+      "philosophy",
+      "primarily animal cast",
+      "psychological",
+      "psychological drama",
+      "psychosexual",
+      "romance",
+      "school",
+      "school life",
+      "shounen",
+      "slice of life",
+      "slice of life drama",
+      "suspense",
+      "urban"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1864/155472.jpg"
   },
   {
     "title": "Beelzebub: Kaiketsu!! Beel-bo Meitantei Suiri",
@@ -5321,7 +5387,7 @@
       "yuri"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1873/142288.jpg"
+    "picture": "https://myanimelist.net/images/anime/1873/142288.jpg"
   },
   {
     "title": "Betterman",
@@ -5718,7 +5784,7 @@
       "yandere"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/1292/94693.jpg"
+    "picture": "https://myanimelist.net/images/anime/1292/94693.jpg"
   },
   {
     "title": "Black Butler",
@@ -5759,7 +5825,7 @@
       "suspense"
     ],
     "year": 1993,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/12978.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/12978.jpg"
   },
   {
     "title": "Black Jack 21",
@@ -5828,7 +5894,7 @@
       "work"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1300/133792.jpg"
+    "picture": "https://myanimelist.net/images/anime/1300/133792.jpg"
   },
   {
     "title": "Black Jack Final",
@@ -6013,7 +6079,7 @@
       "work"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/1868/134318.jpg"
+    "picture": "https://myanimelist.net/images/anime/1868/134318.jpg"
   },
   {
     "title": "Black Jack: Futari no Kuroi Isha",
@@ -6054,7 +6120,7 @@
       "work"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/40303.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/40303.jpg"
   },
   {
     "title": "BlazBlue: Alter Memory",
@@ -6813,7 +6879,7 @@
       "time travel"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/86477.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/86477.jpg"
   },
   {
     "title": "Bokura no Nanokakan Sensou",
@@ -6883,6 +6949,7 @@
       "family friendly",
       "game",
       "japanese production",
+      "kids",
       "male protagonist",
       "mystery",
       "police",
@@ -6897,7 +6964,7 @@
       "terrorism"
     ],
     "year": 2002,
-    "picture": "https://cdn.myanimelist.net/images/anime/1337/123742.jpg"
+    "picture": "https://myanimelist.net/images/anime/1337/123742.jpg"
   },
   {
     "title": "Boogiepop wa Warawanai",
@@ -7149,7 +7216,7 @@
       "watercolour style"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/52679.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/52679.jpg"
   },
   {
     "title": "BREACH",
@@ -7174,7 +7241,7 @@
       "mystery"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1269/155652.jpg"
+    "picture": "https://myanimelist.net/images/anime/1269/155652.jpg"
   },
   {
     "title": "Brother",
@@ -7548,7 +7615,7 @@
       "yokohama"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/1572/133096.jpg"
+    "picture": "https://myanimelist.net/images/anime/1572/133096.jpg"
   },
   {
     "title": "Bungou Stray Dogs 3rd Season",
@@ -7671,7 +7738,7 @@
       "yokohama"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1037/100463.jpg"
+    "picture": "https://myanimelist.net/images/anime/1037/100463.jpg"
   },
   {
     "title": "Bungou Stray Dogs 4th Season",
@@ -7775,6 +7842,7 @@
       "supernatural",
       "supernatural drama",
       "superpowers",
+      "swordplay",
       "terrorism",
       "time manipulation",
       "tragedy",
@@ -7863,6 +7931,7 @@
       "real-world location",
       "rotten world",
       "seinen",
+      "shapeshifting",
       "slapstick",
       "special squads",
       "speculative fiction",
@@ -7983,7 +8052,7 @@
       "yokohama"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/87340.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/87340.jpg"
   },
   {
     "title": "Burn Up Excess",
@@ -8130,7 +8199,6 @@
       "sci-fi",
       "science fiction",
       "science-fiction",
-      "seinen",
       "shounen",
       "slapstick",
       "special squads",
@@ -8200,7 +8268,7 @@
       "violence"
     ],
     "year": 1991,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/2888.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/2888.jpg"
   },
   {
     "title": "Bus Gamer",
@@ -8574,10 +8642,11 @@
       "visual novel",
       "waitress",
       "war",
-      "war-zone realities"
+      "war-zone realities",
+      "yuri"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/75789.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/75789.jpg"
   },
   {
     "title": "Canaan: Minorikawa Report 201X Shanghai",
@@ -8601,7 +8670,7 @@
       "short episodes"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/26908.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/26908.jpg"
   },
   {
     "title": "Cat's Eye",
@@ -8636,7 +8705,7 @@
       "verbal comedy"
     ],
     "year": 1983,
-    "picture": "https://cdn.myanimelist.net/images/anime/1864/96171.jpg"
+    "picture": "https://myanimelist.net/images/anime/1864/96171.jpg"
   },
   {
     "title": "Cat's♥Eye",
@@ -8779,6 +8848,8 @@
       "fashion",
       "fast-paced",
       "female protagonist",
+      "fictional location",
+      "floating island",
       "fugitive",
       "gambling",
       "game",
@@ -8791,12 +8862,14 @@
       "japanese production",
       "journalism",
       "law and order",
+      "lingerie",
       "mafia",
       "male protagonist",
       "manga",
       "martial arts",
       "mystery",
       "occupation and career",
+      "ocean",
       "parental abandonment",
       "place",
       "police",
@@ -8827,7 +8900,7 @@
       "weekly shounen jump"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1347/151708.jpg"
+    "picture": "https://myanimelist.net/images/anime/1347/151708.jpg"
   },
   {
     "title": "Cat's♥Eye 2nd Season",
@@ -9130,7 +9203,7 @@
       "zombies"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg"
+    "picture": "https://myanimelist.net/images/anime/1806/126216.jpg"
   },
   {
     "title": "Chainsaw Man Movie: Reze-hen",
@@ -9200,6 +9273,7 @@
       "shounen",
       "spearplay",
       "speculative fiction",
+      "super power",
       "superhumans",
       "supernatural",
       "superpowers",
@@ -9287,7 +9361,7 @@
       "violence"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1749/145922.jpg"
+    "picture": "https://myanimelist.net/images/anime/1749/145922.jpg"
   },
   {
     "title": "Chibizenji-sensei Inokori Kougiroku",
@@ -9448,7 +9522,7 @@
       "supernatural"
     ],
     "year": 1993,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/74516.jpg"
+    "picture": "https://myanimelist.net/images/anime/1494/156244.jpg"
   },
   {
     "title": "Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara.",
@@ -9564,7 +9638,7 @@
       "visual novel"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/1310/90137.jpg"
+    "picture": "https://myanimelist.net/images/anime/1310/90137.jpg"
   },
   {
     "title": "ChäoS;Child Episode 0",
@@ -9627,7 +9701,7 @@
       "visual novel"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/88031.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/88031.jpg"
   },
   {
     "title": "ChäoS;HEAd",
@@ -9760,7 +9834,7 @@
       "urban"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1620/94968.jpg"
+    "picture": "https://myanimelist.net/images/anime/1620/94968.jpg"
   },
   {
     "title": "Cike Wu Liuqi Fanwai",
@@ -9788,7 +9862,7 @@
       "tragedy"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1299/94969.jpg"
+    "picture": "https://myanimelist.net/images/anime/1299/94969.jpg"
   },
   {
     "title": "Cinderella Boy",
@@ -10028,7 +10102,7 @@
       "yakuza"
     ],
     "year": 1988,
-    "picture": "https://cdn.myanimelist.net/images/anime/1272/138953.jpg"
+    "picture": "https://myanimelist.net/images/anime/1272/138953.jpg"
   },
   {
     "title": "City Hunter 3",
@@ -10077,7 +10151,7 @@
       "weekly shounen jump"
     ],
     "year": 1989,
-    "picture": "https://cdn.myanimelist.net/images/anime/1147/94393.jpg"
+    "picture": "https://myanimelist.net/images/anime/1147/94393.jpg"
   },
   {
     "title": "City Hunter Movie: Shinjuku Private Eyes",
@@ -10139,7 +10213,7 @@
       "war"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1416/97388.jpg"
+    "picture": "https://myanimelist.net/images/anime/1416/97388.jpg"
   },
   {
     "title": "City Hunter Movie: Tenshi no Namida",
@@ -10297,7 +10371,7 @@
       "violent retribution for accidental infringement"
     ],
     "year": 1990,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/3025.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/3025.jpg"
   },
   {
     "title": "City Hunter: Kinkyuu Namachuukei!? Kyouakuhan Saeba Ryou no Saigo",
@@ -10413,7 +10487,7 @@
       "violent retribution for accidental infringement"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/1437/94390.jpg"
+    "picture": "https://myanimelist.net/images/anime/1437/94390.jpg"
   },
   {
     "title": "Clamp Gakuen Tanteidan",
@@ -10525,7 +10599,7 @@
       "violent retribution for accidental infringement"
     ],
     "year": 1989,
-    "picture": "https://cdn.myanimelist.net/images/anime/1367/107825.jpg"
+    "picture": "https://myanimelist.net/images/anime/1367/107825.jpg"
   },
   {
     "title": "Clione no Akari",
@@ -11084,7 +11158,7 @@
       "suspense"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1422/140125.jpg"
+    "picture": "https://myanimelist.net/images/anime/1422/140125.jpg"
   },
   {
     "title": "Coo: Tooi Umi kara Kita Coo",
@@ -11220,6 +11294,7 @@
       "science and magic coexist",
       "science fiction",
       "science-fiction",
+      "seinen",
       "sex",
       "sexual abuse",
       "sexual humour",
@@ -11383,7 +11458,7 @@
       "world domination"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/75543.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/75543.jpg"
   },
   {
     "title": "Corpse Party: Missing Footage",
@@ -11596,7 +11671,7 @@
       "seinen"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1167/119187.jpg"
+    "picture": "https://myanimelist.net/images/anime/1167/119187.jpg"
   },
   {
     "title": "Crystal Blaze",
@@ -11730,7 +11805,7 @@
       "yakuza"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/73934.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/73934.jpg"
   },
   {
     "title": "Da Li Si Rizhi",
@@ -11838,7 +11913,7 @@
       "working life"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1659/105254.jpg"
+    "picture": "https://myanimelist.net/images/anime/1659/105254.jpg"
   },
   {
     "title": "Da Li Si Rizhi 2nd Season",
@@ -11891,7 +11966,7 @@
       "winter"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1375/126818.jpg"
+    "picture": "https://myanimelist.net/images/anime/1251/155862.jpg"
   },
   {
     "title": "Da Zhentan Fuermosi: Tao Yu Da Zhuibu",
@@ -12159,7 +12234,7 @@
       "youkai"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1721/149001.jpg"
+    "picture": "https://myanimelist.net/images/anime/1721/149001.jpg"
   },
   {
     "title": "Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen",
@@ -12254,7 +12329,7 @@
       "visual novel"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/80931.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/80931.jpg"
   },
   {
     "title": "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen",
@@ -12465,7 +12540,7 @@
       "zombie"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/52139.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/52139.jpg"
   },
   {
     "title": "Dantalian no Shoka",
@@ -12786,7 +12861,7 @@
       "yandere"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1346/138731.jpg"
+    "picture": "https://myanimelist.net/images/anime/1346/138731.jpg"
   },
   {
     "title": "Darkeling",
@@ -12940,7 +13015,7 @@
       "yakuza"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/19570.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/19570.jpg"
   },
   {
     "title": "Darker than Black: Kuro no Keiyakusha - Sakura no Hana no Mankai no Shita",
@@ -13006,7 +13081,7 @@
       "triads"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/17469.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/17469.jpg"
   },
   {
     "title": "Darker than Black: Ryuusei no Gemini",
@@ -13129,7 +13204,7 @@
       "whale"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/1189/134110.jpg"
+    "picture": "https://myanimelist.net/images/anime/1189/134110.jpg"
   },
   {
     "title": "Darkside Blues",
@@ -13198,7 +13273,7 @@
       "wardrobe malfunction"
     ],
     "year": 1994,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/79776.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/79776.jpg"
   },
   {
     "title": "Darwin's Game",
@@ -13308,7 +13383,7 @@
       "violence"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1975/111967.jpg"
+    "picture": "https://myanimelist.net/images/anime/1975/111967.jpg"
   },
   {
     "title": "Dead Mount Death Play",
@@ -13716,7 +13791,7 @@
       "yandere"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg"
+    "picture": "https://myanimelist.net/images/anime/1079/138100.jpg"
   },
   {
     "title": "Death Note Rewrite 1: Visions of a God",
@@ -14593,7 +14668,7 @@
       "present"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/1713/111979.jpg"
+    "picture": "https://myanimelist.net/images/anime/1713/111979.jpg"
   },
   {
     "title": "Di Ling Qu",
@@ -14686,7 +14761,7 @@
       "virtual world"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1099/102198.jpg"
+    "picture": "https://myanimelist.net/images/anime/1099/102198.jpg"
   },
   {
     "title": "Digital Devil Story: Megami Tensei",
@@ -14815,7 +14890,7 @@
       "violence"
     ],
     "year": 1985,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/81369.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/81369.jpg"
   },
   {
     "title": "Diwang Gonglue",
@@ -14986,6 +15061,7 @@
       "canon filler",
       "cg-anime",
       "cgi",
+      "class struggle",
       "comedy",
       "cooking",
       "crime",
@@ -15106,6 +15182,49 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1230/119278.jpg"
   },
   {
+    "title": "Dorohedoro Season 2",
+    "episodes": 11,
+    "type": "ONA",
+    "status": "ONGOING",
+    "tags": [
+      "action",
+      "adventure",
+      "alternative world",
+      "amnesia",
+      "anti-hero",
+      "based on a manga",
+      "comedy",
+      "curse",
+      "curses",
+      "dark fantasy",
+      "demon",
+      "demons",
+      "drama",
+      "dystopian",
+      "ensemble cast",
+      "fantasy",
+      "full cgi",
+      "gore",
+      "horror",
+      "japanese production",
+      "magic",
+      "male protagonist",
+      "monster boy",
+      "mystery",
+      "primarily adult cast",
+      "psychological",
+      "revenge",
+      "seinen",
+      "sequel",
+      "supernatural",
+      "surreal comedy",
+      "urban fantasy",
+      "violence"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1603/155354.jpg"
+  },
+  {
     "title": "Double Decker! Doug & Kirill",
     "episodes": 13,
     "type": "TV",
@@ -15188,7 +15307,7 @@
       "violence"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1299/95783.jpg"
+    "picture": "https://myanimelist.net/images/anime/1299/95783.jpg"
   },
   {
     "title": "Double Decker! Doug & Kirill: Extra",
@@ -15223,7 +15342,7 @@
       "steampunk"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1987/97850.jpg"
+    "picture": "https://myanimelist.net/images/anime/1987/97850.jpg"
   },
   {
     "title": "Doupo Cangqiong",
@@ -15257,7 +15376,7 @@
       "xianxia"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/88942.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/88942.jpg"
   },
   {
     "title": "Doupo Cangqiong 3rd Season",
@@ -15526,7 +15645,7 @@
       "whipping"
     ],
     "year": 1985,
-    "picture": "https://cdn.myanimelist.net/images/anime/1538/94531.jpg"
+    "picture": "https://myanimelist.net/images/anime/1538/94531.jpg"
   },
   {
     "title": "Duan Nao",
@@ -15627,7 +15746,7 @@
       "zombie"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1026/143505.jpg"
+    "picture": "https://myanimelist.net/images/anime/1026/143505.jpg"
   },
   {
     "title": "Durarara!!",
@@ -15774,7 +15893,7 @@
       "yakuza"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/28684.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/28684.jpg"
   },
   {
     "title": "Durarara!!x2 Ketsu",
@@ -15898,7 +16017,7 @@
       "yakuza"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/67743.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/67743.jpg"
   },
   {
     "title": "Durarara!!x2 Shou: Watashi no Kokoro wa Nabe Moyou",
@@ -16256,7 +16375,7 @@
       "writing"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/1246/107820.jpg"
+    "picture": "https://myanimelist.net/images/anime/1246/107820.jpg"
   },
   {
     "title": "ef: A Tale of Memories. - Recollections",
@@ -16362,7 +16481,7 @@
       "yuri"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/1446/98891.jpg"
+    "picture": "https://myanimelist.net/images/anime/1446/98891.jpg"
   },
   {
     "title": "Enzai",
@@ -16427,7 +16546,7 @@
       "tragedy"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1002/110132.jpg"
+    "picture": "https://myanimelist.net/images/anime/1002/110132.jpg"
   },
   {
     "title": "ERASED",
@@ -16569,21 +16688,25 @@
   },
   {
     "title": "Eris no Seihai",
-    "episodes": 10,
+    "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "age gap",
       "anti-hero",
+      "aristocracy",
       "aristocrat",
       "arranged marriage",
       "based on a light novel",
+      "betrayal",
       "body swapping",
       "conspiracy",
+      "crime",
       "criminal organization",
       "detective",
       "drama",
       "drugs",
+      "ensemble cast",
       "fantasy",
       "female protagonist",
       "foreign",
@@ -16593,22 +16716,26 @@
       "heterosexual",
       "historical",
       "japanese production",
+      "medieval",
       "mystery",
       "nobility",
       "nobleman",
       "ojou-sama",
       "politics",
+      "possession",
       "revenge",
       "romance",
       "royal affairs",
       "shoujo",
+      "sorcery",
+      "spirits",
       "suicide",
       "supernatural",
       "tragedy",
       "villainess"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1404/154931.jpg"
+    "picture": "https://myanimelist.net/images/anime/1404/154931.jpg"
   },
   {
     "title": "Explorer Woman Ray",
@@ -16854,59 +16981,15 @@
   },
   {
     "title": "Fate/strange Fake",
-    "episodes": 0,
-    "type": "TV",
-    "status": "FINISHED",
-    "tags": [
-      "action",
-      "conspiracy",
-      "dark fantasy",
-      "drama",
-      "factions",
-      "fighting",
-      "gore",
-      "government",
-      "idealism",
-      "knights",
-      "legendary warriors",
-      "magic",
-      "magical items",
-      "military",
-      "monsters",
-      "moral dilemma",
-      "mystery",
-      "mythology",
-      "police",
-      "psychological",
-      "religious sect",
-      "secret organization",
-      "sorcery",
-      "spirits",
-      "superpowers",
-      "survival game",
-      "swordplay",
-      "thriller",
-      "tournament",
-      "tragedy",
-      "trauma",
-      "united states",
-      "urban fantasy",
-      "vampires",
-      "war"
-    ],
-    "year": 2024,
-    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A28887-1802597937.1770167686.jpg"
-  },
-  {
-    "title": "Fate/strange Fake",
     "episodes": 13,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "adventure",
       "america",
       "anachronism",
+      "animals",
       "archery",
       "assassins",
       "based on a light novel",
@@ -16915,38 +16998,71 @@
       "chimera",
       "conspiracy",
       "contemporary fantasy",
+      "curses",
       "cyborg",
+      "dark fantasy",
       "death game",
+      "demons",
+      "desert",
       "dissociative identities",
+      "drama",
       "ensemble cast",
+      "factions",
       "fantasy",
+      "fighting",
       "foreign",
       "gambling",
       "gender bending",
       "gods",
+      "gore",
+      "government",
       "guns",
+      "homunculi",
+      "idealism",
       "japanese production",
+      "knights",
+      "legendary warriors",
       "lgbtq+ themes",
       "magic",
+      "magical items",
+      "medieval",
+      "memory manipulation",
+      "military",
+      "monsters",
+      "moral dilemma",
       "mystery",
       "mythology",
+      "necromancy",
       "nun",
       "police",
       "proxy battles",
+      "psychological",
       "religion",
+      "religious sect",
+      "secret organization",
+      "shapeshifting",
+      "skeleton",
+      "sorcery",
+      "spirits",
       "supernatural",
       "superpowers",
+      "survival game",
       "swordplay",
       "terrorism",
-      "transgender",
+      "thriller",
+      "tournament",
+      "tragedy",
+      "trauma",
       "united states",
       "urban",
       "urban fantasy",
       "vampire",
-      "war"
+      "vampires",
+      "war",
+      "werewolf"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1752/150192.jpg"
+    "picture": "https://myanimelist.net/images/anime/1752/150192.jpg"
   },
   {
     "title": "Fate/strange Fake: Whispers of Dawn",
@@ -16996,6 +17112,7 @@
       "shapeshifting",
       "sorcery",
       "spirits",
+      "super power",
       "supernatural",
       "superpowers",
       "survival game",
@@ -17431,6 +17548,7 @@
       "mutilation",
       "mystery",
       "necromancy",
+      "orphan",
       "philosopher's stone",
       "philosophy",
       "place",
@@ -17587,7 +17705,7 @@
       "supernatural"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1602/150098.jpg"
+    "picture": "https://myanimelist.net/images/anime/1602/150098.jpg"
   },
   {
     "title": "Fushigi Dagashiya: Zenitendou Movie - Tsuri Taiyaki",
@@ -17771,7 +17889,7 @@
       "video games"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1945/123588.jpg"
+    "picture": "https://myanimelist.net/images/anime/1945/123588.jpg"
   },
   {
     "title": "Fuuto Tantei Movie: Kamen Rider Skull no Shouzou",
@@ -17910,7 +18028,7 @@
       "violence"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg"
+    "picture": "https://myanimelist.net/images/anime/1682/150432.jpg"
   },
   {
     "title": "Gakkou no Kaidan",
@@ -18068,7 +18186,7 @@
       "urban fantasy"
     ],
     "year": 2001,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/74184.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/74184.jpg"
   },
   {
     "title": "Gakkougurashi!",
@@ -18186,7 +18304,7 @@
       "zombies"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/1798/91548.jpg"
+    "picture": "https://myanimelist.net/images/anime/1798/91548.jpg"
   },
   {
     "title": "Gakuen Nanafushigi",
@@ -18271,7 +18389,7 @@
       "violence"
     ],
     "year": 2002,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/38577.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/38577.jpg"
   },
   {
     "title": "Galilei Donna",
@@ -18615,7 +18733,7 @@
       "virtual world"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/88236.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/88236.jpg"
   },
   {
     "title": "Gasshin Sentai Mechander Robo",
@@ -19112,7 +19230,7 @@
       "violence"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1688/93905.jpg"
+    "picture": "https://myanimelist.net/images/anime/1688/93905.jpg"
   },
   {
     "title": "Gigi Goegoe",
@@ -19264,7 +19382,7 @@
       "travel"
     ],
     "year": 1985,
-    "picture": "https://cdn.myanimelist.net/images/anime/1694/120347.jpg"
+    "picture": "https://myanimelist.net/images/anime/1694/120347.jpg"
   },
   {
     "title": "Ginga Tetsudou no Yoru: Fantasy Railroad in the Stars",
@@ -19319,7 +19437,7 @@
       "mystery"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/81092.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/81092.jpg"
   },
   {
     "title": "Glass Eye",
@@ -19420,7 +19538,7 @@
       "war"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/77289.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/77289.jpg"
   },
   {
     "title": "Gleipnir",
@@ -19623,31 +19741,9 @@
   },
   {
     "title": "Gnosia",
-    "episodes": 0,
-    "type": "TV",
-    "status": "FINISHED",
-    "tags": [
-      "aliens",
-      "amnesia",
-      "detective",
-      "drama",
-      "fan service",
-      "mystery",
-      "psychological",
-      "science fiction",
-      "space",
-      "survival game",
-      "technology",
-      "thriller"
-    ],
-    "year": 2025,
-    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34103-2382943983.1760527559.jpg"
-  },
-  {
-    "title": "Gnosia",
     "episodes": 21,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "achromatic",
       "agender",
@@ -19664,12 +19760,15 @@
       "clone",
       "cosmic horror",
       "death game",
+      "detective",
       "drama",
       "ensemble cast",
+      "fan service",
       "game",
       "gender bending",
       "ghost",
       "gods",
+      "gyaru",
       "heterosexual",
       "japanese production",
       "lgbtq+ themes",
@@ -19689,14 +19788,16 @@
       "struggle to survive",
       "suicide",
       "survival",
+      "survival game",
       "suspense",
+      "technology",
       "thriller",
       "time loop",
       "time travel",
       "visual novel"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1257/152352.jpg"
+    "picture": "https://myanimelist.net/images/anime/1257/152352.jpg"
   },
   {
     "title": "Godzilla: S.P",
@@ -19734,7 +19835,7 @@
       "urban"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1447/114837.jpg"
+    "picture": "https://myanimelist.net/images/anime/1447/114837.jpg"
   },
   {
     "title": "Gokukoku no Brynhildr",
@@ -19987,7 +20088,7 @@
       "winter"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1145/90880.jpg"
+    "picture": "https://myanimelist.net/images/anime/1145/90880.jpg"
   },
   {
     "title": "Golden Kamuy 2nd Season",
@@ -20284,43 +20385,67 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1855/128059.jpg"
   },
   {
-    "title": "Golden Kamuy Final Season",
-    "episodes": 0,
+    "title": "Golden Kamuy: Saishuushou",
+    "episodes": 13,
     "type": "TV",
     "status": "FINISHED",
     "tags": [
       "action",
+      "adult cast",
+      "adventure",
       "ainu",
+      "archery",
+      "based on a manga",
       "chases",
+      "coastal",
       "comedy",
       "conspiracy",
       "culture clash",
       "dark comedy",
       "drama",
+      "ensemble cast",
       "factions",
+      "female protagonist",
+      "fugitive",
       "gore",
       "gunplay",
+      "guns",
+      "hero of strong character",
       "historical",
+      "hokkaido",
       "idealism",
+      "indigenous cultures",
+      "japan",
+      "japanese production",
+      "male protagonist",
       "meiji era",
       "military",
       "moral dilemma",
       "mystery",
+      "primarily adult cast",
       "psychological",
       "revenge",
+      "rural",
+      "seinen",
+      "sequel",
       "shinsengumi",
       "spiritualism",
+      "stoic heroine",
+      "swords & co",
       "thriller",
       "torture",
       "tragedy",
+      "trains",
       "trauma",
+      "treasure hunters",
       "treasure hunting",
+      "urban",
       "war",
       "western",
       "wilderness"
     ],
     "year": 2026,
-    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37046-1012401904.1767411011.jpg"
+    "picture": "https://myanimelist.net/images/anime/1288/154763.jpg"
   },
   {
     "title": "Golden Kamuy: Sapporo Beer Koujou-hen",
@@ -20379,7 +20504,7 @@
       "mythology"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1167/155635.jpg"
+    "picture": "https://myanimelist.net/images/anime/1167/155635.jpg"
   },
   {
     "title": "Gosenzo Sane",
@@ -20691,7 +20816,7 @@
       "work"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1418/107954.jpg"
+    "picture": "https://myanimelist.net/images/anime/1418/107954.jpg"
   },
   {
     "title": "Great Pretender: Razbliuto",
@@ -21254,7 +21379,7 @@
       "workplace"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/1475/98000.jpg"
+    "picture": "https://myanimelist.net/images/anime/1475/98000.jpg"
   },
   {
     "title": "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari!",
@@ -21444,7 +21569,7 @@
       "zombies"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/31905.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/31905.jpg"
   },
   {
     "title": "GYO: Tokyo Fish Attack",
@@ -21535,7 +21660,7 @@
       "winter"
     ],
     "year": 2002,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/13134.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/13134.jpg"
   },
   {
     "title": "Hakata Tonkotsu Ramens",
@@ -21815,7 +21940,7 @@
       "superpowers"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/72302.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/72302.jpg"
   },
   {
     "title": "hamikuma tanjou hiwa",
@@ -21826,7 +21951,7 @@
       "mystery"
     ],
     "year": 2025,
-    "picture": "https://raw.githubusercontent.com/manami-project/anime-offline-database/master/pics/no_pic.png"
+    "picture": "https://myanimelist.net/images/qm_50.gif"
   },
   {
     "title": "Hana to Alice: Satsujin Jiken",
@@ -22151,7 +22276,7 @@
       "yuri"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/76993.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/76993.jpg"
   },
   {
     "title": "HaruChika: Haruta to Chika wa Seishun suru",
@@ -22280,7 +22405,7 @@
       "zettai ryouiki"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/1783/98630.jpg"
+    "picture": "https://myanimelist.net/images/anime/1783/98630.jpg"
   },
   {
     "title": "Hayate no Gotoku! Heaven Is a Place on Earth",
@@ -22405,7 +22530,7 @@
       "ships"
     ],
     "year": 1984,
-    "picture": "https://cdn.myanimelist.net/images/anime/1459/154796.jpg"
+    "picture": "https://myanimelist.net/images/anime/1459/154796.jpg"
   },
   {
     "title": "Hei Mao Jing Zhang (1992)",
@@ -22764,7 +22889,7 @@
       "drama",
       "japanese production",
       "mystery",
-      "netflix original",
+      "only on netflix",
       "original work",
       "police",
       "policeman",
@@ -22778,7 +22903,7 @@
       "supernatural drama"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1960/102191.jpg"
+    "picture": "https://myanimelist.net/images/anime/1960/102191.jpg"
   },
   {
     "title": "Heugjangmi Buinui Munbanggu",
@@ -23387,7 +23512,7 @@
       "yuri"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1716/111533.jpg"
+    "picture": "https://myanimelist.net/images/anime/1716/111533.jpg"
   },
   {
     "title": "Higurashi no Naku Koro ni Kai",
@@ -23574,7 +23699,7 @@
       "visual novel"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/29774.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/29774.jpg"
   },
   {
     "title": "Higurashi no Naku Koro ni Rei",
@@ -23774,7 +23899,7 @@
       "thriller"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/1492/118476.jpg"
+    "picture": "https://myanimelist.net/images/anime/1492/118476.jpg"
   },
   {
     "title": "Hikari no Ou",
@@ -23928,7 +24053,7 @@
       "underwater"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/49131.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/49131.jpg"
   },
   {
     "title": "Hikaru ga Shinda Natsu",
@@ -24448,7 +24573,7 @@
       "romance"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/1960/108022.jpg"
+    "picture": "https://myanimelist.net/images/anime/1960/108022.jpg"
   },
   {
     "title": "Hua Jianghu: Huan Shi Men Sheng 2nd Season",
@@ -24472,7 +24597,7 @@
       "sequel"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1037/114889.jpg"
+    "picture": "https://myanimelist.net/images/anime/1037/114889.jpg"
   },
   {
     "title": "Huang Yan",
@@ -24581,7 +24706,7 @@
       "twisted story"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/1545/104045.jpg"
+    "picture": "https://myanimelist.net/images/anime/1545/104045.jpg"
   },
   {
     "title": "Hyouka",
@@ -25008,7 +25133,7 @@
       "tsundere"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/1691/133569.jpg"
+    "picture": "https://myanimelist.net/images/anime/1691/133569.jpg"
   },
   {
     "title": "Ikebukuro West Gate Park",
@@ -25099,7 +25224,7 @@
       "tragedy"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/1004/96669.jpg"
+    "picture": "https://myanimelist.net/images/anime/1004/96669.jpg"
   },
   {
     "title": "In/Spectre",
@@ -25244,6 +25369,7 @@
       "primarily male cast",
       "psychological",
       "psychological drama",
+      "religion",
       "remastered version available",
       "robot",
       "robotics",
@@ -25370,7 +25496,7 @@
       "visual novel"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/75602.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/75602.jpg"
   },
   {
     "title": "Intrigue in the Bakumatsu - Irohanihoheto",
@@ -25512,7 +25638,7 @@
       "youkai"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/41927.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/41927.jpg"
   },
   {
     "title": "Isekai Shokudou",
@@ -25732,7 +25858,7 @@
       "workplace"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1777/117885.jpg"
+    "picture": "https://myanimelist.net/images/anime/1777/117885.jpg"
   },
   {
     "title": "Island",
@@ -25819,7 +25945,7 @@
       "winter"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1951/95080.jpg"
+    "picture": "https://myanimelist.net/images/anime/1951/95080.jpg"
   },
   {
     "title": "Itadakinosaki",
@@ -25972,7 +26098,7 @@
       "josei",
       "monster girl",
       "mystery",
-      "netflix original",
+      "only on netflix",
       "photography",
       "psychological",
       "religion",
@@ -25986,7 +26112,7 @@
       "violence"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1956/132879.jpg"
+    "picture": "https://myanimelist.net/images/anime/1956/132879.jpg"
   },
   {
     "title": "Jibaku Shounen Hanako-kun",
@@ -26073,7 +26199,7 @@
       "youkai"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1050/111687.jpg"
+    "picture": "https://myanimelist.net/images/anime/1050/111687.jpg"
   },
   {
     "title": "Jibaku Shounen Hanako-kun 2",
@@ -26350,7 +26476,7 @@
       "youkai"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/86975.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/86975.jpg"
   },
   {
     "title": "Jigoku Shoujo Mitsuganae",
@@ -26488,7 +26614,7 @@
       "youkai"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/1110/92117.jpg"
+    "picture": "https://myanimelist.net/images/anime/1110/92117.jpg"
   },
   {
     "title": "Jigokuraku",
@@ -26579,7 +26705,7 @@
     "title": "Jigokuraku 2nd Season",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "action drama",
@@ -26601,7 +26727,6 @@
       "historical",
       "island",
       "japanese production",
-      "lgbtq+ themes",
       "mystery",
       "ninja",
       "nudity",
@@ -26617,10 +26742,11 @@
       "swordplay",
       "swords & co",
       "tragedy",
-      "violence"
+      "violence",
+      "yandere"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1772/154456.jpg"
+    "picture": "https://myanimelist.net/images/anime/1772/154456.jpg"
   },
   {
     "title": "Jikuu Tantei Genshi-kun",
@@ -27050,7 +27176,7 @@
       "world wars"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/77523.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/77523.jpg"
   },
   {
     "title": "Joker Game: Kuroneko Yoru no Bouken",
@@ -27205,7 +27331,7 @@
       "romance"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1907/143182.jpg"
+    "picture": "https://myanimelist.net/images/anime/1646/155848.jpg"
   },
   {
     "title": "Jujutsu Kaisen",
@@ -27512,38 +27638,72 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1792/138022.jpg"
   },
   {
-    "title": "Jujutsu Kaisen Season 3: The Culling Game Part 1",
-    "episodes": 7,
+    "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
+    "episodes": 12,
     "type": "TV",
     "status": "FINISHED",
     "tags": [
       "action",
+      "angst",
+      "based on a manga",
+      "battle royale",
+      "bisexual",
+      "body sharing",
       "comedy",
+      "contemporary fantasy",
+      "curse",
       "curses",
       "dark fantasy",
+      "death game",
+      "demon",
       "demons",
       "drama",
+      "ensemble cast",
       "exorcism",
+      "exorcists",
       "factions",
+      "fantasy",
+      "gambling",
       "gore",
       "horror",
+      "japan",
+      "japanese production",
+      "magic",
+      "male protagonist",
       "martial arts",
+      "monster",
       "monsters",
       "mystery",
+      "nudity",
+      "philosophy",
+      "present",
+      "primarily male cast",
+      "primarily teen cast",
       "psychological",
+      "rotoscoping",
       "school",
+      "sequel",
+      "shounen",
       "sorcery",
       "spirits",
+      "super power",
       "supernatural",
       "superpowers",
+      "surreal comedy",
+      "survival",
+      "swordplay",
+      "swords & co",
       "thriller",
       "tournament",
       "tragedy",
       "transformations",
-      "urban fantasy"
+      "transgender",
+      "urban",
+      "urban fantasy",
+      "violence"
     ],
     "year": 2026,
-    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A31174-1004375785.1770168022.jpg"
+    "picture": "https://myanimelist.net/images/anime/1659/154920.jpg"
   },
   {
     "title": "Jungle Taxi",
@@ -27653,7 +27813,7 @@
       "zettai ryouiki"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/14079.jpg"
+    "picture": "https://myanimelist.net/images/anime/1355/115472.jpg"
   },
   {
     "title": "K",
@@ -28010,7 +28170,7 @@
       "urban"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1657/111622.jpg"
+    "picture": "https://myanimelist.net/images/anime/1657/111622.jpg"
   },
   {
     "title": "Kabukichou Sherlock OVA",
@@ -28038,7 +28198,7 @@
       "urban"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1456/108076.jpg"
+    "picture": "https://myanimelist.net/images/anime/1456/108076.jpg"
   },
   {
     "title": "Kaette Kite yoo Toyama kara",
@@ -28138,7 +28298,7 @@
       "video games"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1954/129158.jpg"
+    "picture": "https://myanimelist.net/images/anime/1954/129158.jpg"
   },
   {
     "title": "Kagami no Kojou no Mae to Ato",
@@ -28226,7 +28386,7 @@
       "urban fantasy"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/76060.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/76060.jpg"
   },
   {
     "title": "Kagewani: Shou",
@@ -28445,7 +28605,7 @@
       "youkai"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/17905.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/17905.jpg"
   },
   {
     "title": "Kaii to Otome to Kamikakushi",
@@ -28556,6 +28716,7 @@
       "ocean",
       "philosophy",
       "place",
+      "present",
       "primarily child cast",
       "school",
       "season",
@@ -28649,7 +28810,7 @@
       "strategy game"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/85063.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/85063.jpg"
   },
   {
     "title": "Kaitou Joker",
@@ -28701,7 +28862,7 @@
       "thieves"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/72812.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/72812.jpg"
   },
   {
     "title": "Kaitou Joker 3rd Season",
@@ -28755,7 +28916,7 @@
       "travel"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/1702/154029.jpg"
+    "picture": "https://myanimelist.net/images/anime/1702/154029.jpg"
   },
   {
     "title": "Kaitou Lupin: 813 no Nazo",
@@ -28774,7 +28935,7 @@
       "thieves"
     ],
     "year": 1979,
-    "picture": "https://cdn.myanimelist.net/images/anime/1759/148685.jpg"
+    "picture": "https://myanimelist.net/images/anime/1759/148685.jpg"
   },
   {
     "title": "Kaitou Queen no Yuuga na Vacances",
@@ -29037,7 +29198,7 @@
       "time"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1851/124275.jpg"
+    "picture": "https://myanimelist.net/images/anime/1851/124275.jpg"
   },
   {
     "title": "Kakegurui××",
@@ -29076,8 +29237,8 @@
       "manga",
       "mind games",
       "mystery",
-      "netflix original",
       "ojou-sama",
+      "only on netflix",
       "place",
       "present",
       "primarily female cast",
@@ -29205,7 +29366,7 @@
       "mystery"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1218/143537.jpg"
+    "picture": "https://myanimelist.net/images/anime/1218/143537.jpg"
   },
   {
     "title": "Kamiarizuki no Kodomo",
@@ -29244,7 +29405,7 @@
       "youkai"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1395/117591.jpg"
+    "picture": "https://myanimelist.net/images/anime/1395/117591.jpg"
   },
   {
     "title": "Kamierabi",
@@ -29345,7 +29506,7 @@
       "urban fantasy"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1475/145570.jpg"
+    "picture": "https://myanimelist.net/images/anime/1475/145570.jpg"
   },
   {
     "title": "Kamikaze Kaitou Jeanne",
@@ -29634,7 +29795,7 @@
       "supernatural drama"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/59029.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/59029.jpg"
   },
   {
     "title": "Kamisama no Memochou",
@@ -29770,7 +29931,6 @@
       "adventure",
       "amnesia",
       "based on a manga",
-      "boys' love",
       "canon filler",
       "comedy",
       "conspiracy",
@@ -29802,7 +29962,7 @@
       "work"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1799/137123.jpg"
+    "picture": "https://myanimelist.net/images/anime/1799/137123.jpg"
   },
   {
     "title": "Kamonohashi Ron no Kindan Suiri 2nd Season",
@@ -29844,7 +30004,7 @@
       "work"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1917/144334.jpg"
+    "picture": "https://myanimelist.net/images/anime/1917/144334.jpg"
   },
   {
     "title": "Kan Saete Kuyashii wa",
@@ -30270,7 +30430,7 @@
       "urban fantasy"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/21736.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/21736.jpg"
   },
   {
     "title": "Kara no Kyoukai Movie 5: Mujun Rasen",
@@ -30358,7 +30518,7 @@
       "urban fantasy"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/21739.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/21739.jpg"
   },
   {
     "title": "Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go)",
@@ -30610,7 +30770,7 @@
       "twisted story"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/37361.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/37361.jpg"
   },
   {
     "title": "Karadasagashi",
@@ -30826,7 +30986,7 @@
       "slice of life"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/26411.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/26411.jpg"
   },
   {
     "title": "Karmachakra : Episode Zero",
@@ -30857,6 +31017,7 @@
       "circus",
       "comedy",
       "conspiracy",
+      "cute boys doing cute things",
       "drama",
       "fantasy",
       "friendship",
@@ -31039,7 +31200,7 @@
       "under one roof"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1430/102439.jpg"
+    "picture": "https://myanimelist.net/images/anime/1430/102439.jpg"
   },
   {
     "title": "Kaze no Na wa Amnesia",
@@ -31352,7 +31513,7 @@
       "youkai"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1258/108331.jpg"
+    "picture": "https://myanimelist.net/images/anime/1258/108331.jpg"
   },
   {
     "title": "Kiddy Grade",
@@ -31833,6 +31994,7 @@
       "superpowers",
       "swordplay",
       "swords & co",
+      "taisho era",
       "taishou era",
       "taishou period",
       "teamwork",
@@ -31936,7 +32098,7 @@
       "weekly shounen jump"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1065/118763.jpg"
+    "picture": "https://myanimelist.net/images/anime/1065/118763.jpg"
   },
   {
     "title": "Kindaichi Shounen no Jikenbo",
@@ -32054,7 +32216,7 @@
       "violent retribution for accidental infringement"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/25372.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/25372.jpg"
   },
   {
     "title": "Kindaichi Shounen no Jikenbo Movie 2: Satsuriku no Deep Blue",
@@ -32159,7 +32321,7 @@
       "shounen"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/75726.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/75726.jpg"
   },
   {
     "title": "Kindaichi Shounen no Jikenbo Returns 2nd Season: Akechi Keibu no Jikenbo",
@@ -32248,7 +32410,7 @@
       "thriller"
     ],
     "year": 1997,
-    "picture": "https://cdn.myanimelist.net/images/anime/1256/92959.jpg"
+    "picture": "https://myanimelist.net/images/anime/1256/92959.jpg"
   },
   {
     "title": "Kindaichi Shōnen no Jikenbo: Kyūketsuki Densetsu Satsujin Jiken",
@@ -32665,7 +32827,7 @@
       "vampires"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/1981/112812.jpg"
+    "picture": "https://myanimelist.net/images/anime/1981/112812.jpg"
   },
   {
     "title": "Kizumonogatari III: Reiketsu-hen",
@@ -32825,7 +32987,7 @@
       "urban"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/58875.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/58875.jpg"
   },
   {
     "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo The Movie 2: UFO Shuurai! Tornado Daisakusen!!",
@@ -32874,7 +33036,7 @@
       "shounen"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/81543.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/81543.jpg"
   },
   {
     "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo: The Final - Ryoutsu Kankichi Saigo no Hi",
@@ -32895,7 +33057,7 @@
       "weekly shounen jump"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/80486.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/80486.jpg"
   },
   {
     "title": "Koi to Producer: EVOLxLOVE",
@@ -32944,7 +33106,7 @@
       "work life"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1623/111517.jpg"
+    "picture": "https://myanimelist.net/images/anime/1623/111517.jpg"
   },
   {
     "title": "Kokkoku",
@@ -33327,7 +33489,7 @@
       "yandere"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1485/119329.jpg"
+    "picture": "https://myanimelist.net/images/anime/1485/119329.jpg"
   },
   {
     "title": "Koroshiya-san",
@@ -33720,7 +33882,7 @@
       "urban"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/56607.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/56607.jpg"
   },
   {
     "title": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:4 Ghost Stands Alone",
@@ -33753,7 +33915,7 @@
       "urban"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/1948/140411.jpg"
+    "picture": "https://myanimelist.net/images/anime/1948/140411.jpg"
   },
   {
     "title": "Koukaku Kidoutai: Ghost Chaser",
@@ -33787,6 +33949,7 @@
       "artificial intelligence",
       "based on a manga",
       "bionic powers",
+      "cars",
       "cg animation",
       "cg-anime",
       "cgi",
@@ -33818,8 +33981,8 @@
       "mecha",
       "military",
       "mystery",
-      "netflix original",
       "nudity",
+      "only on netflix",
       "orphan",
       "philosophy",
       "place",
@@ -33860,7 +34023,7 @@
       "war"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1213/106702.jpg"
+    "picture": "https://myanimelist.net/images/anime/1213/106702.jpg"
   },
   {
     "title": "Koukaku Kidoutai: SAC_2045 - Jizoku Kanou Sensou",
@@ -33904,6 +34067,7 @@
       "recap",
       "robots",
       "robots & android",
+      "school",
       "sci fi",
       "sci-fi",
       "science fiction",
@@ -34016,7 +34180,7 @@
       "urban"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1591/121960.jpg"
+    "picture": "https://myanimelist.net/images/anime/1591/121960.jpg"
   },
   {
     "title": "Koukaku Kidoutai: Shin Movie",
@@ -34087,7 +34251,6 @@
       "award winning",
       "based on a manga",
       "bionic powers",
-      "bisexual",
       "body swapping",
       "car chases",
       "cgi",
@@ -34273,7 +34436,7 @@
       "seinen"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/1621/149612.jpg"
+    "picture": "https://myanimelist.net/images/anime/1621/149612.jpg"
   },
   {
     "title": "Koukaku Kidoutai: Stand Alone Complex - The Laughing Man",
@@ -34441,7 +34604,7 @@
       "war"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/1646/135390.jpg"
+    "picture": "https://myanimelist.net/images/anime/1646/135390.jpg"
   },
   {
     "title": "Koukyuu no Karasu",
@@ -34986,7 +35149,7 @@
       "work"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1885/141679.jpg"
+    "picture": "https://myanimelist.net/images/anime/1885/141679.jpg"
   },
   {
     "title": "Kurayukaba Pilot",
@@ -35189,7 +35352,7 @@
       "violence"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/1467/137783.jpg"
+    "picture": "https://myanimelist.net/images/anime/1467/137783.jpg"
   },
   {
     "title": "Kuroshitsuji II",
@@ -35355,7 +35518,7 @@
       "zombies"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/85792.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/85792.jpg"
   },
   {
     "title": "Kuroshitsuji Recap",
@@ -35394,7 +35557,7 @@
       "victorian era"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/1056/152890.jpg"
+    "picture": "https://myanimelist.net/images/anime/1056/152890.jpg"
   },
   {
     "title": "Kuroshitsuji: Book of Circus",
@@ -35522,7 +35685,7 @@
       "zombie"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/74392.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/74392.jpg"
   },
   {
     "title": "Kuroshitsuji: Kishuku Gakkou-hen",
@@ -35655,7 +35818,7 @@
       "witch"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1517/148292.jpg"
+    "picture": "https://myanimelist.net/images/anime/1517/148292.jpg"
   },
   {
     "title": "Kusunoki no Bannin",
@@ -35671,7 +35834,7 @@
       "supernatural"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1825/153668.jpg"
+    "picture": "https://myanimelist.net/images/anime/1825/153668.jpg"
   },
   {
     "title": "Kusuriya no Hitorigoto",
@@ -35927,7 +36090,7 @@
       "wilderness"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1808/116867.jpg"
+    "picture": "https://myanimelist.net/images/anime/1808/116867.jpg"
   },
   {
     "title": "Kyochuu Rettou Movie",
@@ -36231,7 +36394,7 @@
       "visual novel"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/1030/154345.jpg"
+    "picture": "https://myanimelist.net/images/anime/1030/154345.jpg"
   },
   {
     "title": "Kyoshin to Hyouka no Shiro",
@@ -36631,7 +36794,7 @@
       "police"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/72038.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/72038.jpg"
   },
   {
     "title": "Landreaall",
@@ -36810,6 +36973,7 @@
       "secret agent",
       "secret organization",
       "seinen",
+      "shounen",
       "suspense",
       "technology",
       "thriller",
@@ -37047,7 +37211,7 @@
       "super deformed"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1865/135975.jpg"
+    "picture": "https://myanimelist.net/images/anime/1865/135975.jpg"
   },
   {
     "title": "Li Shi Zhentan Shiwusuo: A Day in Lungmen - Liang Xiaoshi Jiaqi",
@@ -37180,7 +37344,7 @@
       "tragedy"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1916/114704.jpg"
+    "picture": "https://myanimelist.net/images/anime/1916/114704.jpg"
   },
   {
     "title": "Ling Long: Incarnation Middle Chapter",
@@ -37370,6 +37534,7 @@
       "contemporary fantasy",
       "crime fiction",
       "death",
+      "desert",
       "detective",
       "dialogue driven",
       "drama",
@@ -37384,11 +37549,14 @@
       "following one's dream",
       "foreign",
       "ghost",
+      "guns",
       "japanese production",
       "london",
       "magic",
       "magic school",
+      "maids",
       "male protagonist",
+      "motorcycles",
       "murder",
       "mutilation",
       "mystery",
@@ -37426,7 +37594,7 @@
       "werewolf"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1107/111530.jpg"
+    "picture": "https://myanimelist.net/images/anime/1107/111530.jpg"
   },
   {
     "title": "Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi",
@@ -37606,7 +37774,7 @@
       "sci-fi"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/27874.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/27874.jpg"
   },
   {
     "title": "Loups=Garous - The Motion Picture",
@@ -37747,7 +37915,7 @@
       "yuri"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/22947.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/22947.jpg"
   },
   {
     "title": "Luger Code 1951",
@@ -37954,7 +38122,7 @@
       "thieves"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1326/131658.jpg"
+    "picture": "https://myanimelist.net/images/anime/1326/131658.jpg"
   },
   {
     "title": "Lupin III vs. Meitantei Conan",
@@ -38173,7 +38341,7 @@
       "violence"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/1143/134195.jpg"
+    "picture": "https://myanimelist.net/images/anime/1143/134195.jpg"
   },
   {
     "title": "Lupin III: Babylon no Ougon Densetsu",
@@ -38358,7 +38526,7 @@
       "time"
     ],
     "year": 1979,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/26182.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/26182.jpg"
   },
   {
     "title": "Lupin III: Dead or Alive",
@@ -38768,7 +38936,7 @@
       "thieves"
     ],
     "year": 2002,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/27617.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/27617.jpg"
   },
   {
     "title": "Lupin III: Kiri no Elusive",
@@ -38804,7 +38972,7 @@
       "time travel"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/34793.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/34793.jpg"
   },
   {
     "title": "Lupin III: Kutabare! Nostradamus",
@@ -39066,7 +39234,7 @@
       "violence"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/27610.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/27610.jpg"
   },
   {
     "title": "Lupin III: Otakara Henkyaku Daisakusen!!",
@@ -39118,7 +39286,7 @@
       "violence"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/1688/146710.jpg"
+    "picture": "https://myanimelist.net/images/anime/1688/146710.jpg"
   },
   {
     "title": "Lupin III: Part 5",
@@ -39193,7 +39361,7 @@
       "war"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1235/91028.jpg"
+    "picture": "https://myanimelist.net/images/anime/1235/91028.jpg"
   },
   {
     "title": "Lupin III: Part 6",
@@ -39455,7 +39623,7 @@
       "thief"
     ],
     "year": 1978,
-    "picture": "https://cdn.myanimelist.net/images/anime/1185/130917.jpg"
+    "picture": "https://myanimelist.net/images/anime/1185/130917.jpg"
   },
   {
     "title": "Lupin III: Prison of the Past",
@@ -39518,7 +39686,7 @@
       "wordplay"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1534/105213.jpg"
+    "picture": "https://myanimelist.net/images/anime/1534/105213.jpg"
   },
   {
     "title": "Lupin III: Russia yori Ai wo Komete",
@@ -39672,7 +39840,7 @@
       "united states"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/27604.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/27604.jpg"
   },
   {
     "title": "Lupin III: The First",
@@ -39739,7 +39907,7 @@
       "tropes"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1572/108506.jpg"
+    "picture": "https://myanimelist.net/images/anime/1572/108506.jpg"
   },
   {
     "title": "Lupin III: Touhou Kenbunroku - Another Page",
@@ -39843,7 +40011,7 @@
       "time"
     ],
     "year": 1997,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/72201.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/72201.jpg"
   },
   {
     "title": "Lupin tai Holmes",
@@ -39870,7 +40038,7 @@
       "thieves"
     ],
     "year": 1981,
-    "picture": "https://cdn.myanimelist.net/images/anime/1412/139527.jpg"
+    "picture": "https://myanimelist.net/images/anime/1412/139527.jpg"
   },
   {
     "title": "Lupin the IIIrd the Movie: Fujimi no Ketsuzoku",
@@ -39911,7 +40079,7 @@
       "supernatural"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1374/149826.jpg"
+    "picture": "https://myanimelist.net/images/anime/1374/149826.jpg"
   },
   {
     "title": "Lupin the IIIrd: Zenigata to Futari no Lupin",
@@ -39926,9 +40094,11 @@
       "assassins",
       "based on a manga",
       "comedy",
+      "conspiracy",
       "detective",
       "detectives",
       "drama",
+      "foreign",
       "fugitive",
       "gore",
       "gunfights",
@@ -39944,7 +40114,7 @@
       "thieves"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1283/150650.jpg"
+    "picture": "https://myanimelist.net/images/anime/1283/150650.jpg"
   },
   {
     "title": "Lupin Zero",
@@ -40001,7 +40171,7 @@
       "space"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1127/142151.jpg"
+    "picture": "https://myanimelist.net/images/anime/1127/142151.jpg"
   },
   {
     "title": "Luv Wave",
@@ -40426,7 +40596,7 @@
       "travel"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1173/95167.jpg"
+    "picture": "https://myanimelist.net/images/anime/1173/95167.jpg"
   },
   {
     "title": "Made in Abyss Movie 2: Hourou Suru Tasogare",
@@ -40729,7 +40899,7 @@
       "slice of life"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1874/125099.jpg"
+    "picture": "https://myanimelist.net/images/anime/1874/125099.jpg"
   },
   {
     "title": "Madlax",
@@ -40798,7 +40968,7 @@
       "war-zone realities"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/57237.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/57237.jpg"
   },
   {
     "title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden",
@@ -40811,6 +40981,7 @@
       "alien",
       "alternate universe",
       "amnesia",
+      "angst",
       "artificial intelligence",
       "asia",
       "based on a mobile game",
@@ -40871,7 +41042,7 @@
       "witches"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1786/104783.jpg"
+    "picture": "https://myanimelist.net/images/anime/1786/104783.jpg"
   },
   {
     "title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd Season - Kakusei Zenya",
@@ -41029,7 +41200,7 @@
       "weekly shounen sunday"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/67807.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/67807.jpg"
   },
   {
     "title": "Mahou no Nai Sekai de Ikiru to Iu Koto",
@@ -41055,7 +41226,7 @@
       "tragedy"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1528/139501.jpg"
+    "picture": "https://myanimelist.net/images/anime/1528/139501.jpg"
   },
   {
     "title": "Mahou Shoujo Ai",
@@ -41147,7 +41318,7 @@
       "yuri"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/54231.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/54231.jpg"
   },
   {
     "title": "Mahou Shoujo-tai Arusu",
@@ -41477,7 +41648,7 @@
       "weekly shounen jump"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/20930.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/20930.jpg"
   },
   {
     "title": "Makai Ouji: Devils and Realist",
@@ -41536,7 +41707,7 @@
       "visible aura"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/49573.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/49573.jpg"
   },
   {
     "title": "Man on the Chair",
@@ -41640,7 +41811,7 @@
       "super deformed"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1743/150630.jpg"
+    "picture": "https://myanimelist.net/images/anime/1743/150630.jpg"
   },
   {
     "title": "Mari Iyagi",
@@ -41820,7 +41991,7 @@
       "work life"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/73931.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/73931.jpg"
   },
   {
     "title": "Master Keaton",
@@ -41931,7 +42102,7 @@
       "youkai"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/75300.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/75300.jpg"
   },
   {
     "title": "Mattaku Saikin no Tantei to Kitara",
@@ -42135,7 +42306,7 @@
       "yandere"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/30238.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/30238.jpg"
   },
   {
     "title": "Mayoiga",
@@ -42292,7 +42463,7 @@
       "youkai"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1321/104497.jpg"
+    "picture": "https://myanimelist.net/images/anime/1321/104497.jpg"
   },
   {
     "title": "Mayonaka no Occult Koumuin: Hitoribocchi no Kyuuketsuki/Sakura no Mori no Mankai no Shita",
@@ -42432,7 +42603,7 @@
       "war"
     ],
     "year": 1985,
-    "picture": "https://cdn.myanimelist.net/images/anime/1153/94528.jpg"
+    "picture": "https://myanimelist.net/images/anime/1153/94528.jpg"
   },
   {
     "title": "Megazone 23 Part II",
@@ -42682,11 +42853,11 @@
       "yakuza"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1538/140687.jpg"
+    "picture": "https://myanimelist.net/images/anime/1538/140687.jpg"
   },
   {
     "title": "Meitantei Conan",
-    "episodes": 1193,
+    "episodes": 1195,
     "type": "TV",
     "status": "ONGOING",
     "tags": [
@@ -42802,7 +42973,7 @@
       "work"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/75199.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/75199.jpg"
   },
   {
     "title": "Meitantei Conan Bonus File: Fantasista no Hana",
@@ -42833,7 +43004,7 @@
       "team sports"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/38385.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/38385.jpg"
   },
   {
     "title": "Meitantei Conan Episode \"ZERO\" Kudō Shinichi Suizokukan Jihen",
@@ -43588,7 +43759,7 @@
       "time"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1919/94322.jpg"
+    "picture": "https://myanimelist.net/images/anime/1919/94322.jpg"
   },
   {
     "title": "Meitantei Conan Movie 10: Tantei-tachi no Requiem Recap",
@@ -43605,7 +43776,7 @@
       "shounen"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/17584.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/17584.jpg"
   },
   {
     "title": "Meitantei Conan Movie 11: Konpeki no Jolly Roger",
@@ -43696,7 +43867,7 @@
       "time"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/22766.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/22766.jpg"
   },
   {
     "title": "Meitantei Conan Movie 13: Shikkoku no Chaser",
@@ -44037,7 +44208,7 @@
       "tomboy"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/60289.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/60289.jpg"
   },
   {
     "title": "Meitantei Conan Movie 19: Gouka no Himawari",
@@ -44146,7 +44317,7 @@
       "united kingdom"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/78894.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/78894.jpg"
   },
   {
     "title": "Meitantei Conan Movie 21: Karakurenai no Love Letter",
@@ -44370,7 +44541,7 @@
       "terrorism"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1744/120789.jpg"
+    "picture": "https://myanimelist.net/images/anime/1744/120789.jpg"
   },
   {
     "title": "Meitantei Conan Movie 26: Kurogane no Submarine",
@@ -44431,7 +44602,7 @@
       "thief"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1888/141209.jpg"
+    "picture": "https://myanimelist.net/images/anime/1888/141209.jpg"
   },
   {
     "title": "Meitantei Conan Movie 28: Sekigan no Flashback",
@@ -44468,7 +44639,7 @@
       "winter"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1036/148145.jpg"
+    "picture": "https://myanimelist.net/images/anime/1036/148145.jpg"
   },
   {
     "title": "Meitantei Conan OVA 01: Conan vs. Kid vs. Yaiba - Houtou Soudatsu Daikessen!!",
@@ -44518,7 +44689,7 @@
       "tropes"
     ],
     "year": 2000,
-    "picture": "https://cdn.myanimelist.net/images/anime/1699/108610.jpg"
+    "picture": "https://myanimelist.net/images/anime/1699/108610.jpg"
   },
   {
     "title": "Meitantei Conan OVA 02: 16-nin no Yougisha!?",
@@ -44612,7 +44783,7 @@
       "tropes"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/72319.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/72319.jpg"
   },
   {
     "title": "Meitantei Conan OVA 04: Conan to Kid to Crystal Mother",
@@ -44654,7 +44825,7 @@
       "tropes"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/31141.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/31141.jpg"
   },
   {
     "title": "Meitantei Conan OVA 05: Target wa Kogorou!! Shounen Tanteidan Maruhi Report",
@@ -44705,7 +44876,7 @@
       "tropes"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/31143.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/31143.jpg"
   },
   {
     "title": "Meitantei Conan OVA 06: Kieta Daiya wo Oe! Conan & Heiji VS Kid!",
@@ -44755,7 +44926,7 @@
       "tropes"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/31137.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/31137.jpg"
   },
   {
     "title": "Meitantei Conan OVA 07: Agasa kara no Chousenjou! Agasa vs Conan & Shounen Tanteidan",
@@ -44800,7 +44971,7 @@
       "tropes"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/31145.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/31145.jpg"
   },
   {
     "title": "Meitantei Conan OVA 08: Joshikousei Tantei Suzuki Sonoko no Jikenbo",
@@ -45050,7 +45221,7 @@
       "thief"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1411/140221.jpg"
+    "picture": "https://myanimelist.net/images/anime/1411/140221.jpg"
   },
   {
     "title": "Meitantei Conan vs. Wooo",
@@ -45221,7 +45392,7 @@
       "tropes"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/81968.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/81968.jpg"
   },
   {
     "title": "Meitantei Conan: Haibara Ai Monogatari - Kurogane no Mystery Train",
@@ -45400,7 +45571,7 @@
       "tragedy"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1039/140414.jpg"
+    "picture": "https://myanimelist.net/images/anime/1039/140414.jpg"
   },
   {
     "title": "Meitantei Conan: Kinga Shinnen Mouri Kogorou",
@@ -45527,7 +45698,7 @@
       "slice of life"
     ],
     "year": 2001,
-    "picture": "https://cdn.myanimelist.net/images/anime/1876/152181.jpg"
+    "picture": "https://myanimelist.net/images/anime/1876/152181.jpg"
   },
   {
     "title": "Meitantei Conan: Senkou no Payload",
@@ -45544,7 +45715,7 @@
       "suspense"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1164/151063.jpg"
+    "picture": "https://myanimelist.net/images/anime/1164/151063.jpg"
   },
   {
     "title": "Meitantei Conan: Shakunetsu no Ginga Tetsudou",
@@ -45583,7 +45754,7 @@
       "staff missing"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/1409/132067.jpg"
+    "picture": "https://myanimelist.net/images/anime/1409/132067.jpg"
   },
   {
     "title": "Meitantei Conan: Toubousha Mouri Kogorou",
@@ -45607,7 +45778,7 @@
       "shounen"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/1183/152900.jpg"
+    "picture": "https://myanimelist.net/images/anime/1183/152900.jpg"
   },
   {
     "title": "Meitantei Conan: Zero no Tea Time",
@@ -45672,7 +45843,7 @@
       "mystery"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1436/144829.jpg"
+    "picture": "https://myanimelist.net/images/anime/1436/144829.jpg"
   },
   {
     "title": "Meitantei Gordon",
@@ -45710,7 +45881,7 @@
       "slapstick"
     ],
     "year": 1993,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/84564.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/84564.jpg"
   },
   {
     "title": "Meitantei Holmes",
@@ -45882,7 +46053,7 @@
   },
   {
     "title": "Meitantei Precure!",
-    "episodes": 50,
+    "episodes": 51,
     "type": "TV",
     "status": "ONGOING",
     "tags": [
@@ -45891,6 +46062,7 @@
       "age regression",
       "animals",
       "anti-hero",
+      "coastal",
       "detective",
       "fairy",
       "fantasy",
@@ -45910,7 +46082,7 @@
       "urban fantasy"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1706/154944.jpg"
+    "picture": "https://myanimelist.net/images/anime/1706/154944.jpg"
   },
   {
     "title": "Meitantei Rascal",
@@ -46113,7 +46285,7 @@
       "work"
     ],
     "year": 1995,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/74781.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/74781.jpg"
   },
   {
     "title": "Memory",
@@ -46144,7 +46316,7 @@
       "time"
     ],
     "year": 1964,
-    "picture": "https://cdn.myanimelist.net/images/anime/1325/92613.jpg"
+    "picture": "https://myanimelist.net/images/anime/1325/92613.jpg"
   },
   {
     "title": "Meng Ta: Xue Mi Cheng",
@@ -46170,7 +46342,7 @@
       "supernatural"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1920/96262.jpg"
+    "picture": "https://myanimelist.net/images/anime/1920/96262.jpg"
   },
   {
     "title": "Mermaid",
@@ -46267,7 +46439,7 @@
       "violence"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1859/140210.jpg"
+    "picture": "https://myanimelist.net/images/anime/1859/140210.jpg"
   },
   {
     "title": "Metronome",
@@ -46369,7 +46541,7 @@
       "virtual world"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/3235.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/3235.jpg"
   },
   {
     "title": "Mi Bao Zhi Guo",
@@ -46435,7 +46607,7 @@
       "thriller"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1869/104422.jpg"
+    "picture": "https://myanimelist.net/images/anime/1869/104422.jpg"
   },
   {
     "title": "Midnight Eye: Gokuu",
@@ -46648,7 +46820,7 @@
       "violence"
     ],
     "year": 1983,
-    "picture": "https://cdn.myanimelist.net/images/anime/1619/112107.jpg"
+    "picture": "https://myanimelist.net/images/anime/1619/112107.jpg"
   },
   {
     "title": "Migi to Dali",
@@ -46702,7 +46874,7 @@
       "twins"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1845/134817.jpg"
+    "picture": "https://myanimelist.net/images/anime/1845/134817.jpg"
   },
   {
     "title": "Mikagura Tanteidan",
@@ -46723,7 +46895,7 @@
       "swords & co"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/1036/116041.jpg"
+    "picture": "https://myanimelist.net/images/anime/1036/116041.jpg"
   },
   {
     "title": "Mikeneko Holmes no Yuurei Joushu",
@@ -46837,6 +47009,7 @@
       "amnesia",
       "crime",
       "ensemble cast",
+      "lgbtq+ themes",
       "musical theater",
       "mystery",
       "philosophy",
@@ -46849,7 +47022,7 @@
   },
   {
     "title": "MILGЯAM",
-    "episodes": 33,
+    "episodes": 34,
     "type": "SPECIAL",
     "status": "ONGOING",
     "tags": [
@@ -46876,7 +47049,7 @@
       "tragedy"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1497/112023.jpg"
+    "picture": "https://myanimelist.net/images/anime/1497/112023.jpg"
   },
   {
     "title": "Mini Hama: Minimum Hamatora",
@@ -47108,7 +47281,7 @@
       "yandere"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/33465.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/33465.jpg"
   },
   {
     "title": "Mirai Nikki (TV): Ura Mirai Nikki",
@@ -47138,10 +47311,12 @@
     "type": "TV",
     "status": "FINISHED",
     "tags": [
+      "action",
       "based on a webtoon",
       "detective",
       "drama",
       "fantasy",
+      "gender bending",
       "isekai",
       "japanese production",
       "light anime",
@@ -47149,10 +47324,11 @@
       "reincarnation",
       "romance",
       "school life",
-      "short episodes"
+      "short episodes",
+      "supernatural drama"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1769/144658.jpg"
+    "picture": "https://myanimelist.net/images/anime/1769/144658.jpg"
   },
   {
     "title": "Mnemosyne: Mnemosyne no Musume-tachi",
@@ -47426,7 +47602,7 @@
       "zombies"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1634/116782.jpg"
+    "picture": "https://myanimelist.net/images/anime/1634/116782.jpg"
   },
   {
     "title": "Mo Dao Zu Shi: Xian Yun Pian",
@@ -47505,7 +47681,7 @@
       "zombies"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1404/106707.jpg"
+    "picture": "https://myanimelist.net/images/anime/1404/106707.jpg"
   },
   {
     "title": "Mo Tian Ji",
@@ -47527,7 +47703,7 @@
       "xianxia"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1564/150647.jpg"
+    "picture": "https://myanimelist.net/images/anime/1104/155251.jpg"
   },
   {
     "title": "Mokke",
@@ -47604,7 +47780,7 @@
       "youkai"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/19674.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/19674.jpg"
   },
   {
     "title": "Mokke Specials",
@@ -47685,7 +47861,7 @@
       "video games"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1107/143656.jpg"
+    "picture": "https://myanimelist.net/images/anime/1107/143656.jpg"
   },
   {
     "title": "Monkey Peak",
@@ -47712,7 +47888,7 @@
       "vertical video"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1654/95851.jpg"
+    "picture": "https://myanimelist.net/images/anime/1654/95851.jpg"
   },
   {
     "title": "Monochrome (2024)",
@@ -47752,6 +47928,7 @@
     "type": "ONA",
     "status": "FINISHED",
     "tags": [
+      "achronological order",
       "afterlife",
       "alternating animation style",
       "alternative past",
@@ -47778,6 +47955,7 @@
       "fantasy",
       "female protagonist",
       "fishing",
+      "ghost",
       "ghost stories",
       "god is a girl",
       "gods",
@@ -47792,6 +47970,7 @@
       "medieval",
       "medium awareness",
       "meta",
+      "monster girl",
       "mutilation",
       "mystery",
       "narration",
@@ -47821,6 +48000,7 @@
       "supernatural",
       "the arts",
       "time",
+      "travel",
       "tropes",
       "tv censoring",
       "undead",
@@ -48217,7 +48397,7 @@
       "zashiki-warashi"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/20713.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/20713.jpg"
   },
   {
     "title": "Mononoke Movie 1: Karakasa",
@@ -48233,6 +48413,7 @@
       "cosmic horror",
       "court politics",
       "demon",
+      "edo period",
       "exorcism",
       "exorcists",
       "fantasy",
@@ -48306,6 +48487,7 @@
       "original work",
       "politics",
       "pregnancy",
+      "primarily adult cast",
       "psychological",
       "psychological drama",
       "royal affairs",
@@ -48558,7 +48740,7 @@
       "world wars"
     ],
     "year": 1994,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/5303.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/5303.jpg"
   },
   {
     "title": "Mood Hall",
@@ -48588,13 +48770,19 @@
       "action",
       "action drama",
       "adventure",
+      "amnesia",
       "artificial intelligence",
+      "bionic powers",
       "cgi",
+      "conspiracy",
+      "cyberpunk",
+      "cyborg",
       "drama",
       "dystopia",
       "dystopian",
       "fantasy",
       "guns",
+      "hero of strong character",
       "japanese production",
       "love triangle",
       "male protagonist",
@@ -48605,13 +48793,14 @@
       "original work",
       "orphan",
       "outer space",
+      "prisoner",
       "rebellions",
       "robots",
+      "robots & android",
       "sci fi",
       "sci-fi",
       "science fiction",
       "science-fiction",
-      "shounen",
       "space",
       "time skip",
       "tragedy",
@@ -48723,7 +48912,7 @@
       "youkai"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/75492.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/75492.jpg"
   },
   {
     "title": "Mouryou no Hako: Chuuzenji Atsuko no Jikenbo - Hako no Yurei no Koto",
@@ -48746,7 +48935,7 @@
       "thriller"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/23740.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/23740.jpg"
   },
   {
     "title": "Mousou Dairinin",
@@ -48961,7 +49150,7 @@
       "swords & co"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/1772/154675.jpg"
+    "picture": "https://myanimelist.net/images/anime/1772/154675.jpg"
   },
   {
     "title": "Mu Wang Zhi Wang: Xuan Guan Si",
@@ -48985,7 +49174,7 @@
       "swords & co"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/1092/154677.jpg"
+    "picture": "https://myanimelist.net/images/anime/1092/154677.jpg"
   },
   {
     "title": "Mugen no Hi",
@@ -49097,7 +49286,7 @@
       "youkai"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1180/93407.jpg"
+    "picture": "https://myanimelist.net/images/anime/1180/93407.jpg"
   },
   {
     "title": "Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season",
@@ -49139,7 +49328,7 @@
       "youkai"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1962/108429.jpg"
+    "picture": "https://myanimelist.net/images/anime/1962/108429.jpg"
   },
   {
     "title": "Munou na Nana",
@@ -49206,7 +49395,7 @@
       "zombie"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1301/110433.jpg"
+    "picture": "https://myanimelist.net/images/anime/1301/110433.jpg"
   },
   {
     "title": "Murder",
@@ -49238,7 +49427,7 @@
       "vampire"
     ],
     "year": 1964,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/6634.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/6634.jpg"
   },
   {
     "title": "Murder Mystery of the Dead",
@@ -49579,7 +49768,7 @@
       "youkai"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/63539.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/63539.jpg"
   },
   {
     "title": "Mushishi Zoku Shou: Suzu no Shizuku",
@@ -49648,7 +49837,7 @@
       "youkai"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/72689.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/72689.jpg"
   },
   {
     "title": "Mushishi: Hihamukage",
@@ -49875,7 +50064,7 @@
       "violence"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/62657.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/62657.jpg"
   },
   {
     "title": "Naita Aka Oni",
@@ -49898,7 +50087,7 @@
       "supernatural"
     ],
     "year": 1964,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/80520.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/80520.jpg"
   },
   {
     "title": "Nakanohito Genome [Jikkyouchuu]",
@@ -49976,7 +50165,7 @@
       "mystery"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1498/139601.jpg"
+    "picture": "https://myanimelist.net/images/anime/1498/139601.jpg"
   },
   {
     "title": "Naruto: Shippuuden Movie 5 - Blood Prison",
@@ -50017,7 +50206,7 @@
       "violence"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/1500/134496.jpg"
+    "picture": "https://myanimelist.net/images/anime/1500/134496.jpg"
   },
   {
     "title": "Natsu e no Tunnel, Sayonara no Deguchi",
@@ -50087,6 +50276,7 @@
       "countryside",
       "curses",
       "cute boys doing cute things",
+      "deity",
       "demon",
       "drama",
       "episodic",
@@ -50321,7 +50511,7 @@
       "wrestling"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/81048.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/81048.jpg"
   },
   {
     "title": "Nekketsu Jinmen Inu: Life Is Movie",
@@ -50353,7 +50543,7 @@
       "work"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/67431.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/67431.jpg"
   },
   {
     "title": "Nekketsu Tantei Jimusho",
@@ -50540,7 +50730,7 @@
       "zombie"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1892/105231.jpg"
+    "picture": "https://myanimelist.net/images/anime/1126/155889.jpg"
   },
   {
     "title": "NieR:Automata Ver1.1a",
@@ -50889,7 +51079,7 @@
       "zombie"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/31985.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/31985.jpg"
   },
   {
     "title": "Nijuu Mensou no Musume",
@@ -51088,7 +51278,7 @@
       "world war ii"
     ],
     "year": 1993,
-    "picture": "https://cdn.myanimelist.net/images/anime/1738/129753.jpg"
+    "picture": "https://myanimelist.net/images/anime/1738/129753.jpg"
   },
   {
     "title": "Ningyo no Mori",
@@ -51483,7 +51673,7 @@
       "violence"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/1087/152978.jpg"
+    "picture": "https://myanimelist.net/images/anime/1087/152978.jpg"
   },
   {
     "title": "Noir",
@@ -51711,7 +51901,7 @@
       "supernatural drama"
     ],
     "year": 1987,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/44512.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/44512.jpg"
   },
   {
     "title": "Norn9: Norn+Nonet",
@@ -51801,7 +51991,7 @@
       "surreal comedy"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1885/106287.jpg"
+    "picture": "https://myanimelist.net/images/anime/1885/106287.jpg"
   },
   {
     "title": "Occultic;Nine",
@@ -52292,7 +52482,7 @@
       "vocal synth"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1372/155197.jpg"
+    "picture": "https://myanimelist.net/images/anime/1372/155197.jpg"
   },
   {
     "title": "Oni Keibu Anpan",
@@ -52329,7 +52519,7 @@
       "supernatural"
     ],
     "year": 1979,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/71582.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/71582.jpg"
   },
   {
     "title": "Onmyouji",
@@ -52356,6 +52546,7 @@
       "genius",
       "ghost",
       "ghost stories",
+      "heian period",
       "hero of strong character",
       "historical",
       "japanese mythology",
@@ -52378,7 +52569,7 @@
       "youkai"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1757/139317.jpg"
+    "picture": "https://myanimelist.net/images/anime/1757/139317.jpg"
   },
   {
     "title": "Ooedo Torimonochou: Nezumi Kozou",
@@ -52400,7 +52591,7 @@
       "sanrio characters"
     ],
     "year": 1989,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/70389.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/70389.jpg"
   },
   {
     "title": "Ookamikakushi",
@@ -52459,7 +52650,7 @@
       "wolves"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/21784.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/21784.jpg"
   },
   {
     "title": "Orange",
@@ -52544,7 +52735,7 @@
       "unrequited love"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/1415/102477.jpg"
+    "picture": "https://myanimelist.net/images/anime/1415/102477.jpg"
   },
   {
     "title": "Orange: Mirai",
@@ -52676,7 +52867,7 @@
       "sequel"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1485/107369.jpg"
+    "picture": "https://myanimelist.net/images/anime/1485/107369.jpg"
   },
   {
     "title": "Oshiri Tantei 3rd Season",
@@ -52720,7 +52911,7 @@
       "sequel"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1229/107371.jpg"
+    "picture": "https://myanimelist.net/images/anime/1229/107371.jpg"
   },
   {
     "title": "Oshiri Tantei 5th Season",
@@ -52742,7 +52933,7 @@
       "sequel"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1378/113506.jpg"
+    "picture": "https://myanimelist.net/images/anime/1378/113506.jpg"
   },
   {
     "title": "Oshiri Tantei 6th Season",
@@ -52894,7 +53085,7 @@
       "mystery"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1562/114522.jpg"
+    "picture": "https://myanimelist.net/images/anime/1562/114522.jpg"
   },
   {
     "title": "Oshiri Tantei Movie 4: Shiriarty",
@@ -53057,7 +53248,7 @@
       "violence"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1492/113860.jpg"
+    "picture": "https://myanimelist.net/images/anime/1492/113860.jpg"
   },
   {
     "title": "Otohime Connection",
@@ -53418,7 +53609,7 @@
       "vampire"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/88962.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/88962.jpg"
   },
   {
     "title": "Pandora Hearts",
@@ -53592,7 +53783,7 @@
       "unrequited love"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1929/93629.jpg"
+    "picture": "https://myanimelist.net/images/anime/1929/93629.jpg"
   },
   {
     "title": "Pastel Life",
@@ -53804,7 +53995,7 @@
       "urban fantasy"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/61681.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/61681.jpg"
   },
   {
     "title": "Persona 3 the Movie 3: Falling Down",
@@ -53848,7 +54039,7 @@
       "urban fantasy"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/72443.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/72443.jpg"
   },
   {
     "title": "Persona 3 the Movie 4: Winter of Rebirth",
@@ -54003,7 +54194,7 @@
       "tomboy"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/37787.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/37787.jpg"
   },
   {
     "title": "Persona 4 the Animation: The Factor of Hope",
@@ -54297,7 +54488,7 @@
       "vigilantes"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/81869.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/81869.jpg"
   },
   {
     "title": "Persona: Trinity Soul",
@@ -54636,7 +54827,7 @@
       "violent"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/34045.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/34045.jpg"
   },
   {
     "title": "Phi Brain: Kami no Puzzle - Orpheus Order-hen",
@@ -54869,7 +55060,7 @@
       "yandere"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1992/116576.jpg"
+    "picture": "https://myanimelist.net/images/anime/1992/116576.jpg"
   },
   {
     "title": "Plus-Sized Misadventures in Love",
@@ -55000,7 +55191,7 @@
   },
   {
     "title": "Pokemon (2023)",
-    "episodes": 131,
+    "episodes": 132,
     "type": "TV",
     "status": "ONGOING",
     "tags": [
@@ -55050,7 +55241,7 @@
       "travel"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1703/137216.jpg"
+    "picture": "https://myanimelist.net/images/anime/1703/137216.jpg"
   },
   {
     "title": "Pokemon Movie 01: Mewtwo no Gyakushuu",
@@ -55120,7 +55311,7 @@
       "violence"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/1513/140273.jpg"
+    "picture": "https://myanimelist.net/images/anime/1513/140273.jpg"
   },
   {
     "title": "Poo Down Hill Up",
@@ -55304,7 +55495,7 @@
       "yuri"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/86768.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/86768.jpg"
   },
   {
     "title": "Princess Principal Picture Drama",
@@ -55631,7 +55822,7 @@
       "urban"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1461/147981.jpg"
+    "picture": "https://myanimelist.net/images/anime/1461/147981.jpg"
   },
   {
     "title": "Princess Principal: Crown Handler 4 - Fabulous Platypus",
@@ -55648,7 +55839,7 @@
       "slice of life"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1928/155523.jpg"
+    "picture": "https://myanimelist.net/images/anime/1928/155523.jpg"
   },
   {
     "title": "Princess Resurrection",
@@ -55764,6 +55955,7 @@
       "shapeshifting",
       "short episodes",
       "shoujo",
+      "shounen",
       "speculative fiction",
       "star-crossed lovers",
       "storytelling",
@@ -55864,7 +56056,7 @@
       "short episodes"
     ],
     "year": 1995,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/66087.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/66087.jpg"
   },
   {
     "title": "Project ARMS",
@@ -55944,7 +56136,7 @@
       "weekly shounen sunday"
     ],
     "year": 2001,
-    "picture": "https://cdn.myanimelist.net/images/anime/1197/92994.jpg"
+    "picture": "https://myanimelist.net/images/anime/1197/92994.jpg"
   },
   {
     "title": "Project ARMS: The 2nd Chapter",
@@ -56251,7 +56443,7 @@
       "xenophobia"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/1197/100616.jpg"
+    "picture": "https://myanimelist.net/images/anime/1197/100616.jpg"
   },
   {
     "title": "Psycho-Pass 3",
@@ -56417,7 +56609,7 @@
       "thriller"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1244/134653.jpg"
+    "picture": "https://myanimelist.net/images/anime/1244/134653.jpg"
   },
   {
     "title": "Psycho-Pass: Sinners of the System",
@@ -56583,7 +56775,7 @@
       "violence"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1357/96879.jpg"
+    "picture": "https://myanimelist.net/images/anime/1357/96879.jpg"
   },
   {
     "title": "Psycho-Pass: Sinners of the System Case.3 - Onshuu no Kanata ni＿＿",
@@ -57204,7 +57396,7 @@
       "working life"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/18929.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/18929.jpg"
   },
   {
     "title": "RDG: Red Data Girl",
@@ -57625,7 +57817,7 @@
       "yandere"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1444/108005.jpg"
+    "picture": "https://myanimelist.net/images/anime/1444/108005.jpg"
   },
   {
     "title": "Re:␣Hamatora",
@@ -58147,7 +58339,7 @@
       "violence"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1884/131748.jpg"
+    "picture": "https://myanimelist.net/images/anime/1884/131748.jpg"
   },
   {
     "title": "Rewrite",
@@ -58307,7 +58499,7 @@
       "swordplay"
     ],
     "year": 1967,
-    "picture": "https://cdn.myanimelist.net/images/anime/1806/150475.jpg"
+    "picture": "https://myanimelist.net/images/anime/1806/150475.jpg"
   },
   {
     "title": "Rich Keikan Cash!",
@@ -58476,7 +58668,7 @@
       "travel"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/74374.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/74374.jpg"
   },
   {
     "title": "Rokka no Yuusha Picture Drama",
@@ -58609,7 +58801,7 @@
       "virtual world"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1081/115716.jpg"
+    "picture": "https://myanimelist.net/images/anime/1081/115716.jpg"
   },
   {
     "title": "Ryuugajou Nanana no Maizoukin",
@@ -58863,7 +59055,7 @@
       "tokugawa period"
     ],
     "year": 1968,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/84054.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/84054.jpg"
   },
   {
     "title": "Sabu to Ichi Torimono Hikae Pilot Film",
@@ -59120,7 +59312,7 @@
       "undead"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/1946/109012.jpg"
+    "picture": "https://myanimelist.net/images/anime/1946/109012.jpg"
   },
   {
     "title": "Saint October",
@@ -59160,7 +59352,7 @@
       "time"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/16246.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/16246.jpg"
   },
   {
     "title": "Saishuu Shiken Kujira",
@@ -59429,7 +59621,7 @@
       "supernatural"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/1249/127969.jpg"
+    "picture": "https://myanimelist.net/images/anime/1249/127969.jpg"
   },
   {
     "title": "Samuraider: Nazo no Tenkousei",
@@ -59548,7 +59740,8 @@
       "tragedy",
       "unrequited love",
       "urban fantasy",
-      "winter"
+      "winter",
+      "yuri"
     ],
     "year": 2025,
     "picture": "https://myanimelist.net/images/anime/1364/151767.jpg"
@@ -59881,7 +60074,7 @@
       "yandere"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1862/95624.jpg"
+    "picture": "https://myanimelist.net/images/anime/1862/95624.jpg"
   },
   {
     "title": "Sayokyoku",
@@ -59906,7 +60099,7 @@
       "stop motion"
     ],
     "year": 1985,
-    "picture": "https://cdn.myanimelist.net/images/anime/1041/107680.jpg"
+    "picture": "https://myanimelist.net/images/anime/1041/107680.jpg"
   },
   {
     "title": "Sayonara Zetsubou Sensei Special",
@@ -60085,7 +60278,7 @@
       "virtual world"
     ],
     "year": 1987,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/49239.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/49239.jpg"
   },
   {
     "title": "Scott Pilgrim Takes Off",
@@ -60252,7 +60445,7 @@
       "zombie"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/75257.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/75257.jpg"
   },
   {
     "title": "Seirei no Moribito",
@@ -60444,7 +60637,7 @@
       "winter"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1301/93586.jpg"
+    "picture": "https://myanimelist.net/images/anime/1301/93586.jpg"
   },
   {
     "title": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
@@ -60708,7 +60901,7 @@
       "zombie"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/1718/91550.jpg"
+    "picture": "https://myanimelist.net/images/anime/1718/91550.jpg"
   },
   {
     "title": "Shabake",
@@ -60861,7 +61054,7 @@
       "urban fantasy"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1634/124231.jpg"
+    "picture": "https://myanimelist.net/images/anime/1634/124231.jpg"
   },
   {
     "title": "Shan He She Ji Tu",
@@ -60912,7 +61105,7 @@
       "wuxia"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1712/153839.jpg"
+    "picture": "https://myanimelist.net/images/anime/1712/153839.jpg"
   },
   {
     "title": "Shaonian Ge Xing: Feng Hua Xue Yue Pian Part 1",
@@ -60998,7 +61191,7 @@
       "wuxia"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1492/125484.jpg"
+    "picture": "https://myanimelist.net/images/anime/1492/125484.jpg"
   },
   {
     "title": "Shaonian Ge Xing: Haiwai Xianshan Pian",
@@ -61048,7 +61241,7 @@
       "wuxia"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1465/149969.jpg"
+    "picture": "https://myanimelist.net/images/anime/1465/149969.jpg"
   },
   {
     "title": "Shaonian Jinyiwei",
@@ -61075,7 +61268,7 @@
       "supernatural drama"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/1125/90214.jpg"
+    "picture": "https://myanimelist.net/images/anime/1125/90214.jpg"
   },
   {
     "title": "Shaonian Jinyiwei 2nd Season",
@@ -61165,7 +61358,7 @@
       "supernatural"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/1781/125078.jpg"
+    "picture": "https://myanimelist.net/images/anime/1781/125078.jpg"
   },
   {
     "title": "Sherlock Holmes to Watson Hakase",
@@ -61210,18 +61403,21 @@
     "title": "Shibou Yuugi de Meshi wo Kuu.",
     "episodes": 11,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "achronological order",
       "action",
       "action drama",
       "amputation",
       "based on a light novel",
+      "battle royale",
       "body horror",
       "cgi",
+      "contemplation",
       "cosmic horror",
       "death game",
       "drama",
+      "dystopian",
       "fantasy",
       "female protagonist",
       "guns",
@@ -61233,7 +61429,9 @@
       "lgbtq+ themes",
       "maids",
       "mixed media",
+      "moral dilemma",
       "mystery",
+      "non-linear narrative",
       "novel",
       "ojou-sama",
       "philosophy",
@@ -61243,6 +61441,8 @@
       "psychological",
       "shounen",
       "suicide",
+      "surrealism",
+      "survival game",
       "suspense",
       "swords & co",
       "thriller",
@@ -61250,29 +61450,7 @@
       "yuri"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1834/151169.jpg"
-  },
-  {
-    "title": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
-    "episodes": 8,
-    "type": "TV",
-    "status": "FINISHED",
-    "tags": [
-      "action",
-      "contemplation",
-      "drama",
-      "dystopian",
-      "maids",
-      "moral dilemma",
-      "mystery",
-      "non-linear narrative",
-      "psychological",
-      "survival game",
-      "thriller",
-      "tragedy"
-    ],
-    "year": 2026,
-    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33452-2280255223.1767558454.jpg"
+    "picture": "https://myanimelist.net/images/anime/1834/151169.jpg"
   },
   {
     "title": "Shichisei no Subaru",
@@ -61321,7 +61499,7 @@
       "virtual world"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1956/94914.jpg"
+    "picture": "https://myanimelist.net/images/anime/1956/94914.jpg"
   },
   {
     "title": "Shiguang Dailiren",
@@ -61867,7 +62045,7 @@
       "violence"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/59221.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/59221.jpg"
   },
   {
     "title": "Shingeki no Kyojin Season 2",
@@ -61971,7 +62149,7 @@
       "war-zone realities"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/84177.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/84177.jpg"
   },
   {
     "title": "Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou",
@@ -62532,7 +62710,7 @@
       "war-zone realities"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1000/110531.jpg"
+    "picture": "https://myanimelist.net/images/anime/1000/110531.jpg"
   },
   {
     "title": "Shingeki no Kyojin: The Final Season - Kanketsu-hen",
@@ -62722,7 +62900,7 @@
       "war-zone realities"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1948/120625.jpg"
+    "picture": "https://myanimelist.net/images/anime/1948/120625.jpg"
   },
   {
     "title": "Shingetsutan Tsukihime",
@@ -63033,7 +63211,7 @@
       "violence"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/35829.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/35829.jpg"
   },
   {
     "title": "Shinreigari",
@@ -63135,6 +63313,7 @@
       "angels",
       "angst",
       "apocalyptic fiction",
+      "artificial intelligence",
       "asia",
       "avant garde",
       "avant-garde",
@@ -63257,7 +63436,7 @@
       "war"
     ],
     "year": 1995,
-    "picture": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg"
+    "picture": "https://myanimelist.net/images/anime/1314/108941.jpg"
   },
   {
     "title": "Shinsekai yori",
@@ -63377,7 +63556,7 @@
       "yuri"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/1549/136389.jpg"
+    "picture": "https://myanimelist.net/images/anime/1549/136389.jpg"
   },
   {
     "title": "Shion no Ou",
@@ -63440,7 +63619,7 @@
       "zettai ryouiki"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/74050.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/74050.jpg"
   },
   {
     "title": "Shiritsu Araiso Koutougakkou Seitokai Shikkoubu",
@@ -63706,7 +63885,7 @@
       "zombies"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/75468.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/75468.jpg"
   },
   {
     "title": "Shoujo Kakumei Keikaku",
@@ -63858,7 +64037,7 @@
       "yuri"
     ],
     "year": 1997,
-    "picture": "https://cdn.myanimelist.net/images/anime/1078/95285.jpg"
+    "picture": "https://myanimelist.net/images/anime/1078/95285.jpg"
   },
   {
     "title": "Shoujo Kakumei Utena: Adolescence Mokushiroku",
@@ -63937,7 +64116,7 @@
       "yuri"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/1268/107516.jpg"
+    "picture": "https://myanimelist.net/images/anime/1268/107516.jpg"
   },
   {
     "title": "Shoujo Shuumatsu Ryokou",
@@ -64121,6 +64300,7 @@
       "crime fiction",
       "detective",
       "drama",
+      "ensemble cast",
       "episodic",
       "female protagonist",
       "food",
@@ -64134,6 +64314,7 @@
       "present",
       "primarily teen cast",
       "revenge",
+      "rural",
       "school",
       "school club",
       "school clubs",
@@ -64165,10 +64346,12 @@
       "ensemble cast",
       "fake relationship",
       "female protagonist",
+      "femdom",
       "food",
       "genius",
       "high school",
       "japanese production",
+      "male protagonist",
       "mixed media",
       "mystery",
       "present",
@@ -64339,7 +64522,7 @@
       "novel"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1764/106055.jpg"
+    "picture": "https://myanimelist.net/images/anime/1764/106055.jpg"
   },
   {
     "title": "Si Hai Jing Qi 2nd Season",
@@ -64361,7 +64544,7 @@
       "mystery"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1875/110403.jpg"
+    "picture": "https://myanimelist.net/images/anime/1875/110403.jpg"
   },
   {
     "title": "Si Ling Bianma: Shijie Caozong Zhe",
@@ -64474,7 +64657,7 @@
       "supernatural"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1345/137801.jpg"
+    "picture": "https://myanimelist.net/images/anime/1345/137801.jpg"
   },
   {
     "title": "Sinbi Apartment: Geumbich Dokkaebiwa Bimil-ui Dong-gul",
@@ -64507,17 +64690,20 @@
       "comedy",
       "family friendly",
       "ghost",
+      "ghost stories",
       "goblin",
       "horror",
       "kids",
       "korean animation",
+      "monster",
       "mystery",
       "primarily child cast",
       "south korean production",
-      "supernatural"
+      "supernatural",
+      "supernatural drama"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/1393/97971.jpg"
+    "picture": "https://myanimelist.net/images/anime/1393/97971.jpg"
   },
   {
     "title": "Sinbi Apartment: Ghost Ball X-ui Tansaeng",
@@ -64701,7 +64887,7 @@
       "violent retribution for accidental infringement"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/1273/115661.jpg"
+    "picture": "https://myanimelist.net/images/anime/1273/115661.jpg"
   },
   {
     "title": "Slippy Dandy",
@@ -64716,7 +64902,7 @@
       "thieves"
     ],
     "year": 1987,
-    "picture": "https://raw.githubusercontent.com/manami-project/anime-offline-database/master/pics/no_pic.png"
+    "picture": "https://myanimelist.net/images/qm_50.gif"
   },
   {
     "title": "Sola",
@@ -64780,7 +64966,7 @@
       "youkai"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/46119.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/46119.jpg"
   },
   {
     "title": "Sola Specials",
@@ -64814,7 +65000,7 @@
       "youkai"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/21665.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/21665.jpg"
   },
   {
     "title": "Sonny Boy",
@@ -65132,7 +65318,7 @@
       "science fiction"
     ],
     "year": 1985,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/53115.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/53115.jpg"
   },
   {
     "title": "Souryuuden",
@@ -65232,7 +65418,7 @@
       "transforming craft"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1665/146999.jpg"
+    "picture": "https://myanimelist.net/images/anime/1665/146999.jpg"
   },
   {
     "title": "Speed Grapher",
@@ -65363,7 +65549,7 @@
       "war-zone realities"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/12343.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/12343.jpg"
   },
   {
     "title": "Spiral: Suiri no Kizuna",
@@ -65402,7 +65588,7 @@
       "violence"
     ],
     "year": 2002,
-    "picture": "https://cdn.myanimelist.net/images/anime/1771/92118.jpg"
+    "picture": "https://myanimelist.net/images/anime/1771/92118.jpg"
   },
   {
     "title": "Spirits from the Night",
@@ -65596,7 +65782,7 @@
   },
   {
     "title": "Star Detective Precure!",
-    "episodes": 8,
+    "episodes": 12,
     "type": "TV",
     "status": "ONGOING",
     "tags": [
@@ -65606,6 +65792,94 @@
     ],
     "year": 2026,
     "picture": "https://simkl.in/posters/19/19324399b843824d71_m.webp"
+  },
+  {
+    "title": "Steel Ball Run: JoJo no Kimyou na Bouken",
+    "episodes": 12,
+    "type": "ONA",
+    "status": "ONGOING",
+    "tags": [
+      "19th century",
+      "action",
+      "adventure",
+      "alternate universe",
+      "america",
+      "angels",
+      "based on a manga",
+      "coastal",
+      "coming of age",
+      "conspiracy",
+      "cowboys",
+      "desert",
+      "dinosaurs",
+      "disability",
+      "drama",
+      "epic fantasy",
+      "excessive violence",
+      "fantasy",
+      "foreign",
+      "ganbatte",
+      "gods",
+      "gore",
+      "gunfights",
+      "hero of strong character",
+      "heterosexual",
+      "historical",
+      "horror",
+      "indigenous cultures",
+      "male protagonist",
+      "manga",
+      "mystery",
+      "nun",
+      "only on netflix",
+      "philosophy",
+      "politics",
+      "pregnancy",
+      "primarily adult cast",
+      "primarily male cast",
+      "psi-powers",
+      "racing",
+      "rehabilitation",
+      "religion",
+      "seinen",
+      "shounen",
+      "splatter",
+      "struggle to survive",
+      "super power",
+      "supernatural",
+      "supernatural drama",
+      "thriller",
+      "time manipulation",
+      "torture",
+      "tragedy",
+      "trains",
+      "travel",
+      "united states",
+      "wilderness"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1448/154111.jpg"
+  },
+  {
+    "title": "Steel Ball Run: JoJo's Bizarre Adventure",
+    "episodes": 1,
+    "type": "ONA",
+    "status": "ONGOING",
+    "tags": [
+      "action",
+      "adventure",
+      "historical",
+      "japanese production",
+      "mystery",
+      "racing",
+      "seinen",
+      "shounen",
+      "supernatural",
+      "ultra jump",
+      "weekly shounen jump"
+    ],
+    "year": 2026,
+    "picture": "https://simkl.in/posters/17/1767929636f36225cf_m.webp"
   },
   {
     "title": "Steins;Gate",
@@ -65624,6 +65898,7 @@
       "butterfly effect",
       "canon filler",
       "chuunibyou",
+      "clone",
       "comedy",
       "conspiracy",
       "cross-dressing",
@@ -65840,6 +66115,7 @@
       "place",
       "plot continuity",
       "present",
+      "primarily adult cast",
       "primarily male cast",
       "psi-powers",
       "psychological drama",
@@ -65969,7 +66245,7 @@
       "violence"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/76071.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/76071.jpg"
   },
   {
     "title": "Sukeban Deka",
@@ -66035,7 +66311,7 @@
       "yuri"
     ],
     "year": 1991,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/3675.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/3675.jpg"
   },
   {
     "title": "Suki na Mono wa Suki Dakara Shou ga Nai!!",
@@ -66257,7 +66533,7 @@
       "violence"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1120/120796.jpg"
+    "picture": "https://myanimelist.net/images/anime/1120/120796.jpg"
   },
   {
     "title": "Suntory Draft Beer x Lupin III",
@@ -66309,7 +66585,7 @@
       "visual novel"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/83150.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/83150.jpg"
   },
   {
     "title": "Supernatural The Animation",
@@ -66418,7 +66694,7 @@
       "work life"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/76236.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/76236.jpg"
   },
   {
     "title": "Sushi Police Movie",
@@ -66431,7 +66707,7 @@
       "mystery"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/1697/113975.jpg"
+    "picture": "https://myanimelist.net/images/anime/1697/113975.jpg"
   },
   {
     "title": "Suteki Tantei Labyrinth",
@@ -66479,7 +66755,7 @@
       "transfer student"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/17592.jpg"
+    "picture": "https://myanimelist.net/images/anime/1587/154719.jpg"
   },
   {
     "title": "Suzume no Tojimari",
@@ -66559,7 +66835,7 @@
       "urban fantasy"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1598/128450.jpg"
+    "picture": "https://myanimelist.net/images/anime/1598/128450.jpg"
   },
   {
     "title": "Suzumiya Haruhi no Shoushitsu",
@@ -66852,10 +67128,11 @@
       "tokyo",
       "tokyo tower",
       "tragedy",
+      "urban",
       "violence"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/26316.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/26316.jpg"
   },
   {
     "title": "Taboo Tattoo",
@@ -67252,7 +67529,7 @@
       "supernatural drama"
     ],
     "year": 1992,
-    "picture": "https://cdn.myanimelist.net/images/anime/1028/136446.jpg"
+    "picture": "https://myanimelist.net/images/anime/1028/136446.jpg"
   },
   {
     "title": "Takarajima Movie",
@@ -67584,7 +67861,7 @@
       "supernatural"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/82778.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/82778.jpg"
   },
   {
     "title": "Tantei Opera Milky Holmes: Psycho no Aisatsu",
@@ -67638,7 +67915,7 @@
       "the arts"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/33559.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/33559.jpg"
   },
   {
     "title": "Tantei Shounen Kageman",
@@ -68101,6 +68378,7 @@
       "band",
       "cgi",
       "conspiracy",
+      "cute boys doing cute things",
       "dystopian",
       "found family",
       "idol",
@@ -68315,7 +68593,7 @@
       "violence"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1121/133132.jpg"
+    "picture": "https://myanimelist.net/images/anime/1121/133132.jpg"
   },
   {
     "title": "Tengoku Daimakyou Manga PV",
@@ -68394,8 +68672,8 @@
       "murder",
       "mutilation",
       "mystery",
-      "netflix original",
       "nudity",
+      "only on netflix",
       "open-ended",
       "pantsu",
       "paper clothes",
@@ -68544,7 +68822,7 @@
       "war"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/1027/131977.jpg"
+    "picture": "https://myanimelist.net/images/anime/1027/131977.jpg"
   },
   {
     "title": "Tezuka Osamu ga Kieta?! 20-seiki Saigo no Kaijiken",
@@ -68560,7 +68838,7 @@
       "mystery"
     ],
     "year": 2000,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/9503.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/9503.jpg"
   },
   {
     "title": "The \"JiKEMBO\" of Young Kindaichi",
@@ -68960,31 +69238,6 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1473/110701.jpg"
   },
   {
-    "title": "The Holy Grail of Eris",
-    "episodes": 7,
-    "type": "TV",
-    "status": "FINISHED",
-    "tags": [
-      "aristocracy",
-      "betrayal",
-      "conspiracy",
-      "crime",
-      "detective",
-      "drama",
-      "fantasy",
-      "ghosts",
-      "medieval",
-      "mystery",
-      "possession",
-      "revenge",
-      "sorcery",
-      "spirits",
-      "villainess"
-    ],
-    "year": 2026,
-    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33782-2693427720.1770168758.jpg"
-  },
-  {
     "title": "The Lamp Man",
     "episodes": 1,
     "type": "ONA",
@@ -69048,7 +69301,7 @@
       "zombie"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1576/133934.jpg"
+    "picture": "https://myanimelist.net/images/anime/1576/133934.jpg"
   },
   {
     "title": "The Melancholy of Haruhi Suzumiya (2009)",
@@ -69530,7 +69783,9 @@
       "supernatural drama",
       "superpowers",
       "tokusatsu",
-      "tragedy"
+      "tragedy",
+      "urban",
+      "urban fantasy"
     ],
     "year": 2022,
     "picture": "https://cdn.myanimelist.net/images/anime/1941/128060.jpg"
@@ -69764,7 +70019,7 @@
       "violent retribution for accidental infringement"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/1134/98125.jpg"
+    "picture": "https://myanimelist.net/images/anime/1134/98125.jpg"
   },
   {
     "title": "Tobidase! Bacchiri",
@@ -70052,7 +70307,7 @@
       "urban"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1442/120112.jpg"
+    "picture": "https://myanimelist.net/images/anime/1442/120112.jpg"
   },
   {
     "title": "Tokyo 24-ku: Reversal Film",
@@ -70244,7 +70499,7 @@
       "zettai ryouiki"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/64587.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/64587.jpg"
   },
   {
     "title": "Tokyo Ghoul",
@@ -70456,7 +70711,7 @@
       "urban fantasy"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/78666.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/78666.jpg"
   },
   {
     "title": "Tokyo Ghoul:re",
@@ -70532,7 +70787,7 @@
       "violence"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1063/95086.jpg"
+    "picture": "https://myanimelist.net/images/anime/1063/95086.jpg"
   },
   {
     "title": "Tokyo Ghoul:re 2nd Season",
@@ -70669,7 +70924,7 @@
       "zombie"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/21754.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/21754.jpg"
   },
   {
     "title": "Tokyo Vice",
@@ -70784,7 +71039,7 @@
       "super robots"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1997/90929.jpg"
+    "picture": "https://myanimelist.net/images/anime/1997/90929.jpg"
   },
   {
     "title": "Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu Movie",
@@ -70873,7 +71128,7 @@
       "virtual reality"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1247/121345.jpg"
+    "picture": "https://myanimelist.net/images/anime/1247/121345.jpg"
   },
   {
     "title": "Top Secret: The Revelation",
@@ -71173,7 +71428,7 @@
       "youkai"
     ],
     "year": 2008,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/27302.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/27302.jpg"
   },
   {
     "title": "Towa no Quon 2: Konton no Ranbu",
@@ -71309,7 +71564,7 @@
       "urban"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/81133.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/81133.jpg"
   },
   {
     "title": "Trickster: Edogawa Ranpo \"Shounen Tanteidan\" yori OVA",
@@ -71328,7 +71583,7 @@
       "supernatural drama"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/83323.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/83323.jpg"
   },
   {
     "title": "Trust (Movie)",
@@ -71618,7 +71873,7 @@
       "youkai"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1373/107550.jpg"
+    "picture": "https://myanimelist.net/images/anime/1373/107550.jpg"
   },
   {
     "title": "Tu Bian Yingxiong X",
@@ -71660,6 +71915,7 @@
       "mystery",
       "new",
       "original work",
+      "orphan",
       "parody",
       "philosophy",
       "present",
@@ -71740,7 +71996,7 @@
       "underwater diving"
     ],
     "year": 1987,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/5908.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/5908.jpg"
   },
   {
     "title": "Uchi no Shishou wa Shippo ga Nai",
@@ -71828,7 +72084,7 @@
       "visual arts"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/55543.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/55543.jpg"
   },
   {
     "title": "Uchuujin MuuMuu",
@@ -72188,7 +72444,7 @@
       "work"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/1167/155057.jpg"
+    "picture": "https://myanimelist.net/images/anime/1167/155057.jpg"
   },
   {
     "title": "Undead Girl Murder Farce",
@@ -72277,7 +72533,7 @@
       "youkai"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1946/136661.jpg"
+    "picture": "https://myanimelist.net/images/anime/1946/136661.jpg"
   },
   {
     "title": "Uragiri wa Boku no Namae wo Shitteiru",
@@ -72441,7 +72697,7 @@
       "yuri"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1494/111515.jpg"
+    "picture": "https://myanimelist.net/images/anime/1494/111515.jpg"
   },
   {
     "title": "Urban Square: Kohaku no Tsuigeki",
@@ -72492,7 +72748,7 @@
       "violence"
     ],
     "year": 1986,
-    "picture": "https://cdn.myanimelist.net/images/anime/1256/94477.jpg"
+    "picture": "https://myanimelist.net/images/anime/1256/94477.jpg"
   },
   {
     "title": "Urvan",
@@ -72526,6 +72782,17 @@
   },
   {
     "title": "Uso Tantei Tomanto",
+    "episodes": 0,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "mystery"
+    ],
+    "year": 2026,
+    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38799-3214171975.1774333182.jpg"
+  },
+  {
+    "title": "Uso Tantei Tomanto",
     "episodes": 26,
     "type": "TV",
     "status": "ONGOING",
@@ -72533,11 +72800,12 @@
       "anthropomorphic",
       "detective",
       "japanese production",
+      "kids",
       "mystery",
       "short episodes"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1745/152126.jpg"
+    "picture": "https://myanimelist.net/images/anime/1745/152126.jpg"
   },
   {
     "title": "Uzumaki",
@@ -72895,7 +73163,7 @@
       "vampires"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1401/118483.jpg"
+    "picture": "https://myanimelist.net/images/anime/1401/118483.jpg"
   },
   {
     "title": "Vanitas no Karte Part 2",
@@ -73135,7 +73403,7 @@
       "urban legend"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/86746.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/86746.jpg"
   },
   {
     "title": "Vatican Kiseki Chousakan: Majo no Soup",
@@ -73210,7 +73478,7 @@
       "supernatural drama"
     ],
     "year": 1968,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/59651.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/59651.jpg"
   },
   {
     "title": "Warau Hyouteki",
@@ -73424,7 +73692,7 @@
       "violence"
     ],
     "year": 1994,
-    "picture": "https://cdn.myanimelist.net/images/anime/1164/134100.jpg"
+    "picture": "https://myanimelist.net/images/anime/1164/134100.jpg"
   },
   {
     "title": "Wild 7 Another Bouryaku Unga",
@@ -73982,7 +74250,7 @@
       "violence"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1016/153863.jpg"
+    "picture": "https://myanimelist.net/images/anime/1016/153863.jpg"
   },
   {
     "title": "Wu Liuqi: Jiyi Suipian",
@@ -74009,7 +74277,7 @@
       "swordplay"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1787/151956.jpg"
+    "picture": "https://myanimelist.net/images/anime/1787/151956.jpg"
   },
   {
     "title": "Wu Liuqi: Xuanwu Guo Pian",
@@ -74040,7 +74308,7 @@
       "travel"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1884/111224.jpg"
+    "picture": "https://myanimelist.net/images/anime/1884/111224.jpg"
   },
   {
     "title": "Wu Liuqi: Zui Qiang Fa Xing Shi",
@@ -74076,7 +74344,7 @@
       "violence"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1962/153860.jpg"
+    "picture": "https://myanimelist.net/images/anime/1962/153860.jpg"
   },
   {
     "title": "WXIII Kidou Keisatsu Patlabor",
@@ -74129,7 +74397,7 @@
       "urban"
     ],
     "year": 2002,
-    "picture": "https://cdn.myanimelist.net/images/anime/1/1290.jpg"
+    "picture": "https://myanimelist.net/images/anime/1/1290.jpg"
   },
   {
     "title": "X",
@@ -74270,7 +74538,7 @@
       "violence"
     ],
     "year": 1987,
-    "picture": "https://cdn.myanimelist.net/images/anime/1/2022.jpg"
+    "picture": "https://myanimelist.net/images/anime/1/2022.jpg"
   },
   {
     "title": "X OVA",
@@ -75148,7 +75416,7 @@
       "weekly shounen jump"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1830/118780.jpg"
+    "picture": "https://myanimelist.net/images/anime/1830/118780.jpg"
   },
   {
     "title": "Yakusoku no Neverland 2nd Season",
@@ -75237,7 +75505,7 @@
       "weekly shounen jump"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1815/110626.jpg"
+    "picture": "https://myanimelist.net/images/anime/1815/110626.jpg"
   },
   {
     "title": "Yakusoku no Neverland: Michishirube",
@@ -75279,7 +75547,7 @@
       "tragedy"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1097/111813.jpg"
+    "picture": "https://myanimelist.net/images/anime/1097/111813.jpg"
   },
   {
     "title": "Yamada-kun to 7-nin no Majo",
@@ -75574,7 +75842,7 @@
       "urban"
     ],
     "year": 1987,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/26389.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/26389.jpg"
   },
   {
     "title": "Yami to Boushi to Hon no Tabibito",
@@ -75704,6 +75972,7 @@
       "present",
       "school",
       "school life",
+      "south korean production",
       "transfer students"
     ],
     "year": 2025,
@@ -75756,7 +76025,7 @@
       "wuxia"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1197/106650.jpg"
+    "picture": "https://myanimelist.net/images/anime/1197/106650.jpg"
   },
   {
     "title": "Yi Ren Zhi Xia 4",
@@ -75833,7 +76102,7 @@
       "supernatural"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1756/151431.jpg"
+    "picture": "https://myanimelist.net/images/anime/1756/151431.jpg"
   },
   {
     "title": "Yi Ren Zhi Xia: Fanwai Pian",
@@ -75906,7 +76175,7 @@
       "tragedy"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1789/108202.jpg"
+    "picture": "https://myanimelist.net/images/anime/1789/108202.jpg"
   },
   {
     "title": "Yishi Zhi Zun",
@@ -76066,6 +76335,7 @@
       "live-action imagery",
       "male protagonist",
       "mystery",
+      "noitamina",
       "novel",
       "past",
       "place",
@@ -76451,7 +76721,7 @@
       "youkai"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1960/106354.jpg"
+    "picture": "https://myanimelist.net/images/anime/1960/106354.jpg"
   },
   {
     "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
@@ -76962,7 +77232,7 @@
       "virtual reality"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1349/124349.jpg"
+    "picture": "https://myanimelist.net/images/anime/1349/124349.jpg"
   },
   {
     "title": "Yu☆Gi☆Oh! VRAINS",
@@ -77010,7 +77280,7 @@
       "virtual world"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/1789/101971.jpg"
+    "picture": "https://myanimelist.net/images/anime/1789/101971.jpg"
   },
   {
     "title": "Zankyou no Terror",
@@ -77157,7 +77427,7 @@
       "virtual world"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/76949.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/76949.jpg"
   },
   {
     "title": "Zetsuen no Tempest",
@@ -77461,6 +77731,7 @@
       "ghost",
       "gods",
       "kemonomimi",
+      "lgbtq+ themes",
       "male protagonist",
       "meta",
       "monster girl",

@@ -66,7 +66,7 @@
       "urban fantasy"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1879/150911.jpg"
+    "picture": "https://myanimelist.net/images/anime/1879/150911.jpg"
   },
   {
     "title": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita",
@@ -224,6 +224,7 @@
       "science and magic coexist",
       "science fiction",
       "science-fiction",
+      "seinen",
       "sex",
       "sexual abuse",
       "sexual humour",
@@ -560,11 +561,12 @@
       "travel",
       "tropes",
       "urban",
+      "vampire",
       "virtual world",
       "wilderness"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/1471/99249.jpg"
+    "picture": "https://myanimelist.net/images/anime/1471/99249.jpg"
   },
   {
     "title": "Digimon Adventure Movie",
@@ -1385,7 +1387,7 @@
       "urban fantasy"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1861/141482.jpg"
+    "picture": "https://myanimelist.net/images/anime/1861/141482.jpg"
   },
   {
     "title": "Hinamatsuri",
@@ -1498,6 +1500,100 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1580/93526.jpg"
   },
   {
+    "title": "Hirogaru Sky! Precure",
+    "episodes": 50,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "3d cg closing",
+      "action",
+      "animals",
+      "anthropomorphism",
+      "aviation",
+      "baseball",
+      "cute girls doing cute things",
+      "dragons",
+      "drawing",
+      "ensemble cast",
+      "episodic",
+      "family friendly",
+      "fantasy",
+      "female protagonist",
+      "found family",
+      "henshin",
+      "heroes",
+      "isekai",
+      "iyashikei",
+      "japanese production",
+      "kids",
+      "lgbtq+ themes",
+      "magic",
+      "magical boy",
+      "magical girl",
+      "mahou shoujo",
+      "makeup",
+      "male protagonist",
+      "martial arts",
+      "memory manipulation",
+      "monster boy",
+      "monster-of-the-week",
+      "parenthood",
+      "parkour",
+      "primarily female cast",
+      "reverse isekai",
+      "royal affairs",
+      "school",
+      "sequel",
+      "shapeshifting",
+      "shoujo",
+      "super power",
+      "superhero",
+      "teacher",
+      "time manipulation",
+      "tokusatsu",
+      "tomboy",
+      "urban",
+      "urban fantasy",
+      "yuri"
+    ],
+    "year": 2023,
+    "picture": "https://myanimelist.net/images/anime/1762/135268.jpg"
+  },
+  {
+    "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta (TV Special)",
+    "episodes": 1,
+    "type": "SPECIAL",
+    "status": "FINISHED",
+    "tags": [
+      "action",
+      "adventure",
+      "alternative world",
+      "archery",
+      "based on a light novel",
+      "conspiracy",
+      "creature taming",
+      "dragons",
+      "fantasy",
+      "female harem",
+      "found family",
+      "heterosexual",
+      "isekai",
+      "japanese production",
+      "magic",
+      "male protagonist",
+      "overpowered main characters",
+      "person in a strange world",
+      "present",
+      "reverse isekai",
+      "romance",
+      "school",
+      "sequel",
+      "swords & co"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1150/155201.jpg"
+  },
+  {
     "title": "Isekai Izakaya: Koto Aitheria no Izakaya Nobu",
     "episodes": 24,
     "type": "ONA",
@@ -1597,7 +1693,7 @@
       "workplace"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1303/90909.jpg"
+    "picture": "https://myanimelist.net/images/anime/1303/90909.jpg"
   },
   {
     "title": "Isekai Ojisan",
@@ -1897,7 +1993,7 @@
       "workplace"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1777/117885.jpg"
+    "picture": "https://myanimelist.net/images/anime/1777/117885.jpg"
   },
   {
     "title": "Jahy-sama wa Kujikenai!",
@@ -2151,7 +2247,7 @@
       "yuri"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/85434.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/85434.jpg"
   },
   {
     "title": "Kobayashi-san Chi no Maid Dragon S",
@@ -2280,7 +2376,7 @@
       "yuri"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1252/115539.jpg"
+    "picture": "https://myanimelist.net/images/anime/1252/115539.jpg"
   },
   {
     "title": "Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu",
@@ -2312,6 +2408,7 @@
       "lgbtq+ themes",
       "magic",
       "maids",
+      "manga",
       "moe",
       "monster girl",
       "monster girls",
@@ -2330,11 +2427,12 @@
       "slice of life comedy",
       "stoic heroine",
       "supernatural",
+      "swordplay",
       "war",
       "yuri"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1134/148744.jpg"
+    "picture": "https://myanimelist.net/images/anime/1134/148744.jpg"
   },
   {
     "title": "Kobayashi-san Chi no Maid Dragon: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai",
@@ -2385,7 +2483,7 @@
       "yuri"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/88486.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/88486.jpg"
   },
   {
     "title": "Laidbackers",
@@ -2470,7 +2568,7 @@
       "work"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/1598/94444.jpg"
+    "picture": "https://myanimelist.net/images/anime/1598/94444.jpg"
   },
   {
     "title": "Mini Dragon",

@@ -111,7 +111,7 @@
       "war"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/56037.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/56037.jpg"
   },
   {
     "title": "Bakumatsu Rock",
@@ -371,7 +371,7 @@
       "yakuza"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/73274.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/73274.jpg"
   },
   {
     "title": "Gintama Movie 1: Shinyaku Benizakura-hen",
@@ -617,7 +617,7 @@
       "wordplay"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/1452/123686.jpg"
+    "picture": "https://myanimelist.net/images/anime/1452/123686.jpg"
   },
   {
     "title": "Gintama. Shirogane no Tamashii-hen - Kouhan-sen",
@@ -931,7 +931,7 @@
       "winter"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1145/90880.jpg"
+    "picture": "https://myanimelist.net/images/anime/1145/90880.jpg"
   },
   {
     "title": "Golden Kamuy 2nd Season",
@@ -1228,43 +1228,67 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1855/128059.jpg"
   },
   {
-    "title": "Golden Kamuy Final Season",
-    "episodes": 0,
+    "title": "Golden Kamuy: Saishuushou",
+    "episodes": 13,
     "type": "TV",
     "status": "FINISHED",
     "tags": [
       "action",
+      "adult cast",
+      "adventure",
       "ainu",
+      "archery",
+      "based on a manga",
       "chases",
+      "coastal",
       "comedy",
       "conspiracy",
       "culture clash",
       "dark comedy",
       "drama",
+      "ensemble cast",
       "factions",
+      "female protagonist",
+      "fugitive",
       "gore",
       "gunplay",
+      "guns",
+      "hero of strong character",
       "historical",
+      "hokkaido",
       "idealism",
+      "indigenous cultures",
+      "japan",
+      "japanese production",
+      "male protagonist",
       "meiji era",
       "military",
       "moral dilemma",
       "mystery",
+      "primarily adult cast",
       "psychological",
       "revenge",
+      "rural",
+      "seinen",
+      "sequel",
       "shinsengumi",
       "spiritualism",
+      "stoic heroine",
+      "swords & co",
       "thriller",
       "torture",
       "tragedy",
+      "trains",
       "trauma",
+      "treasure hunters",
       "treasure hunting",
+      "urban",
       "war",
       "western",
       "wilderness"
     ],
     "year": 2026,
-    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37046-1012401904.1767411011.jpg"
+    "picture": "https://myanimelist.net/images/anime/1288/154763.jpg"
   },
   {
     "title": "Golden Kamuy: Sapporo Beer Koujou-hen",
@@ -1475,7 +1499,7 @@
       "war"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1763/117761.jpg"
+    "picture": "https://myanimelist.net/images/anime/1763/117761.jpg"
   },
   {
     "title": "Hakuouki: Hekketsuroku",
@@ -1539,7 +1563,7 @@
       "war"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/71797.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/71797.jpg"
   },
   {
     "title": "Hakuouki: Reimeiroku",
@@ -1600,7 +1624,7 @@
       "war"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/71798.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/71798.jpg"
   },
   {
     "title": "Hakuouki: Sekkaroku",
@@ -1779,7 +1803,7 @@
       "war"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/1/2252.jpg"
+    "picture": "https://myanimelist.net/images/anime/1/2252.jpg"
   },
   {
     "title": "Kaitou Reinya",
@@ -1912,7 +1936,7 @@
       "youkai"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/3461.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/3461.jpg"
   },
   {
     "title": "Mutsu Enmei Ryuu Gaiden: Shura no Toki",
@@ -2017,7 +2041,7 @@
       "violence"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/77408.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/77408.jpg"
   },
   {
     "title": "Peace Maker Kurogane Movie 1: Omou Michi",
@@ -2044,7 +2068,7 @@
       "war"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1379/91338.jpg"
+    "picture": "https://myanimelist.net/images/anime/1379/91338.jpg"
   },
   {
     "title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
@@ -2123,7 +2147,7 @@
       "weekly shounen jump"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/1346/119505.jpg"
+    "picture": "https://myanimelist.net/images/anime/1346/119505.jpg"
   },
   {
     "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
@@ -2268,7 +2292,7 @@
       "violence"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/1656/137618.jpg"
+    "picture": "https://myanimelist.net/images/anime/1656/137618.jpg"
   },
   {
     "title": "Rurouni Kenshin: Trust & Betrayal - Director's Cut",

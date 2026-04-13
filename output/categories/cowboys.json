@@ -328,8 +328,8 @@
       "japanese production",
       "magic",
       "male protagonist",
-      "netflix original",
       "nudity",
+      "only on netflix",
       "post-apocalyptic",
       "psychological",
       "rape",
@@ -352,7 +352,7 @@
       "yandere"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1095/142224.jpg"
+    "picture": "https://myanimelist.net/images/anime/1095/142224.jpg"
   },
   {
     "title": "Gun Frontier",
@@ -471,7 +471,7 @@
       "weekly shounen jump"
     ],
     "year": 1987,
-    "picture": "https://cdn.myanimelist.net/images/anime/1912/106020.jpg"
+    "picture": "https://myanimelist.net/images/anime/1912/106020.jpg"
   },
   {
     "title": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders",
@@ -647,7 +647,7 @@
       "zombie"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/75045.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/75045.jpg"
   },
   {
     "title": "Kouya no Shounen Isamu",
@@ -678,7 +678,7 @@
       "western"
     ],
     "year": 1973,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/54387.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/54387.jpg"
   },
   {
     "title": "Mahou no Princess Minky Momo",
@@ -1058,7 +1058,7 @@
       "shorts"
     ],
     "year": 1985,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/3258.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/3258.jpg"
   },
   {
     "title": "Sore Ike! Anpanman: Anpanman to Yukai na Nakama-tachi",
@@ -1139,6 +1139,73 @@
     ],
     "year": 2000,
     "picture": "https://cdn.myanimelist.net/images/anime/9/56233.jpg"
+  },
+  {
+    "title": "Steel Ball Run: JoJo no Kimyou na Bouken",
+    "episodes": 12,
+    "type": "ONA",
+    "status": "ONGOING",
+    "tags": [
+      "19th century",
+      "action",
+      "adventure",
+      "alternate universe",
+      "america",
+      "angels",
+      "based on a manga",
+      "coastal",
+      "coming of age",
+      "conspiracy",
+      "cowboys",
+      "desert",
+      "dinosaurs",
+      "disability",
+      "drama",
+      "epic fantasy",
+      "excessive violence",
+      "fantasy",
+      "foreign",
+      "ganbatte",
+      "gods",
+      "gore",
+      "gunfights",
+      "hero of strong character",
+      "heterosexual",
+      "historical",
+      "horror",
+      "indigenous cultures",
+      "male protagonist",
+      "manga",
+      "mystery",
+      "nun",
+      "only on netflix",
+      "philosophy",
+      "politics",
+      "pregnancy",
+      "primarily adult cast",
+      "primarily male cast",
+      "psi-powers",
+      "racing",
+      "rehabilitation",
+      "religion",
+      "seinen",
+      "shounen",
+      "splatter",
+      "struggle to survive",
+      "super power",
+      "supernatural",
+      "supernatural drama",
+      "thriller",
+      "time manipulation",
+      "torture",
+      "tragedy",
+      "trains",
+      "travel",
+      "united states",
+      "wilderness"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1448/154111.jpg"
   },
   {
     "title": "Trigun",

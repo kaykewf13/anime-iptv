@@ -221,7 +221,7 @@
       "yuri"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/1645/105992.jpg"
+    "picture": "https://myanimelist.net/images/anime/1645/105992.jpg"
   },
   {
     "title": "Bleach",
@@ -357,7 +357,7 @@
   },
   {
     "title": "Chibi Maruko-chan (1995)",
-    "episodes": 1522,
+    "episodes": 1524,
     "type": "TV",
     "status": "ONGOING",
     "tags": [
@@ -378,11 +378,11 @@
       "slice of life"
     ],
     "year": 1995,
-    "picture": "https://cdn.myanimelist.net/images/anime/1678/153148.jpg"
+    "picture": "https://myanimelist.net/images/anime/1678/153148.jpg"
   },
   {
     "title": "Crayon Shin-chan",
-    "episodes": 1326,
+    "episodes": 1328,
     "type": "TV",
     "status": "ONGOING",
     "tags": [
@@ -435,7 +435,7 @@
       "wordplay"
     ],
     "year": 1992,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/59897.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/59897.jpg"
   },
   {
     "title": "Doraemon (1979)",
@@ -559,7 +559,7 @@
       "violent retribution for accidental infringement"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/23935.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/23935.jpg"
   },
   {
     "title": "Dragon Ball",
@@ -739,7 +739,7 @@
       "visible aura"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/74606.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/74606.jpg"
   },
   {
     "title": "Dragon Ball Z",
@@ -862,7 +862,7 @@
       "weekly shounen jump"
     ],
     "year": 1989,
-    "picture": "https://cdn.myanimelist.net/images/anime/1277/142022.jpg"
+    "picture": "https://myanimelist.net/images/anime/1277/142022.jpg"
   },
   {
     "title": "Fairy Tail",
@@ -972,7 +972,7 @@
       "work"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/18179.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/18179.jpg"
   },
   {
     "title": "Fairy Tail (2014)",
@@ -1101,7 +1101,7 @@
       "youkai"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/82364.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/82364.jpg"
   },
   {
     "title": "Gintama",
@@ -1247,7 +1247,7 @@
       "yakuza"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/73274.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/73274.jpg"
   },
   {
     "title": "Gintama'",
@@ -1434,7 +1434,7 @@
       "wordplay"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/1452/123686.jpg"
+    "picture": "https://myanimelist.net/images/anime/1452/123686.jpg"
   },
   {
     "title": "Hokahoka Kazoku",
@@ -1463,6 +1463,7 @@
       "adventure",
       "alternative present",
       "alternative world",
+      "amnesia",
       "animals",
       "anthropomorphism",
       "anti-hero",
@@ -1893,7 +1894,7 @@
       "short episodes"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/1305/96062.jpg"
+    "picture": "https://myanimelist.net/images/anime/1305/96062.jpg"
   },
   {
     "title": "Kiteretsu Daihyakka",
@@ -2009,7 +2010,7 @@
       "science-fiction"
     ],
     "year": 1978,
-    "picture": "https://cdn.myanimelist.net/images/anime/1791/124109.jpg"
+    "picture": "https://myanimelist.net/images/anime/1791/124109.jpg"
   },
   {
     "title": "Manga Nippon Mukashibanashi (1976)",
@@ -2034,7 +2035,7 @@
   },
   {
     "title": "Meitantei Conan",
-    "episodes": 1193,
+    "episodes": 1195,
     "type": "TV",
     "status": "ONGOING",
     "tags": [
@@ -2150,7 +2151,7 @@
       "work"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/75199.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/75199.jpg"
   },
   {
     "title": "Naruto",
@@ -2427,7 +2428,7 @@
       "shounen"
     ],
     "year": 1993,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/74028.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/74028.jpg"
   },
   {
     "title": "Obake no Q-tarou (1985)",
@@ -2449,7 +2450,7 @@
       "supernatural"
     ],
     "year": 1985,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/19489.jpg"
+    "picture": "https://myanimelist.net/images/anime/1380/155113.jpg"
   },
   {
     "title": "Ojarumaru",
@@ -2482,7 +2483,7 @@
       "time travel"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/1072/154254.jpg"
+    "picture": "https://myanimelist.net/images/anime/1072/154254.jpg"
   },
   {
     "title": "One Piece",
@@ -2568,6 +2569,7 @@
       "henshin",
       "hero of strong character",
       "human enhancement",
+      "indigenous cultures",
       "japanese production",
       "journey",
       "kabuki",
@@ -2655,7 +2657,7 @@
       "zombie"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg"
+    "picture": "https://myanimelist.net/images/anime/1244/138851.jpg"
   },
   {
     "title": "Oyako Club",
@@ -2722,7 +2724,7 @@
       "young superheros"
     ],
     "year": 1983,
-    "picture": "https://cdn.myanimelist.net/images/anime/1882/134122.jpg"
+    "picture": "https://myanimelist.net/images/anime/1882/134122.jpg"
   },
   {
     "title": "Pokemon",
@@ -2947,7 +2949,7 @@
       "storytelling"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/1904/140254.jpg"
+    "picture": "https://myanimelist.net/images/anime/1904/140254.jpg"
   },
   {
     "title": "Pokemon Diamond & Pearl",
@@ -3107,7 +3109,7 @@
   },
   {
     "title": "Sazae-san",
-    "episodes": 2843,
+    "episodes": 2845,
     "type": "TV",
     "status": "ONGOING",
     "tags": [
@@ -3134,7 +3136,7 @@
       "slice of life"
     ],
     "year": 1969,
-    "picture": "https://cdn.myanimelist.net/images/anime/1008/98996.jpg"
+    "picture": "https://myanimelist.net/images/anime/1008/98996.jpg"
   },
   {
     "title": "Shima Shima Tora no Shimajirou",
@@ -3164,7 +3166,7 @@
   },
   {
     "title": "Sore Ike! Anpanman",
-    "episodes": 1727,
+    "episodes": 1728,
     "type": "TV",
     "status": "ONGOING",
     "tags": [
@@ -3201,7 +3203,7 @@
       "witch"
     ],
     "year": 1988,
-    "picture": "https://cdn.myanimelist.net/images/anime/1902/111797.jpg"
+    "picture": "https://myanimelist.net/images/anime/1902/111797.jpg"
   },
   {
     "title": "Tetsuwan Atom",
@@ -3285,7 +3287,7 @@
       "twins"
     ],
     "year": 2000,
-    "picture": "https://cdn.myanimelist.net/images/anime/1645/152927.jpg"
+    "picture": "https://myanimelist.net/images/anime/1645/152927.jpg"
   },
   {
     "title": "Urusei Yatsura",
@@ -3663,6 +3665,6 @@
       "urban fantasy"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/20873.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/20873.jpg"
   }
 ]

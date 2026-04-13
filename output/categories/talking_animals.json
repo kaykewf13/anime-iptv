@@ -64,7 +64,7 @@
       "workplace"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1937/102309.jpg"
+    "picture": "https://myanimelist.net/images/anime/1937/102309.jpg"
   },
   {
     "title": "Aggressive Retsuko (ONA)",
@@ -184,7 +184,7 @@
       "victorian period"
     ],
     "year": 1984,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/69559.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/69559.jpg"
   },
   {
     "title": "Asobou! Hello Kitty",
@@ -204,7 +204,7 @@
       "talking animals"
     ],
     "year": 1994,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/29204.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/29204.jpg"
   },
   {
     "title": "Beastars",
@@ -229,7 +229,6 @@
       "cg-anime",
       "cgi",
       "character driven",
-      "class struggle",
       "club",
       "comedy",
       "coming of age",
@@ -294,9 +293,9 @@
       "talking animals",
       "the arts",
       "theater",
+      "unrequited love",
       "urban",
       "violence",
-      "vore",
       "wolves"
     ],
     "year": 2019,
@@ -407,7 +406,7 @@
       "urban fantasy"
     ],
     "year": 1982,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/36627.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/36627.jpg"
   },
   {
     "title": "Chirin no Suzu",
@@ -471,7 +470,7 @@
       "wilderness"
     ],
     "year": 1978,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/80079.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/80079.jpg"
   },
   {
     "title": "Cuticle Tantei Inaba",
@@ -539,7 +538,7 @@
       "yakuza"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/73934.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/73934.jpg"
   },
   {
     "title": "Doraemon Movie 11: Nobita to Animal Planet",
@@ -588,7 +587,7 @@
       "war"
     ],
     "year": 1990,
-    "picture": "https://cdn.myanimelist.net/images/anime/1220/134141.jpg"
+    "picture": "https://myanimelist.net/images/anime/1220/134141.jpg"
   },
   {
     "title": "Doraemon Movie 22: Nobita to Tsubasa no Yuusha-tachi",
@@ -615,7 +614,7 @@
       "talking animals"
     ],
     "year": 2001,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/72427.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/72427.jpg"
   },
   {
     "title": "Doraemon the Movie: Nobita in the Haunts of Evil",
@@ -766,7 +765,7 @@
       "travel"
     ],
     "year": 1985,
-    "picture": "https://cdn.myanimelist.net/images/anime/1694/120347.jpg"
+    "picture": "https://myanimelist.net/images/anime/1694/120347.jpg"
   },
   {
     "title": "Gon",
@@ -1088,24 +1087,19 @@
     "type": "ONA",
     "status": "ONGOING",
     "tags": [
-      "animal protagonists",
       "animals",
       "anthropomorphic",
       "anthropomorphism",
-      "based on a manga",
       "episodic",
       "iyashikei",
       "japanese production",
-      "koalas",
       "no dialogue",
-      "non-human protagonists",
       "primarily animal cast",
-      "short episodes",
       "slice of life",
       "talking animals"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1987/152302.jpg"
+    "picture": "https://myanimelist.net/images/anime/1987/152302.jpg"
   },
   {
     "title": "Massugu ni Ikou.",
@@ -1123,7 +1117,9 @@
       "daily life",
       "dogs",
       "drama",
+      "educational",
       "fantasy",
+      "female protagonist",
       "heterosexual",
       "japanese production",
       "josei",
@@ -1131,7 +1127,9 @@
       "manga",
       "non-human protagonists",
       "pets",
+      "primarily adult cast",
       "romance",
+      "school",
       "shoujo",
       "slice of life",
       "talking animals",
@@ -1698,7 +1696,7 @@
       "time"
     ],
     "year": 2002,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/25205.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/25205.jpg"
   },
   {
     "title": "Princess Tutu",
@@ -1789,6 +1787,7 @@
       "shapeshifting",
       "short episodes",
       "shoujo",
+      "shounen",
       "speculative fiction",
       "star-crossed lovers",
       "storytelling",
@@ -2078,7 +2077,7 @@
       "western comics"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/1843/124074.jpg"
+    "picture": "https://myanimelist.net/images/anime/1843/124074.jpg"
   },
   {
     "title": "The Brave Frog",
@@ -2134,7 +2133,7 @@
       "twins"
     ],
     "year": 2000,
-    "picture": "https://cdn.myanimelist.net/images/anime/1645/152927.jpg"
+    "picture": "https://myanimelist.net/images/anime/1645/152927.jpg"
   },
   {
     "title": "Tottoko Hamutaro: Ham Ham Paradi-chu! Hamutarō to Fushigi no Oni no Ehonto",
@@ -2242,7 +2241,7 @@
       "violence"
     ],
     "year": 1981,
-    "picture": "https://cdn.myanimelist.net/images/anime/1601/112164.jpg"
+    "picture": "https://myanimelist.net/images/anime/1601/112164.jpg"
   },
   {
     "title": "Wonder 3",
@@ -2371,6 +2370,6 @@
       "trains"
     ],
     "year": 1986,
-    "picture": "https://cdn.myanimelist.net/images/anime/1716/134336.jpg"
+    "picture": "https://myanimelist.net/images/anime/1716/134336.jpg"
   }
 ]

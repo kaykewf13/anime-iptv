@@ -223,7 +223,6 @@
       "splatter",
       "swordplay",
       "swords & co",
-      "tanned skin",
       "the arts",
       "there can be only one",
       "time",
@@ -673,7 +672,7 @@
       "unrequited love"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/49993.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/49993.jpg"
   },
   {
     "title": "Another Time",
@@ -875,6 +874,7 @@
       "fantasy",
       "interspecies relationship",
       "japanese production",
+      "merfolk",
       "mermaid",
       "mermaids",
       "new",
@@ -948,7 +948,7 @@
       "wilderness"
     ],
     "year": 1978,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/80079.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/80079.jpg"
   },
   {
     "title": "Cross Game",
@@ -1130,28 +1130,41 @@
     "title": "Dead Account",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "based on a manga",
       "boarding school",
+      "comedy",
       "crunchyroll co-production",
       "curses",
       "death of a loved one",
+      "drama",
       "exorcism",
+      "factions",
+      "fighting",
       "ghost",
+      "ghosts",
+      "horror",
       "japanese production",
       "male protagonist",
+      "nudity",
+      "occult",
       "orphans",
+      "revenge",
       "school",
       "shounen",
       "social media",
+      "sorcery",
+      "spirits",
       "super power",
       "supernatural",
+      "superpowers",
+      "technology",
       "urban fantasy"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1622/154192.jpg"
+    "picture": "https://myanimelist.net/images/anime/1622/154192.jpg"
   },
   {
     "title": "Delico's Nursery",
@@ -1368,6 +1381,7 @@
       "family without mother",
       "fantasy",
       "fate",
+      "female harem",
       "female protagonist",
       "femboy",
       "following one's dream",
@@ -1467,7 +1481,7 @@
       "zodiac"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1447/99827.jpg"
+    "picture": "https://myanimelist.net/images/anime/1447/99827.jpg"
   },
   {
     "title": "Fullmetal Alchemist",
@@ -1731,6 +1745,7 @@
       "mutilation",
       "mystery",
       "necromancy",
+      "orphan",
       "philosopher's stone",
       "philosophy",
       "place",
@@ -1845,7 +1860,7 @@
       "violence"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg"
+    "picture": "https://myanimelist.net/images/anime/1682/150432.jpg"
   },
   {
     "title": "Given",
@@ -1941,6 +1956,7 @@
       "family life",
       "family without father",
       "famine",
+      "found family",
       "gore",
       "heroic sacrifice",
       "hiroshima",
@@ -1953,6 +1969,7 @@
       "male protagonist",
       "manga",
       "melancholy",
+      "military",
       "nuclear weapons",
       "nudity",
       "oofuji noburou award",
@@ -2333,7 +2350,7 @@
     "title": "Ikoku Nikki",
     "episodes": 13,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "adoption",
       "based on a manga",
@@ -2348,24 +2365,23 @@
       "hikikomori",
       "japanese production",
       "josei",
-      "lgbtq+ themes",
       "lifestyle change",
       "orphan",
       "orphans",
       "parenthood",
       "parenting",
       "present",
+      "primarily female cast",
       "psychological",
       "slice of life",
       "slice of life drama",
       "tragedy",
       "urban",
       "writers",
-      "writing",
-      "yuri"
+      "writing"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1791/154233.jpg"
+    "picture": "https://myanimelist.net/images/anime/1791/154233.jpg"
   },
   {
     "title": "Kamiarizuki no Kodomo",
@@ -2404,7 +2420,7 @@
       "youkai"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1395/117591.jpg"
+    "picture": "https://myanimelist.net/images/anime/1395/117591.jpg"
   },
   {
     "title": "Kan Wu Fengjing",
@@ -2629,7 +2645,7 @@
       "work"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1893/99701.jpg"
+    "picture": "https://myanimelist.net/images/anime/1893/99701.jpg"
   },
   {
     "title": "Kimitachi wa Dou Ikiru ka",
@@ -3041,7 +3057,7 @@
       "unrequited love"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/38181.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/38181.jpg"
   },
   {
     "title": "Nautilus",
@@ -3056,7 +3072,7 @@
       "music"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1622/107145.jpg"
+    "picture": "https://myanimelist.net/images/anime/1622/107145.jpg"
   },
   {
     "title": "Ninja Kamui",
@@ -3126,6 +3142,51 @@
     ],
     "year": 2019,
     "picture": "https://cdn.anime-planet.com/anime/primary/niru-kajitsu-kilmer-1.webp"
+  },
+  {
+    "title": "Niwatori Fighter",
+    "episodes": 3,
+    "type": "TV",
+    "status": "ONGOING",
+    "tags": [
+      "action",
+      "adventure",
+      "alien",
+      "animal protagonist",
+      "animal protagonists",
+      "animals",
+      "anthropomorphic",
+      "based on a manga",
+      "birds",
+      "body horror",
+      "cgi",
+      "chickens",
+      "comedy",
+      "death of a loved one",
+      "demon",
+      "demons",
+      "hero of strong character",
+      "japanese production",
+      "kaiju",
+      "male protagonist",
+      "manga",
+      "netorare",
+      "non-human protagonists",
+      "parody",
+      "revenge",
+      "robots & android",
+      "science-fiction",
+      "seinen",
+      "speculative fiction",
+      "super power",
+      "supernatural",
+      "surreal comedy",
+      "urban",
+      "urban fantasy",
+      "yakuza"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1666/150983.jpg"
   },
   {
     "title": "Ookami Kodomo no Ame to Yuki",
@@ -3292,7 +3353,7 @@
       "unrequited love"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/1415/102477.jpg"
+    "picture": "https://myanimelist.net/images/anime/1415/102477.jpg"
   },
   {
     "title": "Papa no Iukoto wo Kikinasai!",
@@ -3438,7 +3499,7 @@
       "violence"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1884/131748.jpg"
+    "picture": "https://myanimelist.net/images/anime/1884/131748.jpg"
   },
   {
     "title": "Ryuu to Sobakasu no Hime",
@@ -3498,7 +3559,7 @@
       "virtual world"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1081/115716.jpg"
+    "picture": "https://myanimelist.net/images/anime/1081/115716.jpg"
   },
   {
     "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
@@ -3868,7 +3929,7 @@
       "wordplay"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1360/119608.jpg"
+    "picture": "https://myanimelist.net/images/anime/1360/119608.jpg"
   },
   {
     "title": "Sora yori mo Tooi Basho",
@@ -3877,6 +3938,7 @@
     "status": "FINISHED",
     "tags": [
       "3d cg animation",
+      "acting",
       "adventure",
       "antarctic",
       "antarctica",
@@ -3891,6 +3953,7 @@
       "comedy",
       "coming of age",
       "crunchyroll co-production",
+      "cute girls doing cute things",
       "death of a loved one",
       "drama",
       "drastic change of life",
@@ -3931,6 +3994,7 @@
       "school",
       "school life",
       "seinen",
+      "ships",
       "singapore",
       "slapstick",
       "slice of life",
@@ -3960,7 +4024,9 @@
       "anachronisms",
       "aristocracy",
       "aromantic",
+      "asexual",
       "autumn",
+      "award winning",
       "based on a manga",
       "boy meets girl",
       "calling your attacks",
@@ -4019,6 +4085,7 @@
       "kuudere",
       "large breasts",
       "large-scale war",
+      "lgbtq+ themes",
       "long time span",
       "magic",
       "magic circles",
@@ -4083,53 +4150,87 @@
       "winter"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg"
+    "picture": "https://myanimelist.net/images/anime/1015/138006.jpg"
   },
   {
     "title": "Sousou no Frieren 2nd Season",
     "episodes": 10,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "adventure",
+      "alcohol",
+      "anachronisms",
       "aromantic",
       "asexual",
       "based on a manga",
+      "calling your attacks",
+      "coastal",
       "comedy",
       "death of a loved one",
+      "demons",
       "dragons",
       "drama",
+      "eating of humans",
+      "economics",
       "elf",
       "elves",
-      "episodic",
       "fantasy",
       "female protagonist",
       "fictional location",
       "fishing",
+      "flying",
       "found family",
-      "heterosexual",
+      "funny expressions",
+      "helpful",
       "high fantasy",
       "historical",
       "iyashikei",
       "japanese production",
+      "jealousy",
+      "journey",
+      "long time span",
       "magic",
+      "magic circles",
       "manga",
       "medieval",
+      "medieval european aesthetic",
+      "medium breasts",
       "middle ages",
+      "mutilation",
       "non-human protagonists",
       "philosophy",
       "place",
+      "running gag",
+      "rural",
+      "season",
       "sequel",
       "shounen",
       "slice of life",
+      "slow-paced",
+      "small breasts",
+      "snowscape",
       "speculative fiction",
+      "spellcasting",
+      "strong female lead",
       "swordplay",
       "swords & co",
+      "teamwork",
+      "the effects of time and distance on human relationships",
+      "time",
       "time skip",
-      "travel"
+      "tragedy",
+      "travel",
+      "tropes",
+      "urban",
+      "violence",
+      "visible aura",
+      "warrior",
+      "wilderness",
+      "winter"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1921/154528.jpg"
+    "picture": "https://myanimelist.net/images/anime/1921/154528.jpg"
   },
   {
     "title": "Summertime Render",
@@ -4237,7 +4338,7 @@
       "violence"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1120/120796.jpg"
+    "picture": "https://myanimelist.net/images/anime/1120/120796.jpg"
   },
   {
     "title": "Tekken: Bloodline",
@@ -5308,6 +5409,6 @@
       "tragedy"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1229/142648.jpg"
+    "picture": "https://myanimelist.net/images/anime/1229/142648.jpg"
   }
 ]

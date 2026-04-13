@@ -146,7 +146,7 @@
       "youkai"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/42005.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/42005.jpg"
   },
   {
     "title": "Ao no Exorcist: Kyoto Fujouou-hen",
@@ -348,7 +348,7 @@
       "youkai"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1617/144043.jpg"
+    "picture": "https://myanimelist.net/images/anime/1617/144043.jpg"
   },
   {
     "title": "Ayakashi Triangle",
@@ -851,7 +851,7 @@
       "violence"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/1661/114954.jpg"
+    "picture": "https://myanimelist.net/images/anime/1661/114954.jpg"
   },
   {
     "title": "Fukigen na Mononokean",
@@ -916,7 +916,7 @@
       "youkai"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/80009.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/80009.jpg"
   },
   {
     "title": "Fukigen na Mononokean Tsuzuki",
@@ -992,7 +992,7 @@
       "youkai"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1298/111600.jpg"
+    "picture": "https://myanimelist.net/images/anime/1298/111600.jpg"
   },
   {
     "title": "Gensoumaden Saiyuuki",
@@ -1037,7 +1037,7 @@
       "travel"
     ],
     "year": 2000,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/75282.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/75282.jpg"
   },
   {
     "title": "Haunted Junction",
@@ -1142,7 +1142,7 @@
       "yuruani?"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/29163.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/29163.jpg"
   },
   {
     "title": "Honto ni Atta! Reibai Sensei: Gyakushuu no Kurage.",
@@ -1541,13 +1541,13 @@
       "violence"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1190/137716.jpg"
+    "picture": "https://myanimelist.net/images/anime/1190/137716.jpg"
   },
   {
     "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
     "episodes": 12,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "angst",
@@ -1555,12 +1555,10 @@
       "battle royale",
       "bisexual",
       "body sharing",
-      "boys' love",
       "comedy",
       "contemporary fantasy",
       "curse",
       "curses",
-      "cute boys doing cute things",
       "dark fantasy",
       "death game",
       "demon",
@@ -1569,40 +1567,49 @@
       "ensemble cast",
       "exorcism",
       "exorcists",
+      "factions",
       "fantasy",
-      "femboy",
       "gambling",
       "gore",
       "horror",
       "japan",
       "japanese production",
-      "lgbtq+ themes",
       "magic",
       "male protagonist",
       "martial arts",
       "monster",
       "monsters",
+      "mystery",
+      "nudity",
       "philosophy",
       "present",
+      "primarily male cast",
       "primarily teen cast",
+      "psychological",
       "rotoscoping",
       "school",
-      "school life",
       "sequel",
       "shounen",
+      "sorcery",
+      "spirits",
       "super power",
       "supernatural",
+      "superpowers",
+      "surreal comedy",
       "survival",
       "swordplay",
       "swords & co",
+      "thriller",
+      "tournament",
       "tragedy",
+      "transformations",
       "transgender",
       "urban",
       "urban fantasy",
       "violence"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1659/154920.jpg"
+    "picture": "https://myanimelist.net/images/anime/1659/154920.jpg"
   },
   {
     "title": "Kekkaishi",
@@ -1660,7 +1667,7 @@
       "youkai"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/75191.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/75191.jpg"
   },
   {
     "title": "Ling Qi 2",
@@ -1976,7 +1983,7 @@
       "urban fantasy"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1228/125011.jpg"
+    "picture": "https://myanimelist.net/images/anime/1228/125011.jpg"
   },
   {
     "title": "Mob Psycho 100: Reigen - Shirarezaru Kiseki no Reinouryokusha",
@@ -2017,7 +2024,7 @@
       "youkai"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/89331.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/89331.jpg"
   },
   {
     "title": "Mononoke",
@@ -2125,7 +2132,7 @@
       "zashiki-warashi"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/20713.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/20713.jpg"
   },
   {
     "title": "Mononoke Movie 1: Karakasa",
@@ -2141,6 +2148,7 @@
       "cosmic horror",
       "court politics",
       "demon",
+      "edo period",
       "exorcism",
       "exorcists",
       "fantasy",
@@ -2214,6 +2222,7 @@
       "original work",
       "politics",
       "pregnancy",
+      "primarily adult cast",
       "psychological",
       "psychological drama",
       "royal affairs",
@@ -2462,7 +2471,7 @@
       "youkai"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/1689/94850.jpg"
+    "picture": "https://myanimelist.net/images/anime/1689/94850.jpg"
   },
   {
     "title": "Onmyou Kaiten Re:Birth",
@@ -2542,6 +2551,7 @@
       "genius",
       "ghost",
       "ghost stories",
+      "heian period",
       "hero of strong character",
       "historical",
       "japanese mythology",
@@ -2564,7 +2574,7 @@
       "youkai"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1757/139317.jpg"
+    "picture": "https://myanimelist.net/images/anime/1757/139317.jpg"
   },
   {
     "title": "Saikyou Onmyouji no Isekai Tenseiki",
@@ -3418,6 +3428,6 @@
       "youkai"
     ],
     "year": 1994,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/87489.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/87489.jpg"
   }
 ]

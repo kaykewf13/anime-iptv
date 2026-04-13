@@ -27,6 +27,7 @@
       "detective",
       "dialogue driven",
       "drama",
+      "educational",
       "ensemble cast",
       "entertainment industry",
       "episodic",
@@ -121,7 +122,6 @@
       "coming of age",
       "coming-of-age",
       "conspiracy",
-      "cosplay",
       "crime",
       "daily life",
       "dancing",
@@ -196,6 +196,76 @@
     ],
     "year": 2024,
     "picture": "https://cdn.myanimelist.net/images/anime/1006/143302.jpg"
+  },
+  {
+    "title": "[Oshi no Ko] 3rd Season",
+    "episodes": 11,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "acting",
+      "anti-hero",
+      "asia",
+      "based on a manga",
+      "bullying",
+      "comedy",
+      "coming-of-age",
+      "conspiracy",
+      "cosplay",
+      "crime",
+      "detective",
+      "drama",
+      "earth",
+      "educational",
+      "ensemble cast",
+      "entertainment industry",
+      "female protagonist",
+      "filmmaking",
+      "heterosexual",
+      "idol",
+      "idols",
+      "inspiration",
+      "japan",
+      "japanese production",
+      "male protagonist",
+      "manga",
+      "mental health",
+      "music",
+      "mystery",
+      "non-linear narrative",
+      "otaku culture",
+      "performing arts",
+      "place",
+      "plot continuity",
+      "politics",
+      "present",
+      "psychological",
+      "reincarnation",
+      "revenge",
+      "school",
+      "seinen",
+      "self-discovery",
+      "sequel",
+      "showbiz",
+      "siblings",
+      "slice of life",
+      "social commentary",
+      "social media",
+      "social stigma",
+      "supernatural",
+      "the arts",
+      "time",
+      "tragedy",
+      "trauma",
+      "tsundere",
+      "twins",
+      "urban fantasy",
+      "vtuber",
+      "workplace",
+      "writing"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1979/153329.jpg"
   },
   {
     "title": "Anne Shirley",
@@ -566,7 +636,7 @@
       "youkai"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1617/144043.jpg"
+    "picture": "https://myanimelist.net/images/anime/1617/144043.jpg"
   },
   {
     "title": "Ao no Hako",
@@ -644,6 +714,27 @@
     ],
     "year": null,
     "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34229-533816337.1734904667.jpg"
+  },
+  {
+    "title": "BEASTARS",
+    "episodes": 0,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "action",
+      "anthropomorphs",
+      "coming-of-age",
+      "crime",
+      "drama",
+      "fantasy",
+      "gangs",
+      "love polygon",
+      "psychological",
+      "romance",
+      "school"
+    ],
+    "year": 2026,
+    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38167-2913206616.1770875967.jpg"
   },
   {
     "title": "BEASTARS",
@@ -766,7 +857,7 @@
       "wolves"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1097/109646.jpg"
+    "picture": "https://myanimelist.net/images/anime/1097/109646.jpg"
   },
   {
     "title": "Blue Exorcist",
@@ -967,7 +1058,7 @@
       "weekly shounen jump"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/85221.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/85221.jpg"
   },
   {
     "title": "Boku no Hero Academia 3rd Season",
@@ -1424,7 +1515,7 @@
       "winter"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1545/133887.jpg"
+    "picture": "https://myanimelist.net/images/anime/1545/133887.jpg"
   },
   {
     "title": "Boku no Kokoro no Yabai Yatsu 2nd Season",
@@ -1616,7 +1707,7 @@
       "zombies"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg"
+    "picture": "https://myanimelist.net/images/anime/1806/126216.jpg"
   },
   {
     "title": "Chainsaw Man Movie: Reze-hen",
@@ -1686,6 +1777,7 @@
       "shounen",
       "spearplay",
       "speculative fiction",
+      "super power",
       "superhumans",
       "supernatural",
       "superpowers",
@@ -1784,7 +1876,7 @@
       "youkai"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1721/149001.jpg"
+    "picture": "https://myanimelist.net/images/anime/1721/149001.jpg"
   },
   {
     "title": "Fate/stay night Movie: Heaven's Feel - I. Presage Flower",
@@ -2196,7 +2288,7 @@
       "zero to hero"
     ],
     "year": 2000,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/86334.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/86334.jpg"
   },
   {
     "title": "Honey Lemon Soda",
@@ -2235,7 +2327,7 @@
       "urban"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1382/144602.jpg"
+    "picture": "https://myanimelist.net/images/anime/1382/144602.jpg"
   },
   {
     "title": "Howl no Ugoku Shiro",
@@ -2327,6 +2419,7 @@
       "adventure",
       "alternative present",
       "alternative world",
+      "amnesia",
       "animals",
       "anthropomorphism",
       "anti-hero",
@@ -2813,6 +2906,7 @@
       "superpowers",
       "swordplay",
       "swords & co",
+      "taisho era",
       "taishou era",
       "taishou period",
       "teamwork",
@@ -2873,12 +2967,13 @@
       "superpowers",
       "swordplay",
       "swords & co",
+      "taisho era",
       "taishou era",
       "thriller",
       "tragedy"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1565/142711.jpg"
+    "picture": "https://myanimelist.net/images/anime/1565/142711.jpg"
   },
   {
     "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
@@ -3075,7 +3170,7 @@
       "weekly shounen jump"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1065/118763.jpg"
+    "picture": "https://myanimelist.net/images/anime/1065/118763.jpg"
   },
   {
     "title": "Kimetsu no Yaiba: Yuukaku-hen",
@@ -3420,7 +3515,7 @@
       "warring states period"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/39511.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/39511.jpg"
   },
   {
     "title": "Kingdom 2nd Season",
@@ -3475,7 +3570,7 @@
       "warring states period"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/53589.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/53589.jpg"
   },
   {
     "title": "Look Back",
@@ -3667,7 +3762,7 @@
     "title": "Medalist 2nd Season",
     "episodes": 9,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "athletics",
       "based on a manga",
@@ -3699,7 +3794,7 @@
       "winter sports"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1828/155038.jpg"
+    "picture": "https://myanimelist.net/images/anime/1828/155038.jpg"
   },
   {
     "title": "MF Ghost",
@@ -4048,7 +4143,7 @@
       "urban fantasy"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1228/125011.jpg"
+    "picture": "https://myanimelist.net/images/anime/1228/125011.jpg"
   },
   {
     "title": "Mononogatari",
@@ -4495,7 +4590,7 @@
       "working life"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1530/117776.jpg"
+    "picture": "https://myanimelist.net/images/anime/1530/117776.jpg"
   },
   {
     "title": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
@@ -4974,6 +5069,67 @@
     "picture": "https://cdn.anime-planet.com/anime/primary/scott-pilgrim-takes-off-1.webp"
   },
   {
+    "title": "Seihantai na Kimi to Boku",
+    "episodes": 12,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "asia",
+      "based on a manga",
+      "character driven",
+      "chibi",
+      "comedy",
+      "coming of age",
+      "coming-of-age",
+      "daily life",
+      "drama",
+      "earth",
+      "female protagonist",
+      "first love",
+      "friendship",
+      "funny expressions",
+      "gyaru",
+      "heterosexual",
+      "high school",
+      "iyashikei",
+      "japan",
+      "japanese production",
+      "kuudere",
+      "kyoto",
+      "male protagonist",
+      "manga",
+      "middle school",
+      "misunderstandings",
+      "mixed media",
+      "multiple couples",
+      "nara",
+      "opposites attract",
+      "osaka",
+      "photography",
+      "place",
+      "plot continuity",
+      "preaired episodes",
+      "present",
+      "primarily teen cast",
+      "romance",
+      "romantic comedy",
+      "school",
+      "school life",
+      "shounen",
+      "slapstick",
+      "slice of life",
+      "social anxiety",
+      "stoic hero",
+      "super deformed",
+      "the arts",
+      "time",
+      "urban",
+      "verbal comedy"
+    ],
+    "year": 2026,
+    "picture": "https://myanimelist.net/images/anime/1140/154457.jpg"
+  },
+  {
     "title": "Skip and Loafer",
     "episodes": 0,
     "type": "TV",
@@ -5152,6 +5308,76 @@
     ],
     "year": 2022,
     "picture": "https://cdn.myanimelist.net/images/anime/1179/119897.jpg"
+  },
+  {
+    "title": "Sono Bisque Doll wa Koi wo Suru Season 2",
+    "episodes": 12,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "asia",
+      "barefoot",
+      "based on a manga",
+      "body image",
+      "cgi",
+      "chibi",
+      "comedy",
+      "coming-of-age",
+      "cosplay",
+      "cosplaying",
+      "cross-dressing",
+      "crossdressing",
+      "earth",
+      "ecchi",
+      "educational",
+      "fashion",
+      "female protagonist",
+      "femboy",
+      "foot fetish",
+      "gender bending",
+      "gyaru",
+      "heart-warming",
+      "heroine of strong character",
+      "heterosexual",
+      "high school",
+      "ikebukuro",
+      "inspiration",
+      "iyashikei",
+      "japan",
+      "japanese production",
+      "makeup",
+      "male protagonist",
+      "manga",
+      "mixed media",
+      "modeling",
+      "nudity",
+      "otaku",
+      "otaku culture",
+      "photography",
+      "place",
+      "present",
+      "romance",
+      "romantic comedy",
+      "rotoscoping",
+      "school",
+      "school life",
+      "seinen",
+      "self-discovery",
+      "sequel",
+      "slapstick",
+      "slice of life",
+      "slide show animation",
+      "social anxiety",
+      "teamwork",
+      "time",
+      "tokyo",
+      "trauma",
+      "unrequited love",
+      "urban",
+      "verbal comedy"
+    ],
+    "year": 2025,
+    "picture": "https://cdn.myanimelist.net/images/anime/1024/150787.jpg"
   },
   {
     "title": "Sorairo Utility (TV)",
@@ -5344,26 +5570,32 @@
       "urban fantasy"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1538/148604.jpg"
+    "picture": "https://myanimelist.net/images/anime/1538/148604.jpg"
   },
   {
     "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season",
     "episodes": 13,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "adventure",
       "based on a manga",
       "comedy",
       "coming-of-age",
+      "criminal organization",
       "drama",
       "drugs",
+      "ensemble cast",
       "fan service",
       "fantasy",
+      "female protagonist",
+      "human experimentation",
       "idealism",
       "idol",
       "japanese production",
+      "kaiju",
+      "male protagonist",
       "martial arts",
       "psi-powers",
       "school",
@@ -5376,10 +5608,11 @@
       "superheroes",
       "superpowers",
       "supervillains",
+      "time skip",
       "urban"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1592/154049.jpg"
+    "picture": "https://myanimelist.net/images/anime/1592/154049.jpg"
   },
   {
     "title": "Violet Evergarden",
@@ -5575,7 +5808,7 @@
       "writing"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1667/112943.jpg"
+    "picture": "https://myanimelist.net/images/anime/1667/112943.jpg"
   },
   {
     "title": "Violet Evergarden Movie",
@@ -5649,22 +5882,6 @@
       "writing"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1825/110716.jpg"
-  },
-  {
-    "title": "You and I Are Polar Opposites",
-    "episodes": 0,
-    "type": "TV",
-    "status": "FINISHED",
-    "tags": [
-      "comedy",
-      "coming-of-age",
-      "misunderstandings",
-      "romance",
-      "school",
-      "social anxiety"
-    ],
-    "year": 2026,
-    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34083-1351604859.1761904297.jpg"
+    "picture": "https://myanimelist.net/images/anime/1825/110716.jpg"
   }
 ]

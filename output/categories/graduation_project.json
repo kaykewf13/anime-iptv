@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Boku no!",
+    "episodes": 1,
+    "type": "MOVIE",
+    "status": "FINISHED",
+    "tags": [
+      "graduation project"
+    ],
+    "year": 2025,
+    "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205840-HlXfhKPabkQY.png"
+  },
+  {
+    "title": "Heya Nikki",
+    "episodes": 1,
+    "type": "MOVIE",
+    "status": "FINISHED",
+    "tags": [
+      "graduation project"
+    ],
+    "year": 2025,
+    "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205843-fBrT8FMrFa3j.png"
+  },
+  {
+    "title": "Tulip-chan",
+    "episodes": 1,
+    "type": "MOVIE",
+    "status": "FINISHED",
+    "tags": [
+      "abstract",
+      "avant garde",
+      "graduation project",
+      "shorts"
+    ],
+    "year": 2024,
+    "picture": "https://cdn.myanimelist.net/images/anime/1495/145432.jpg"
+  },
+  {
+    "title": "Very Chubby Belly",
+    "episodes": 1,
+    "type": "MOVIE",
+    "status": "FINISHED",
+    "tags": [
+      "graduation project"
+    ],
+    "year": 2025,
+    "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207350-6pcVCP1BHls8.png"
+  },
+  {
+    "title": "Yoru no Humming",
+    "episodes": 1,
+    "type": "MOVIE",
+    "status": "FINISHED",
+    "tags": [
+      "graduation project",
+      "slice of life"
+    ],
+    "year": 2025,
+    "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207598-MZ3HKjlJxfR3.jpg"
+  }
+]

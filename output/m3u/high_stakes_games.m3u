@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: High Stakes Games
-# Total de animes na categoria: 91
+# Total de animes na categoria: 92
 # Exemplos: 15-fun de Wakaru: Tower of God, Alien Stage, Blue Lock, Blue Lock vs. U-20 Japan, Bokura no, Bokura no: Tsuisou, Btooom!, Btooom! Bakusatsu Digest, Bus Gamer, C: The Money of Soul and Possibility Control
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 High Stakes Games",Pluto TV Anime | High Stakes Games
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

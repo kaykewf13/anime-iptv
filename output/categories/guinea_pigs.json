@@ -40,6 +40,7 @@
     "type": "MOVIE",
     "status": "FINISHED",
     "tags": [
+      "adventure",
       "animal protagonists",
       "animals",
       "anthropomorphic",
@@ -53,10 +54,11 @@
       "full cgi",
       "guinea pigs",
       "kids",
-      "non-human protagonists"
+      "non-human protagonists",
+      "sci-fi"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1110/145824.jpg"
+    "picture": "https://myanimelist.net/images/anime/1110/145824.jpg"
   },
   {
     "title": "Pui Pui Molcar: Driving School",

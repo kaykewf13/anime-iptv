@@ -98,7 +98,7 @@
       "zero to hero"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/77839.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/77839.jpg"
   },
   {
     "title": "Bakuten!!",
@@ -258,7 +258,7 @@
       "writing"
     ],
     "year": 1995,
-    "picture": "https://cdn.myanimelist.net/images/anime/1600/92253.jpg"
+    "picture": "https://myanimelist.net/images/anime/1600/92253.jpg"
   },
   {
     "title": "Cat's♥Eye",
@@ -290,6 +290,8 @@
       "fashion",
       "fast-paced",
       "female protagonist",
+      "fictional location",
+      "floating island",
       "fugitive",
       "gambling",
       "game",
@@ -302,12 +304,14 @@
       "japanese production",
       "journalism",
       "law and order",
+      "lingerie",
       "mafia",
       "male protagonist",
       "manga",
       "martial arts",
       "mystery",
       "occupation and career",
+      "ocean",
       "parental abandonment",
       "place",
       "police",
@@ -338,7 +342,7 @@
       "weekly shounen jump"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1347/151708.jpg"
+    "picture": "https://myanimelist.net/images/anime/1347/151708.jpg"
   },
   {
     "title": "Guimi Zhi Zhu: Xiaochou Pian",
@@ -525,7 +529,7 @@
       "work life"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/1230/98847.jpg"
+    "picture": "https://myanimelist.net/images/anime/1230/98847.jpg"
   },
   {
     "title": "Kaleido Star: Aratanaru Tsubasa - Extra Stage",
@@ -568,7 +572,7 @@
       "urban fantasy"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/23761.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/23761.jpg"
   },
   {
     "title": "Kaleido Star: Legend of Phoenix - Layla Hamilton Monogatari",
@@ -730,7 +734,8 @@
       "school life",
       "slapstick",
       "slice of life",
-      "sports"
+      "sports",
+      "yuri"
     ],
     "year": 2024,
     "picture": "https://cdn.myanimelist.net/images/anime/1430/143526.jpg"
@@ -773,7 +778,105 @@
       "time"
     ],
     "year": 1979,
-    "picture": "https://cdn.myanimelist.net/images/anime/1217/112853.jpg"
+    "picture": "https://myanimelist.net/images/anime/1217/112853.jpg"
+  },
+  {
+    "title": "Ranma ½ (2024)",
+    "episodes": 12,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "absurdist humour",
+      "absurdity",
+      "acrobatics",
+      "action",
+      "amnesia",
+      "animal transformation",
+      "animals",
+      "arranged marriage",
+      "asia",
+      "based on a manga",
+      "bisexual",
+      "body switching",
+      "china",
+      "cohabitation",
+      "collateral damage",
+      "combat",
+      "combat sport",
+      "comedy",
+      "contemporary fantasy",
+      "crossdressing",
+      "curse",
+      "dojo",
+      "dysfunctional family",
+      "earth",
+      "ecchi",
+      "ensemble cast",
+      "episodic",
+      "family life",
+      "family without mother",
+      "fantasy",
+      "female harem",
+      "fictional location",
+      "fighting",
+      "gender bender",
+      "gender bending",
+      "gender switch",
+      "gender switching",
+      "genderbending",
+      "harem",
+      "heterosexual",
+      "ice skating",
+      "immature",
+      "important haircut",
+      "japan",
+      "japanese production",
+      "judo",
+      "karate",
+      "kendo",
+      "lethal chef",
+      "lgbtq+ themes",
+      "love polygon",
+      "love triangle",
+      "magic",
+      "magical sex shift",
+      "male harem",
+      "male protagonist",
+      "manga",
+      "martial arts",
+      "mixed gender harem",
+      "nudity",
+      "omiai",
+      "only on netflix",
+      "past",
+      "place",
+      "remake",
+      "rivalry",
+      "romance",
+      "romantic comedy",
+      "school",
+      "school life",
+      "sex change",
+      "shapeshifting",
+      "shogi",
+      "shounen",
+      "sibling rivalry",
+      "slapstick",
+      "slice of life",
+      "speculative fiction",
+      "sports",
+      "teenager",
+      "time",
+      "tomboy",
+      "transformations",
+      "tropes",
+      "tsundere",
+      "under one roof",
+      "violent retribution for accidental infringement",
+      "wrestling"
+    ],
+    "year": 2024,
+    "picture": "https://myanimelist.net/images/anime/1155/144299.jpg"
   },
   {
     "title": "Sakadachi-kun, Hashiru!",

@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Food
-# Total de animes na categoria: 535
+# Total de animes na categoria: 541
 # Exemplos: 1 Pound no Fukuin, 22/7: 8+3=?, 3-gatsu no Lion, 3-gatsu no Lion 2nd Season, 4-nin wa Sorezore Uso wo Tsuku, 91 Days: Toki no Asase/Subete no Kinou/Ashita, Mata Ashita, ACCA: 13-ku Kansatsu-ka, Ai wo Komete, Akagami no Shirayuki-hime 2nd Season, Akiba Meido Sensou
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Food",Pluto TV Anime | Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

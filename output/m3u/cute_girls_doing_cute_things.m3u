@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
 # Categoria: Cute Girls Doing Cute Things
-# Total de animes na categoria: 942
+# Total de animes na categoria: 946
 # Exemplos: 16bit Sensation: Another Layer, 180-byou de Kimi no Mimi wo Shiawase ni Dekiru ka?, 22/7, 22/7: 8+3=?, 4-nin wa Sorezore Uso wo Tsuku, 5-toubun no Hanayome Movie, A song for You! You? You!!, A-Channel, A-Channel+smile, A-Channel: +A-Channel
 #EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Cute Girls Doing Cute Things",Pluto TV Anime | Cute Girls Doing Cute Things
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8

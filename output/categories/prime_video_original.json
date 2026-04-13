@@ -37,6 +37,7 @@
       "photography",
       "present",
       "primarily adult cast",
+      "primarily female cast",
       "prime video original",
       "randomness",
       "religion",
@@ -60,13 +61,13 @@
       "yuri"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1829/145678.jpg"
+    "picture": "https://myanimelist.net/images/anime/1829/145678.jpg"
   },
   {
     "title": "Darwin Jihen",
-    "episodes": 10,
+    "episodes": 13,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "action",
       "adoption",
@@ -74,12 +75,15 @@
       "animals",
       "anthropomorphism",
       "based on a manga",
+      "cgi",
       "coming of age",
       "criminal organization",
       "drama",
       "eco-horror",
       "environmental",
+      "gore",
       "guns",
+      "heterosexual",
       "japanese production",
       "male protagonist",
       "non-human protagonists",
@@ -98,7 +102,7 @@
       "thriller"
     ],
     "year": 2026,
-    "picture": "https://cdn.myanimelist.net/images/anime/1341/152829.jpg"
+    "picture": "https://myanimelist.net/images/anime/1341/152829.jpg"
   },
   {
     "title": "Fujimoto Tatsuki 17-26",
@@ -134,6 +138,7 @@
       "heterosexual",
       "interspecies relationship",
       "japanese production",
+      "kaiju",
       "language barrier",
       "lgbtq+ themes",
       "magic",
@@ -212,7 +217,75 @@
       "workplace"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1926/145102.jpg"
+    "picture": "https://myanimelist.net/images/anime/1926/145102.jpg"
+  },
+  {
+    "title": "Kidou Senshi Gundam: GQuuuuuuX",
+    "episodes": 12,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "achronological order",
+      "action",
+      "alternate universe",
+      "asia",
+      "cgi",
+      "class struggle",
+      "conspiracy",
+      "cyberpunk",
+      "delinquent",
+      "disaster",
+      "drama",
+      "earth",
+      "ensemble cast",
+      "espionage",
+      "female protagonist",
+      "fictional location",
+      "fugitive",
+      "future",
+      "guns",
+      "heterosexual",
+      "india",
+      "isekai",
+      "japanese production",
+      "lgbtq+ themes",
+      "love triangle",
+      "mecha",
+      "meta",
+      "military",
+      "moon",
+      "multiverse",
+      "original work",
+      "other planet",
+      "outer space",
+      "parallel world",
+      "piloted robot",
+      "place",
+      "politician",
+      "politics",
+      "prime video original",
+      "real robot",
+      "real robots",
+      "robot",
+      "robots",
+      "sci fi",
+      "sci-fi",
+      "science fiction",
+      "science-fiction",
+      "space",
+      "space battles",
+      "space colony",
+      "space opera",
+      "space war",
+      "speculative fiction",
+      "super robot",
+      "swordplay",
+      "time",
+      "tragedy",
+      "universal century"
+    ],
+    "year": 2025,
+    "picture": "https://cdn.myanimelist.net/images/anime/1052/148743.jpg"
   },
   {
     "title": "Look Back",
@@ -376,7 +449,7 @@
       "violence"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1180/150596.jpg"
+    "picture": "https://myanimelist.net/images/anime/1180/150596.jpg"
   },
   {
     "title": "Ninja to Gokudou",
@@ -462,7 +535,8 @@
       "tragedy",
       "unrequited love",
       "urban fantasy",
-      "winter"
+      "winter",
+      "yuri"
     ],
     "year": 2025,
     "picture": "https://myanimelist.net/images/anime/1364/151767.jpg"

@@ -27,6 +27,7 @@
       "detective",
       "dialogue driven",
       "drama",
+      "educational",
       "ensemble cast",
       "entertainment industry",
       "episodic",
@@ -121,7 +122,6 @@
       "coming of age",
       "coming-of-age",
       "conspiracy",
-      "cosplay",
       "crime",
       "daily life",
       "dancing",
@@ -926,7 +926,7 @@
       "working life"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/1242/154058.jpg"
+    "picture": "https://myanimelist.net/images/anime/1242/154058.jpg"
   },
   {
     "title": "Chirin no Suzu",
@@ -990,13 +990,13 @@
       "wilderness"
     ],
     "year": 1978,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/80079.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/80079.jpg"
   },
   {
     "title": "Chitose-kun wa Ramune Bin no Naka",
     "episodes": 13,
     "type": "TV",
-    "status": "ONGOING",
+    "status": "FINISHED",
     "tags": [
       "adoring fan club",
       "angst",
@@ -1004,6 +1004,7 @@
       "baseball",
       "based on a light novel",
       "basketball",
+      "bullying",
       "comedy",
       "coming of age",
       "daily life",
@@ -1040,7 +1041,7 @@
       "wordplay"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1015/151233.jpg"
+    "picture": "https://myanimelist.net/images/anime/1015/151233.jpg"
   },
   {
     "title": "City The Animation",
@@ -1080,6 +1081,7 @@
       "photography",
       "present",
       "primarily adult cast",
+      "primarily female cast",
       "prime video original",
       "randomness",
       "religion",
@@ -1103,7 +1105,7 @@
       "yuri"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1829/145678.jpg"
+    "picture": "https://myanimelist.net/images/anime/1829/145678.jpg"
   },
   {
     "title": "Demi-chan wa Kataritai",
@@ -1357,7 +1359,7 @@
       "yuri"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/1288/154436.jpg"
+    "picture": "https://myanimelist.net/images/anime/1288/154436.jpg"
   },
   {
     "title": "Diabolik Lovers",
@@ -1694,7 +1696,7 @@
       "zombie"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/1522/117645.jpg"
+    "picture": "https://myanimelist.net/images/anime/1522/117645.jpg"
   },
   {
     "title": "Gakkougurashi!",
@@ -1812,7 +1814,7 @@
       "zombies"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/1798/91548.jpg"
+    "picture": "https://myanimelist.net/images/anime/1798/91548.jpg"
   },
   {
     "title": "GANTZ",
@@ -2106,7 +2108,7 @@
       "yandere"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1302/94882.jpg"
+    "picture": "https://myanimelist.net/images/anime/1302/94882.jpg"
   },
   {
     "title": "Hai to Gensou no Grimgar",
@@ -2204,7 +2206,7 @@
       "zombie"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/77976.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/77976.jpg"
   },
   {
     "title": "Helck",
@@ -2639,6 +2641,7 @@
       "adventure",
       "alternative present",
       "alternative world",
+      "amnesia",
       "animals",
       "anthropomorphism",
       "anti-hero",
@@ -2907,7 +2910,7 @@
       "world domination"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/1094/109008.jpg"
+    "picture": "https://myanimelist.net/images/anime/1094/109008.jpg"
   },
   {
     "title": "Inari, Konkon, Koi Iroha.",
@@ -3379,7 +3382,7 @@
       "yandere"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1301/110018.jpg"
+    "picture": "https://myanimelist.net/images/anime/1301/110018.jpg"
   },
   {
     "title": "Kami nomi zo Shiru Sekai",
@@ -3472,7 +3475,7 @@
       "violent retribution for accidental infringement"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/43361.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/43361.jpg"
   },
   {
     "title": "Kami nomi zo Shiru Sekai II",
@@ -3551,7 +3554,7 @@
       "wrestling"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/30030.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/30030.jpg"
   },
   {
     "title": "Kenpuu Denki Berserk",
@@ -3797,7 +3800,7 @@
       "yokohama"
     ],
     "year": 1994,
-    "picture": "https://cdn.myanimelist.net/images/anime/1793/115026.jpg"
+    "picture": "https://myanimelist.net/images/anime/1793/115026.jpg"
   },
   {
     "title": "Kono Subarashii Sekai ni Shukufuku wo!",
@@ -4280,7 +4283,7 @@
       "zombie"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/84004.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/84004.jpg"
   },
   {
     "title": "Love Lab",
@@ -4563,7 +4566,7 @@
       "youkai"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1036/121135.jpg"
+    "picture": "https://myanimelist.net/images/anime/1036/121135.jpg"
   },
   {
     "title": "Mahou Senshi Louie",
@@ -4910,7 +4913,7 @@
       "violence"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/77841.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/77841.jpg"
   },
   {
     "title": "Mahou Shoujo Nante Mou Ii desu kara. Second Season",
@@ -5600,7 +5603,7 @@
       "working life"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1530/117776.jpg"
+    "picture": "https://myanimelist.net/images/anime/1530/117776.jpg"
   },
   {
     "title": "My Daemon",
@@ -6172,7 +6175,7 @@
       "working life"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1182/138184.jpg"
+    "picture": "https://myanimelist.net/images/anime/1182/138184.jpg"
   },
   {
     "title": "Princess Tutu",
@@ -6263,6 +6266,7 @@
       "shapeshifting",
       "short episodes",
       "shoujo",
+      "shounen",
       "speculative fiction",
       "star-crossed lovers",
       "storytelling",
@@ -6759,7 +6763,7 @@
       "yandere"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/1593/122440.jpg"
+    "picture": "https://myanimelist.net/images/anime/1593/122440.jpg"
   },
   {
     "title": "Seirei Gensouki",
@@ -6849,7 +6853,7 @@
       "wardrobe malfunction"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1836/116060.jpg"
+    "picture": "https://myanimelist.net/images/anime/1836/116060.jpg"
   },
   {
     "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
@@ -6946,7 +6950,7 @@
       "winter"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1301/93586.jpg"
+    "picture": "https://myanimelist.net/images/anime/1301/93586.jpg"
   },
   {
     "title": "Selector Infected WIXOSS",
@@ -7214,7 +7218,7 @@
       "visible aura"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1715/103419.jpg"
+    "picture": "https://myanimelist.net/images/anime/1715/103419.jpg"
   },
   {
     "title": "Shinseiki Evangelion",
@@ -7235,6 +7239,7 @@
       "angels",
       "angst",
       "apocalyptic fiction",
+      "artificial intelligence",
       "asia",
       "avant garde",
       "avant-garde",
@@ -7357,7 +7362,7 @@
       "war"
     ],
     "year": 1995,
-    "picture": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg"
+    "picture": "https://myanimelist.net/images/anime/1314/108941.jpg"
   },
   {
     "title": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",
@@ -7671,7 +7676,7 @@
       "yuri"
     ],
     "year": 1997,
-    "picture": "https://cdn.myanimelist.net/images/anime/1078/95285.jpg"
+    "picture": "https://myanimelist.net/images/anime/1078/95285.jpg"
   },
   {
     "title": "Strange Dawn",
@@ -7960,7 +7965,7 @@
       "zombie"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1490/101365.jpg"
+    "picture": "https://myanimelist.net/images/anime/1490/101365.jpg"
   },
   {
     "title": "Tokyo Ghoul",
@@ -8548,7 +8553,7 @@
       "weekly shounen jump"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1830/118780.jpg"
+    "picture": "https://myanimelist.net/images/anime/1830/118780.jpg"
   },
   {
     "title": "Yoru no Yatterman",
@@ -8807,6 +8812,6 @@
       "war"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1872/140863.jpg"
+    "picture": "https://myanimelist.net/images/anime/1872/140863.jpg"
   }
 ]

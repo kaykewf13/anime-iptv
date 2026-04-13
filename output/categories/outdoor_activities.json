@@ -94,7 +94,7 @@
       "josei",
       "manga",
       "mystery",
-      "netflix original",
+      "only on netflix",
       "outdoor activities",
       "person in a strange world",
       "place",
@@ -286,7 +286,7 @@
       "violence"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/50559.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/50559.jpg"
   },
   {
     "title": "Alice Gear Aegis Expansion",
@@ -382,7 +382,7 @@
       "water sports"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1095/95063.jpg"
+    "picture": "https://myanimelist.net/images/anime/1095/95063.jpg"
   },
   {
     "title": "Arakawa Under the Bridge",
@@ -546,7 +546,7 @@
       "weaponized paper fan"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/1851/98621.jpg"
+    "picture": "https://myanimelist.net/images/anime/1851/98621.jpg"
   },
   {
     "title": "Arinko Hepo: Futari no Himitsu Kichi",
@@ -616,7 +616,7 @@
       "tourism"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/87832.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/87832.jpg"
   },
   {
     "title": "Baby Princess 3D Paradise 0 [Love]",
@@ -666,7 +666,7 @@
       "violent retribution for accidental infringement"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/1224/114633.jpg"
+    "picture": "https://myanimelist.net/images/anime/1224/114633.jpg"
   },
   {
     "title": "Baccano! Specials",
@@ -732,7 +732,7 @@
       "tragedy"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/1588/102442.jpg"
+    "picture": "https://myanimelist.net/images/anime/1588/102442.jpg"
   },
   {
     "title": "Bokura no Nanokakan Sensou",
@@ -954,18 +954,21 @@
   },
   {
     "title": "Chiikawa",
-    "episodes": 325,
+    "episodes": 330,
     "type": "TV",
     "status": "ONGOING",
     "tags": [
       "animal protagonists",
       "animals",
       "anthropomorphic",
+      "chimera",
       "comedy",
       "daily life",
       "dystopian",
       "fantasy",
       "food",
+      "found family",
+      "goblin",
       "iyashikei",
       "japanese production",
       "kids",
@@ -976,13 +979,14 @@
       "primarily child cast",
       "seinen",
       "short episodes",
+      "slapstick",
       "slice of life",
       "surreal comedy",
       "work",
       "working life"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1783/121944.jpg"
+    "picture": "https://myanimelist.net/images/anime/1783/121944.jpg"
   },
   {
     "title": "Coo: Tooi Umi kara Kita Coo",
@@ -1310,7 +1314,7 @@
       "war"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1403/146479.jpg"
+    "picture": "https://myanimelist.net/images/anime/1403/146479.jpg"
   },
   {
     "title": "Dr. Stone: Stone Wars",
@@ -1370,7 +1374,7 @@
       "weekly shounen jump"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1711/110614.jpg"
+    "picture": "https://myanimelist.net/images/anime/1711/110614.jpg"
   },
   {
     "title": "Dream Hunter Rem",
@@ -1470,7 +1474,7 @@
       "whipping"
     ],
     "year": 1985,
-    "picture": "https://cdn.myanimelist.net/images/anime/1538/94531.jpg"
+    "picture": "https://myanimelist.net/images/anime/1538/94531.jpg"
   },
   {
     "title": "Eve: Glorious Day",
@@ -1750,7 +1754,7 @@
       "winter"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1145/90880.jpg"
+    "picture": "https://myanimelist.net/images/anime/1145/90880.jpg"
   },
   {
     "title": "Golden Kamuy 3rd Season",
@@ -2057,7 +2061,7 @@
       "yandere"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1302/94882.jpg"
+    "picture": "https://myanimelist.net/images/anime/1302/94882.jpg"
   },
   {
     "title": "Hakumei to Mikochi",
@@ -2343,7 +2347,7 @@
       "wolves"
     ],
     "year": 1990,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/29878.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/29878.jpg"
   },
   {
     "title": "Heya Camp△",
@@ -2488,7 +2492,7 @@
       "wordplay"
     ],
     "year": 2025,
-    "picture": "https://cdn.myanimelist.net/images/anime/1221/148863.jpg"
+    "picture": "https://myanimelist.net/images/anime/1221/148863.jpg"
   },
   {
     "title": "Hidari no O'Clock!!",
@@ -2663,7 +2667,7 @@
   },
   {
     "title": "Holo no Graffiti",
-    "episodes": 356,
+    "episodes": 359,
     "type": "ONA",
     "status": "ONGOING",
     "tags": [
@@ -2751,11 +2755,10 @@
       "vtubers",
       "witch",
       "wordplay",
-      "working life",
-      "yuri"
+      "working life"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1259/110227.jpg"
+    "picture": "https://myanimelist.net/images/anime/1259/110227.jpg"
   },
   {
     "title": "Hotaru wa Inakatta",
@@ -2840,7 +2843,7 @@
       "wardrobe malfunction"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1216/111637.jpg"
+    "picture": "https://myanimelist.net/images/anime/1216/111637.jpg"
   },
   {
     "title": "Hyakuemu.",
@@ -3021,7 +3024,7 @@
       "working life"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1654/108801.jpg"
+    "picture": "https://myanimelist.net/images/anime/1654/108801.jpg"
   },
   {
     "title": "Kamiarizuki no Kodomo",
@@ -3060,7 +3063,7 @@
       "youkai"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1395/117591.jpg"
+    "picture": "https://myanimelist.net/images/anime/1395/117591.jpg"
   },
   {
     "title": "Karakai Jouzu no Takagi-san: Water Slide",
@@ -3219,7 +3222,7 @@
       "urban"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/8980.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/8980.jpg"
   },
   {
     "title": "Kekkon suru tte, Hontou desu ka",
@@ -3269,7 +3272,7 @@
       "workplace"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1123/154179.jpg"
+    "picture": "https://myanimelist.net/images/anime/1123/154179.jpg"
   },
   {
     "title": "Kimi wa Houkago Insomnia",
@@ -3312,6 +3315,7 @@
       "seinen",
       "slice of life",
       "slice of life drama",
+      "swimming",
       "tanned skin",
       "the arts",
       "time",
@@ -3447,7 +3451,7 @@
       "yuri"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1252/115539.jpg"
+    "picture": "https://myanimelist.net/images/anime/1252/115539.jpg"
   },
   {
     "title": "Koisuru Asteroid",
@@ -3528,7 +3532,7 @@
       "wordplay"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1142/111693.jpg"
+    "picture": "https://myanimelist.net/images/anime/1142/111693.jpg"
   },
   {
     "title": "Kozaru no Buranko",
@@ -3735,7 +3739,7 @@
       "urban fantasy"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1557/95053.jpg"
+    "picture": "https://myanimelist.net/images/anime/1557/95053.jpg"
   },
   {
     "title": "Made in Abyss",
@@ -4155,7 +4159,7 @@
       "war"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1203/134079.jpg"
+    "picture": "https://myanimelist.net/images/anime/1203/134079.jpg"
   },
   {
     "title": "Mahoutsukai no Yome Season 2",
@@ -4232,6 +4236,7 @@
     "type": "TV",
     "status": "FINISHED",
     "tags": [
+      "action",
       "alternative world",
       "archery",
       "based on a manga",
@@ -4894,7 +4899,7 @@
       "winter"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/46859.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/46859.jpg"
   },
   {
     "title": "Mushishi",
@@ -5321,7 +5326,7 @@
       "youkai"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/81755.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/81755.jpg"
   },
   {
     "title": "Natsume Yuujinchou Go Specials",
@@ -5382,6 +5387,7 @@
       "curse",
       "cute boys doing cute things",
       "daily life",
+      "deity",
       "demon",
       "dissociative identities",
       "drama",
@@ -5453,6 +5459,7 @@
       "countryside",
       "curses",
       "cute boys doing cute things",
+      "deity",
       "demon",
       "drama",
       "episodic",
@@ -5688,7 +5695,7 @@
       "volcanic eruption"
     ],
     "year": 2020,
-    "picture": "https://cdn.myanimelist.net/images/anime/1989/107335.jpg"
+    "picture": "https://myanimelist.net/images/anime/1989/107335.jpg"
   },
   {
     "title": "Non Non Biyori Movie: Vacation",
@@ -6198,7 +6205,7 @@
       "verbal comedy"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/67017.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/67017.jpg"
   },
   {
     "title": "Oni",
@@ -6377,7 +6384,7 @@
       "urban"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1501/91916.jpg"
+    "picture": "https://myanimelist.net/images/anime/1501/91916.jpg"
   },
   {
     "title": "Pokemon (2019)",
@@ -6844,6 +6851,7 @@
       "the great outdoors",
       "time",
       "treasure hunting",
+      "university",
       "wilderness",
       "work"
     ],
@@ -7144,7 +7152,7 @@
       "wordplay"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1360/119608.jpg"
+    "picture": "https://myanimelist.net/images/anime/1360/119608.jpg"
   },
   {
     "title": "Sora no Otoshimono",
@@ -7478,7 +7486,7 @@
       "visible aura"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/1551/112732.jpg"
+    "picture": "https://myanimelist.net/images/anime/1551/112732.jpg"
   },
   {
     "title": "Sora yori mo Tooi Basho",
@@ -7487,6 +7495,7 @@
     "status": "FINISHED",
     "tags": [
       "3d cg animation",
+      "acting",
       "adventure",
       "antarctic",
       "antarctica",
@@ -7501,6 +7510,7 @@
       "comedy",
       "coming of age",
       "crunchyroll co-production",
+      "cute girls doing cute things",
       "death of a loved one",
       "drama",
       "drastic change of life",
@@ -7541,6 +7551,7 @@
       "school",
       "school life",
       "seinen",
+      "ships",
       "singapore",
       "slapstick",
       "slice of life",
@@ -7776,7 +7787,7 @@
       "tsundere"
     ],
     "year": 2023,
-    "picture": "https://cdn.myanimelist.net/images/anime/1909/117482.jpg"
+    "picture": "https://myanimelist.net/images/anime/1909/117482.jpg"
   },
   {
     "title": "Taiyou no Ko Esteban",
@@ -7802,7 +7813,6 @@
       "lost civilization",
       "lost technology",
       "male protagonist",
-      "mexico",
       "mythology",
       "navy",
       "original work",
@@ -8068,7 +8078,7 @@
       "writing"
     ],
     "year": 1990,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/26765.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/26765.jpg"
   },
   {
     "title": "Tanoshii Muumin Ikka Bouken Nikki",
@@ -8118,7 +8128,7 @@
       "watercolour style"
     ],
     "year": 1991,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/11862.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/11862.jpg"
   },
   {
     "title": "Tengen Toppa Gurren Lagann",
@@ -8189,7 +8199,6 @@
       "multi-anime projects",
       "nearly almighty protagonist",
       "new",
-      "nudity",
       "off-model animation",
       "original work",
       "other planet",
@@ -8245,7 +8254,7 @@
       "wardrobe malfunction"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/5123.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/5123.jpg"
   },
   {
     "title": "The Fable",
@@ -8366,15 +8375,20 @@
       "comedy",
       "cooking",
       "creature taming",
+      "demi-humans",
       "dragons",
       "dungeon",
       "dungeons",
+      "dwarves",
       "economics",
+      "educational",
       "elf",
+      "elves",
       "fantasy",
       "food",
       "food and beverage",
       "food preparation",
+      "food science",
       "found family",
       "game elements",
       "goblin",
@@ -8600,7 +8614,7 @@
       "workplace"
     ],
     "year": 2018,
-    "picture": "https://cdn.myanimelist.net/images/anime/1193/99964.jpg"
+    "picture": "https://myanimelist.net/images/anime/1193/99964.jpg"
   },
   {
     "title": "TV Yarou Nanaana: Kaibutsu Kraken wo Oe!",
@@ -8756,7 +8770,7 @@
       "work"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/1167/155057.jpg"
+    "picture": "https://myanimelist.net/images/anime/1167/155057.jpg"
   },
   {
     "title": "Upotte!! Miatte Waratte",
@@ -8791,7 +8805,7 @@
       "the great outdoors"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/39143.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/39143.jpg"
   },
   {
     "title": "Usagi no Mofy",
@@ -9011,7 +9025,7 @@
       "work"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/78678.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/78678.jpg"
   },
   {
     "title": "Yama no Susume",
@@ -9673,7 +9687,7 @@
       "the great outdoors"
     ],
     "year": 2021,
-    "picture": "https://cdn.myanimelist.net/images/anime/1542/115070.jpg"
+    "picture": "https://myanimelist.net/images/anime/1542/115070.jpg"
   },
   {
     "title": "Yuru Camp△ Season 3",
@@ -9914,6 +9928,6 @@
       "youkai"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/79738.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/79738.jpg"
   }
 ]

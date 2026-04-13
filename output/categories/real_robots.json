@@ -324,7 +324,7 @@
       "war"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/60263.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/60263.jpg"
   },
   {
     "title": "Aldnoah.Zero Part 2",
@@ -471,7 +471,7 @@
       "war"
     ],
     "year": 1985,
-    "picture": "https://cdn.myanimelist.net/images/anime/1106/91083.jpg"
+    "picture": "https://myanimelist.net/images/anime/1106/91083.jpg"
   },
   {
     "title": "Aoki Ryuusei SPT Layzner OVA",
@@ -578,7 +578,7 @@
       "war"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/57231.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/57231.jpg"
   },
   {
     "title": "Appleseed Alpha",
@@ -681,7 +681,7 @@
       "violence"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/1519/148684.jpg"
+    "picture": "https://myanimelist.net/images/anime/1519/148684.jpg"
   },
   {
     "title": "Argento Soma",
@@ -817,7 +817,7 @@
       "shorts"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/33661.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/33661.jpg"
   },
   {
     "title": "Assemble Insert",
@@ -1764,7 +1764,7 @@
       "violence"
     ],
     "year": 1998,
-    "picture": "https://cdn.myanimelist.net/images/anime/1477/154267.jpg"
+    "picture": "https://myanimelist.net/images/anime/1477/154267.jpg"
   },
   {
     "title": "Bubblegum Crisis Tokyo 2040 (2000)",
@@ -1824,18 +1824,23 @@
       "adventure",
       "based on a light novel",
       "cgi",
+      "coastal",
       "conspiracy",
       "drama",
       "economics",
       "ensemble cast",
+      "environmental",
       "island",
       "japanese production",
+      "kaiju",
       "male protagonist",
       "mecha",
       "monsters",
+      "office lady",
       "primarily adult cast",
       "real robot",
       "real robots",
+      "rural",
       "sci fi",
       "sci-fi",
       "science-fiction",
@@ -2011,7 +2016,7 @@
       "war"
     ],
     "year": 1977,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/51471.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/51471.jpg"
   },
   {
     "title": "Choujikuu Seiki Orguss",
@@ -2129,7 +2134,7 @@
       "wartime propaganda"
     ],
     "year": 1993,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/13797.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/13797.jpg"
   },
   {
     "title": "Code Geass: Akito the Exiled",
@@ -2726,6 +2731,7 @@
     "status": "FINISHED",
     "tags": [
       "action",
+      "adoption",
       "adventure",
       "air combat",
       "aliens",
@@ -2733,6 +2739,8 @@
       "angel",
       "angels",
       "angst",
+      "anthropomorphism",
+      "arranged marriage",
       "boy meets girl",
       "call my name",
       "car chases",
@@ -2746,10 +2754,14 @@
       "european stylised",
       "fantasy",
       "female protagonist",
+      "fugitive",
       "gunfights",
+      "guns",
       "japanese production",
+      "kaiju",
       "kidnapping",
       "lost technology",
+      "love triangle",
       "magic",
       "male protagonist",
       "mecha",
@@ -2762,6 +2774,7 @@
       "place",
       "plot twists",
       "power suit",
+      "primarily teen cast",
       "real robot",
       "real robots",
       "robots",
@@ -2777,6 +2790,7 @@
       "steampunk",
       "super robots",
       "the power of love",
+      "travel",
       "tropes",
       "typhoon",
       "under one roof",
@@ -2833,6 +2847,7 @@
       "bullying",
       "castaway",
       "cgi",
+      "class struggle",
       "colour coded",
       "concentration camp",
       "corrupt nobility",
@@ -3013,7 +3028,7 @@
       "urban"
     ],
     "year": 1987,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/51885.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/51885.jpg"
   },
   {
     "title": "Divergence Eve",
@@ -3124,7 +3139,7 @@
       "super robot"
     ],
     "year": 1986,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/72412.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/72412.jpg"
   },
   {
     "title": "Dragon Ball Movie 4: Saikyou e no Michi",
@@ -3408,7 +3423,7 @@
       "urban"
     ],
     "year": 1989,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/76054.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/76054.jpg"
   },
   {
     "title": "Flag",
@@ -4349,7 +4364,7 @@
       "war"
     ],
     "year": 1985,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/6391.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/6391.jpg"
   },
   {
     "title": "Ginga Teikoku no Metsubou Gaiden: Aoki Ookami-tachi no Densetsu",
@@ -4383,7 +4398,7 @@
       "yaoi"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/26018.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/26018.jpg"
   },
   {
     "title": "Ginsoukikou Ordian",
@@ -4413,7 +4428,7 @@
       "war"
     ],
     "year": 2000,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/15415.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/15415.jpg"
   },
   {
     "title": "Guilty Crown",
@@ -4563,7 +4578,7 @@
       "supernatural drama"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/34931.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/34931.jpg"
   },
   {
     "title": "Guilty Crown: Lost Christmas - An Episode of Port Town",
@@ -4613,7 +4628,7 @@
       "visual novel"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/80010.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/80010.jpg"
   },
   {
     "title": "Gulliver no Uchuu Ryokou",
@@ -4715,7 +4730,7 @@
       "war"
     ],
     "year": 2001,
-    "picture": "https://cdn.myanimelist.net/images/anime/1550/150205.jpg"
+    "picture": "https://myanimelist.net/images/anime/1550/150205.jpg"
   },
   {
     "title": "Gundress",
@@ -4893,7 +4908,7 @@
       "time"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/9074.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/9074.jpg"
   },
   {
     "title": "Gunparade Orchestra OVA",
@@ -4989,7 +5004,7 @@
       "space battles"
     ],
     "year": 2022,
-    "picture": "https://cdn.myanimelist.net/images/anime/1495/141606.jpg"
+    "picture": "https://myanimelist.net/images/anime/1495/141606.jpg"
   },
   {
     "title": "Heavy Object",
@@ -5061,7 +5076,7 @@
       "winter"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/75940.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/75940.jpg"
   },
   {
     "title": "Heavy Object: Dai 37 Kidou Seihi Daitai - Sakusen Kiroku",
@@ -5116,7 +5131,7 @@
       "wakate animator ikusei project"
     ],
     "year": 2019,
-    "picture": "https://cdn.myanimelist.net/images/anime/1974/97417.jpg"
+    "picture": "https://myanimelist.net/images/anime/1974/97417.jpg"
   },
   {
     "title": "Heroic Age",
@@ -5203,7 +5218,7 @@
       "war"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/50435.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/50435.jpg"
   },
   {
     "title": "Hirune Hime: Shiranai Watashi no Monogatari",
@@ -5258,7 +5273,7 @@
       "witch"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/84071.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/84071.jpg"
   },
   {
     "title": "Infini-T Force",
@@ -5293,7 +5308,7 @@
       "superheroes"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/88430.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/88430.jpg"
   },
   {
     "title": "Innocent Venus",
@@ -5352,7 +5367,7 @@
       "violence"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1104/131282.jpg"
+    "picture": "https://myanimelist.net/images/anime/1104/131282.jpg"
   },
   {
     "title": "Internet Explorer: Inori Aizawa",
@@ -5501,7 +5516,7 @@
       "science-fiction"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/1099/104088.jpg"
+    "picture": "https://myanimelist.net/images/anime/1099/104088.jpg"
   },
   {
     "title": "Juusenki L-Gaim",
@@ -5605,7 +5620,7 @@
       "war"
     ],
     "year": 1987,
-    "picture": "https://cdn.myanimelist.net/images/anime/1119/94289.jpg"
+    "picture": "https://myanimelist.net/images/anime/1119/94289.jpg"
   },
   {
     "title": "Juusenki L-Gaim III: Full Metal Soldier",
@@ -5765,7 +5780,7 @@
       "wordplay"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/61435.jpg"
+    "picture": "https://myanimelist.net/images/anime/2/61435.jpg"
   },
   {
     "title": "Kiddy GiRL-AND",
@@ -6185,7 +6200,7 @@
       "zaku"
     ],
     "year": 1979,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/88524.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/88524.jpg"
   },
   {
     "title": "Kidou Senshi Gundam 00",
@@ -6606,7 +6621,7 @@
       "war"
     ],
     "year": 2011,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/42535.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/42535.jpg"
   },
   {
     "title": "Kidou Senshi Gundam F91",
@@ -6663,7 +6678,7 @@
       "war"
     ],
     "year": 1991,
-    "picture": "https://cdn.myanimelist.net/images/anime/1637/95288.jpg"
+    "picture": "https://myanimelist.net/images/anime/1637/95288.jpg"
   },
   {
     "title": "Kidou Senshi Gundam I",
@@ -6761,7 +6776,7 @@
       "war"
     ],
     "year": 1981,
-    "picture": "https://cdn.myanimelist.net/images/anime/1336/143747.jpg"
+    "picture": "https://myanimelist.net/images/anime/1336/143747.jpg"
   },
   {
     "title": "Kidou Senshi Gundam III: Meguriai Sora-hen",
@@ -6808,7 +6823,7 @@
       "war"
     ],
     "year": 1982,
-    "picture": "https://cdn.myanimelist.net/images/anime/1318/128901.jpg"
+    "picture": "https://myanimelist.net/images/anime/1318/128901.jpg"
   },
   {
     "title": "Kidou Senshi Gundam MS IGLOO 2: Juuryoku Sensen",
@@ -6903,7 +6918,7 @@
       "war"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/1897/146713.jpg"
+    "picture": "https://myanimelist.net/images/anime/1897/146713.jpg"
   },
   {
     "title": "Kidou Senshi Gundam MS IGLOO: Mokushiroku 0079",
@@ -6948,7 +6963,7 @@
       "war"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/11823.jpg"
+    "picture": "https://myanimelist.net/images/anime/1127/146711.jpg"
   },
   {
     "title": "Kidou Senshi Gundam SEED",
@@ -7535,7 +7550,7 @@
       "zaku"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/75618.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/75618.jpg"
   },
   {
     "title": "Kidou Senshi Gundam: Dai 08 MS Shoutai - Miller's Report",
@@ -7614,6 +7629,7 @@
       "place",
       "politician",
       "politics",
+      "prime video original",
       "real robot",
       "real robots",
       "robot",
@@ -7805,7 +7821,7 @@
       "yakuza"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/75879.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/75879.jpg"
   },
   {
     "title": "Kidou Senshi Gundam: The Origin",
@@ -7867,7 +7883,7 @@
       "war"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/72702.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/72702.jpg"
   },
   {
     "title": "Kidou Senshi Gundam: The Origin - Zenya Akai Suisei",
@@ -8024,7 +8040,7 @@
       "wartime propaganda"
     ],
     "year": 1993,
-    "picture": "https://cdn.myanimelist.net/images/anime/1913/102693.jpg"
+    "picture": "https://myanimelist.net/images/anime/1913/102693.jpg"
   },
   {
     "title": "Kidou Senshi Z Gundam I: Hoshi wo Tsugu Mono",
@@ -8074,7 +8090,7 @@
       "war"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/36701.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/36701.jpg"
   },
   {
     "title": "Kidou Senshi Z Gundam II: Koibito-tachi",
@@ -8128,7 +8144,7 @@
       "war"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/1183/94730.jpg"
+    "picture": "https://myanimelist.net/images/anime/1183/94730.jpg"
   },
   {
     "title": "Kidou Senshi Z Gundam III: Hoshi no Kodou wa Ai",
@@ -8177,7 +8193,7 @@
       "war"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1/1969.jpg"
+    "picture": "https://myanimelist.net/images/anime/1/1969.jpg"
   },
   {
     "title": "Kidou Senshi Zeta Gundam",
@@ -8681,7 +8697,7 @@
       "war"
     ],
     "year": 2017,
-    "picture": "https://cdn.myanimelist.net/images/anime/1472/93813.jpg"
+    "picture": "https://myanimelist.net/images/anime/1472/93813.jpg"
   },
   {
     "title": "Koukaku no Pandora",
@@ -9325,7 +9341,7 @@
       "war"
     ],
     "year": 2004,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/75505.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/75505.jpg"
   },
   {
     "title": "M3: Sono Kuroki Hagane",
@@ -9515,7 +9531,7 @@
       "tropes"
     ],
     "year": 1995,
-    "picture": "https://cdn.myanimelist.net/images/anime/1514/96093.jpg"
+    "picture": "https://myanimelist.net/images/anime/1514/96093.jpg"
   },
   {
     "title": "Macross 7 Movie: Ginga ga Ore wo Yondeiru!",
@@ -9882,7 +9898,7 @@
       "violence"
     ],
     "year": 1994,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/75807.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/75807.jpg"
   },
   {
     "title": "Macross Plus Movie Edition",
@@ -10794,7 +10810,7 @@
       "war"
     ],
     "year": 2012,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/44462.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/44462.jpg"
   },
   {
     "title": "Neppuu Kairiku Bushi Road",
@@ -10841,7 +10857,7 @@
       "war"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/56827.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/56827.jpg"
   },
   {
     "title": "Overman King Gainer",
@@ -10934,6 +10950,7 @@
       "action",
       "alien",
       "aliens",
+      "australia",
       "based on a movie",
       "cg animation",
       "cg-anime",
@@ -11017,7 +11034,7 @@
       "war"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/80753.jpg"
+    "picture": "https://myanimelist.net/images/anime/11/80753.jpg"
   },
   {
     "title": "Planetarian: Hoshi no Hito",
@@ -11110,7 +11127,7 @@
       "war"
     ],
     "year": 1996,
-    "picture": "https://cdn.myanimelist.net/images/anime/1602/97126.jpg"
+    "picture": "https://myanimelist.net/images/anime/1602/97126.jpg"
   },
   {
     "title": "Promare",
@@ -11270,7 +11287,7 @@
       "time travel"
     ],
     "year": 2005,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/28902.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/28902.jpg"
   },
   {
     "title": "RideBack",
@@ -11338,7 +11355,7 @@
       "war"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/1834/133855.jpg"
+    "picture": "https://myanimelist.net/images/anime/1834/133855.jpg"
   },
   {
     "title": "Ring of Gundam",
@@ -11419,7 +11436,7 @@
       "war"
     ],
     "year": 2001,
-    "picture": "https://cdn.myanimelist.net/images/anime/1019/144495.jpg"
+    "picture": "https://myanimelist.net/images/anime/1019/144495.jpg"
   },
   {
     "title": "Sakugan",
@@ -11475,6 +11492,7 @@
       "monster",
       "novel",
       "open-ended",
+      "parenthood",
       "parenting",
       "place",
       "plot twists",
@@ -11505,6 +11523,7 @@
       "teamwork",
       "time",
       "tragedy",
+      "transgender",
       "tropes",
       "underground",
       "video games",
@@ -11579,7 +11598,7 @@
       "urban"
     ],
     "year": 2000,
-    "picture": "https://cdn.myanimelist.net/images/anime/1641/107219.jpg"
+    "picture": "https://myanimelist.net/images/anime/1641/107219.jpg"
   },
   {
     "title": "Sakura Taisen: Ecole de Paris",
@@ -11622,7 +11641,7 @@
       "visual novel"
     ],
     "year": 2003,
-    "picture": "https://cdn.myanimelist.net/images/anime/1915/107217.jpg"
+    "picture": "https://myanimelist.net/images/anime/1915/107217.jpg"
   },
   {
     "title": "Sakura Taisen: New York",
@@ -11910,7 +11929,7 @@
       "western"
     ],
     "year": 1982,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/51455.jpg"
+    "picture": "https://myanimelist.net/images/anime/7/51455.jpg"
   },
   {
     "title": "Shin Kidou Senki Gundam Wing",
@@ -12004,7 +12023,7 @@
       "war"
     ],
     "year": 1995,
-    "picture": "https://cdn.myanimelist.net/images/anime/1732/154282.jpg"
+    "picture": "https://myanimelist.net/images/anime/1732/154282.jpg"
   },
   {
     "title": "Shin Kidou Senki Gundam Wing: Endless Waltz",
@@ -12050,7 +12069,7 @@
       "war"
     ],
     "year": 1997,
-    "picture": "https://cdn.myanimelist.net/images/anime/1724/149786.jpg"
+    "picture": "https://myanimelist.net/images/anime/1724/149786.jpg"
   },
   {
     "title": "Shin Kidou Senki Gundam Wing: Endless Waltz Tokubetsu-hen",
@@ -12121,7 +12140,7 @@
       "war"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/58637.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/58637.jpg"
   },
   {
     "title": "Shin Kidou Senki Gundam Wing: Operation Meteor",
@@ -12301,7 +12320,7 @@
       "war"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/64453.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/64453.jpg"
   },
   {
     "title": "Shirogane no Ishi: Argevollen Tokubetsu-hen - Dokuritsu Dai Hachibutai: Gekisen no Kiseki",
@@ -12478,7 +12497,7 @@
       "supernatural"
     ],
     "year": 2015,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/69369.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/69369.jpg"
   },
   {
     "title": "Sidonia no Kishi: Ai Tsumugu Hoshi",
@@ -12717,7 +12736,7 @@
       "virtual world"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/74071.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/74071.jpg"
   },
   {
     "title": "Soukihei MD Geist",
@@ -13080,7 +13099,7 @@
       "war"
     ],
     "year": 1994,
-    "picture": "https://cdn.myanimelist.net/images/anime/1212/94628.jpg"
+    "picture": "https://myanimelist.net/images/anime/1212/94628.jpg"
   },
   {
     "title": "Soukou Kihei Votoms: Koei Futatabi",
@@ -13231,7 +13250,7 @@
       "war"
     ],
     "year": 2009,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/18067.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/18067.jpg"
   },
   {
     "title": "Soukou Kihei Votoms: The Last Red Shoulder",
@@ -13513,7 +13532,7 @@
       "war"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/31163.jpg"
+    "picture": "https://myanimelist.net/images/anime/5/31163.jpg"
   },
   {
     "title": "Soukyuu no Fafner: Dead Aggressor - Right of Left",
@@ -13617,7 +13636,7 @@
       "zettai ryouiki"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/1730/133955.jpg"
+    "picture": "https://myanimelist.net/images/anime/1730/133955.jpg"
   },
   {
     "title": "Soul Link Special",
@@ -14091,7 +14110,7 @@
       "time"
     ],
     "year": 2014,
-    "picture": "https://cdn.myanimelist.net/images/anime/1753/147435.jpg"
+    "picture": "https://myanimelist.net/images/anime/1753/147435.jpg"
   },
   {
     "title": "Tetsujin 28-gou: Tanjou-hen",
@@ -14269,7 +14288,7 @@
       "slapstick"
     ],
     "year": 1997,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/2826.jpg"
+    "picture": "https://myanimelist.net/images/anime/8/2826.jpg"
   },
   {
     "title": "Tokusou Kihei Dorvack",
@@ -14347,7 +14366,7 @@
       "time manipulation"
     ],
     "year": 1988,
-    "picture": "https://cdn.myanimelist.net/images/anime/1889/143250.jpg"
+    "picture": "https://myanimelist.net/images/anime/1889/143250.jpg"
   },
   {
     "title": "Transformers 40th Anniversary Special Movie",
@@ -14539,7 +14558,7 @@
       "western animated cartoon"
     ],
     "year": 1988,
-    "picture": "https://cdn.myanimelist.net/images/anime/1437/92789.jpg"
+    "picture": "https://myanimelist.net/images/anime/1437/92789.jpg"
   },
   {
     "title": "Transformers: Generation 1",
@@ -14726,7 +14745,7 @@
       "western animated cartoon"
     ],
     "year": 1987,
-    "picture": "https://cdn.myanimelist.net/images/anime/1535/99038.jpg"
+    "picture": "https://myanimelist.net/images/anime/1535/99038.jpg"
   },
   {
     "title": "Trickster: Edogawa Ranpo \"Shounen Tanteidan\" yori",
@@ -14786,7 +14805,7 @@
       "urban"
     ],
     "year": 2016,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/81133.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/81133.jpg"
   },
   {
     "title": "Turn A Gundam",
@@ -14858,7 +14877,7 @@
       "war"
     ],
     "year": 1999,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/78330.jpg"
+    "picture": "https://myanimelist.net/images/anime/4/78330.jpg"
   },
   {
     "title": "Turn A Gundam I: Chikyuukou",
@@ -14923,7 +14942,7 @@
       "war"
     ],
     "year": 2002,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/7122.jpg"
+    "picture": "https://myanimelist.net/images/anime/12/7122.jpg"
   },
   {
     "title": "Uchuu no Senshi",
@@ -14968,7 +14987,7 @@
       "war"
     ],
     "year": 1988,
-    "picture": "https://cdn.myanimelist.net/images/anime/1611/99361.jpg"
+    "picture": "https://myanimelist.net/images/anime/1611/99361.jpg"
   },
   {
     "title": "Vandread",
@@ -15108,7 +15127,7 @@
       "violence"
     ],
     "year": 2002,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/23643.jpg"
+    "picture": "https://myanimelist.net/images/anime/13/23643.jpg"
   },
   {
     "title": "Vandread: Taidou-hen",
@@ -15161,7 +15180,7 @@
       "violence"
     ],
     "year": 2001,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/75448.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/75448.jpg"
   },
   {
     "title": "Vandread: The Second Stage",
@@ -15347,7 +15366,7 @@
       "winter"
     ],
     "year": 2007,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/79923.jpg"
+    "picture": "https://myanimelist.net/images/anime/9/79923.jpg"
   },
   {
     "title": "Video Senshi Lezarion",
@@ -15383,7 +15402,7 @@
       "war"
     ],
     "year": 1984,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/57367.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/57367.jpg"
   },
   {
     "title": "Viper's Creed",
@@ -15531,7 +15550,7 @@
       "yuri"
     ],
     "year": 2013,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/45935.jpg"
+    "picture": "https://myanimelist.net/images/anime/3/45935.jpg"
   },
   {
     "title": "Votoms Finder",
@@ -15568,7 +15587,7 @@
       "time"
     ],
     "year": 2010,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/23339.jpg"
+    "picture": "https://myanimelist.net/images/anime/10/23339.jpg"
   },
   {
     "title": "WXIII Kidou Keisatsu Patlabor",
@@ -15621,7 +15640,7 @@
       "urban"
     ],
     "year": 2002,
-    "picture": "https://cdn.myanimelist.net/images/anime/1/1290.jpg"
+    "picture": "https://myanimelist.net/images/anime/1/1290.jpg"
   },
   {
     "title": "Xabungle Graffiti",
@@ -15730,7 +15749,7 @@
       "war"
     ],
     "year": 2024,
-    "picture": "https://cdn.myanimelist.net/images/anime/1872/140863.jpg"
+    "picture": "https://myanimelist.net/images/anime/1872/140863.jpg"
   },
   {
     "title": "Zegapain",
@@ -15808,7 +15827,7 @@
       "virtual world"
     ],
     "year": 2006,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/76949.jpg"
+    "picture": "https://myanimelist.net/images/anime/6/76949.jpg"
   },
   {
     "title": "Zegapain ADP",
@@ -15968,7 +15987,7 @@
       "tropes"
     ],
     "year": 2001,
-    "picture": "https://cdn.myanimelist.net/images/anime/1159/133229.jpg"
+    "picture": "https://myanimelist.net/images/anime/1159/133229.jpg"
   },
   {
     "title": "Zone of the Enders: 2167 Idolo",
@@ -16060,6 +16079,6 @@
       "war"
     ],
     "year": 2001,
-    "picture": "https://cdn.myanimelist.net/images/anime/1099/91067.jpg"
+    "picture": "https://myanimelist.net/images/anime/1099/91067.jpg"
   }
 ]
