@@ -50,15 +50,19 @@ manifest = {
     "recent": recent,
     "types": types_count,
     "links": {
-        "anime_m3u": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/anime_channels.m3u",
-        "series_m3u": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/series_channels.m3u",
-        "master_m3u": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/master_playlist.m3u",
-        "master_m3u_validated": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/master_playlist_validated.m3u",
-        "completed_anime_series_m3u": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/completed_anime_series.m3u",
-        "grouped_completed_anime_series_m3u": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/completed_anime_series_grouped.m3u",
-        "catalog_json": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/anime_catalog.json",
-        "categories_base": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/categories/",
-        "categories_m3u_base": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/m3u/"
+        "links": {
+    "anime_m3u": "https://kaykewf13.github.io/anime-iptv/anime.m3u",
+    "series_m3u": "https://kaykewf13.github.io/anime-iptv/series.m3u",
+    "vod_series_m3u": "https://kaykewf13.github.io/anime-iptv/vod_series.m3u",
+    "master_m3u": "https://kaykewf13.github.io/anime-iptv/master.m3u",
+    "master_m3u_validated": "https://kaykewf13.github.io/anime-iptv/master_validated.m3u",
+    "completed_anime_series_m3u": "https://kaykewf13.github.io/anime-iptv/completed.m3u",
+    "grouped_completed_anime_series_m3u": "https://kaykewf13.github.io/anime-iptv/completed_grouped.m3u",
+    "top20_completed_anime_series_m3u": "https://kaykewf13.github.io/anime-iptv/top20.m3u",
+    "catalog_json": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/anime_catalog.json",
+    "categories_base": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/categories/",
+    "categories_m3u_base": "https://raw.githubusercontent.com/kaykewf13/anime-iptv/main/output/m3u/"
+}
     }
 }
 
