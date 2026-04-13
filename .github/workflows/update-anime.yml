@@ -46,8 +46,8 @@ jobs:
       - name: Download Anime Offline Database
         run: |
           curl -fL \
-            https://sourceforge.net/projects/anime-offline-database.mirror/files/latest/download \
-            -o data/anime-offline-database-minified.json
+      https://sourceforge.net/projects/anime-offline-database.mirror/files/2026-14/anime-offline-database-minified.json/download \
+      -o data/anime-offline-database-minified.json
 
       # 🔍 6. Verificar arquivo baixado
       - name: Verify downloaded database
