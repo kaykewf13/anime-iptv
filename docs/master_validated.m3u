@@ -39,6 +39,8 @@ https://pb-amiq9wz02dhco.akamaized.net/playlist.m3u8
 https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 tvg-id="alphaFunny.ru@HD" tvg-logo="https://i.ibb.co/ZcCXw5P/alphaf.png" group-title="Comedy",alpha Funny (1080p)
 https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
+#EXTINF:-1 tvg-id="alphaMoretime.ru@HD" tvg-logo="https://i.imgur.com/ibQfUr7.png" group-title="Comedy;Movies",alpha Moretime (1080p)
+https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 tvg-id="AlwaysFunnyVideos.us@SD" tvg-logo="https://i.imgur.com/vfdN5Xl.png" group-title="Series",Always Funny Videos (720p)
 https://d24l3uppudokci.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="A2.ru@SD" tvg-logo="https://i.imgur.com/NqHla2V.png" group-title="Series",Amedia 2 (576p)
@@ -87,8 +89,6 @@ https://jmp2.uk/plu-60a3d889a5b3690008dc7fe8.m3u8
 https://jmp2.uk/plu-688892172928933015abe479.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Barbie and Friends (1080p)
 https://d1xqdnwy1bo05f.cloudfront.net/barb.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Barney & Friends
-https://jmp2.uk/plu-62ac405b3874370007419b7f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Barney and Friends (720p)
 https://d3vm2nhw5t7pkh.cloudfront.net/v1/cinedigm_entertainment_corp_barneyandfriends_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Baywatch.us@US" tvg-logo="https://i.imgur.com/c2esKHg.png" group-title="Series",Baywatch (1080p)
@@ -617,8 +617,6 @@ https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
 https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSherlock.us@UK" tvg-logo="https://i.imgur.com/SL3FNcm.png" group-title="Series",Pluto TV Sherlock
 https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSitcoms.us@Germany" tvg-logo="https://images.pluto.tv/channels/62f53dc6ee9a0400071dc22b/colorLogoPNG.png" group-title="Comedy",Pluto TV Sitcoms
-https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Thrillers
 https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV True Crime
@@ -703,8 +701,6 @@ http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Serially Crime (720p)
 https://ixmediasrl-seriallycrime-1-it.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SerieMax.ci@SD" tvg-logo="https://i.imgur.com/GaRQXHT.png" group-title="Series",Serie Max
-https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Series by Pluto TV
 https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Series K Edge (1080p)
