@@ -705,8 +705,6 @@ http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Serially Crime (720p)
 https://ixmediasrl-seriallycrime-1-it.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SerieMax.ci@SD" tvg-logo="https://i.imgur.com/GaRQXHT.png" group-title="Series",Serie Max
-https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Series by Pluto TV
 https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Series K Edge (1080p)
@@ -759,8 +757,6 @@ https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8
 https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
 #EXTINF:-1 tvg-id="Survivor.us@SD" tvg-logo="https://i.imgur.com/Zz9SgY8.png" group-title="Series",Survivor (1080p)
 https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="TakeshisCastle.us@Germany" tvg-logo="https://i.imgur.com/KuK72kL.png" group-title="Comedy",Takeshi's Castle
-https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
 #EXTINF:-1 tvg-id="TelemundoTelenovelasClasicas.us@SD" tvg-logo="https://i.imgur.com/9bPcYIN.png" group-title="Series",Telemundo telenovelas clásicas
 https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
 #EXTINF:-1 tvg-id="Telenovisa43.do@SD" tvg-logo="https://i.imgur.com/iHvf3bR.png" group-title="Family;General",Telenovisa43 (720p) [Not 24/7]
