@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Volcanic Eruption
+# Total de animes na categoria: 10
+# Exemplos: Giniro no Kami no Agito, Kakugo no Susume, Kemono Friends, Kemono Friends 2, Kino no Tabi: The Beautiful World, Kino no Tabi: The Beautiful World - The Animated Series, Majutsushi Orphen, Maken Liner 0011 Henshin Seyo!, Nihon Chinbotsu 2020, Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta.
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Volcanic Eruption",Pluto TV Anime | Volcanic Eruption
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Volcanic Eruption",Anime World | Volcanic Eruption
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

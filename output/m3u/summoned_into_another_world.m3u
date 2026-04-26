@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Summoned Into Another World
+# Total de animes na categoria: 79
+# Exemplos: Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga, Arifureta Shokugyou de Sekai Saikyou, Arifureta Shokugyou de Sekai Saikyou 2nd Season, Arifureta Shokugyou de Sekai Saikyou Recap, Arifureta Shokugyou de Sekai Saikyou Season 3, Arifureta Shokugyou de Sekai Saikyou: Arifureta Yorimichi de Sekai Saikyou, Arifureta Shokugyou de Sekai Saikyou: Maboroshi no Bouken to Kiseki no Kaigou, Arifureta Shokugyou de Sekai Saikyou: Prologue, Battle Spirits: Double Drive, Chiyu Mahou no Machigatta Tsukaikata
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Summoned Into Another World",Pluto TV Anime | Summoned Into Another World
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Summoned Into Another World",Anime World | Summoned Into Another World
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Rehabilitation
+# Total de animes na categoria: 188
+# Exemplos: "Eiyuu" Kaitai, 3-gatsu no Lion, 3-gatsu no Lion 2nd Season, A.I.C.O. Incarnation, Ai Shoujo Pollyanna Story, Aishang Ta de Liyou, Alice to Zouroku, Alps no Shoujo Heidi, Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai., Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Rehabilitation",Pluto TV Anime | Rehabilitation
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Rehabilitation",Anime World | Rehabilitation
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

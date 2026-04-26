@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Kaba no Potomasu",
+    "episodes": 1,
+    "type": "MOVIE",
+    "status": "FINISHED",
+    "tags": [
+      "animal protagonists",
+      "family friendly",
+      "hippos",
+      "japanese production",
+      "kids",
+      "kodomo",
+      "non-human protagonists"
+    ],
+    "year": 1988,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/26612.jpg"
+  },
+  {
+    "title": "Kabatotto",
+    "episodes": 300,
+    "type": "TV",
+    "status": "FINISHED",
+    "tags": [
+      "animal protagonists",
+      "comedy",
+      "episodic",
+      "family friendly",
+      "hippos",
+      "japanese production",
+      "non-human protagonists",
+      "present",
+      "short episodes",
+      "slapstick",
+      "talking animals"
+    ],
+    "year": 1971,
+    "picture": "https://cdn.myanimelist.net/images/anime/1391/146215.jpg"
+  }
+]

@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Leijiverse
+# Total de animes na categoria: 52
+# Exemplos: "Uchuu Senkan Yamato" to Iu Jidai: Seireki 2202-nen no Sentaku, 1000-nen Joou: Queen Millennia, Arei no Kagami: Way to the Virgin Space, Captain Herlock, Cosmo Warrior Zero, Cosmo Warrior Zero: Marina's Special, Dai Yamato Zero-gou, DNA Sights 999.9, Ginga Tetsudou 999, Ginga Tetsudou 999 (Movie)
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Leijiverse",Pluto TV Anime | Leijiverse
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Leijiverse",Anime World | Leijiverse
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Ghost Stories
+# Total de animes na categoria: 152
+# Exemplos: 8-shaku 8-wa Kerakumeguri: Igyou Kaikitan The Animation, Ayakashi: Japanese Classic Horror, Bakemonogatari, Bakemonogatari Recap, Bihua Li De Gushi, Chagama Ondo, Chains & Rings, Chibizenji-sensei Inokori Kougiroku, Chuumon no Ooi Ryouriten (1993), Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara.
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Ghost Stories",Pluto TV Anime | Ghost Stories
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Ghost Stories",Anime World | Ghost Stories
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

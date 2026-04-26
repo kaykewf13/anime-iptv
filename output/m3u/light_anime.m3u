@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Light Anime
+# Total de animes na categoria: 13
+# Exemplos: #Kanagawa ni Sunderu Elf, Genkai OL Kirigiri Giriko, Heika Watashi wo Wasurete Kudasai, Kankin Kuiki Level X, Kankin Kuiki Level X 2nd Season, Kizu darake Seijo yori Houfuku wo Komete, Kunshu-sama ni Muneyake Short Anime, Maarui Kanojo to Zannen na Kareshi, Maarui Kanojo to Zannen na Kareshi 2nd Season, Mirai no Kuromaku-kei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Light Anime",Pluto TV Anime | Light Anime
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Light Anime",Anime World | Light Anime
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

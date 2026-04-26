@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Royal Intrigue
+# Total de animes na categoria: 35
+# Exemplos: Akatsuki no Yona, Allison to Lillia, Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga, Arslan Senki, Baraou no Souretsu, Choujikuu Seiki Orguss 02, Dragon Knight 4, Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu, Hachi-nan tte, Sore wa Nai deshou!, Heike Monogatari
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Royal Intrigue",Pluto TV Anime | Royal Intrigue
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Royal Intrigue",Anime World | Royal Intrigue
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

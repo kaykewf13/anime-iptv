@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Bendy Lasers
+# Total de animes na categoria: 39
+# Exemplos: Brave Witches, Cobra The Animation, Cobra The Animation: The Psycho-Gun, Cobra The Animation: Time Drive, Cyborg 009: Chou Ginga Densetsu, Date A Live, Dragonaut: The Resonance, Eureka Seven AO, FLCL Progressive, Gall Force 1: Eternal Story
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Bendy Lasers",Pluto TV Anime | Bendy Lasers
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Bendy Lasers",Anime World | Bendy Lasers
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

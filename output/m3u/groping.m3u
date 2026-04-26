@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Groping
+# Total de animes na categoria: 52
+# Exemplos: Aachi wa Ssipak, Aoi Hana, Bakemonogatari, Benriya Saitou-san, Isekai ni Iku, Centaur no Nayami, Citrus, Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha, Cross Ange: Tenshi to Ryuu no Rondo, Enen no Shouboutai, Fate/stay night: Unlimited Blade Works 2nd Season
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Groping",Pluto TV Anime | Groping
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Groping",Anime World | Groping
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

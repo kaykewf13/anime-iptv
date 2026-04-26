@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Cyberterrorism
+# Total de animes na categoria: 26
+# Exemplos: Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari, Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari 2nd, Alice in Cyberland, Appleseed Saga Ex Machina, Baldr Force Exe Resolution, Blade Runner: Black Out 2022, Dennou Coil, Ghost in the Shell: Arise, Innocence, Koukaku Kidoutai
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Cyberterrorism",Pluto TV Anime | Cyberterrorism
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Cyberterrorism",Anime World | Cyberterrorism
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

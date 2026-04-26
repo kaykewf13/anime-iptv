@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Autobiographical
+# Total de animes na categoria: 36
+# Exemplos: 8-gatsu no Symphony: Shibuya 2002-2003, Anne no Nikki, Aoi Bungaku Series, Araiguma Rascal, Aru Nihon no Ekaki Shounen, Ashita no Kibou: Kanashimi yo Arigatou - Takae Tsuneo Monogatari, Chibi Maruko-chan, Chocchan Monogatari, Eikoku Ikka, Nihon wo Taberu, Fuichin-san
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Autobiographical",Pluto TV Anime | Autobiographical
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Autobiographical",Anime World | Autobiographical
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

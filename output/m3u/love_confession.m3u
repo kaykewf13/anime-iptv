@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Love Confession
+# Total de animes na categoria: 17
+# Exemplos: Ame to Shoujo to Watashi no Tegami, Fumiko no Kokuhaku, HoneyWorks: Confession Rival Declaration, HoneyWorks: Roribabaa ni Koi wo Shita, Itsudatte Bokura no Koi wa 10 cm Datta., Joahae Neoreul, Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen, Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen, Kokoro Yohou, Mahou no Chocolate
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Love Confession",Pluto TV Anime | Love Confession
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Love Confession",Anime World | Love Confession
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

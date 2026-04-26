@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Animal Protagonists
+# Total de animes na categoria: 2118
+# Exemplos: (Mi) Liu, 1-ri Botchi no Ookami to 7-hiki no Ko Yagi, 10-piki no Kaeru, 100-nichikan Ikita Wani, 11-piki no Neko, 11-piki no Neko to Ahoudori, 12 Shengxiao Quanjiafu de Shenqi Shijie, 2015 Chunjie Dongman Da Lianhuan, 26 Ge Mimi, 3 Choume no Tama: Onegai! Momo-chan wo Sagashite!!
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Animal Protagonists",Pluto TV Anime | Animal Protagonists
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Animal Protagonists",Anime World | Animal Protagonists
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

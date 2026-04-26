@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Description Needs Improvement
+# Total de animes na categoria: 21
+# Exemplos: 3-gatsu no Lion 2nd Season, 5-toubun no Hanayome ∬, Another: The Other - Inga, Bai She: Yuanqi, Choegang Habche: Mix Master, Fanren Xiu Xian Zhuan: Xinghai Feichi, Goman-hiki, Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen OVA, Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen, Kamisama Kiss OVA
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Description Needs Improvement",Pluto TV Anime | Description Needs Improvement
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Description Needs Improvement",Anime World | Description Needs Improvement
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

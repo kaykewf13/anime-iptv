@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Gotta Catch Them All
+# Total de animes na categoria: 125
+# Exemplos: Aesop's World, Ai to Yuuki no Pig Girl Tonde Buurin, Akatsuki no Yona, Arata Kangatari, Bishoujo Senshi Sailor Moon, Bishoujo Senshi Sailor Moon R, Bishoujo Senshi Sailor Moon S, Bishoujo Senshi Sailor Moon SuperS, Bishoujo Senshi Sailor Moon: Sailor Stars, Blue Seed
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Gotta Catch Them All",Pluto TV Anime | Gotta Catch Them All
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Gotta Catch Them All",Anime World | Gotta Catch Them All
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

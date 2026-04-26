@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Strong Male Lead
+# Total de animes na categoria: 283
+# Exemplos: 009 Re:Cyborg, Akagami no Shirayuki-hime, Akatsuki no Yona, Akira, Angolmois: Genkou Kassenki, Ao no Exorcist, Ao no Exorcist Movie, Aoi Sekai no Chuushin de, Appleseed Alpha, Ashita no Joe
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Strong Male Lead",Pluto TV Anime | Strong Male Lead
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Strong Male Lead",Anime World | Strong Male Lead
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

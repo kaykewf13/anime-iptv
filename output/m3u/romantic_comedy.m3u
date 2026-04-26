@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Romantic Comedy
+# Total de animes na categoria: 702
+# Exemplos: 100%, 15-sai, Kyou kara Dousei Hajimemasu., 2.5-jigen no Ririsa, 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii, 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii Movie, 30-sai no Hoken Taiiku, 3D Kanojo: Real Girl, 4-ju Aein, 5-toubun no Hanayome, 5-toubun no Hanayome Movie
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Romantic Comedy",Pluto TV Anime | Romantic Comedy
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Romantic Comedy",Anime World | Romantic Comedy
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

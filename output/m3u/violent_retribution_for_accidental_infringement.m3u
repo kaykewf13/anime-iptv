@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Violent Retribution For Accidental Infringement
+# Total de animes na categoria: 428
+# Exemplos: 11eyes, 29-sai Dokushin Chuuken Boukensha no Nichijou, 5-toubun no Hanayome, _Summer, Abashiri Ikka, Abenobashi Mahou☆Shoutengai, Absolute Duo, Acchi Kocchi, Africa no Salaryman (TV), Ai Tenchi Muyou!
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Violent Retribution For Accidental Infringement",Pluto TV Anime | Violent Retribution For Accidental Infringement
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Violent Retribution For Accidental Infringement",Anime World | Violent Retribution For Accidental Infringement
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

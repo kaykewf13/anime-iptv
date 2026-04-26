@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Sudden Girlfriend Appearance
+# Total de animes na categoria: 189
+# Exemplos: "Bungaku Shoujo" Movie, 1+2=Paradise, Aa! Megami-sama!, Aa! Megami-sama! (TV), Ai Yori Aoshi, Aishen Qiaokeli-ing..., Aishen Qiaokeli-ing...II, Akaneiro ni Somaru Saka, Akikan!, Amaenaide yo!! Katsu!!
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Sudden Girlfriend Appearance",Pluto TV Anime | Sudden Girlfriend Appearance
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Sudden Girlfriend Appearance",Anime World | Sudden Girlfriend Appearance
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

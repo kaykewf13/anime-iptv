@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Astronauts
+# Total de animes na categoria: 21
+# Exemplos: Crystal Clear, DADA GAUGIN: robert de niro, Duxing Yueqiu, Futatsu no Spica, Home!, I Byeol-e Pil-yohan, Ichigo Mashimaro Episode 0, Kitz the Cat's Supermoon Adventure, Lilt, Moonlight Mile 1st Season: Lift Off
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Astronauts",Pluto TV Anime | Astronauts
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Astronauts",Anime World | Astronauts
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

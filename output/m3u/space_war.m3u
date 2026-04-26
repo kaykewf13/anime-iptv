@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Space War
+# Total de animes na categoria: 15
+# Exemplos: Kidou Senshi Gundam G40, Kidou Senshi Gundam NT, Kidou Senshi Gundam: Cucuruz Doan no Shima, Kidou Senshi Gundam: GQuuuuuuX, Kidou Senshi Gundam: GQuuuuuuX - Beginning, Kidou Senshi Gundam: Senkou no Hathaway, Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo, Kidou Senshi Gundam: Suisei no Majo - Prologue, Kidou Senshi Gundam: The Origin - Zenya Akai Suisei, Kikou Kantai Dairugger XV
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Space War",Pluto TV Anime | Space War
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Space War",Anime World | Space War
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

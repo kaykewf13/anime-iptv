@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Social Anxiety
+# Total de animes na categoria: 15
+# Exemplos: Food for the Soul, Honey Lemon Soda, Journal with Witch, Komi-san wa, Comyushou desu., Medalist, Medalist 2nd Season, Mob Psycho 100, Mob Psycho 100 II, Mob Psycho 100 III, Secrets of the Silent Witch
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Social Anxiety",Pluto TV Anime | Social Anxiety
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Social Anxiety",Anime World | Social Anxiety
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

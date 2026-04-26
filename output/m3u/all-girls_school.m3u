@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: All-Girls School
+# Total de animes na categoria: 188
+# Exemplos: 30-pun de Wakaru! Kore made no Love Live! Sunshine!!, 4-nin wa Sorezore Uso wo Tsuku, Ai Tenchi Muyou!, AIKa Zero, Akebi-chan no Sailor-fuku, Akuma no Riddle, Alice in Deadly School, Anima Yell!, Anne Happy♪, Aoi Hana
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 All-Girls School",Pluto TV Anime | All-Girls School
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 All-Girls School",Anime World | All-Girls School
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

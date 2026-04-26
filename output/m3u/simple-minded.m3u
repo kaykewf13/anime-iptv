@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Simple-Minded
+# Total de animes na categoria: 22
+# Exemplos: Bokura ga Ita, Kidou Senkan Nadesico, Kinnikuman, Kurogane no Linebarrels, Mirai Nikki (TV), Naruto, Naruto: Honoo no Chuunin Shiken! Naruto vs. Konohamaru!!, Naruto: Shippuuden, One Piece, One Piece Film: Strong World
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Simple-Minded",Pluto TV Anime | Simple-Minded
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Simple-Minded",Anime World | Simple-Minded
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

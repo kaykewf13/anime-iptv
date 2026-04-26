@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Dragons
+# Total de animes na categoria: 446
+# Exemplos: 100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season, 1001 Nights, Aikatsu!: Nerawareta Mahou no Aikatsu! Card, Akatsuki no Yona, Akatsuki no Yona OVA, Akujiki Reijou to Kyouketsu Koushaku, Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen, Akuyaku Reijou nanode Last Boss wo Kattemimashita, Akuyaku Reijou Tensei Ojisan, Alita De Shi Lian
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Dragons",Pluto TV Anime | Dragons
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Dragons",Anime World | Dragons
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

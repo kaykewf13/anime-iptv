@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Crime Fiction Comedy
+# Total de animes na categoria: 8
+# Exemplos: Fugou Keiji: Balance:Unlimited, Hakozume: Kouban Joshi no Gyakushuu, Kamonohashi Ron no Kindan Suiri, Kamonohashi Ron no Kindan Suiri 2nd Season, Layton Mystery Tanteisha: Katri no Nazotoki File, Meitantei Pikachu: Kareinaru Morning Routine, Nazotoki wa Dinner no Ato de, Taiho Shichau zo (TV)
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Crime Fiction Comedy",Pluto TV Anime | Crime Fiction Comedy
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Crime Fiction Comedy",Anime World | Crime Fiction Comedy
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

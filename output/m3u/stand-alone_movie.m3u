@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Stand-Alone Movie
+# Total de animes na categoria: 288
+# Exemplos: 100-man-nen Chikyuu no Tabi: Bander Book, 1001 Nights, 11-nin Iru!, A.LI.CE, Aachi wa Ssipak, Ai City, Airy Me, Aki no Puzzle, Akira, Ali Baba to 40-hiki no Touzoku
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Stand-Alone Movie",Pluto TV Anime | Stand-Alone Movie
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Stand-Alone Movie",Anime World | Stand-Alone Movie
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

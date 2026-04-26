@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Office Lady
+# Total de animes na categoria: 115
+# Exemplos: 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii, A Kite, ACCA: 13-ku Kansatsu-ka, Aggressive Retsuko, Aggressive Retsuko (ONA), Aggressive Retsuko (ONA) 2nd Season, Aggressive Retsuko (ONA) 3rd Season, Aggressive Retsuko (ONA) 4th Season, Aggressive Retsuko (ONA) 5th Season, Ai no Wakakusa Yama Monogatari
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Office Lady",Pluto TV Anime | Office Lady
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Office Lady",Anime World | Office Lady
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

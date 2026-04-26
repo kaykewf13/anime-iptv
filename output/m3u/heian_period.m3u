@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Heian Period
+# Total de animes na categoria: 48
+# Exemplos: Akuemon, Anju to Zushioumaru, Aterui, Benkai to Ushiwakamaru, Benkei tai Ushiwaka, Chinzei Hachirou Tametomo, Chinzei Hachirou Tametomo (2021), Chouyaku Hyakuninisshu: Uta Koi., Chouyaku Hyakuninisshu: Uta Koi. - Sake to Kikoushi: Murasaki Shikibu to Kintou, Doraemon (1979)
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Heian Period",Pluto TV Anime | Heian Period
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Heian Period",Anime World | Heian Period
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

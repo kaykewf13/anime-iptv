@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Foreign
+# Total de animes na categoria: 854
+# Exemplos: "Omae Gotoki ga Maou ni Kateru to Omouna" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai, 1001 Nights, 3x3 Eyes, 91 Days, 91 Days: Toki no Asase/Subete no Kinou/Ashita, Mata Ashita, ACCA: 13-ku Kansatsu-ka, Ace wo Nerae! 2, Ace wo Nerae! Final Stage, Agatha Christie no Meitantei Poirot to Marple, Ai no Gakkou Cuore Monogatari
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Foreign",Pluto TV Anime | Foreign
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Foreign",Anime World | Foreign
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

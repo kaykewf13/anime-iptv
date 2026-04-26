@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Racism
+# Total de animes na categoria: 99
+# Exemplos: 86, 86 Part 2, AD Police, Ai no Kusabi (2012), Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen, Arknights: Perish in Frost, Arknights: Rise from Ember, Bakumatsu no Spasibo, Beastars, Beastars 2nd Season
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Racism",Pluto TV Anime | Racism
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Racism",Anime World | Racism
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

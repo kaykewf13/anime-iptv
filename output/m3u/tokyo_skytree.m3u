@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Tokyo Skytree
+# Total de animes na categoria: 28
+# Exemplos: Alice to Zouroku, Choukadou Girl ⅙, Grisaia no Rakuen, Hinamatsuri, Honey Tokyo, Imouto sae Ireba Ii., Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku, Kandagawa Jet Girls, Lupin III vs. Meitantei Conan: The Movie, Magic Kaito
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Tokyo Skytree",Pluto TV Anime | Tokyo Skytree
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Tokyo Skytree",Anime World | Tokyo Skytree
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

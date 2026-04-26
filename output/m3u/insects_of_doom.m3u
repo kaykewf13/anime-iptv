@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Insects Of Doom
+# Total de animes na categoria: 47
+# Exemplos: .hack//Quantum, Betterman, Blue Gender, Blue Gender: The Warrior, Bouken! Iczer 3, Fanren Xiu Xian Zhuan: Xinghai Feichi, Gunbuster Movie, Heroic Age, Heroman, Hunter x Hunter (2011)
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Insects Of Doom",Pluto TV Anime | Insects Of Doom
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Insects Of Doom",Anime World | Insects Of Doom
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

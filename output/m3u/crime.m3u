@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Crime
+# Total de animes na categoria: 1372
+# Exemplos: .hack//Quantum, 009 Re:Cyborg, 100-man-nen Chikyuu no Tabi: Bander Book, 1001 Nights, 7 Seeds 2nd Season, 91 Days, 91 Days: Mijikai Rousoku, 91 Days: Toki no Asase/Subete no Kinou/Ashita, Mata Ashita, [Oshi no Ko], [Oshi no Ko] 2nd Season
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Crime",Pluto TV Anime | Crime
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Crime",Anime World | Crime
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

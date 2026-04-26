@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Heterosexual
+# Total de animes na categoria: 1801
+# Exemplos: 0-saiji Start Dash Monogatari Season 2, 1+2=Paradise, 1001 Nights, 12-sai. Kiss, Kirai, Suki, 12-sai.: Chicchana Mune no Tokimeki, 12-sai.: Chicchana Mune no Tokimeki 2nd Season, 2.5-jigen no Ririsa, 3D Kanojo: Real Girl, 3D Kanojo: Real Girl 2nd Season, 3x3 Eyes
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Heterosexual",Pluto TV Anime | Heterosexual
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Heterosexual",Anime World | Heterosexual
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Middle Eastern
+# Total de animes na categoria: 31
+# Exemplos: 1001 Nights, Afghanistan Paghman-mura no Monogatari: Boku no Mura ni Circus ga Kita, Afghanistan Paghman-mura no Monogatari: Sekaiichi Utsukushii Boku no Mura, Ahiru no Pekkle no Aladdin to Mahou no Lamp, Ahiru no Pekkle no Sindbad no Bouken, Ali Baba to 40-hiki no Touzoku, Arabian Night: Sindbad no Bouken, Arabian Nights: Sindbad no Bouken (TV), Arslan Senki, Arslan Senki (TV)
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Middle Eastern",Pluto TV Anime | Middle Eastern
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Middle Eastern",Anime World | Middle Eastern
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

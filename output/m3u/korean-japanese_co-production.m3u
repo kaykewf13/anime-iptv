@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Korean-Japanese Co-Production
+# Total de animes na categoria: 10
+# Exemplos: Annyeong, Tyrano: Yeong-wonhi, Hamkke, Cocomong 3, Dae Jang Geum: Jang Geum's Dream, Dae Jang Geum: Jang Geum's Dream 2, Hello Kitty no Stump Village, Kami no Tou, Kick Off 2002, Noblesse: Awakening, Run=Dim, Shin Angyo Onshi
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Korean-Japanese Co-Production",Pluto TV Anime | Korean-Japanese Co-Production
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Korean-Japanese Co-Production",Anime World | Korean-Japanese Co-Production
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

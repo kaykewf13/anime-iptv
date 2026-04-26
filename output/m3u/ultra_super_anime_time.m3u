@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Ultra Super Anime Time
+# Total de animes na categoria: 14
+# Exemplos: Hacka Doll The Animation, Kagewani, Kagewani: Shou, Kanojo to Kanojo no Neko: Everything Flows, Kono Danshi, Mahou ga Oshigoto desu., Miss Monochrome The Animation 2, Miss Monochrome The Animation 3, Oshiete! Galko-chan, Puchimas!: Petit iDOLM@STER, Sekkou Boys
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Ultra Super Anime Time",Pluto TV Anime | Ultra Super Anime Time
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Ultra Super Anime Time",Anime World | Ultra Super Anime Time
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

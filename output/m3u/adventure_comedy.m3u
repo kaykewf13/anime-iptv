@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Adventure Comedy
+# Total de animes na categoria: 95
+# Exemplos: A Tang Qi Yu, Annyeong Jadoo Movie, Bei Ken Xiong: Huoxing Renwu, Chinkoroheibei Tamatebako, Crayon Shin-chan Movie 17: Otakebe! Kasukabe Yasei Oukoku, Dungeon Meshi, Dungeon no Naka no Hito, Fukusuke, Fushigi no Kuni no Miyuki-chan, Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Adventure Comedy",Pluto TV Anime | Adventure Comedy
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Adventure Comedy",Anime World | Adventure Comedy
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

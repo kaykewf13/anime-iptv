@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Skiing
+# Total de animes na categoria: 22
+# Exemplos: 5-toubun no Hanayome, Azuki-chan the Movie, Blend S, Cat's♥Eye, Cat's♥Eye 2nd Season, Dosanko Gal wa Namara Menkoi, Eikou e no Spur: Igaya Chiharu Monogatari, Futari Ecchi, Hana yori Dango, Kyoufu Shinbun (2014)
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Skiing",Pluto TV Anime | Skiing
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Skiing",Anime World | Skiing
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

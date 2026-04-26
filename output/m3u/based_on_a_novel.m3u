@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Based On A Novel
+# Total de animes na categoria: 586
+# Exemplos: 77Danui Bimil, 8-gatsu no Symphony: Shibuya 2002-2003, Agatha Christie no Meitantei Poirot to Marple, Ai no Gakkou Cuore Monogatari, Ai no Wakakusa Monogatari, Ai Shoujo Pollyanna Story, Akage no Anne, Akage no Anne Specials, Akage no Anne: Green Gables e no Michi, Alps Monogatari: Watashi no Annette
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Based On A Novel",Pluto TV Anime | Based On A Novel
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Based On A Novel",Anime World | Based On A Novel
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

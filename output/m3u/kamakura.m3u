@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Kamakura
+# Total de animes na categoria: 18
+# Exemplos: Aoi Hana, Bokura no, Deimos no Hanayome: Ran no Kumikyoku, Demi-chan wa Kataritai, Elfen Lied, Genjitsu no Yohane: Sunshine in the Mirror, Kashou no Tsuki: Aki Kyougen, Konohana Kitan, Minami Kamakura Koukou Joshi Jitensha-bu, Nazo no Kanojo X
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Kamakura",Pluto TV Anime | Kamakura
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Kamakura",Anime World | Kamakura
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

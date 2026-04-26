@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Amusement Park
+# Total de animes na categoria: 23
+# Exemplos: Aa! Megami-sama! (2011), Amagi Brilliant Park, Amagi Brilliant Park: Wakuwaku Mini Theater - Rakugaki Backstage, Cinnamon no Parade, Delicious Party♡Precure Movie: Yume Miru Oko-sama Lunch!, Fake Land, Hanaukyou Maid-tai OVA, Kobe to Watashi, Korakuen Yuuenchi: Luna Park, Licca-chan Fushigi na Mahou no Ring
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Amusement Park",Pluto TV Anime | Amusement Park
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Amusement Park",Anime World | Amusement Park
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

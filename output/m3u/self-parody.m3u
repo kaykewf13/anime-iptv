@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Self-Parody
+# Total de animes na categoria: 104
+# Exemplos: Animegataris, Arifureta Shokugyou de Sekai Saikyou, Bakuen Campus Guardress, Bikini Warriors, Buta no Liver wa Kanetsu Shiro, Carnival Phantasm, Chiyu Mahou no Machigatta Tsukaikata, Choukadou Girl ⅙, Code Geass: Hangyaku no Lelouch - Nunnally in Wonderland, Da Li Si Rizhi
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Self-Parody",Pluto TV Anime | Self-Parody
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Self-Parody",Anime World | Self-Parody
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

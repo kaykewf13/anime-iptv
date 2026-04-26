@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Doujinshi
+# Total de animes na categoria: 155
+# Exemplos: 40meterP: Do Re Mi Fa Rondo, 40meterP: Going My Way, 40meterP: Hachigatsu no Kaze, 40meterP: Heartbreak Headline, 40meterP: Heartbreak Monochrome, 40meterP: Junjou Skirt, 40meterP: Kokoro＊Palette, 40meterP: Kotoba no Uta, 40meterP: Laying Down in the Middle of Tokyo, 40meterP: Rain and Asphalt
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Doujinshi",Pluto TV Anime | Doujinshi
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Doujinshi",Anime World | Doujinshi
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Fan-Made
+# Total de animes na categoria: 8
+# Exemplos: Gensou Mangekyou: The Memories of Phantasm, Hifuu Katsudou Kiroku: The Sealed Esoteric History, Touhou Niji Sousaku Doujin Anime: Musou Kakyou, Touhou PVD, Touhou PVD 2, Touhou PVD 3, Touhou PVD 4, Touhou PVD 5
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Fan-Made",Pluto TV Anime | Fan-Made
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Fan-Made",Anime World | Fan-Made
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Educational
+# Total de animes na categoria: 975
+# Exemplos: 100% Renewable Energy, 12 Zhi Wenzi He 5 Geren, 2.43 Mini Anime: Fukui-ben Kouza, 2.43 Mini Anime: Volleyball Kouza, 2.43: Seiin Koukou Danshi Volley-bu, 21-seiki Manga Hajimete Monogatari, 21-seiki wa Minna ga Shuyaku, 25-fun de Wakaru Tegata Kogitte no Hanashi, 3-bu de Wakaru Koizumi Yakumo no Kaidan Episode 0: Koizumi Yakumo, 3-gatsu no Lion: Ugoku! Nya Shogi
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Educational",Pluto TV Anime | Educational
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Educational",Anime World | Educational
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

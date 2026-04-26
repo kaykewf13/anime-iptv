@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Wuxia
+# Total de animes na categoria: 165
+# Exemplos: 4-nin wa Sorezore Uso wo Tsuku, Ao no Exorcist, Bai Lian Cheng Shen, Bai Lian Cheng Shen 2, Bai She: Yuanqi, Biao Ren, Bu Xing Si: Yuanqi, Cang Yuan Tu, Chuan Shu Zijiu Zhinan, Dadao Chaotian
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Wuxia",Pluto TV Anime | Wuxia
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Wuxia",Anime World | Wuxia
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

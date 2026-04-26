@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
+# Categoria: Australia
+# Total de animes na categoria: 29
+# Exemplos: Choukadou Girl ⅙, ef: A Tale of Melodies., ef: A Tale of Memories., Free!, Free! Eternal Summer, Full Metal Panic! Invisible Victory, Gall Force: Chikyuu Shou, Gekijouban Free! The Final Stroke, Gekijouban Free! Timeless Medley, Glass no Hana to Kowasu Sekai
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Australia",Pluto TV Anime | Australia
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
+#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Australia",Anime World | Australia
+https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8
