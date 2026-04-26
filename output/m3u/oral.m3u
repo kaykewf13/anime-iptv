@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Oral
-# Total de animes na categoria: 14
-# Exemplos: 3-byougo, Yajuu. Goukon de Sumi ni Ita Kare wa Nikushoku deshita, A Kite, Advancer Tina, After... The Animation, Ai Shimai 2: Futari no Kajitsu, Ai Shimai: Futari no Kajitsu, Ai wa Kagi no Kazu dake... Fuuzoku Mansion, Dragon Knight 4, Hitozuma no Kuchibiru wa Kan Chuuhai no Aji ga Shite, Kage (OVA)
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Oral",Pluto TV Anime | Oral
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Oral",Anime World | Oral
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

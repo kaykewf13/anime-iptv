@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Censored Uncensored Version
-# Total de animes na categoria: 56
-# Exemplos: _Summer, Absolute Duo, Akame ga Kill!, Ange Vierge, Asa made Jugyou Chu!, Basquash!, Centaur no Nayami, Da Yu Hai Tang (Movie), Darling in the FranXX, Dokyuu Hentai HxEros
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Censored Uncensored Version",Pluto TV Anime | Censored Uncensored Version
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Censored Uncensored Version",Anime World | Censored Uncensored Version
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

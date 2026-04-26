@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Yokohama
-# Total de animes na categoria: 18
-# Exemplos: Akai Kiba: Blue Sonnet, Bungou Stray Dogs, Bungou Stray Dogs 2nd Season, Bungou Stray Dogs 3rd Season, Bungou Stray Dogs Wan!, Bungou Stray Dogs: Dead Apple, Bungou Stray Dogs: Hitori Ayumu, Cat's♥Eye 2nd Season, Futari wa Milky Holmes, Key the Metal Idol
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Yokohama",Pluto TV Anime | Yokohama
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Yokohama",Anime World | Yokohama
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

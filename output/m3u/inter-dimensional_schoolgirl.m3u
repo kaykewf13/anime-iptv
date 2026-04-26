@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Inter-Dimensional Schoolgirl
-# Total de animes na categoria: 35
-# Exemplos: Blood Lad, Choujikuu Romanesque Samy: Missing 99, Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!, Escaflowne, Fushigi no Kuni no Miyuki-chan, Fushigi Yuugi, Fushigi Yuugi OVA, Fushigi Yuugi: Dai Ni Bu, Fushigi Yuugi: Eikouden, Genmu Senki Leda
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Inter-Dimensional Schoolgirl",Pluto TV Anime | Inter-Dimensional Schoolgirl
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Inter-Dimensional Schoolgirl",Anime World | Inter-Dimensional Schoolgirl
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

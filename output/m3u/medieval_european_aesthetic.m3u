@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Medieval European Aesthetic
-# Total de animes na categoria: 31
-# Exemplos: Akuyaku Reijou Tensei Ojisan, Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta, Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita, Dragon Knight 4, Elf wo Karu Mono-tachi, Elf wo Karu Mono-tachi II, Gekai Elise, Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru, Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru, Kisaki Kyouiku kara Nigetai Watashi
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Medieval European Aesthetic",Pluto TV Anime | Medieval European Aesthetic
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Medieval European Aesthetic",Anime World | Medieval European Aesthetic
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

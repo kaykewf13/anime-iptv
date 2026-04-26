@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Wardrobe Malfunction
-# Total de animes na categoria: 152
-# Exemplos: Abashiri Ikka, Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari, Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari 2nd, Ai Yori Aoshi, Aoi Sekai no Chuushin de, Asobi ni Iku yo!, B-gata H-kei, Benriya Saitou-san, Isekai ni Iku, Bokutachi wa Benkyou ga Dekinai, Bokutachi wa Benkyou ga Dekinai!
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Wardrobe Malfunction",Pluto TV Anime | Wardrobe Malfunction
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Wardrobe Malfunction",Anime World | Wardrobe Malfunction
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

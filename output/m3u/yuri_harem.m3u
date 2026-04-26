@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Yuri Harem
-# Total de animes na categoria: 1
-# Exemplos: Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Yuri Harem",Pluto TV Anime | Yuri Harem
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Yuri Harem",Anime World | Yuri Harem
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

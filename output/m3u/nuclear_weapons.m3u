@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Nuclear Weapons
-# Total de animes na categoria: 46
-# Exemplos: 009 Re:Cyborg, 100-man-nen Chikyuu no Tabi: Bander Book, 6 Angels, 663114, Ao no 6-gou, Aoki Ryuusei SPT Layzner, Aoki Ryuusei SPT Layzner OVA, Blassreiter, Bremen 4: Jigoku no Naka no Tenshi-tachi, Bubblegum Crisis
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Nuclear Weapons",Pluto TV Anime | Nuclear Weapons
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Nuclear Weapons",Anime World | Nuclear Weapons
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

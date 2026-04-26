@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Possession
-# Total de animes na categoria: 9
-# Exemplos: Angelium, Dandadan 2nd Season, Eris no Seihai, Haramasete Seiryuu-kun!, Honoo no Mirage, Le Chevalier D'Eon, Reinou Tantei Miko, Valkyrie Choukyou Semen Tank no Ikusa Otome 10-nin Shimai, Youjuu Kyoushitsu
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Possession",Pluto TV Anime | Possession
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Possession",Anime World | Possession
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

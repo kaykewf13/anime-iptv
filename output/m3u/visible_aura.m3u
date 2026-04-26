@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Visible Aura
-# Total de animes na categoria: 515
-# Exemplos: 100-man no Inochi no Ue ni Ore wa Tatteiru, 100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season, 5-toubun no Hanayome, 5-toubun no Hanayome ∬, A-Channel+smile, A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu., Absolute Duo, Acchi Kocchi, Aggressive Retsuko (ONA), Aggressive Retsuko (ONA) 2nd Season
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Visible Aura",Pluto TV Anime | Visible Aura
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Visible Aura",Anime World | Visible Aura
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

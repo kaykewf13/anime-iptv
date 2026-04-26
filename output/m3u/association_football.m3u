@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Association Football
-# Total de animes na categoria: 89
-# Exemplos: Akakichi no Eleven, Anima Yell!, Ano Ko ni 1000%, Ao Ashi, Aoki Densetsu Shoot!, Aoki Densetsu Shoot! (Movie), Area no Kishi, Ashita e Free Kick, Ashita no Eleven-tachi, Battle Programmer Shirase
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Association Football",Pluto TV Anime | Association Football
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Association Football",Anime World | Association Football
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

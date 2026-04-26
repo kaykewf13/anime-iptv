@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Video Game Industry
-# Total de animes na categoria: 16
-# Exemplos: 16bit Sensation: Another Layer, Bokutachi no Remake, Bokutachi no Remake Recap, D-Frag!, High Score Girl, High Score Girl II, High Score Girl: Extra Stage, Let's Play: Quest-darake no My Life, New Game!, New Game!!
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Video Game Industry",Pluto TV Anime | Video Game Industry
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Video Game Industry",Anime World | Video Game Industry
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

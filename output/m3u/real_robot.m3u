@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Real Robot
-# Total de animes na categoria: 476
-# Exemplos: 30th Gundam Perfect Mission, 86, 86 Part 2, Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari, Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari 2nd, Akahori Gedou Hour Rabuge: Sore Yuke! Gedou Otometai, AKB0048, AKB0048: Next Stage, Aldnoah.Zero, Aldnoah.Zero Extra Archives
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Real Robot",Pluto TV Anime | Real Robot
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Real Robot",Anime World | Real Robot
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

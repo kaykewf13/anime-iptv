@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Transported Into A Novel
-# Total de animes na categoria: 10
-# Exemplos: Ateuma Chara no Kuse shite, Super Darling Ouji ni Chouai sareteimasu., Cheng He Titong, Chuan Shu Zijiu Zhinan, Fushigi Yuugi, Fushigi Yuugi OVA, Fushigi Yuugi: Dai Ni Bu, Fushigi Yuugi: Eikouden, Kanojo ga Koushaku-tei ni Itta Riyuu, Nomo no Kuni, Yu Ling Shi
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Transported Into A Novel",Pluto TV Anime | Transported Into A Novel
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Transported Into A Novel",Anime World | Transported Into A Novel
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

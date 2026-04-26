@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Almighty Heroine
-# Total de animes na categoria: 7
-# Exemplos: Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen, Date A Live II, Dungeon no Naka no Hito, Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu, Kuma Kuma Kuma Bear, Kuma Kuma Kuma Bear Punch!, Leadale no Daichi nite
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Almighty Heroine",Pluto TV Anime | Almighty Heroine
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Almighty Heroine",Anime World | Almighty Heroine
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

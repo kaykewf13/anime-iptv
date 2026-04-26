@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Famine
-# Total de animes na categoria: 12
-# Exemplos: Akatsuki no Yona, Centaur no Nayami, Hadashi no Gen, Hotaru no Haka, Juuni Kokuki, Magi: The Labyrinth of Magic, Natsufuku no Shoujo-tachi, Pumpkin Scissors, Rekishi ni Nokoru Akujo ni Naru zo, Saishuu Heiki Kanojo
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Famine",Pluto TV Anime | Famine
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Famine",Anime World | Famine
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Male Harem
-# Total de animes na categoria: 172
-# Exemplos: A3! Season Autumn & Winter, Ai to Ken no Camelot: Mangaka Marina Time Slip Jiken, Akagami no Shirayuki-hime 2nd Season, Akatsuki no Yona, Akatsuki no Yona OVA, Akuyaku Reijou nanode Last Boss wo Kattemimashita, Amnesia, Amnesia OVA, Angelique, Angelique: Seichi yori Ai wo Komete
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Male Harem",Pluto TV Anime | Male Harem
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Male Harem",Anime World | Male Harem
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

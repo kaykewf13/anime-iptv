@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Commercials
-# Total de animes na categoria: 433
-# Exemplos: "Inochi Sketch" Movie Jabow x Mameshiba Collab CM, "Kiss Dekiru Gyouza" Movie x Mameshiba, 20-dai no Heya-hen, 23-ji no Saga Meshi Anime, 7-Eleven: Tokimeki wa, Sugusoba ni. Memorial Movie, Abema TV no Benri na Tsukaikata CM, Adobe Student and Teacher Edition, Ai no Sato, AKB48 Stage Fighter, Akiba Ichi: Hitobito ga Igoi. Kouryou Suru. Kokochi Ii. Kodawari no Shokukuukan.
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Commercials",Pluto TV Anime | Commercials
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Commercials",Anime World | Commercials
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Anthology
-# Total de animes na categoria: 124
-# Exemplos: #Compass, 3-tsu no Hanashi, 6 Lovers, Ai Monogatari: 9 Love Stories, Amazing Nuts!, Andersen Monogatari (TV), Ani*Kuri15, AnimeJapan Awards 2026, Aoi Bungaku Series, Aoyama Goushou Tanpenshuu
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Anthology",Pluto TV Anime | Anthology
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Anthology",Anime World | Anthology
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

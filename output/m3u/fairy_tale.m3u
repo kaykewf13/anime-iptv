@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Fairy Tale
-# Total de animes na categoria: 225
-# Exemplos: 1001 Nights, Ahiru no Ko, Akagami no Shirayuki-hime, Akuma to Himegimi, Akuyaku Reijou nanode Last Boss wo Kattemimashita, Amada Anime Series: Super Mario Brothers, Andersen Douwa: Ningyohime, Andersen Monogatari, Andersen Monogatari (TV), Angelique
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Fairy Tale",Pluto TV Anime | Fairy Tale
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Fairy Tale",Anime World | Fairy Tale
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

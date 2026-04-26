@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Environmentalism
-# Total de animes na categoria: 71
-# Exemplos: Apocalypse Hotel, Around, Blue Gender, Bye Bye, Earth, Chikyuu Shoujo Arjuna, Coo: Tooi Umi kara Kita Coo, Darling in the FranXX, Deca-Dence, Densetsu no Yuusha da Garn, Doraemon Movie 13: Nobita to Kumo no Oukoku
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Environmentalism",Pluto TV Anime | Environmentalism
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Environmentalism",Anime World | Environmentalism
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

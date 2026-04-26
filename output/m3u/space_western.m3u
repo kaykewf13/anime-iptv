@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Space Western
-# Total de animes na categoria: 17
-# Exemplos: Cosmo Warrior Zero, Cowboy Bebop, Cowboy Bebop: Tengoku no Tobira, Coyote Ragtime Show, Doraemon the Movie: The New Record of Nobita's Spaceblazer, Doraemon the Movie: The Record of Nobita's Spaceblazer, Ginga Shippuu Sasuraiger, Ginga Tetsudou 999, Ginga Tetsudou 999 (Movie), Gun x Sword
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Space Western",Pluto TV Anime | Space Western
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Space Western",Anime World | Space Western
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

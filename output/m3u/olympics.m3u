@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Olympics
-# Total de animes na categoria: 24
-# Exemplos: Ani x Para: Anata no Hero wa Dare desu ka, Animal 1, Anime Document: München e no Michi, Attacker You!, Bessatsu Olympia Kyklos, Dankichi-jima no Olympic Taikai, Dive!!, Doubutsu Olympic Taikai, Eagle Sam, Fuwa Aoyun Manyouji
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Olympics",Pluto TV Anime | Olympics
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Olympics",Anime World | Olympics
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

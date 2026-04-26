@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Rabbits
-# Total de animes na categoria: 162
-# Exemplos: Abu Shui Qian Gushi, American Rabbit no Bouken, Anemone, Animal Yokochou, au x Rope, Baten Kaitos, Beads no Mori no Rabi, Bie Re Liumang Tu Ma Xiu, Bie Re Liumang Tu Ma Xiu 2, Bie Re Liumang Tu Ma Xiu 3
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Rabbits",Pluto TV Anime | Rabbits
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Rabbits",Anime World | Rabbits
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8
