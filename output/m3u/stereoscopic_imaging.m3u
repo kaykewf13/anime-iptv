@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Stereoscopic Imaging
-# Total de animes na categoria: 20
-# Exemplos: .hack//The Movie: Sekai no Mukou ni, 009 Re:Cyborg, Atashin'chi 3D Movie: Jounetsu no Chou Chounouryoku Haha Dai Bousou, Baby Princess 3D Paradise 0 [Love], Captain Herlock, Da Yu Hai Tang (Movie), Evangelion 3D, Gyo, Hipira-kun, Hottarake no Shima: Haruka to Mahou no Kagami
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Stereoscopic Imaging",Pluto TV Anime | Stereoscopic Imaging
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Stereoscopic Imaging",Anime World | Stereoscopic Imaging
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

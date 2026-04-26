@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Otaku Culture
-# Total de animes na categoria: 429
-# Exemplos: 100-man no Inochi no Ue ni Ore wa Tatteiru, 16bit Sensation: Another Layer, 2.5-jigen no Ririsa, 3D Kanojo: Real Girl, 3D Kanojo: Real Girl 2nd Season, [Oshi no Ko], [Oshi no Ko] 3rd Season, Abenobashi Mahou☆Shoutengai, Acro Trip, Aggressive Retsuko (ONA) 3rd Season
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Otaku Culture",Pluto TV Anime | Otaku Culture
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Otaku Culture",Anime World | Otaku Culture
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

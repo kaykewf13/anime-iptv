@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Nurse
-# Total de animes na categoria: 38
-# Exemplos: Abenobashi Mahou☆Shoutengai, Ai wa Kagi no Kazu dake... Fuuzoku Mansion, Angel Heart, Anime de Wakaru Shinryounaika, B-gata H-kei, Binbougami ga!, Candy Candy, Cocoon: Aru Natsu no Shoujo-tachi yori, Crystal Blaze, D.C.S.S: Da Capo Second Season
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Nurse",Pluto TV Anime | Nurse
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Nurse",Anime World | Nurse
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: 11Th Century
-# Total de animes na categoria: 9
-# Exemplos: Anonymouz: River (Awakening), Genji Monogatari, Genji Monogatari Sennenki, Kai Feng Qitan: Zhege Baogong Bu Taixing, Little El Cid no Bouken, Vinland Saga, Vinland Saga Season 2, Vinland Saga Season 2: Drowning in the Shadow, Vinland Saga Season 2: Same Old Story
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 11Th Century",Pluto TV Anime | 11Th Century
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 11Th Century",Anime World | 11Th Century
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

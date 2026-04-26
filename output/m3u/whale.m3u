@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Whale
-# Total de animes na categoria: 11
-# Exemplos: .hack//The Movie: Sekai no Mukou ni, Ao no 6-gou, Darker than Black: Ryuusei no Gemini, Kaijuu no Kodomo, Kouchou-sensei to Kujira, Kujira no Chouyaku, Makyuu Senjou, Nanatsu no Umi no Tico, Out of Sight, Saishuu Shiken Kujira
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Whale",Pluto TV Anime | Whale
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Whale",Anime World | Whale
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

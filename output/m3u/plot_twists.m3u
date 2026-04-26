@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Plot Twists
-# Total de animes na categoria: 244
-# Exemplos: 100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season, 16bit Sensation: Another Layer, A Kite, Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari, Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari 2nd, Ai Shoujo Pollyanna Story, Akatsuki no Yona, Ange Vierge, Angolmois: Genkou Kassenki, Animegataris
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Plot Twists",Pluto TV Anime | Plot Twists
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Plot Twists",Anime World | Plot Twists
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

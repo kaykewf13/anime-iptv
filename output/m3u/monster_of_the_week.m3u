@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Monster Of The Week
-# Total de animes na categoria: 252
-# Exemplos: 100-man no Inochi no Ue ni Ore wa Tatteiru, Abenobashi Mahou☆Shoutengai, Accel World, Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari, Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari 2nd, Ai Tenshi Densetsu Wedding Peach DX, Akazukin Chacha, Amaenaide yo!!, Ankoku Shindenshou Takegami, Aquarion Logos
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Monster Of The Week",Pluto TV Anime | Monster Of The Week
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Monster Of The Week",Anime World | Monster Of The Week
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

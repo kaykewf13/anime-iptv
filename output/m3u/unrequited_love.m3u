@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Unrequited Love
-# Total de animes na categoria: 670
-# Exemplos: .hack//Roots, .hack//Sign, 100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season, 1000-nen Joou: Queen Millennia, 12-sai., 12-sai. Kiss, Kirai, Suki, 2.5-jigen no Ririsa, 3-gatsu no Lion, 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii, 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii Movie
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Unrequited Love",Pluto TV Anime | Unrequited Love
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Unrequited Love",Anime World | Unrequited Love
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Dullahan
-# Total de animes na categoria: 40
-# Exemplos: Alien 9, Busou Shinki, Demi-chan wa Kataritai, Demi-chan wa Kataritai: Demi-chan no Natsuyasumi, Digimon Ghost Game, Durarara!!, Durarara!!x2 Ketsu, Durarara!!x2 Ketsu: Dufufufu!!, Durarara!!x2 Shou, Durarara!!x2 Shou: Watashi no Kokoro wa Nabe Moyou
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Dullahan",Pluto TV Anime | Dullahan
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Dullahan",Anime World | Dullahan
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

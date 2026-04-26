@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Thieves
-# Total de animes na categoria: 111
-# Exemplos: Bakumatsu Gijinden Roman, Cat's Eye, Cat's♥Eye, D.N.Angel, Fushigi na Kusuri, Hinomaru Hatanosuke: Inazuma-gumi Tobatsu no Maki, Itoshii Itoshii Itoshi no Pan-hen, Kaitou Joker, Kaitou Joker 2nd Season, Kaitou Joker 3rd Season
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Thieves",Pluto TV Anime | Thieves
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Thieves",Anime World | Thieves
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

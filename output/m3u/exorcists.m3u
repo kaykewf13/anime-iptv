@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Exorcists
-# Total de animes na categoria: 57
-# Exemplos: Ao no Exorcist, Ao no Exorcist Movie, Ao no Exorcist: Kyoto Fujouou-hen, Ao no Exorcist: Shimane Illuminati-hen, Ao no Exorcist: Yosuga-hen, Ao no Exorcist: Yuki no Hate-hen, Ayakashi Triangle, Ayakashi Triangle Recap, Blue Exorcist, Chrno Crusade
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Exorcists",Pluto TV Anime | Exorcists
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Exorcists",Anime World | Exorcists
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

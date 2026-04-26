@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Reintroducing Technology
-# Total de animes na categoria: 20
-# Exemplos: 16bit Sensation: Another Layer, Dr. Stone, Dr. Stone: Ryuusui, Dr. Stone: Stone Wars, Genjitsu Shugi Yuusha no Oukoku Saikenki, Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2, Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen, Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season, Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season, Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen OVA
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Reintroducing Technology",Pluto TV Anime | Reintroducing Technology
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Reintroducing Technology",Anime World | Reintroducing Technology
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

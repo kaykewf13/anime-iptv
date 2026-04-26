@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Clone
-# Total de animes na categoria: 147
-# Exemplos: Aa! Megami-sama!: Chichaitte Koto wa Benri da ne, AI no Idenshi, AIKa R-16: Virgin Mission, AIKa Zero, Akai Kiba: Blue Sonnet, Al Caral no Isan, Appleseed Saga Ex Machina, Baki-dou, Bleach, Bokurano
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Clone",Pluto TV Anime | Clone
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Clone",Anime World | Clone
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

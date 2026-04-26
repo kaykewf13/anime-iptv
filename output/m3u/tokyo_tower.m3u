@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Tokyo Tower
-# Total de animes na categoria: 78
-# Exemplos: Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari, Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari 2nd, Ao no 6-gou, Bakuretsu Tenshi, Bishoujo Senshi Sailor Moon Crystal, Bishoujo Senshi Sailor Moon Crystal Season III, Black Jack OVA, Boku no Chikyuu wo Mamotte, Bonjour♪Koiaji Pâtisserie, Brigadoon: Marin to Melan
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Tokyo Tower",Pluto TV Anime | Tokyo Tower
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Tokyo Tower",Anime World | Tokyo Tower
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

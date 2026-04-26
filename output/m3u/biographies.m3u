@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Biographies
-# Total de animes na categoria: 30
-# Exemplos: Alexander Senki, Ashita no Kibou: Kanashimi yo Arigatou - Takae Tsuneo Monogatari, Batain Lai!! Minami no Shima no Mizu Monogatari, Bokura Mangaka: Tokiwasou Monogatari, Boukensha: The Man Was from Spain, Bridgestone: Chase Your Dream - The Journey of Kosuke Hagino, Eikou e no Spur: Igaya Chiharu Monogatari, Helen Keller Monogatari: Ai to Hikari no Tenshi, Heroes, Jianzhen da Heshang
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Biographies",Pluto TV Anime | Biographies
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Biographies",Anime World | Biographies
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

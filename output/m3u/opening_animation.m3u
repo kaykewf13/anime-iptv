@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Opening Animation
-# Total de animes na categoria: 93
-# Exemplos: 5-toubun no Princess: Gensou to Shinen to Mahou Gakuin OP, 53rd Golden Horse Awards Opening Animation, Akashic Lips OP, Akashic Re:cords, Alchemy Stars OP, Anekouji Naoko to Giniro no Shinigami OP, Assault Lily: Last Bullet OP, Azicon Opening Animation, Castlevania: Dawn of Sorrow OP, Castlevania: Portrait of Ruin OP
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Opening Animation",Pluto TV Anime | Opening Animation
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Opening Animation",Anime World | Opening Animation
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

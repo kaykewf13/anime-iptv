@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Demon
-# Total de animes na categoria: 1456
-# Exemplos: #AdVSJus Motion Comic, ** Kouhai, 07-Ghost, 1001 Nights, 11eyes: Momoiro Genmutan, 29-sai Dokushin Chuuken Boukensha no Nichijou, 3Ping Lovers!☆Ippu Nisai no Sekai e Youkoso♪ The Animation, 3x3 Eyes, 3x3 Eyes: Seima Densetsu, Aa! Megami-sama! (2011)
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Demon",Pluto TV Anime | Demon
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Demon",Anime World | Demon
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

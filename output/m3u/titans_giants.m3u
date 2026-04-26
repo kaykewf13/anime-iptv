@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Titans Giants
-# Total de animes na categoria: 9
-# Exemplos: Attack on Titan Part 1 – Guren no Yumiya, Attack on Titan Part 2 – Jiyuu no Tsubasa, Shingeki no Kyojin, Shingeki no Kyojin Season 2, Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou, Shingeki no Kyojin Season 3, Shingeki no Kyojin Season 3 Part 2, Shingeki no Kyojin: Chronicle, Shingeki no Kyojin: The Final Season
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Titans Giants",Pluto TV Anime | Titans Giants
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Titans Giants",Anime World | Titans Giants
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

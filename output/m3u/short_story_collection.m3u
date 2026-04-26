@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Short Story Collection
-# Total de animes na categoria: 43
-# Exemplos: Aa! Megami-sama!: Chichaitte Koto wa Benri da ne, Ai Monogatari: 9 Love Stories, Andersen Monogatari (TV), Ani*Kuri15, Aoi Bungaku Series, Batman: Gotham Knight, Boku, Otaryman., Byulbyul Iyagi, Danshi Koukousei no Nichijou, Dogs: Bullets & Carnage
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Short Story Collection",Pluto TV Anime | Short Story Collection
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Short Story Collection",Anime World | Short Story Collection
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

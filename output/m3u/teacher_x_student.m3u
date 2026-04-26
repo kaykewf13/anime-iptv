@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Teacher X Student
-# Total de animes na categoria: 52
-# Exemplos: Ai Tenchi Muyou!, Akkun to Kanojo, Ansatsu Kyoushitsu 2nd Season, Araburu Kisetsu no Otome-domo yo., Asa made Jugyou Chu!, Cardcaptor Sakura, Chio-chan no Tsuugakuro, Chobits, Cybersix, Demi-chan wa Kataritai
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Teacher X Student",Pluto TV Anime | Teacher X Student
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Teacher X Student",Anime World | Teacher X Student
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

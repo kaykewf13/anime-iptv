@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Countryside
-# Total de animes na categoria: 441
-# Exemplos: 1/100 Rice Planting, 100-man no Inochi no Ue ni Ore wa Tatteiru, 100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season, Aho Girl, Akage no Anne, Akage no Anne Specials, Akage no Anne: Green Gables e no Michi, Akatsuki no Yona, Akebi-chan no Sailor-fuku, Alps Monogatari: Watashi no Annette
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Countryside",Pluto TV Anime | Countryside
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Countryside",Anime World | Countryside
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

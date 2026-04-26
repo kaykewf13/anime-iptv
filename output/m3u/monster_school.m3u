@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Monster School
-# Total de animes na categoria: 22
-# Exemplos: Ao no Exorcist, Ao no Exorcist: Yuki no Hate-hen, Centaur no Nayami, Demi-chan wa Kataritai, Gakumon! Ookami Shoujo wa Kujikenai Special, Gakumon!: Ookami Shoujo wa Kujikenai, Hells, Mairimashita! Iruma-kun, Mairimashita! Iruma-kun 2nd Season, Mairimashita! Iruma-kun 3rd Season
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Monster School",Pluto TV Anime | Monster School
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Monster School",Anime World | Monster School
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

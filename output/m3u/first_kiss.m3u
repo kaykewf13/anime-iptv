@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: First Kiss
-# Total de animes na categoria: 45
-# Exemplos: Ajimu: Kaigan Monogatari, Arakawa Under the Bridge, Ayashi no Ceres, Blue Seed, D.C.III: Da Capo III, Date A Live, Dragon Half, Eiyuu Densetsu: Sora no Kiseki The Animation, Elf-ban Kakyuusei: Anata dake wo Mitsumete..., Future GPX Cyber Formula
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 First Kiss",Pluto TV Anime | First Kiss
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 First Kiss",Anime World | First Kiss
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

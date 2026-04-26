@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Urashima Tarou
-# Total de animes na categoria: 8
-# Exemplos: Konohana Kitan, Namiuchigiwa no Muromi-san, Namiuchigiwa no Muromi-san: Pangea Chou Tairiku no Muromi-san, Null Peta, Urashima Tarou (1931), Urashima Tarou (supposed title), Urusei Yatsura 2: Beautiful Dreamer, Yoru no Yatterman
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Urashima Tarou",Pluto TV Anime | Urashima Tarou
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Urashima Tarou",Anime World | Urashima Tarou
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

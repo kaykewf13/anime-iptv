@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Contract Killer   Assassin
-# Total de animes na categoria: 34
-# Exemplos: Akame ga Kill!, Ansatsu Kyoushitsu, Ansatsu Kyoushitsu 2nd Season, Ansatsu Kyoushitsu Movie: Minna no Jikan, Buddy Daddies, Buddy Daddies Intermission: Cherry-Pick, Cyberpunk: Edgerunners, Kage no Jitsuryokusha ni Naritakute!, Kage no Jitsuryokusha ni Naritakute! 2nd Season, Katekyou Hitman Reborn!
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Contract Killer   Assassin",Pluto TV Anime | Contract Killer   Assassin
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Contract Killer   Assassin",Anime World | Contract Killer   Assassin
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Volleyball
-# Total de animes na categoria: 97
-# Exemplos: 2.43 Mini Anime: Volleyball Kouza, 2.43: Seiin Koukou Danshi Volley-bu, 2.43: Seiin Koukou Danshi Volley-bu Mini Anime, Abunai Sisters: Koko & Mika, Acchi Kocchi, Akebi-chan no Sailor-fuku, Ani x Para: Anata no Hero wa Dare desu ka, Anime Document: München e no Michi, Ashita e Attack!, Attack No.1
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Volleyball",Pluto TV Anime | Volleyball
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Volleyball",Anime World | Volleyball
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

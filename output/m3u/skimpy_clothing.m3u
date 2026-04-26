@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Skimpy Clothing
-# Total de animes na categoria: 689
-# Exemplos: .hack//Tasogare no Udewa Densetsu, 009-1, 29-sai Dokushin Chuuken Boukensha no Nichijou, 5-toubun no Hanayome, 6 Angels, A-Ko The Versus, A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu., Aa! Megami-sama!, Aa! Megami-sama! (2011), Aa! Megami-sama! (TV)
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Skimpy Clothing",Pluto TV Anime | Skimpy Clothing
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Skimpy Clothing",Anime World | Skimpy Clothing
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

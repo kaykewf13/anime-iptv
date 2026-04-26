@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Resurrection
-# Total de animes na categoria: 6
-# Exemplos: Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha, Delicious in Dungeon, Dungeon Meshi, Mawaru Penguindrum, Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi, Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Resurrection",Pluto TV Anime | Resurrection
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Resurrection",Anime World | Resurrection
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Costumes
-# Total de animes na categoria: 6
-# Exemplos: Boku no Hero Academia 2nd Season, Ginga Reppuu Baxingar, Love Live! School Idol Project 2nd Season, Love Live! School Idol Project OVA, Natsu-iro Egao de 1, 2, Jump!, Robot Girls Z
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Costumes",Pluto TV Anime | Costumes
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Costumes",Anime World | Costumes
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

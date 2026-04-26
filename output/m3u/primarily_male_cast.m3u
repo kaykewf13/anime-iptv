@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Primarily Male Cast
-# Total de animes na categoria: 1261
-# Exemplos: 07-Ghost, 11-nin Iru!, 19 Tian, 2.43 Mini Anime: Volleyball Kouza, 2.43: Seiin Koukou Danshi Volley-bu, 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii, 6 Lovers, 91 Days, A3! Season Autumn & Winter, A3! Season Spring & Summer
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Primarily Male Cast",Pluto TV Anime | Primarily Male Cast
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Primarily Male Cast",Anime World | Primarily Male Cast
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

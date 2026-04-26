@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Vocaloid
-# Total de animes na categoria: 746
-# Exemplos: "hitman" bang: I=Fantasy, *Luna: classroom, *Luna: Main Character, 1 Year, 171 Eru: Majo Le Septet, 23.exe: Feel so good, 23.exe: M1KU, 23.exe: ochatime, 23.exe: TYFW, 3-nen C-gumi 14-ban Kubozono Chiyoko no Nyuukaku
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Vocaloid",Pluto TV Anime | Vocaloid
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Vocaloid",Anime World | Vocaloid
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

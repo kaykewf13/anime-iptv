@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Dance
-# Total de animes na categoria: 8
-# Exemplos: Ballroom e Youkoso, Hana Yori Dango, Pop in Q, Pretty Rhythm Movie: All Star Selection - Prism Show☆Best Ten, Pretty Rhythm: All Star Selection, Pretty Rhythm: Aurora Dream, Pretty Rhythm: Dear My Future, Pretty Rhythm: Rainbow Live
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Dance",Pluto TV Anime | Dance
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Dance",Anime World | Dance
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

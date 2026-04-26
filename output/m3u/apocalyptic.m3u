@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: Apocalyptic
-# Total de animes na categoria: 14
-# Exemplos: Dead Dead Demons Dededede Destruction (ONA), Devilman: Crybaby, Gake no Ue no Ponyo, Kaijuu 8-gou, Kaijuu 8-gou 2nd Season, Kikansha no Mahou wa Tokubetsu desu, Lazarus, Saishuu Heiki Kanojo, Teito Monogatari, Trigun Stampede
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 Apocalyptic",Pluto TV Anime | Apocalyptic
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 Apocalyptic",Anime World | Apocalyptic
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8

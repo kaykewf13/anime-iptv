@@ -1,8 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml"
-# Categoria: American Football
-# Total de animes na categoria: 25
-# Exemplos: Bakuten Shoot Beyblade, Bara Bara Film, Bishoujo Senshi Sailor Moon: Sailor Stars, Bokutachi no American Football, Cat's♥Eye 2nd Season, Chargeman Ken!, Cipher, Code Geass: Hangyaku no Lelouch R2 Omake Flash, Di Gi Charat, Eyeshield 21
-#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pluto_TV_logo_2020.svg/512px-Pluto_TV_logo_2020.svg.png" group-title="🎎 American Football",Pluto TV Anime | American Football
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8
-#EXTINF:-1 tvg-name="Anime World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Television_icon.svg" group-title="🎎 American Football",Anime World | American Football
-https://amc-animeworld-1-it.samsung.wurl.tv/playlist.m3u8
